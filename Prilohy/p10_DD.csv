@@ -1,41 +1,41 @@
 kod_hlavnej_diagnozy;nazov_hlavnej_diagnozy;kod_vedlajsej_diagnozy;nazov_vedlajsej_diagnozy;kod_ms;nazov_ms
-A150;Tuberkulóza pľúc, potvrdená mikroskopickým vyšetrením spúta s dôkazom, alebo bez dôkazu kultivačne alebo molekulovobiologicky;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A151;Tuberkulóza pľúc, potvrdená len kultivačne;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A152;Tuberkulóza pľúc, potvrdená histologicky;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A153;Tuberkulóza pľúc, potvrdená inými a bližšie neurčenými metódami;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A154;Tuberkulóza vnútrohrudníkových lymfatických uzlín, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A155;Tuberkulóza hrtana, priedušnice a priedušiek, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A156;Tuberkulózna pleuritída, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A157;Primárna tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A158;Iná tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A159;Tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky, bližšie neurčená;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A160;Tuberkulóza pľúc bakteriologicky, molekulovobiologicky alebo histologicky negatívna;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A161;Tuberkulóza pľúc, bez vykonania bakteriologického, molekulovobiologického a histologického vyšetrenia;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A162;Tuberkulóza pľúc, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A163;Tuberkulóza vnútrohrudníkových lymfatických uzlín, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A164;Tuberkulóza hrtana, priedušnice a priedušiek bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A165;Tuberkulózna pleuritída, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A167;Primárna tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A168;Iná tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A169;Tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení, bližšie neurčená;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A170;Tuberkulózna meningitída (G01*);U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A171;Meningový tuberkulóm (G07*);U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A178;Iná tuberkulóza nervovej sústavy;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A179;Tuberkulóza nervovej sústavy, bližšie neurčená;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A180;Tuberkulóza kostí a kĺbov;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A181;Tuberkulóza močovopohlavnej sústavy;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A182;Tuberkulózna periférna lymfadenopatia;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A183;Tuberkulóza čriev, peritonea a mezentériových lymfatických uzlín;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A184;Tuberkulóza kože a podkožného tkaniva;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A185;Tuberkulóza oka;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A186;Tuberkulóza ucha;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A187;Tuberkulóza nadobličiek (E35.1*);U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A188;Tuberkulóza iných bližšie určených orgánov;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A190;Akútna miliárna tuberkulóza na jedinom bližšie určenom mieste;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A191;Akútna miliárna tuberkulóza na viacerých miestach;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A192;Akútna miliárna tuberkulóza, bližšie neurčená;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A198;Iná miliárna tuberkulóza;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A199;Miliárna tuberkulóza, bližšie neurčená;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A310;Pľúcna mykobakterióza;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-A430;Pľúcna nokardióza;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
-J65;Pneumokonióza združená s tuberkulózou;U821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a150;Tuberkulóza pľúc, potvrdená mikroskopickým vyšetrením spúta s dôkazom, alebo bez dôkazu kultivačne alebo molekulovobiologicky;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a151;Tuberkulóza pľúc, potvrdená len kultivačne;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a152;Tuberkulóza pľúc, potvrdená histologicky;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a153;Tuberkulóza pľúc, potvrdená inými a bližšie neurčenými metódami;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a154;Tuberkulóza vnútrohrudníkových lymfatických uzlín, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a155;Tuberkulóza hrtana, priedušnice a priedušiek, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a156;Tuberkulózna pleuritída, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a157;Primárna tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a158;Iná tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a159;Tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky, bližšie neurčená;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a160;Tuberkulóza pľúc bakteriologicky, molekulovobiologicky alebo histologicky negatívna;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a161;Tuberkulóza pľúc, bez vykonania bakteriologického, molekulovobiologického a histologického vyšetrenia;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a162;Tuberkulóza pľúc, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a163;Tuberkulóza vnútrohrudníkových lymfatických uzlín, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a164;Tuberkulóza hrtana, priedušnice a priedušiek bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a165;Tuberkulózna pleuritída, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a167;Primárna tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a168;Iná tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a169;Tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení, bližšie neurčená;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a170;Tuberkulózna meningitída (G01*);u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a171;Meningový tuberkulóm (G07*);u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a178;Iná tuberkulóza nervovej sústavy;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a179;Tuberkulóza nervovej sústavy, bližšie neurčená;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a180;Tuberkulóza kostí a kĺbov;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a181;Tuberkulóza močovopohlavnej sústavy;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a182;Tuberkulózna periférna lymfadenopatia;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a183;Tuberkulóza čriev, peritonea a mezentériových lymfatických uzlín;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a184;Tuberkulóza kože a podkožného tkaniva;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a185;Tuberkulóza oka;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a186;Tuberkulóza ucha;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a187;Tuberkulóza nadobličiek (E35.1*);u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a188;Tuberkulóza iných bližšie určených orgánov;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a190;Akútna miliárna tuberkulóza na jedinom bližšie určenom mieste;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a191;Akútna miliárna tuberkulóza na viacerých miestach;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a192;Akútna miliárna tuberkulóza, bližšie neurčená;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a198;Iná miliárna tuberkulóza;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a199;Miliárna tuberkulóza, bližšie neurčená;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a310;Pľúcna mykobakterióza;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+a430;Pľúcna nokardióza;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
+j65;Pneumokonióza združená s tuberkulózou;u821;Multirezistentná tuberkulóza [MDR-TB];S27-01;Multirezistentná TBC
