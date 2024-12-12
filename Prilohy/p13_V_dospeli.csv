@@ -4290,7 +4290,6 @@ kg6070;Adenoidektómia otvorene chirurgicky;S05-34;Tonzilektómia alebo adenoide
 5g224;Rekonštrukcia dentoalveolárneho oblúka;S06-03;Ostatné maxilofaciálne výkony II.
 5g227;Primárna plastika oroantrálnej komunikácie mobilizovaným vestibulárnym mukoperiostálnym lalokom;S06-03;Ostatné maxilofaciálne výkony II.
 5g228;Sekundárna plastika oroantrálnej komunikácie mobilizovaným palatinálnym alebo iným lalokom;S06-03;Ostatné maxilofaciálne výkony II.
-5g2291;Plastika oroantrálnej komunikácie;S06-03;Ostatné maxilofaciálne výkony II.
 5g2292;Plastika oronazálnej komunikácie;S06-03;Ostatné maxilofaciálne výkony II.
 5g22b;Repozícia fragmentovaného alveolu alebo alveolárneho výbežku;S06-03;Ostatné maxilofaciálne výkony II.
 5g22d1;Zväčšenie alveolu v oblasti jedného sextantu;S06-03;Ostatné maxilofaciálne výkony II.
@@ -4947,9 +4946,6 @@ kg6070;Adenoidektómia otvorene chirurgicky;S05-34;Tonzilektómia alebo adenoide
 5n1942;Uzavretie fistuly medzi hrubým črevom a žalúdkom, laparoskopicky;S08-11;Resekcie a komplexné výkony na žalúdku
 5n1944;Uzavretie fistuly medzi hrubým črevom a žalúdkom, konverzia z laparoskopie na otvorene chirurgicky;S08-11;Resekcie a komplexné výkony na žalúdku
 5n194x;Uzavretie fistuly medzi hrubým črevom a žalúdkom, ostatné;S08-11;Resekcie a komplexné výkony na žalúdku
-5n19sa;Pyloromyotómia;S08-11;Resekcie a komplexné výkony na žalúdku
-5n19sb;Pyloroplastika;S08-11;Resekcie a komplexné výkony na žalúdku
-5n19sc;Resekcia pyloru s gastroduodenostómiou;S08-11;Resekcie a komplexné výkony na žalúdku
 5n1840;Fundoplikácia žalúdka, otvorene chirurgicky abdominálne;S08-12;Operačné výkony na žalúdku - GERD
 5n1841;Fundoplikácia žalúdka, otvorene chirurgicky torakálne;S08-12;Operačné výkony na žalúdku - GERD
 5n1842;Fundoplikácia žalúdka, laparoskopicky;S08-12;Operačné výkony na žalúdku - GERD
