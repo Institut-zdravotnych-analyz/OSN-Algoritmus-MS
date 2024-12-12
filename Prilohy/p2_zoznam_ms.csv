@@ -460,7 +460,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 4;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 4;S05-33;True;Operačné výkony na očných viečkach;V;1;;;;;P;P;P;P;N;;;
 4;S05-32;True;Operačné výkony na slzných cestách;V;1;;;;;P;P;P;P;N;180;;
-4;S04-48;False;Vybrané výkon vertikálneho predĺženia horného viečka;V;1;;;;;P;P;P;;N;;;
+4;S04-48;False;Vybrané výkon vertikálneho predĺženia horného viečka;V;1;;;;;P;P;P;N;N;;;
 4;S04-47;False;Iné výkony JZS v oftalmológii  3;V;1;;;;;P;P;N;N;N;;;
 4;S04-46;False;Iné výkony JZS v oftalmológii 2;V;1;;;;;P;N;N;N;N;;;
 4;S04-45;False;Iné výkony JZS v oftalmológii ;V;1;;;;;P;P;P;N;N;;;
@@ -1189,7 +1189,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 15;S14-18;True;Malé výkony na prsníku;V;1;;;;;P;P;P;P;N;90;;
 15;S14-17;True;Jednoduché vyčistenie rany s odstránením patologického tkaniva;V;1;;;;;P;P;P;P;N;90;;
 15;S14-16;True;Exstirpácia lymfatických uzlín;V;1;;;;;P;P;P;P;N;90;;
-15;S04-48;True;Vybrané výkon vertikálneho predĺženia horného viečka;V;1;;;;;P;P;P;;N;;;
+15;S04-48;True;Vybrané výkon vertikálneho predĺženia horného viečka;V;1;;;;;P;P;P;N;N;;;
 15;S15-24;False;Jednoduché výkony na pere;V;1;;;;;P;P;P;P;N;;;
 15;S15-23;False;Základné výkony v dutine ústnej alebo na perách;V;1;;;;;P;P;P;P;N;;;
 15;S15-22;False;Iné malé výkony na koži a podkoží B;V;1;;;;;P;P;P;P;N;90;;
@@ -1313,7 +1313,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 24;S24-05;False;Nevaskulárna intervenčná rádiológia II (náročnejšie biopsie, drenážne výkony a pod.);V;3;;;;;P;P;P;;;90;60;20
 24;S24-04;False;Nevaskulárna intervenčná rádiológia III (ablačné techniky pri nádorových postihnutiach, drenážne techniky a stentovanie žlčových ciest a pod.);V;3;;;;;P;P;P;;;90;30;10
 24;S24-03;False;Nevaskulárna intervenčná rádiológia IV (kostné výkony);V;3;;;;;P;P;P;;;90;20;10
-24;S24-02;False;Nevaskulárna intervenčná rádiológia V (výkony na obličke), ;V;3;;;;;;;;;;90;30;15
+24;S24-02;False;Nevaskulárna intervenčná rádiológia V (výkony na obličke), ;V;3;;;;;N;N;N;;;90;30;15
 24;S24-01;False;Nevaskulárna intervenčná rádiológia VI (iné nevaskulárne intervenčné výkony);V;3;;;;;N;N;N;;;90;60;20
 24;S24-12;False;Nevaskulárna intervenčná rádiológia I (jednoduché biopsie, drenážne výkony a pod.);V;;2;2;2;2;P;P;P;P;;90;;
 24;S24-06;False;Nevaskulárna intervenčná rádiológia I (jednoduché biopsie, drenážne výkony a pod.);V;2;;;;;P;P;P;P;;90;100;20
@@ -2350,7 +2350,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 52;S18-12;True;Iné operačné výkony na srdci a veľkých cievach;V;;5;5;5;5;P;;;;;;;
 52;S16-07;True;Vysoko komplexné výkony na koži a podkoží pri popáleninách a poleptaniach;V;;5;5;5;5;P;;;;;;;
 52;S56-01;True;Operačné riešenie malígneho tumoru panvy;V;;5;5;5;5;P;;;;;;;
-52;S56-02;True;Implantácia komplexnej kostnej náhrady;V;;4;4;4;4;P;;;;;;;
+52;S56-02;True;Implantácia komplexnej kostnej náhrady;V;;4;4;4;4;P;N;;;;;;
 52;S65-15;True;Terapeutická a perkutánna drenáž;V;;4;4;4;4;P;P;;;;30;;
 52;S51-37;True;Lumbotómia a iné komplexné výkony v brušnej oblasti;V;;4;4;4;4;P;P;;;;90;;
 52;S51-41;True;Iné operačné výkony na pankrease;V;;4;4;4;4;P;P;;;;90;;
@@ -2688,7 +2688,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 56;S56-04;False;Vysoko komplexné amputácie a exartikulácie;V;;5;5;5;5;P;;;;;;;
 56;S56-03;False;Resekcia malígneho tumoru končatiny;V;;5;5;5;5;P;;;;;;;
 56;S56-01;False;Operačné riešenie malígneho tumoru panvy;V;;5;5;5;5;P;;;;;;;
-56;S56-02;False;Implantácia komplexnej kostnej náhrady;V;;4;4;4;4;P;;;;;;;
+56;S56-02;False;Implantácia komplexnej kostnej náhrady;V;;4;4;4;4;P;N;;;;;;
 56;S56-21;False;Infekcie v oblasti chrbtice;D;;4;4;4;4;P;P;;;;;;
 56;S56-20;False;Iný operačný výkon na panve;V;;4;4;4;4;P;P;;;;;;
 56;S56-19;False;Iný základný výkon na rastúcom skelete;V;;4;4;4;4;P;P;;;;;;
