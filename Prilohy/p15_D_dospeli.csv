@@ -1052,7 +1052,7 @@ b005;Očná infekcia herpetickým vírusom;S04-18;Infekcie a zápaly oka a očn�
 b023;Zosterová choroba oka;S04-18;Infekcie a zápaly oka a očných adnexov
 b580;Toxoplazmová okulopatia;S04-18;Infekcie a zápaly oka a očných adnexov
 b691;Cysticerkóza oka;S04-18;Infekcie a zápaly oka a očných adnexov
-h050;Akútny zápal očnice  ;S04-18;Infekcie a zápaly oka a očných adnexov
+h050;Akútny zápal očnice;S04-18;Infekcie a zápaly oka a očných adnexov
 h150;Skleritída;S04-18;Infekcie a zápaly oka a očných adnexov
 h160;Vred rohovky [ulcus corneae];S04-18;Infekcie a zápaly oka a očných adnexov
 h168;Iná keratitída;S04-18;Infekcie a zápaly oka a očných adnexov
@@ -1071,7 +1071,7 @@ h473;Iná choroba papily zrakového nervu;S04-19;Zápalové ochorenia očného n
 h490;Obrna tretieho hlavového nervu [n. oculomotorius];S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
 h491;Ochrnutie štvrtého hlavového nervu [n. trochlearis];S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
 h492;Ochrnutie šiesteho hlavového nervu [n. abducens];S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
-h493;Kompletná vonkajšia oftalmoplégia ;S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
+h493;Kompletná vonkajšia oftalmoplégia;S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
 h494;Progresívna vonkajšia oftalmoplégia;S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
 h498;Iný paralytický strabizmus;S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
 h502;Vertikálny strabizmus;S04-19;Zápalové ochorenia očného nervu a paralytické škúlenie
@@ -1097,11 +1097,11 @@ h404;Sekundárny glaukóm po zápale oka;S04-23;Dekompenzovaný glaukóm
 h405;Sekundárny glaukóm pri iných chorobách;S04-23;Dekompenzovaný glaukóm
 q150;Vrodený glaukóm;S04-23;Dekompenzovaný glaukóm
 h250;Začínajúca senilná katarakta;S04-25;Katarakta
-h251;Senilná katarakta nukleárna [fakoskleróm] ;S04-25;Katarakta
+h251;Senilná katarakta nukleárna [fakoskleróm];S04-25;Katarakta
 h258;Iná senilná katarakta;S04-25;Katarakta
 h259;Senilná katarakta, bližšie neurčená;S04-25;Katarakta
 h260;Infantilná, juvenilná a presenilná katarakta;S04-25;Katarakta
-h262;Komplikovaná katarakta ;S04-25;Katarakta
+h262;Komplikovaná katarakta;S04-25;Katarakta
 h263;Katarakta zapríčinená liekmi;S04-25;Katarakta
 h264;Sekundárna katarakta;S04-25;Katarakta
 h268;Iná katarakta, bližšie určená;S04-25;Katarakta
@@ -1111,22 +1111,22 @@ h406;Sekundárny glaukóm zapríčinený liekmi;S04-26;Glaukóm
 h408;Iný glaukóm;S04-26;Glaukóm
 h409;Glaukóm, bližšie neurčený;S04-26;Glaukóm
 a740;Chlamýdiový zápal spojoviek;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
-b300;Keratokonjunktivitída zapríčinená adenovírusom (H19.2*) ;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
-b301;Konjunktivitída zapríčinená adenovírusom (H13.1*) ;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
-b302;Vírusová  faryngokonjunktivitída (vírusová);S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
+b300;Keratokonjunktivitída zapríčinená adenovírusom (H19.2*);S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
+b301;Konjunktivitída zapríčinená adenovírusom (H13.1*);S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
+b302;Vírusová faryngokonjunktivitída (vírusová);S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 b303;Akútna epidemická hemoragická konjunktivitída (enterovírusová) (H13.1*);S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 b308;Iná vírusová konjunktivitída (H13.1*);S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 b309;Vírusová konjunktivitída, bližšie neurčená;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h000;Hordeolum a iný hlboký zápal mihalnice;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
-h001;Chalazion ;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
-h010;Blefaritída ;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
+h001;Chalazion;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
+h010;Blefaritída;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h011;Neinfekčná dermatóza mihalnice;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h018;Iný zápal mihalnice, bližšie určený;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h019;Zápal mihalnice, bližšie neurčený;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h040;Dakryoadenitída;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h043;Akútny a bližšie neurčený zápal slzných ciest;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h044;Chronický zápal slzných ciest;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
-h051;Chronická zápalová choroba očnice  ;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
+h051;Chronická zápalová choroba očnice;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h100;Mukopurulentná konjunktivitída;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h101;Akútna atopická konjunktivitída;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
 h102;Iná akútna konjunktivitída;S04-27;Zápalové a infekčné ochorenia oka a očných adnexov
@@ -1159,7 +1159,7 @@ d310;Nezhubný nádor spojovky;S04-29;Iné ochorenia oka a očných adnexov
 d311;Nezhubný nádor rohovky;S04-29;Iné ochorenia oka a očných adnexov
 d312;Nezhubný nádor sietnice;S04-29;Iné ochorenia oka a očných adnexov
 d313;Nezhubný nádor cievovky;S04-29;Iné ochorenia oka a očných adnexov
-d314;Nezhubný nádor vráskovca ;S04-29;Iné ochorenia oka a očných adnexov
+d314;Nezhubný nádor vráskovca;S04-29;Iné ochorenia oka a očných adnexov
 d315;Nezhubný nádor slznej žľazy a nosovoslzného kanála;S04-29;Iné ochorenia oka a očných adnexov
 d316;Nezhubný nádor očnice, bližšie neurčený;S04-29;Iné ochorenia oka a očných adnexov
 d319;Nezhubný nádor oka, bližšie neurčený;S04-29;Iné ochorenia oka a očných adnexov
@@ -1173,7 +1173,7 @@ e506;Nedostatok vitamínu A so xeroftalmickými jazvami rohovky;S04-29;Iné ocho
 e507;Iné očné prejavy nedostatku vitamínu A;S04-29;Iné ochorenia oka a očných adnexov
 g245;Blefarospazmus;S04-29;Iné ochorenia oka a očných adnexov
 g4532;Amaurosis fugax, s kompletným ústupom od 1 do 24 hodín;S04-29;Iné ochorenia oka a očných adnexov
-g4533;Amaurosis fugax, s kompletným  ústupom do 1 hodiny;S04-29;Iné ochorenia oka a očných adnexov
+g4533;Amaurosis fugax, s kompletným ústupom do 1 hodiny;S04-29;Iné ochorenia oka a očných adnexov
 h020;Entropium a trichiáza mihalnice;S04-29;Iné ochorenia oka a očných adnexov
 h021;Ektropium mihalnice;S04-29;Iné ochorenia oka a očných adnexov
 h023;Blefarochaláza;S04-29;Iné ochorenia oka a očných adnexov
@@ -1189,9 +1189,9 @@ h046;Iná zmena v slzných cestách;S04-29;Iné ochorenia oka a očných adnexov
 h048;Iná choroba slzných orgánov;S04-29;Iné ochorenia oka a očných adnexov
 h049;Choroba slzných orgánov, bližšie neurčená;S04-29;Iné ochorenia oka a očných adnexov
 h052;Exoftalmus;S04-29;Iné ochorenia oka a očných adnexov
-h053;Deformácia očnice  ;S04-29;Iné ochorenia oka a očných adnexov
+h053;Deformácia očnice;S04-29;Iné ochorenia oka a očných adnexov
 h054;Enoftalmus;S04-29;Iné ochorenia oka a očných adnexov
-h058;Iná choroba očnice  ;S04-29;Iné ochorenia oka a očných adnexov
+h058;Iná choroba očnice;S04-29;Iné ochorenia oka a očných adnexov
 h059;Choroba očnice, bližšie neurčená;S04-29;Iné ochorenia oka a očných adnexov
 h110;Pterygium;S04-29;Iné ochorenia oka a očných adnexov
 h111;Spojovková degenerácia a depozity;S04-29;Iné ochorenia oka a očných adnexov
@@ -1199,7 +1199,7 @@ h112;Spojovková jazva;S04-29;Iné ochorenia oka a očných adnexov
 h114;Iná cievna choroba a cysta spojovky;S04-29;Iné ochorenia oka a očných adnexov
 h118;Iná choroba spojovky, bližšie určená;S04-29;Iné ochorenia oka a očných adnexov
 h119;Choroba spojovky, bližšie neurčená;S04-29;Iné ochorenia oka a očných adnexov
-h158;Iné choroby očného bielka ;S04-29;Iné ochorenia oka a očných adnexov
+h158;Iné choroby očného bielka;S04-29;Iné ochorenia oka a očných adnexov
 h159;Choroba očného bielka, bližšie neurčená;S04-29;Iné ochorenia oka a očných adnexov
 h170;Leucoma adhaerens;S04-29;Iné ochorenia oka a očných adnexov
 h171;Iný centrálny zákal rohovky;S04-29;Iné ochorenia oka a očných adnexov
@@ -1245,8 +1245,8 @@ h509;Strabizmus, bližšie neurčený;S04-29;Iné ochorenia oka a očných adnex
 h510;Ochrnutie konjugovaného pohľadu;S04-29;Iné ochorenia oka a očných adnexov
 h511;Nedostatočná a nadmerná konvergencia;S04-29;Iné ochorenia oka a očných adnexov
 h519;Porucha binokulárneho pohybu, bližšie neurčená;S04-29;Iné ochorenia oka a očných adnexov
-h520;Hypermetropia ;S04-29;Iné ochorenia oka a očných adnexov
-h521;Myopia ;S04-29;Iné ochorenia oka a očných adnexov
+h520;Hypermetropia;S04-29;Iné ochorenia oka a očných adnexov
+h521;Myopia;S04-29;Iné ochorenia oka a očných adnexov
 h522;Astigmatizmus;S04-29;Iné ochorenia oka a očných adnexov
 h523;Anizometropia a anizeikonia;S04-29;Iné ochorenia oka a očných adnexov
 h524;Presbyopia;S04-29;Iné ochorenia oka a očných adnexov
@@ -1269,7 +1269,7 @@ h544;Slepota a veľmi ťažká slabozrakosť, monokulárna;S04-29;Iné ochorenia
 h545;Tažká slabozrakosť, monokulárne;S04-29;Iné ochorenia oka a očných adnexov
 h546;Stredne ťažká slabozrakosť, monokulárna;S04-29;Iné ochorenia oka a očných adnexov
 h549;Slabozrakosť binokulárna, bližšie neurčená;S04-29;Iné ochorenia oka a očných adnexov
-h570;Anomálie funkcie zrenice ;S04-29;Iné ochorenia oka a očných adnexov
+h570;Anomálie funkcie zrenice;S04-29;Iné ochorenia oka a očných adnexov
 h571;Bolesť oka;S04-29;Iné ochorenia oka a očných adnexov
 h578;Iná choroby oka a jeho adnexov, bližšie určené;S04-29;Iné ochorenia oka a očných adnexov
 h579;Choroba oka a jeho adnexov, bližšie neurčená;S04-29;Iné ochorenia oka a očných adnexov
@@ -1325,7 +1325,7 @@ a545;Gonokoková faryngitída;S05-29;Zápal stredného ucha alebo infekcia horn�
 a564;Chlamýdiová infekcia faryngu;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 a690;Nekrotizujúca ulcerózna stomatitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 a691;Iná fusospirochetóza;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-b053;Osýpky komplikované zápalom stredného ucha (H67.1*) ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+b053;Osýpky komplikované zápalom stredného ucha (H67.1*);S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 b085;Enterovírusová vezikulárna faryngitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 h650;Akútny sérový zápal stredného ucha;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 h651;Iný akútny nehnisový zápal stredného ucha;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
@@ -1342,15 +1342,15 @@ h669;Zápal stredného ucha, bližšie neurčený;S05-29;Zápal stredného ucha 
 h680;Zápal sluchovej trubice;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 h700;Akútna mastoiditída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 h701;Chronická mastoiditída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-h702;Petrozitída ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+h702;Petrozitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 h709;Mastoiditída, bližšie neurčená;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 h730;Akútna myringitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 h731;Chronická myringitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j00;Akútna zápal nosohltana [nádcha];S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j010;Akútny zápal čeľustnej dutiny ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j011;Akútny zápal čelovej dutiny ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j012;Akútny zápal čuchovej dutiny ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j013;Akútny zápal klinovitej dutiny ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j00;Akútny zápal nosohltana [nádcha];S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j010;Akútny zápal čeľustnej dutiny;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j011;Akútny zápal čelovej dutiny;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j012;Akútny zápal čuchovej dutiny;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j013;Akútny zápal klinovitej dutiny;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j014;Akútna pansinusitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j018;Iný akútny zápal prinosových dutín;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j019;Zápal prinosových dutín, bližšie neurčený;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
@@ -1364,7 +1364,7 @@ j040;Akútny zápal hrtana;S05-29;Zápal stredného ucha alebo infekcia horných
 j042;Akútny zápal hrtana a priedušnice;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j050;Akútny obštrukčný zápal hrtana [krup];S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j051;Akútny zápal hrtanovej príklopky [epiglotitída];S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j060;Akútny zápal hrtana a hltana ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j060;Akútny zápal hrtana a hltana;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j068;Iná akútna infekcia horných dýchacích ciest na viacerých miestach;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j069;Akútna infekcia horných dýchacích ciest, bližšie neurčená;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j101;Chrípka zapríčinená iným identifikovaným vírusom chrípky, s inými respiračnými prejavmi;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
@@ -1378,13 +1378,13 @@ j310;Chronický zápal nosa;S05-29;Zápal stredného ucha alebo infekcia hornýc
 j311;Chronický zápal nosohltana;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j312;Chronický zápal hltana;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j320;Chronický zápal čeľustnej dutiny;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j321;Chronický zápal čelovej dutiny ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j321;Chronický zápal čelovej dutiny;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j322;Chronický zápal čuchových dutín;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j323;Chronický zápal klinovitej dutiny;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j324;Chronická pansinusitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j328;Iná chronická sinusitída;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j329;Chronická sinusitída, bližšie neurčená;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-j350;Chronický zápal mandlí ;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
+j350;Chronický zápal mandlí;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j36;Peritonzilárny absces;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j370;Chronický zápal hrtana;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 j371;Chronický zápal hrtana a priedušnice;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
@@ -1398,27 +1398,27 @@ r040;Epistaxa;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích 
 r041;Krvácanie z hrdla;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 t700;Ušná barotrauma;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
 t701;Barotrauma prinosových dutín;S05-29;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-h810;Menièreova choroba;S37-20;Vertigo
-h811;Benígny záchvatový závrat - vertigo ;S37-20;Vertigo
+h810;Meniereova choroba;S37-20;Vertigo
+h811;Benígny záchvatový závrat - vertigo;S37-20;Vertigo
 h812;Vestibulárna neuropatia;S37-20;Vertigo
 h813;Iný periférny závrat - vertigo;S37-20;Vertigo
 h814;Závrat - vertigo centrálneho pôvodu;S37-20;Vertigo
 h818;Iná porucha vestibulárnej funkcie;S37-20;Vertigo
 h819;Porucha vestibulárnej funkcie, bližšie neurčená;S37-20;Vertigo
-h830;Zápal labyrintu vnútorného ucha ;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
+h830;Zápal labyrintu vnútorného ucha;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 h832;Porucha funkcie labyrintu vnútorného ucha;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 h910;Ototoxická strata sluchu;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 h912;Náhla idiopatická strata sluchu;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 h9301;Pulzatilný tinnitus, pravé ucho;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 h9302;Pulzatilný tinnitus, ľavé ucho;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
-h9303;Pulzatilný tinnitus, bilaterálne ;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
-h9309;Pulzatilný tinnitus, nešpecifikované ucho ;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
+h9303;Pulzatilný tinnitus, bilaterálne;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
+h9309;Pulzatilný tinnitus, nešpecifikované ucho;S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 h931;Zvonenie v ušiach [tinnitus aurium];S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 h933;Choroba sluchového nervu [n.vestibulocochlearis];S05-30;Poruchy rovnováhy, strata sluchu alebo tinnitus
 r42;Závrat [vertigo];S37-20;Vertigo
 a360;Hltanová diftéria;S05-31;Iné ochorenia ucha, nosa, úst a krku
 a361;Nosohltanová diftéria;S05-31;Iné ochorenia ucha, nosa, úst a krku
-a362;Hrtanová diftéria ;S05-31;Iné ochorenia ucha, nosa, úst a krku
+a362;Hrtanová diftéria;S05-31;Iné ochorenia ucha, nosa, úst a krku
 a665;Gangóza;S05-31;Iné ochorenia ucha, nosa, úst a krku
 d104;Nezhubný nádor mandle;S05-31;Iné ochorenia ucha, nosa, úst a krku
 d105;Nezhubný nádor inej časti orofaryngu;S05-31;Iné ochorenia ucha, nosa, úst a krku
@@ -1435,12 +1435,12 @@ h600;Absces vonkajšieho ucha;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h601;Flegmóna vonkajšieho ucha;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h603;Iný infekčný zápal vonkajšieho ucha;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h604;Cholesteatóm vonkajšieho ucha;S05-31;Iné ochorenia ucha, nosa, úst a krku
-h605;Akútny neinfekčný zápal vonkajšieho ucha ;S05-31;Iné ochorenia ucha, nosa, úst a krku
-h608;Iný zápal vonkajšieho ucha ;S05-31;Iné ochorenia ucha, nosa, úst a krku
+h605;Akútny neinfekčný zápal vonkajšieho ucha;S05-31;Iné ochorenia ucha, nosa, úst a krku
+h608;Iný zápal vonkajšieho ucha;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h609;Zápal vonkajšieho ucha, bližšie neurčený;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h610;Perichondritída vonkajšieho ucha;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h611;Neinfekčná choroba ušnice;S05-31;Iné ochorenia ucha, nosa, úst a krku
-h612;Stvrdnutý ušný maz [cerumen] ;S05-31;Iné ochorenia ucha, nosa, úst a krku
+h612;Stvrdnutý ušný maz [cerumen];S05-31;Iné ochorenia ucha, nosa, úst a krku
 h613;Získaná stenóza vonkajšieho zvukovodu;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h618;Iná choroba vonkajšieho ucha, bližšie určená;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h619;Choroba vonkajšieho ucha, bližšie neurčená;S05-31;Iné ochorenia ucha, nosa, úst a krku
@@ -1486,8 +1486,8 @@ h911;Presbyakúzia;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h913;Hluchonemota, nezatriedená inde;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h918;Iná strata sluchu, bližšie určená;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h919;Strata sluchu, bližšie neurčená;S05-31;Iné ochorenia ucha, nosa, úst a krku
-h920;Bolesť v uchu  [otalgia];S05-31;Iné ochorenia ucha, nosa, úst a krku
-h921;Výtok z ucha  [otorrhoe];S05-31;Iné ochorenia ucha, nosa, úst a krku
+h920;Bolesť v uchu [otalgia];S05-31;Iné ochorenia ucha, nosa, úst a krku
+h921;Výtok z ucha [otorrhoe];S05-31;Iné ochorenia ucha, nosa, úst a krku
 h922;Krvácanie z ucha [otorrhagia];S05-31;Iné ochorenia ucha, nosa, úst a krku
 h932;Iný abnormálny sluchový vnem;S05-31;Iné ochorenia ucha, nosa, úst a krku
 h938;Iné choroby ucha, bližšie určené;S05-31;Iné ochorenia ucha, nosa, úst a krku
@@ -1575,7 +1575,7 @@ q388;Iná vrodená chyba hltana;S05-31;Iné ochorenia ucha, nosa, úst a krku
 r065;Dýchanie ústami;S05-31;Iné ochorenia ucha, nosa, úst a krku
 r067;Kýchanie;S05-31;Iné ochorenia ucha, nosa, úst a krku
 r070;Bolesť v hrdle;S05-31;Iné ochorenia ucha, nosa, úst a krku
-r196;Halitóza ;S05-31;Iné ochorenia ucha, nosa, úst a krku
+r196;Halitóza;S05-31;Iné ochorenia ucha, nosa, úst a krku
 r490;Dysfónia;S05-31;Iné ochorenia ucha, nosa, úst a krku
 r491;Afónia;S05-31;Iné ochorenia ucha, nosa, úst a krku
 r492;Hypernazalita a hyponazalita;S05-31;Iné ochorenia ucha, nosa, úst a krku
@@ -1671,7 +1671,7 @@ k142;Glossitis rhombica mediana;S06-05;Ochorenia zubov a dutiny ústnej II.
 k143;Hypertrofia jazykových papíl;S06-05;Ochorenia zubov a dutiny ústnej II.
 k144;Atrofia jazykových papíl;S06-05;Ochorenia zubov a dutiny ústnej II.
 k145;Lingua plicata;S06-05;Ochorenia zubov a dutiny ústnej II.
-k146;Glosodýnia ;S06-05;Ochorenia zubov a dutiny ústnej II.
+k146;Glosodýnia;S06-05;Ochorenia zubov a dutiny ústnej II.
 k148;Iná choroba jazyka;S06-05;Ochorenia zubov a dutiny ústnej II.
 k149;Choroba jazyka, bližšie neurčená;S06-05;Ochorenia zubov a dutiny ústnej II.
 q184;Makrostómia;S06-05;Ochorenia zubov a dutiny ústnej II.
@@ -1710,7 +1710,7 @@ b002;Herpetická gingivostomatitída a tonzilofaryngitída;S06-06;Ochorenia zubo
 b370;Kandidová stomatitída;S06-06;Ochorenia zubov a dutiny ústnej
 d165;Nezhubný nádor kostí dolnej čeľuste;S06-06;Ochorenia zubov a dutiny ústnej
 i860;Podjazykové varixy;S06-06;Ochorenia zubov a dutiny ústnej
-k000;Anodoncia;S06-06;Ochorenia zubov a dutiny ústnej
+k000;Poruchy počtu zubov;S06-06;Ochorenia zubov a dutiny ústnej
 k001;Nadpočetné zuby;S06-06;Ochorenia zubov a dutiny ústnej
 k002;Abnormalita veľkosti a tvaru zubov;S06-06;Ochorenia zubov a dutiny ústnej
 k003;Škvrnité zuby;S06-06;Ochorenia zubov a dutiny ústnej
@@ -1733,7 +1733,7 @@ k029;Zubný kaz, bližšie neurčený;S06-06;Ochorenia zubov a dutiny ústnej
 k030;Nadmerné obrusovanie zubov;S06-06;Ochorenia zubov a dutiny ústnej
 k031;Abrázia zubov;S06-06;Ochorenia zubov a dutiny ústnej
 k032;Erózia zubov;S06-06;Ochorenia zubov a dutiny ústnej
-k033;Patologická resorpcia zubov;S06-06;Ochorenia zubov a dutiny ústnej
+k033;Patologická resorpcia koreňov zubov;S06-06;Ochorenia zubov a dutiny ústnej
 k034;Hypercementóza;S06-06;Ochorenia zubov a dutiny ústnej
 k035;Ankylóza zubov;S06-06;Ochorenia zubov a dutiny ústnej
 k036;Usadeniny [povlaky] na zuboch;S06-06;Ochorenia zubov a dutiny ústnej
@@ -1768,7 +1768,7 @@ k098;Iné cysty v oblasti úst, nezatriedené inde;S06-06;Ochorenia zubov a duti
 k103;Alveolitída čeľustí;S06-06;Ochorenia zubov a dutiny ústnej
 k120;Recidivujúce ústne afty;S06-06;Ochorenia zubov a dutiny ústnej
 k121;Iná forma stomatitídy;S06-06;Ochorenia zubov a dutiny ústnej
-k123;Zápal sliznice úst (ulcerózny)  ;S06-06;Ochorenia zubov a dutiny ústnej
+k123;Zápal sliznice úst (ulcerózny);S06-06;Ochorenia zubov a dutiny ústnej
 k130;Choroby pery;S06-06;Ochorenia zubov a dutiny ústnej
 k131;Hryzenie líca a pery;S06-06;Ochorenia zubov a dutiny ústnej
 k134;Granulóm a lézie ústnej sliznice podobné granulómu;S06-06;Ochorenia zubov a dutiny ústnej
@@ -1937,7 +1937,7 @@ d309;Nezhubný nádor močového orgánu, bližšie neurčeného;S09-18;Nezhubn�
 a540;Gonokoková infekcia dolných častí močovopohlavnej sústavy bez abscesu uretrových alebo predsieňových žliaz;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 a541;Gonokoková infekcia dolných častí močovopohlavnej sústavy s abscesom uretrových a predsieňových žliaz;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 a542;Gonokoková pelveoperitonitída a iná gonokoková močovopohlavná infekcia;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
-a55;Lymphogranuloma venereum (chlamýdiový) ;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
+a55;Lymphogranuloma venereum (chlamýdiový);S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 a560;Chlamýdiová infekcia dolných častí močovopohlavnej sústavy;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 a561;Chlamýdiová infekcia panvovej pobrušnice a močovopohlavných orgánov;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 a562;Chlamýdiová infekcia močovopohlavnej sústavy, bližšie neurčená;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
@@ -1958,7 +1958,7 @@ i861;Varixy skróta;S09-26;Iné ochorenia mužských pohlavných orgánov a ster
 i862;Varixy panvy;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 l291;Svrbenie skróta;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 l293;Anogenitálne svrbenie, bližšie neurčené;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
-n40;Hyperplázia prostaty ;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
+n40;Hyperplázia prostaty;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n410;Akútna prostatitída;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n411;Chronická prostatitída;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n412;Absces prostaty;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
@@ -1993,9 +1993,9 @@ n485;Vred penisu;S09-26;Iné ochorenia mužských pohlavných orgánov a sterili
 n486;Induratio penis plastica [balanitis xerotica obliterans];S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n488;Iné choroby penisu, bližšie určené;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n489;Choroba penisu, bližšie neurčená;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
-n490;Zápalová choroba semenných mechúrikov ;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
+n490;Zápalová choroba semenných mechúrikov;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n491;Zápalová choroba semenného povrazca, semenníkového pošvového obalu a semenovodu;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
-n492;Zápalová choroba mieška ;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
+n492;Zápalová choroba mieška;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n4980;Fournierova gangréna u muža;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n4988;Zápalová choroba iných bližšie určených mužských pohlavných orgánov;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 n499;Zápalová choroba bližšie neurčeného mužského pohlavného orgánu;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
@@ -2019,7 +2019,7 @@ q550;Chýbanie a aplázia semenníka;S09-26;Iné ochorenia mužských pohlavnýc
 q551;Hypoplázia semenníka a mieška;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 q552;Iná vrodená chyba semenníka a mieška;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 q553;Atrézia semenovodu;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
-q554;Iná vrodená chyba semenovodu, nadsemenníkov, semenných vačkov a prostaty ;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
+q554;Iná vrodená chyba semenovodu, nadsemenníkov, semenných vačkov a prostaty;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 q555;Vrodené chýbanie a aplázia penisu;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 q556;Iná vrodená chyba penisu;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
 q558;Iná vrodená chyba mužských pohlavných orgánov, bližšie určená;S09-26;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov
@@ -2247,14 +2247,14 @@ q506;Iná vrodená chyba vajíčkovodu a širokého väzu;S10-23;Poruchy menštr
 q510;Agenéza a aplázia maternice;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q511;Dvojitá maternica s dvojitým krčkom a dvojitou pošvou;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q512;Iné zdvojenie maternice;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
-q513;Dvojrohá maternica [uterus bicornis  ];S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
+q513;Dvojrohá maternica [uterus bicornis ];S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q514;Jednorohá maternica [uterus unicornis];S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q515;Agenéza a aplázia krčka maternice;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q516;Embryonálna cysta krčka maternice;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q517;Vrodená fistula medzi maternicou, tráviacim a močovým traktom;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q518;Iná vrodená chyba maternice a krčka maternice;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q519;Vrodená chyba maternice a krčka maternice, bližšie neurčená;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
-q520;Vrodené chýbanie pošvy ;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
+q520;Vrodené chýbanie pošvy;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q521;Zdvojenie pošvy;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q522;Vrodená fistula medzi konečníkom a pošvou;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
 q523;Neperforovaný hymen;S10-23;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov
@@ -2278,7 +2278,7 @@ n600;Solitárna cysta prsníka;S10-24;Ochorenia prsníka (benígne)
 n601;Difúzna cystická mastopatia;S10-24;Ochorenia prsníka (benígne)
 n602;Fibroadenóza prsníka;S10-24;Ochorenia prsníka (benígne)
 n603;Fibroskleróza prsníka;S10-24;Ochorenia prsníka (benígne)
-n604;Rozšírenie mliekovodu prsníka ;S10-24;Ochorenia prsníka (benígne)
+n604;Rozšírenie mliekovodu prsníka;S10-24;Ochorenia prsníka (benígne)
 n608;Iná benígna dysplázia prsníka;S10-24;Ochorenia prsníka (benígne)
 n609;Benígna dysplázia prsníka, bližšie neurčená;S10-24;Ochorenia prsníka (benígne)
 n61;Zápalová choroba prsníka;S10-24;Ochorenia prsníka (benígne)
@@ -2450,7 +2450,7 @@ o368;Starostlivosť o matku pre iné problémy plodu, bližšie určené;S11-07;
 o369;Starostlivosť o matku pre problémy plodu, bližšie neurčené;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
 o40;Polyhydramnion;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
 o410;Oligohydramnion;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
-o411;Infekcia plodového vaku a plodových obalov ;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
+o411;Infekcia plodového vaku a plodových obalov;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
 o418;Iné poruchy plodovej vody a obalov, bližšie určené;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
 o419;Poruchy plodovej vody a obalov, bližšie neurčené;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
 o4211;Predčasné puknutie plodových obalov, začiatok pôrodnej činnosti po 1 až 7 dňoch;S11-07;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity
@@ -2529,7 +2529,7 @@ o690;Komplikácie pôrodnej činnosti a pôrodu pre prolaps pupočníka;S11-15;P
 o691;Komplikácie pôrodnej činnosti a pôrodu pre ovinutie pupočníka okolo krku, s kompresiou krku;S11-15;Pôrod
 o692;Komplikácie pôrodnej činnosti a pôrodu pre iné zapletenie pupočníka, s kompresiou;S11-15;Pôrod
 o693;Komplikácie pôrodnej činnosti a pôrodu pre krátky pupočník;S11-15;Pôrod
-o694;Komplikácie pôrodnej činnosti a pôrodu pre vcestné cievy  [vasa praevia];S11-15;Pôrod
+o694;Komplikácie pôrodnej činnosti a pôrodu pre vcestné cievy [vasa praevia];S11-15;Pôrod
 o695;Komplikácie pôrodnej činnosti a pôrodu pre poškodenie ciev pupočníka;S11-15;Pôrod
 o698;Komplikácie pôrodnej činnosti a pôrodu pre iné poruchy pupočníka;S11-15;Pôrod
 o699;Komplikácie pôrodnej činnosti a pôrodu pre poruchu pupočníka, bližšie neurčené;S11-15;Pôrod
@@ -2626,7 +2626,7 @@ o883;Pyemická a septická embólia v gestačnom období;S11-18;Hospitalizácia 
 o888;Iná embólia v gestačnom období;S11-18;Hospitalizácia po pôrode
 o890;Pľúcne komplikácie anestézie v šestonedelí;S11-18;Hospitalizácia po pôrode
 o891;Srdcové komplikácie anestézie v šestonedelí;S11-18;Hospitalizácia po pôrode
-o892;Komplikácie centrálnej nervovej sústavy v spojení s anestéziou v šestonedelí ;S11-18;Hospitalizácia po pôrode
+o892;Komplikácie centrálnej nervovej sústavy v spojení s anestéziou v šestonedelí;S11-18;Hospitalizácia po pôrode
 o893;Toxická reakcia na lokálnu anestéziu v šestonedelí;S11-18;Hospitalizácia po pôrode
 o894;Bolesť hlavy po spinálnej a epidurálnej anestézii v šestonedelí;S11-18;Hospitalizácia po pôrode
 o895;Iné komplikácie spinálnej a epidurálnej anestézie v šestonedelí;S11-18;Hospitalizácia po pôrode
@@ -2957,7 +2957,7 @@ m0112;Tuberkulózna artritída (A18.0†), v oblasti nadlaktia (ramenná kosť, 
 m0113;Tuberkulózna artritída (A18.0†), v oblasti predlaktia (lakťová kosť, vretenná kosť, zápästný kĺb);S13-16;Tuberkulózna artritída
 m0114;Tuberkulózna artritída (A18.0†), v oblasti ruky (prsty, zápästie, záprstie, kĺby medzi týmito kosťami);S13-16;Tuberkulózna artritída
 m0115;Tuberkulózna artritída (A18.0†), v panvovej oblasti a stehna (panva, stehnová kosť, zadok, bedrový kĺb, sakroiliakálny kĺb);S13-16;Tuberkulózna artritída
-m0116;Tuberkulózna artritída (A18.0†), v oblasti predkolenia  (ihlica, píšťala, kolenný kĺb);S13-16;Tuberkulózna artritída
+m0116;Tuberkulózna artritída (A18.0†), v oblasti predkolenia (ihlica, píšťala, kolenný kĺb);S13-16;Tuberkulózna artritída
 m0117;Tuberkulózna artritída (A18.0†), v oblasti členka a nohy (predpriehlavok, priehlavok, prsty nohy, členkový kĺb, iné kĺby nohy);S13-16;Tuberkulózna artritída
 m0118;Tuberkulózna artritída (A18.0†), na inom mieste (hlava, krk, rebrá, lebka, trup, chrbtica);S13-16;Tuberkulózna artritída
 m0119;Tuberkulózna artritída (A18.0†), miesto bližšie neurčené;S13-16;Tuberkulózna artritída
@@ -3076,7 +3076,7 @@ m8692;Osteomyelitída, bližšie neurčená, v oblasti nadlaktia (ramenná kosť
 m8693;Osteomyelitída, bližšie neurčená, v oblasti predlaktia (lakťová kosť, vretenná kosť, zápästný kĺb);S13-41;Infekcie na pohybovom aparáte
 m8694;Osteomyelitída, bližšie neurčená, v oblasti ruky (zápästie, záprstie, prsty, kĺby medzi týmito kosťami);S13-41;Infekcie na pohybovom aparáte
 m8695;Osteomyelitída, bližšie neurčená, v panvovej oblasti a stehna (panva, stehnová kosť, zadok, bedro, bedrový kĺb, sakroiliakálny kĺb);S13-41;Infekcie na pohybovom aparáte
-m8696;Osteomyelitída, bližšie neurčená, v oblasti predkolenia  (ihlica, píšťala, kolenný kĺb);S13-41;Infekcie na pohybovom aparáte
+m8696;Osteomyelitída, bližšie neurčená, v oblasti predkolenia (ihlica, píšťala, kolenný kĺb);S13-41;Infekcie na pohybovom aparáte
 m8697;Osteomyelitída, bližšie neurčená, v oblasti členka a nohy (predpriehlavok, priehlavok, prsty nohy, členkový kĺb, iné kĺby nohy);S13-41;Infekcie na pohybovom aparáte
 m8699;Osteomyelitída, bližšie neurčená, miesto bližšie neurčené;S13-41;Infekcie na pohybovom aparáte
 m2500;Hemartros na viacerých miestach;S13-45;Ochorenia kostí a artropatie
@@ -3175,13 +3175,13 @@ z441;Skúšanie a prispôsobovanie protézy dolnej končatiny, kompletnej alebo 
 z467;Skúšanie a prispôsobovanie ortopedických pomôcok;S13-46;Iné ochorenia pohybového systému
 m2560;Stuhnutie kĺbu, nezatriedené inde, na viacerých miestach;S15-16;Stuhnutia kĺbov a kontrakúry svalu
 m2561;Stuhnutie kĺbu, nezatriedené inde, v oblasti pleca (kľúčna kosť, lopatka, akromioklavikulárny, ramenný, sternoklavikulárny kĺb);S15-16;Stuhnutia kĺbov a kontrakúry svalu
-m2562;Stuhnutie kĺbu, nezatriedené inde, v oblasti nadlaktia (ramenná kosť, lakťový kĺb), ;S15-16;Stuhnutia kĺbov a kontrakúry svalu
+m2562;Stuhnutie kĺbu, nezatriedené inde, v oblasti nadlaktia (ramenná kosť, lakťový kĺb),;S15-16;Stuhnutia kĺbov a kontrakúry svalu
 m2563;Stuhnutie kĺbu, nezatriedené inde, v oblasti predlaktia (lakťová kosť, vretenná kosť, zápästný kĺb);S15-16;Stuhnutia kĺbov a kontrakúry svalu
 m2564;Stuhnutie kĺbu, nezatriedené inde, v oblasti ruky (zápästie, záprstie, prsty, kĺby medzi týmito kosťami);S15-16;Stuhnutia kĺbov a kontrakúry svalu
 m2565;Stuhnutie kĺbu, nezatriedené inde, v panvovej oblasti a stehna (panva, stehnová kosť, zadok, bedro, bedrový kĺb, sakroiliakálny kĺb);S15-16;Stuhnutia kĺbov a kontrakúry svalu
-m2566;Stuhnutie kĺbu, nezatriedené inde, v oblasti predkolenia  (ihlica, píšťala, kolenný kĺb);S15-16;Stuhnutia kĺbov a kontrakúry svalu
-m2567;Stuhnutie kĺbu, nezatriedené inde, v oblasti členka a nohy (predpriehlavok, priehlavok, prsty nohy, členkový kĺb, iné kĺby nohy) ;S15-16;Stuhnutia kĺbov a kontrakúry svalu
-m2568;Stuhnutie kĺbu, nezatriedené inde, na inom mieste (hlava, krk, rebrá, lebka, trup, chrbtica) ;S15-16;Stuhnutia kĺbov a kontrakúry svalu
+m2566;Stuhnutie kĺbu, nezatriedené inde, v oblasti predkolenia (ihlica, píšťala, kolenný kĺb);S15-16;Stuhnutia kĺbov a kontrakúry svalu
+m2567;Stuhnutie kĺbu, nezatriedené inde, v oblasti členka a nohy (predpriehlavok, priehlavok, prsty nohy, členkový kĺb, iné kĺby nohy);S15-16;Stuhnutia kĺbov a kontrakúry svalu
+m2568;Stuhnutie kĺbu, nezatriedené inde, na inom mieste (hlava, krk, rebrá, lebka, trup, chrbtica);S15-16;Stuhnutia kĺbov a kontrakúry svalu
 m2569;Stuhnutie kĺbu, nezatriedené inde, miesto bližšie neurčené;S15-16;Stuhnutia kĺbov a kontrakúry svalu
 m6240;Kontraktúra svalu na viacerých miestach;S15-16;Stuhnutia kĺbov a kontrakúry svalu
 m6241;Kontraktúra svalu v oblasti pleca (kľúčna kosť, lopatka, akromioklavikulárny, ramenný, sternoklavikulárny kĺb);S15-16;Stuhnutia kĺbov a kontrakúry svalu
@@ -4349,7 +4349,7 @@ i802;Recidivujúca hlboká žilová trombóza žíl dolných končatín;S26-16;�
 i803;Hlboká žilová trombóza žíl horných končatín;S26-16;Žilová trombóza
 i8040;Povrchová flebitída a tromboflebitída dolných končatín;S26-16;Žilová trombóza
 i8041;Povrchová varikózna tromboflebidíta;S26-16;Žilová trombóza
-i8042;Povrchová nevarikózna tromboflebitída;S26-16;Žilová trombóza
+i8042;Povrchová nevarikóza tromboflebitída;S26-16;Žilová trombóza
 i808;Trombóza, flebitída a tromboflebitída na iných miestach;S26-16;Žilová trombóza
 i809;Trombóza, flebitída a tromboflebitída bez bližšieho určenia miesta;S26-16;Žilová trombóza
 i828;Embólia a trombóza iných bližšie určených žíl;S26-16;Žilová trombóza
@@ -4374,14 +4374,14 @@ e8480;Cystická fibróza s pľúcnymi a črevnými prejavmi;S27-02;Cystická fib
 e8487;Cystická fibróza s inými mnohopočetnými prejavmi;S27-02;Cystická fibróza
 e8488;Cystická fibróza s inými prejavmi;S27-02;Cystická fibróza
 e849;Cystická fibróza, bližšie neurčená;S27-02;Cystická fibróza
-a065;Amébový absces pľúc (J99.8*) ;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
+a065;Amébový absces pľúc (J99.8*);S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a202;Pľúcna forma moru;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a212;Pľúcna tularémia;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a221;Pľúcny antrax;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a370;Pertussis zapríčinený Bordetella pertussis;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a371;Pertussis zapríčinený Bordetella parapertussis;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a378;Pertussis zapríčinený iným druhom bordetely;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
-a379;Pertussis, bližšie neurčený ;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
+a379;Pertussis, bližšie neurčený;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a420;Pľúcna aktinomykóza;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a481;Legionelóza s pneumóniou [Legionárska choroba];S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 a482;Legionelóza bez pneumónie [Pontiacka horúčka];S27-07;Iné infekcie a zápaly dýchacích orgánov II.
@@ -4389,7 +4389,7 @@ a70;Infekcia zapríčinená Chlamydia psittaci;S27-07;Iné infekcie a zápaly d�
 b012;Varicelový zápal pľúc (J17.1*);S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b052;Osýpky komplikované pneumóniou (J17.1*);S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b250;Cytomegalovírusová pneumónia (J17.1*);S27-07;Iné infekcie a zápaly dýchacích orgánov II.
-b330;Epidemická pleurodýnia ;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
+b330;Epidemická pleurodýnia;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b371;Pľúcna kandidóza;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b380;Akútna kokcidioidomykóza pľúc;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b381;Chronická kokcidioidomykóza pľúc;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
@@ -4403,7 +4403,7 @@ b441;Iná aspergilóza pľúc;S27-07;Iné infekcie a zápaly dýchacích orgáno
 b450;Kryptokokóza pľúc;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b460;Mukormykóza pľúc;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b583;Toxoplazmóza pľúc (J17.3*);S27-07;Iné infekcie a zápaly dýchacích orgánov II.
-b59;Pneumocystóza (J17.3*) ;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
+b59;Pneumocystóza (J17.3*);S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b664;Paragonimóza;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 b671;Cystická echinokokóza pľúc zapríčinená Echinococcus granulosus;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
 j691;Zápal pľúc, zapríčinený olejmi a esenciami;S27-07;Iné infekcie a zápaly dýchacích orgánov II.
@@ -4429,14 +4429,14 @@ j955;Subglotická stenóza po chirurgickom výkone;S27-08;Iné ochorenie dýchac
 j9581;Stenóza priedušnice po lekárskom výkone;S27-08;Iné ochorenie dýchacích orgánov II.
 j980;Choroby priedušiek, nezatriedené inde;S27-08;Iné ochorenie dýchacích orgánov II.
 j981;Kolaps pľúc;S27-08;Iné ochorenie dýchacích orgánov II.
-j986;Choroby bránice ;S27-08;Iné ochorenie dýchacích orgánov II.
+j986;Choroby bránice;S27-08;Iné ochorenie dýchacích orgánov II.
 j988;Iné choroba dýchacej sústavy, bližšie určené;S27-08;Iné ochorenie dýchacích orgánov II.
 j989;Choroba dýchacej sústavy, bližšie neurčená;S27-08;Iné ochorenie dýchacích orgánov II.
 q330;Vrodené cystické pľúca;S27-08;Iné ochorenie dýchacích orgánov II.
 q331;Prídavný lalok pľúc;S27-08;Iné ochorenie dýchacích orgánov II.
 q332;Sekvestrácia pľúc;S27-08;Iné ochorenie dýchacích orgánov II.
 q333;Nevyvinutie pľúc;S27-08;Iné ochorenie dýchacích orgánov II.
-q334;Vrodené bronchiektázie ;S27-08;Iné ochorenie dýchacích orgánov II.
+q334;Vrodené bronchiektázie;S27-08;Iné ochorenie dýchacích orgánov II.
 q335;Ektopické tkanivo v pľúcach;S27-08;Iné ochorenie dýchacích orgánov II.
 q336;Hypoplázia a dysplázia pľúc;S27-08;Iné ochorenie dýchacích orgánov II.
 q338;Iná vrodená chyba pľúc;S27-08;Iné ochorenie dýchacích orgánov II.
@@ -4469,7 +4469,7 @@ j661;Choroba spracovateľov ľanu;S27-09;Intersticiálna choroba pľúc II.
 j662;Kanabinóza;S27-09;Intersticiálna choroba pľúc II.
 j668;Choroba dýchacích ciest zapríčinená iným bližšie určeným organickým prachom;S27-09;Intersticiálna choroba pľúc II.
 j670;Farmárske pľúca;S27-09;Intersticiálna choroba pľúc II.
-j671;Bagasóza ;S27-09;Intersticiálna choroba pľúc II.
+j671;Bagasóza;S27-09;Intersticiálna choroba pľúc II.
 j672;Pľúcna choroba chovateľov vtákov;S27-09;Intersticiálna choroba pľúc II.
 j673;Suberóza;S27-09;Intersticiálna choroba pľúc II.
 j674;Sladovnícke pľúca;S27-09;Intersticiálna choroba pľúc II.
@@ -4490,7 +4490,7 @@ e6622;Extrémna obezita s alveolovou hypoventiláciou, BMI: 40 a viac;S27-10;Ext
 e6629;Extrémna obezita s alveolovou hypoventiláciou, BMI: bližšie neurčený;S27-10;Extrémna obezita s alveolovou hypoventiláciou
 j940;Chylózny pohrudnicový výpotok;S27-11;Pleurálny výpotok II.
 j942;Hemotorax;S27-11;Pleurálny výpotok II.
-a150;Tuberkulóza pľúc, potvrdená mikroskopickým vyšetrením spúta s dôkazom, alebo  bez  dôkazu kultivačne  alebo  molekulovobiologicky;S27-12;Tuberkulóza
+a150;Tuberkulóza pľúc, potvrdená mikroskopickým vyšetrením spúta s dôkazom, alebo bez dôkazu kultivačne alebo molekulovobiologicky;S27-12;Tuberkulóza
 a151;Tuberkulóza pľúc, potvrdená len kultivačne;S27-12;Tuberkulóza
 a152;Tuberkulóza pľúc, potvrdená histologicky;S27-12;Tuberkulóza
 a153;Tuberkulóza pľúc, potvrdená inými a bližšie neurčenými metódami;S27-12;Tuberkulóza
@@ -4500,17 +4500,17 @@ a156;Tuberkulózna pleuritída, potvrdená bakteriologicky, molekulovobiologicky
 a157;Primárna tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;S27-12;Tuberkulóza
 a158;Iná tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky;S27-12;Tuberkulóza
 a159;Tuberkulóza dýchacej sústavy, potvrdená bakteriologicky, molekulovobiologicky alebo histologicky, bližšie neurčená;S27-12;Tuberkulóza
-a160;Tuberkulóza pľúc  bakteriologicky, molekulovobiologicky alebo histologicky negatívna;S27-12;Tuberkulóza
+a160;Tuberkulóza pľúc bakteriologicky, molekulovobiologicky alebo histologicky negatívna;S27-12;Tuberkulóza
 a161;Tuberkulóza pľúc, bez vykonania bakteriologického, molekulovobiologického a histologického vyšetrenia;S27-12;Tuberkulóza
 a162;Tuberkulóza pľúc, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;S27-12;Tuberkulóza
 a163;Tuberkulóza vnútrohrudníkových lymfatických uzlín, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;S27-12;Tuberkulóza
-a164;Tuberkulóza hrtana, priedušnice a priedušiek  bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;S27-12;Tuberkulóza
+a164;Tuberkulóza hrtana, priedušnice a priedušiek bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;S27-12;Tuberkulóza
 a165;Tuberkulózna pleuritída, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;S27-12;Tuberkulóza
 a167;Primárna tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;S27-12;Tuberkulóza
 a168;Iná tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení;S27-12;Tuberkulóza
 a169;Tuberkulóza dýchacej sústavy, bez údaja o bakteriologickom, molekulovobiologickom alebo histologickom potvrdení, bližšie neurčená;S27-12;Tuberkulóza
-a170;Tuberkulózna meningitída (G01*)  ;S27-12;Tuberkulóza
-a171;Meningový tuberkulóm (G07*) ;S27-12;Tuberkulóza
+a170;Tuberkulózna meningitída (G01*);S27-12;Tuberkulóza
+a171;Meningový tuberkulóm (G07*);S27-12;Tuberkulóza
 a178;Iná tuberkulóza nervovej sústavy;S27-12;Tuberkulóza
 a179;Tuberkulóza nervovej sústavy, bližšie neurčená;S27-12;Tuberkulóza
 a180;Tuberkulóza kostí a kĺbov;S27-12;Tuberkulóza
@@ -4534,7 +4534,7 @@ j450;Bronchiálna astma, prevažne alergická;S27-17;Astma bronchiale
 j451;Bronchiálna astma, nealergická;S27-17;Astma bronchiale
 j458;Bronchiálna astma, zmiešaná;S27-17;Astma bronchiale
 j459;Bronchiálna astma, bližšie neurčená;S27-17;Astma bronchiale
-j46;Status asthmaticus ;S27-17;Astma bronchiale
+j46;Status asthmaticus;S27-17;Astma bronchiale
 j200;Akútna bronchitída zapríčinená Mycoplasma pneumoniae;S27-18;Bronchitída a iné akútne infekcie DDC
 j201;Akútna bronchitída zapríčinená Haemophilus influenzae;S27-18;Bronchitída a iné akútne infekcie DDC
 j202;Akútna bronchitída zapríčinená streptokokom;S27-18;Bronchitída a iné akútne infekcie DDC
@@ -4564,9 +4564,9 @@ j4402;Chronická obštrukčná choroba pľúc s akútnou infekciou dolných dýc
 j4403;Chronická obštrukčná choroba pľúc s akútnou infekciou dolných dýchacích ciest, FEV1 >= 70 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
 j4409;Chronická obštrukčná choroba pľúc s akútnou infekciou dolných dýchacích ciest, hodnota FEV1 bližšie neurčená;S27-19;CHOCHP a bronchiektázie
 j4410;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby, bližšie neurčená, FEV1 < 35 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
-j4411;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby,  bližšie neurčená, FEV1 >= 35 % a < 50 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
+j4411;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby, bližšie neurčená, FEV1 >= 35 % a < 50 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
 j4412;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby, bližšie neurčená, FEV1 >= 50 % a < 70 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
-j4413;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby, bližšie neurčená, FEV1 >= 70 % príslušnej hodnoty ;S27-19;CHOCHP a bronchiektázie
+j4413;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby, bližšie neurčená, FEV1 >= 70 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
 j4419;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby, bližšie neurčená, hodnota FEV1 bližšie neurčená;S27-19;CHOCHP a bronchiektázie
 j4480;Iná chronická obštrukčná choroba pľúc, bližšie určená, FEV1 < 35 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
 j4481;Iná chronická obštrukčná choroba pľúc, bližšie určená, FEV1 >= 35 % a < 50 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
@@ -4578,7 +4578,7 @@ j4491;Chronická obštrukčná choroba pľúc, bližšie neurčená, FEV1 >= 35�
 j4492;Chronická obštrukčná choroba pľúc, bližšie neurčená, FEV1 >= 50 % a < 70 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
 j4493;Chronická obštrukčná choroba pľúc, bližšie neurčená, FEV1 >= 70 % príslušnej hodnoty;S27-19;CHOCHP a bronchiektázie
 j4499;Chronická obštrukčná choroba pľúc, bližšie neurčená, hodnota FEV1 bližšie neurčená;S27-19;CHOCHP a bronchiektázie
-j47;Bronchiektázie ;S27-19;CHOCHP a bronchiektázie
+j47;Bronchiektázie;S27-19;CHOCHP a bronchiektázie
 j041;Akútny zápal priedušnice;S27-20;Iné infekcie a zápaly dýchacích orgánov
 j09;Chrípka zapríčinená určitým identifikovaným vírusom chrípky;S27-20;Iné infekcie a zápaly dýchacích orgánov
 j110;Chrípka zapríčinená neidentifikovaným vírusom, so zápalom pľúc;S27-20;Iné infekcie a zápaly dýchacích orgánov
@@ -4602,7 +4602,7 @@ d190;Nezhubný nádor mezotelového tkaniva pohrudnice;S27-21;Iné ochorenie dý
 j684;Chronická choroba dýchacej sústavy zapríčinená chemikáliami, plynmi, dymom a výparmi;S27-21;Iné ochorenie dýchacích orgánov
 j703;Chronická pľúcna intersticiálna choroba zapríčinená liekmi;S27-21;Iné ochorenie dýchacích orgánov
 j704;Pľúcna intersticiálna choroba zapríčinená liekmi, bližšie neurčená;S27-21;Iné ochorenie dýchacích orgánov
-j80;Syndróm respiračnej tiesne dospelých [ARDS];S27-21;Iné ochorenie dýchacích orgánov
+j80;Syndróm respiračnej tiesne  [ARDS];S27-21;Iné ochorenie dýchacích orgánov
 j950;Porucha funkcie tracheostómie;S27-21;Iné ochorenie dýchacích orgánov
 j954;Mendelsonov syndróm;S27-21;Iné ochorenie dýchacích orgánov
 j9588;Iná porucha dýchacích orgánov po lekárskom výkone;S27-21;Iné ochorenie dýchacích orgánov
@@ -4610,7 +4610,7 @@ j959;Porucha dýchacích orgánov po lekárskom výkone, bližšie neurčená;S2
 j983;Kompenzačný emfyzém;S27-21;Iné ochorenie dýchacích orgánov
 j984;Iné choroby pľúc;S27-21;Iné ochorenie dýchacích orgánov
 j9858;Iné choroby mediastína, nezatriedené inde;S27-21;Iné ochorenie dýchacích orgánov
-m940;Syndróm chondrokostálneho spojenia [Tietzeho] ;S27-21;Iné ochorenie dýchacích orgánov
+m940;Syndróm chondrokostálneho spojenia [Tietzeho];S27-21;Iné ochorenie dýchacích orgánov
 p228;Iná respiračná tieseň novorodenca;S27-21;Iné ochorenie dýchacích orgánov
 p229;Respiračná tieseň novorodenca, bližšie neurčená;S27-21;Iné ochorenie dýchacích orgánov
 p240;Novorodenecká aspirácia smolky;S27-21;Iné ochorenie dýchacích orgánov
@@ -4644,14 +4644,14 @@ j628;Pneumokonióza zapríčinená iným prachom obsahujúcim kremík;S27-22;Int
 j82;Eozinofilný pľúcny infiltrát, nezatriedený inde;S27-22;Intersticiálna choroba pľúc
 m0510;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, na viacerých miestach (J99.0*);S27-22;Intersticiálna choroba pľúc
 m0511;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, v oblasti pleca (kľúčna kosť, lopatka, akromioklavikulárny, ramenný, sternoklavikulárny kĺb) (J99.0*);S27-22;Intersticiálna choroba pľúc
-m0512;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, v oblasti nadlaktia (ramenná kosť, lakťový kĺb) (J99.0*) ;S27-22;Intersticiálna choroba pľúc
+m0512;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, v oblasti nadlaktia (ramenná kosť, lakťový kĺb) (J99.0*);S27-22;Intersticiálna choroba pľúc
 m0513;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, v oblasti predlaktia (lakťová kosť, vretenná kosť, zápästný kĺb) (J99.0*);S27-22;Intersticiálna choroba pľúc
 m0514;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi (J99.0*), v oblasti ruky (zápästie, záprstie, prsty, kĺby medzi týmito kosťami) (J99.0*);S27-22;Intersticiálna choroba pľúc
-m0515;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi (J99.0*), v panvovej oblasti a stehna (panva, stehnová kosť, zadok, bedro, bedrový kĺb, sakroiliakálny kĺb) ;S27-22;Intersticiálna choroba pľúc
-m0516;SSéropozitívna reumatoidná artritída s pľúcnymi prejavmi, v oblasti predkolenia  (ihlica, píšťala, kolenný kĺb) (J99.0*);S27-22;Intersticiálna choroba pľúc
-m0517;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, s artritídou členka a nohy (predpriehlavok, priehlavok, prsty nohy, členkový kĺb, iné kĺby nohy) (J99.0*) ;S27-22;Intersticiálna choroba pľúc
+m0515;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi (J99.0*), v panvovej oblasti a stehna (panva, stehnová kosť, zadok, bedro, bedrový kĺb, sakroiliakálny kĺb);S27-22;Intersticiálna choroba pľúc
+m0516;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, v oblasti predkolenia (ihlica, píšťala, kolenný kĺb) (J99.0*);S27-22;Intersticiálna choroba pľúc
+m0517;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, s artritídou členka a nohy (predpriehlavok, priehlavok, prsty nohy, členkový kĺb, iné kĺby nohy) (J99.0*);S27-22;Intersticiálna choroba pľúc
 m0518;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, na inom mieste (hlava, krk, rebrá, lebka, trup, chrbtica) (J99.0*);S27-22;Intersticiálna choroba pľúc
-m0519;SSéropozitívna reumatoidná artritída s pľúcnymi prejavmi, miesto bližšie neurčené (J99.0*);S27-22;Intersticiálna choroba pľúc
+m0519;Séropozitívna reumatoidná artritída s pľúcnymi prejavmi, miesto bližšie neurčené (J99.0*);S27-22;Intersticiálna choroba pľúc
 r049;Krvácanie z dýchacích ciest, bližšie neurčené;S27-23;Kašeľ, dyspnoe a iné poruchy dýchania
 r05;Kašeľ;S27-23;Kašeľ, dyspnoe a iné poruchy dýchania
 r060;Dýchavičnosť (dyspnoe);S27-23;Kašeľ, dyspnoe a iné poruchy dýchania
@@ -4699,7 +4699,7 @@ j182;Hypostatický zápal pľúc, bližšie neurčený;S27-26;Zápal pľúc
 j188;Iný zápal pľúc, zapríčinený bližšie neurčeným organizmom;S27-26;Zápal pľúc
 j189;Zápal pľúc, bližšie neurčený;S27-26;Zápal pľúc
 c33;Zhubný nádor priedušnice;S27-27;Zhubné nádory dýchacích orgánov
-c340;Zhubný nádor hlavnej priedušky ;S27-27;Zhubné nádory dýchacích orgánov
+c340;Zhubný nádor hlavnej priedušky;S27-27;Zhubné nádory dýchacích orgánov
 c341;Zhubný nádor priedušky alebo pľúc v hornom laloku;S27-27;Zhubné nádory dýchacích orgánov
 c342;Zhubný nádor priedušky alebo pľúc v strednom laloku;S27-27;Zhubné nádory dýchacích orgánov
 c343;Zhubný nádor priedušky alebo pľúc v dolnom laloku;S27-27;Zhubné nádory dýchacích orgánov
@@ -4718,7 +4718,7 @@ c780;Sekundárny zhubný nádor pľúc;S27-27;Zhubné nádory dýchacích orgán
 c781;Sekundárny zhubný nádor mediastína;S27-27;Zhubné nádory dýchacích orgánov
 c782;Sekundárny zhubný nádor pohrudnice;S27-27;Zhubné nádory dýchacích orgánov
 c783;Sekundárny zhubný nádor iných a bližšie neurčených dýchacích orgánov;S27-27;Zhubné nádory dýchacích orgánov
-d021;Karcinóm in situ priedušnice ;S27-27;Zhubné nádory dýchacích orgánov
+d021;Karcinóm in situ priedušnice;S27-27;Zhubné nádory dýchacích orgánov
 d022;Karcinóm in situ priedušky a pľúc;S27-27;Zhubné nádory dýchacích orgánov
 d023;Karcinóm in situ iných častí dýchacej sústavy;S27-27;Zhubné nádory dýchacích orgánov
 d024;Karcinóm in situ dýchacej sústavy, bližšie neurčený;S27-27;Zhubné nádory dýchacích orgánov
@@ -6590,7 +6590,7 @@ m1028;Dna zapríčinená liekmi, na inom mieste (hlava, krk, rebrá, lebka, trup
 m1029;Dna zapríčinená liekmi, miesto bližšie neurčené;S31-10;Dna zapríčinená liekmi
 i730;Raynaudov syndróm;S31-11;Raynaudov syndróm
 m311;Trombotická mikroangiopatia;S32-07;Trombotická mikroangiopatia (Získaná trombotická trombocytopenická purpura)
-d6831;Stav krvácavosti zapríčinený prítomnosťou  protilátok proti faktoru VIII;S32-08;Získaná hemofília
+d6831;Stav krvácavosti zapríčinený zvýšením protilátok proti faktoru VIII;S32-08;Získaná hemofília
 d6838;Iný stav krvácavosti zapríčinený inými a bližšie neurčenými protilátkami;S32-08;Získaná hemofília
 d610;Vrodená aplastická anémia;S32-10;Idiopatická aplastická anémia, ťažká a veľmi ťažká forma
 d6118;Iná aplastická anémia zapríčinená liekmi;S32-10;Idiopatická aplastická anémia, ťažká a veľmi ťažká forma
@@ -6655,16 +6655,16 @@ t8603;Chronická choroba graft versus host [GVHD]: ohraničená forma;S32-16;Vys
 t8604;Chronická choroba graft versus host [GVHD]: rozšírená forma;S32-16;Vysoko komplexné hematologické ochorenia
 t8609;Choroba graft versus host [GVHD]: bližšie neurčená;S32-16;Vysoko komplexné hematologické ochorenia
 d691;Kvalitatívna porucha doštičiek;S32-17;Vrodené trombocytopatie klinicky závažné 
-k7711;Postihnutie pečene pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 1.štádium  (T86.01†);S32-18;Akútna choroba štepu proti hostiteľovi
+k7711;Postihnutie pečene pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 1.štádium (T86.01†);S32-18;Akútna choroba štepu proti hostiteľovi
 k7712;Postihnutie pečene pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 2.štádium (T86.02†);S32-18;Akútna choroba štepu proti hostiteľovi
 k7713;Postihnutie pečene pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 3.štádium (T86.02†);S32-18;Akútna choroba štepu proti hostiteľovi
-k7714;Postihnutie pečene pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 4.štádium (T86.02†) ;S32-18;Akútna choroba štepu proti hostiteľovi
-k9321;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 1.štádium (T86.01†)  ;S32-18;Akútna choroba štepu proti hostiteľovi
-k9322;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 2.štádium (T86.02†) ;S32-18;Akútna choroba štepu proti hostiteľovi
-k9323;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 3.štádium (T86.02†) ;S32-18;Akútna choroba štepu proti hostiteľovi
-k9324;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 4. štádium (T86.02†)  ;S32-18;Akútna choroba štepu proti hostiteľovi
+k7714;Postihnutie pečene pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 4.štádium (T86.02†);S32-18;Akútna choroba štepu proti hostiteľovi
+k9321;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 1.štádium (T86.01†);S32-18;Akútna choroba štepu proti hostiteľovi
+k9322;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 2.štádium (T86.02†);S32-18;Akútna choroba štepu proti hostiteľovi
+k9323;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 3.štádium (T86.02†);S32-18;Akútna choroba štepu proti hostiteľovi
+k9324;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 4. štádium (T86.02†);S32-18;Akútna choroba štepu proti hostiteľovi
 l9911;Postihnutie kože pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 1.štádium;S32-18;Akútna choroba štepu proti hostiteľovi
-l9912;Postihnutie kože pri akútnej chorobe štepu proti hostiteľovi,  [GVHD]  2.štádium;S32-18;Akútna choroba štepu proti hostiteľovi
+l9912;Postihnutie kože pri akútnej chorobe štepu proti hostiteľovi, [GVHD] 2.štádium;S32-18;Akútna choroba štepu proti hostiteľovi
 l9913;Postihnutie kože pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 3.štádium;S32-18;Akútna choroba štepu proti hostiteľovi
 l9914;Postihnutie kože pri akútnej chorobe štepu proti hostiteľovi [GVHD]: 4.štádium;S32-18;Akútna choroba štepu proti hostiteľovi
 d6940;Iná primárna trombocytopénia nereagujúca na transfúznu liečbu;S32-19;Komplexné hematologické ochorenia
@@ -6672,7 +6672,7 @@ d6960;Trombocytopénia, bližšie neurčená, označená ako refraktérna na tra
 d700;Vrodená agranulocytóza a neutropénia;S32-19;Komplexné hematologické ochorenia
 d703;Iná agranulocytóza;S32-19;Komplexné hematologické ochorenia
 d705;Cyklická neutropénia;S32-19;Komplexné hematologické ochorenia
-d6832;Stav krvácavosti zapríčinený  prítomnosťou protilátok proti iným faktorom zrážania krvi;S32-20;Získaný von Willebrandov syndróm
+d6832;Stav krvácavosti zapríčinený zvýšením plazmatickej koncentrácie protilátok proti iným faktorom zrážania krvi;S32-20;Získaný von Willebrandov syndróm
 d550;Anémia zapríčinená nedostatočnou aktivitou glukóza-6-fosfát-dehydrogenázy;S32-21;Hemolytická anémia
 d551;Anémia zapríčinená inou poruchou metabolizmu glutatiónu;S32-21;Hemolytická anémia
 d552;Anémia zapríčinená poruchou enzýmov glykolýzy;S32-21;Hemolytická anémia
@@ -6804,16 +6804,16 @@ d471;Chronická myeloproliferatívna choroba;S32-25;Myeloproliferatívne neoplá
 d473;Esenciálna (hemoragická) trombocytémia;S32-25;Myeloproliferatívne neoplázie (Ph negatívne MPN, CML, MDS/MPN)
 d474;Osteomyelofibróza;S32-25;Myeloproliferatívne neoplázie (Ph negatívne MPN, CML, MDS/MPN)
 d475;Chronická eozinofilová leukémia [Hypereozinofilový syndróm];S32-25;Myeloproliferatívne neoplázie (Ph negatívne MPN, CML, MDS/MPN)
-d66;Dedičný nedostatok faktora VIII-  Hemofília A;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
-d67;Dedičný nedostatok faktora IX - Hemofília B;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
+d66;Dedičný nedostatok faktora VIII;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
+d67;Dedičný nedostatok faktora IX;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
 d680;Von Willebrandova choroba;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
 d681;Dedičný nedostatok faktora XI;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
-d682;Dedičný nedostatok iných koagulačných faktorov ;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
+d682;Dedičný nedostatok iných koagulačných faktorov;S32-30;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou
 d600;Chronická získaná čistá aplázia červených krviniek;S32-31;Poruchy leukocytov a iné hematologické ochorenia
 d601;Prechodná získaná čistá aplázia červených krviniek;S32-31;Poruchy leukocytov a iné hematologické ochorenia
 d608;Iná získaná čistá aplázia červených krviniek;S32-31;Poruchy leukocytov a iné hematologické ochorenia
 d609;Získaná čistá aplázia červených krviniek, bližšie neurčená;S32-31;Poruchy leukocytov a iné hematologické ochorenia
-d640;Dedičná sideroblastová [sideroachrestická]  anémia;S32-31;Poruchy leukocytov a iné hematologické ochorenia
+d640;Dedičná sideroblastová [sideroachrestická] anémia;S32-31;Poruchy leukocytov a iné hematologické ochorenia
 d641;Sekundárna sideroblastová [sideroachrestická] anémia zapríčinená ochorením;S32-31;Poruchy leukocytov a iné hematologické ochorenia
 d643;Iná sideroblastová [sideroachrestická] anémia;S32-31;Poruchy leukocytov a iné hematologické ochorenia
 d644;Vrodená dyserytropoetická anémia;S32-31;Poruchy leukocytov a iné hematologické ochorenia
@@ -6852,7 +6852,7 @@ d6961;Trombocytopénia, bližšie neurčená, neoznačená ako refraktérna na t
 d7010;Agranulocytóza a neutropénia zapríčinená liekmi, s kritickou fázou v trvaní 3 dni a menej;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
 d7011;Agranulocytóza a neutropénia zapríčinená liekmi, s kritickou fázou v trvaní 10 až 19 dní;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
 d7012;Agranulocytóza a neutropénia zapríčinená liekmi, s kritickou fázou v trvaní 20 a viac dní;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
-d7013;Agranulocytóza a neutropénia zapríčinená liekmi, s kritickou fázou v trvaní  4 až 6 dní;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
+d7013;Agranulocytóza a neutropénia zapríčinená liekmi, s kritickou fázou v trvaní 4 až 6 dní;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
 d7014;Agranulocytóza a neutropénia zapríčinená liekmi, s kritickou fázou v trvaní 7 až 9 dní;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
 d7018;Agranulocytóza a neutropénia zapríčinená liekmi s iným priebehom;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
 d7019;Agranulocytóza a neutropénia zapríčinená liekmi, bližšie neurčená;S32-36;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné)
@@ -7261,12 +7261,12 @@ a879;Vírusová meningitída, bližšie neurčená;S33-14;Infekcie nervového sy
 a880;Enterovírusová exantémová horúčka [Bostonský exantém];S33-14;Infekcie nervového systému
 a888;Iná vírusová infekcia centrálnej nervovej sústavy, bližšie určená;S33-14;Infekcie nervového systému
 a89;Vírusová infekcia centrálnej nervovej sústavy, bližšie neurčená;S33-14;Infekcie nervového systému
-b003;Herpetická meningitída (G02.0*) ;S33-14;Infekcie nervového systému
-b004;Herpetická encefalitída (G05.1*) ;S33-14;Infekcie nervového systému
-b010;Varicelová meningitída (G02.0*) ;S33-14;Infekcie nervového systému
-b011;Varicelová encefalitída (G05.1*) ;S33-14;Infekcie nervového systému
-b020;Zosterová encefalitída  (G05.1*) ;S33-14;Infekcie nervového systému
-b021;Zosterová meningitída  (G02.0*)  ;S33-14;Infekcie nervového systému
+b003;Herpetická meningitída (G02.0*);S33-14;Infekcie nervového systému
+b004;Herpetická encefalitída (G05.1*);S33-14;Infekcie nervového systému
+b010;Varicelová meningitída (G02.0*);S33-14;Infekcie nervového systému
+b011;Varicelová encefalitída (G05.1*);S33-14;Infekcie nervového systému
+b020;Zosterová encefalitída (G05.1*);S33-14;Infekcie nervového systému
+b021;Zosterová meningitída (G02.0*);S33-14;Infekcie nervového systému
 b050;Osýpky komplikované encefalitídou (G05.1*);S33-14;Infekcie nervového systému
 b051;Osýpky komplikované meningitídou (G05.1*);S33-14;Infekcie nervového systému
 b060;Ružienka s nervovými komplikáciami;S33-14;Infekcie nervového systému
@@ -7310,7 +7310,7 @@ a513;Sekundárny syfilis kože a slizníc;S34-01;Závažné ochorenia kože
 a514;Iná forma sekundárneho syfilisu;S34-01;Závažné ochorenia kože
 a515;Včasný syfilis, latentný;S34-01;Závažné ochorenia kože
 a519;Včasný syfilis, bližšie neurčený;S34-01;Závažné ochorenia kože
-a521;Neurosyfilis, symptomatický ;S34-01;Závažné ochorenia kože
+a521;Neurosyfilis, symptomatický;S34-01;Závažné ochorenia kože
 a522;Neurosyfilis, asymptomatický;S34-01;Závažné ochorenia kože
 a523;Neurosyfilis, bližšie neurčený;S34-01;Závažné ochorenia kože
 a527;Neskorý syfilis, symptomatický, iná forma;S34-01;Závažné ochorenia kože
@@ -7969,23 +7969,23 @@ g114;Dedičná spastická paraplégia;S37-02;Demyelinizačné ochorenia CNS a at
 g118;Iná dedičná ataxia;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g119;Dedičná ataxia, bližšie neurčená;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g350;Roztrúsená skleróza, prvá manifestácia;S37-02;Demyelinizačné ochorenia CNS a ataxie
-g3510;Roztrúsená skleróza  s relaps-remitujúcim  priebehom, bez prejavov relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
-g3511;Roztrúsená skleróza  s relaps-remitujúcim  priebehom, s prejavmi relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
+g3510;Roztrúsená skleróza s relaps-remitujúcim priebehom, bez prejavov relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
+g3511;Roztrúsená skleróza s relaps-remitujúcim priebehom, s prejavmi relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g3520;Roztrúsená skleróza s primárne progresívnym priebehom, bez prejavov relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g3521;Roztrúsená skleróza s primárne progresívnym priebehom, s prejavmi relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g3530;Roztrúsená skleróza so sekundárne progresívnym priebehom, bez prejavov relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g3531;Roztrúsená skleróza so sekundárne progresívnym priebehom, s prejavmi relapsu alebo progresie;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g359;Roztrúsená skleróza, bližšie neurčená;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g360;Neuromyelitis optica [Devicova choroba];S37-02;Demyelinizačné ochorenia CNS a ataxie
-g361;Akútna a subakútna hemoragická leukoencefalitída  [Hurstova choroba];S37-02;Demyelinizačné ochorenia CNS a ataxie
-g368;Iná akútna roztrúsená demyelinizácia, bližšie určená ;S37-02;Demyelinizačné ochorenia CNS a ataxie
+g361;Akútna a subakútna hemoragická leukoencefalitída [Hurstova choroba];S37-02;Demyelinizačné ochorenia CNS a ataxie
+g368;Iná akútna roztrúsená demyelinizácia, bližšie určená;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g369;Akútna roztrúsená demyelinizácia, bližšie neurčená;S37-02;Demyelinizačné ochorenia CNS a ataxie
-g370;Difúzna skleróza centrálnej nervovej sústavy  [Schilderova choroba] ;S37-02;Demyelinizačné ochorenia CNS a ataxie
+g370;Difúzna skleróza centrálnej nervovej sústavy [Schilderova choroba];S37-02;Demyelinizačné ochorenia CNS a ataxie
 g371;Centrálna demyelinizácia corpus callosum;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g372;Centrálna pontínna myelinolýza;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g373;Akútna priečna myelitída pri demyelinizačnej chorobe centrálnej nervovej sústavy;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g374;Subakútna nekrotizujúca myelitída;S37-02;Demyelinizačné ochorenia CNS a ataxie
-g375;Koncentrická skleróza centrálnej nervovej sústavy  [Balóova choroba];S37-02;Demyelinizačné ochorenia CNS a ataxie
+g375;Koncentrická skleróza centrálnej nervovej sústavy [Balóova choroba];S37-02;Demyelinizačné ochorenia CNS a ataxie
 g378;Iná demyelinizačná choroba centrálnej nervovej sústavy, bližšie určená;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g379;Demyelinizačná choroba centrálnej nervovej sústavy, bližšie neurčená;S37-02;Demyelinizačné ochorenia CNS a ataxie
 g935;Kompresia mozgu;S37-03;Stupor a kóma netraumatického pôvodu
@@ -8005,7 +8005,7 @@ r402;Kóma, bližšie neurčená;S37-03;Stupor a kóma netraumatického pôvodu
 r560;Febrilné kŕče;S37-04;Febrilné kŕče
 r568;Iné kŕče, bližšie neurčené;S37-04;Febrilné kŕče
 g4000;Pseudo-Lennoxov syndróm;S37-05;Epilepsia a iné záchvaty
-g4001;Syndróm so sústavnými hrotmi a vlnami počas pomalého spánku  [CSWS syndróm];S37-05;Epilepsia a iné záchvaty
+g4001;Syndróm so sústavnými hrotmi a vlnami počas pomalého spánku [CSWS syndróm];S37-05;Epilepsia a iné záchvaty
 g4002;Benígna psychomotorická epilepsia;S37-05;Epilepsia a iné záchvaty
 g4008;Iná idiopatická (fokálna) (parciálna) epilepsia a epileptický syndróm s fokálne začínajúcimi záchvatmi;S37-05;Epilepsia a iné záchvaty
 g4009;Lokalizovaná (fokálna) (parciálna) idiopatická epilepsia a epileptický syndróm s fokálne začínajúcimi záchvatmi, bližšie neurčená;S37-05;Epilepsia a iné záchvaty
@@ -8023,7 +8023,7 @@ g411;Status epilepticus petit mal;S37-05;Epilepsia a iné záchvaty
 g412;Status epilepticus s komplexnými fokálnymi záchvatmi;S37-05;Epilepsia a iné záchvaty
 g418;Iný status epilepticus;S37-05;Epilepsia a iné záchvaty
 g419;Status epilepticus, bližšie neurčený;S37-05;Epilepsia a iné záchvaty
-p90;Kŕče [konvulzie]  u novorodenca;S37-05;Epilepsia a iné záchvaty
+p90;Kŕče [konvulzie] u novorodenca;S37-05;Epilepsia a iné záchvaty
 a812;Progresívna multifokálna leukoencefalopatia;S37-06;Degeneratívne ochorenia nervového systému
 e750;GM2-gangliozidóza;S37-06;Degeneratívne ochorenia nervového systému
 e751;Iná gangliozidóza;S37-06;Degeneratívne ochorenia nervového systému
@@ -8031,7 +8031,7 @@ e752;Iná sfingolipidóza;S37-06;Degeneratívne ochorenia nervového systému
 e754;Neurónová ceroidová lipofuscinóza;S37-06;Degeneratívne ochorenia nervového systému
 f842;Rettov syndróm;S37-06;Degeneratívne ochorenia nervového systému
 g10;Huntingtonova choroba;S37-06;Degeneratívne ochorenia nervového systému
-g120;Detská spinálna svalová atrofia, typ I  [Werdnigov-Hoffmanov typ] ;S37-06;Degeneratívne ochorenia nervového systému
+g120;Detská spinálna svalová atrofia, typ I [Werdnigov-Hoffmanov typ];S37-06;Degeneratívne ochorenia nervového systému
 g121;Iná zdedená spinálna svalová atrofia;S37-06;Degeneratívne ochorenia nervového systému
 g122;Choroba motorického neurónu;S37-06;Degeneratívne ochorenia nervového systému
 g128;Iná spinálna svalová atrofia a príbuzný syndróm;S37-06;Degeneratívne ochorenia nervového systému
@@ -8091,7 +8091,7 @@ g918;Iný hydrocefalus;S37-06;Degeneratívne ochorenia nervového systému
 g919;Hydrocefalus, bližšie neurčený;S37-06;Degeneratívne ochorenia nervového systému
 g931;Anoxické poškodenie mozgu, nezatriedené inde;S37-06;Degeneratívne ochorenia nervového systému
 g950;Syringomyelia a syringobulbia;S37-06;Degeneratívne ochorenia nervového systému
-i673;Progresívna subkortikálna cievna encefalopatia ;S37-06;Degeneratívne ochorenia nervového systému
+i673;Progresívna subkortikálna cievna encefalopatia;S37-06;Degeneratívne ochorenia nervového systému
 p940;Prechodná myasthenia gravis u novorodenca;S37-06;Degeneratívne ochorenia nervového systému
 g800;Spastická tetraplegická detská mozgová obrna;S37-07;Paralytické syndrómy
 g801;Spastická diplegická detská mozgová obrna;S37-07;Paralytické syndrómy
@@ -8115,8 +8115,8 @@ g8213;Spastická paraparéza a paraplégia, chronické nekompletné priečne po�
 g8219;Spastická paraparéza a paraplégia, bližšie neurčená;S37-07;Paralytické syndrómy
 g8220;Paraparéza a paraplégia, bližšie neurčená, akútne kompletné priečne poškodenie miechy neúrazového pôvodu;S37-07;Paralytické syndrómy
 g8221;Paraparéza a paraplégia, bližšie neurčená, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu;S37-07;Paralytické syndrómy
-g8222;Paraparéza a paraplégia, bližšie neurčená, chronické kompletné priečne poškodenie miechy ;S37-07;Paralytické syndrómy
-g8223;Paraparéza a paraplégia, bližšie neurčená, chronické nekompletné priečne poškodenie miechy ;S37-07;Paralytické syndrómy
+g8222;Paraparéza a paraplégia, bližšie neurčená, chronické kompletné priečne poškodenie miechy;S37-07;Paralytické syndrómy
+g8223;Paraparéza a paraplégia, bližšie neurčená, chronické nekompletné priečne poškodenie miechy;S37-07;Paralytické syndrómy
 g8229;Paraparéza a paraplégia, bližšie neurčená;S37-07;Paralytické syndrómy
 g8230;Chabá tetraparéza a tetraplégia, akútne kompletné priečne poškodenie miechy neúrazového pôvodu;S37-07;Paralytické syndrómy
 g8231;Chabá tetraparéza a tetraplégia, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu;S37-07;Paralytické syndrómy
@@ -8164,7 +8164,7 @@ f09;Organická alebo symptomatická psychická porucha, bližšie neurčená;S37
 f106;Porucha psychiky a správania zapríčinená užívaním alkoholu: amnestický syndróm;S37-08;Demencia a iné chronické poruchy mozgovej funkcie
 g300;Alzheimerova choroba so skorým začiatkom (F00.0*);S37-08;Demencia a iné chronické poruchy mozgovej funkcie
 g301;Alzheimerova choroba s neskorým začiatkom (F00.1*);S37-08;Demencia a iné chronické poruchy mozgovej funkcie
-g308;Iná Alzheimerova choroba  (F00.2*);S37-08;Demencia a iné chronické poruchy mozgovej funkcie
+g308;Iná Alzheimerova choroba (F00.2*);S37-08;Demencia a iné chronické poruchy mozgovej funkcie
 g309;Alzheimerova choroba, bližšie neurčená;S37-08;Demencia a iné chronické poruchy mozgovej funkcie
 g310;Ohraničená atrofia mozgu;S37-08;Demencia a iné chronické poruchy mozgovej funkcie
 g934;Encefalopatia, bližšie neurčená;S37-08;Demencia a iné chronické poruchy mozgovej funkcie
@@ -8188,9 +8188,9 @@ g444;Bolesť hlavy zapríčinená liekmi, nezatriedená inde;S37-09;Bolesti hlav
 g448;Iný syndróm bolesti hlavy, bližšie určený;S37-09;Bolesti hlavy
 g971;Iná reakcia na spinálnu a lumbálnu punkciu;S37-09;Bolesti hlavy
 r51;Bolesť hlavy;S37-09;Bolesti hlavy
-g500;Neuralgia trojklaného nervu ;S37-10;Ochorenia mozgových a periférnych nervov
+g500;Neuralgia trojklaného nervu;S37-10;Ochorenia mozgových a periférnych nervov
 g501;Atypická bolesť tváre;S37-10;Ochorenia mozgových a periférnych nervov
-g508;Iná porucha trojklaného nervu ;S37-10;Ochorenia mozgových a periférnych nervov
+g508;Iná porucha trojklaného nervu;S37-10;Ochorenia mozgových a periférnych nervov
 g509;Porucha trojklaného nervu, bližšie neurčená;S37-10;Ochorenia mozgových a periférnych nervov
 g510;Paréza tvárového nervu [Bellova obrna];S37-10;Ochorenia mozgových a periférnych nervov
 g511;Ganglionitis geniculata;S37-10;Ochorenia mozgových a periférnych nervov
@@ -8199,8 +8199,8 @@ g513;Klonický spazmus polovice tváre;S37-10;Ochorenia mozgových a periférnyc
 g514;Tvárová myokýmia;S37-10;Ochorenia mozgových a periférnych nervov
 g518;Iná porucha tvárového nervu;S37-10;Ochorenia mozgových a periférnych nervov
 g519;Porucha tvárového nervu, bližšie neurčená;S37-10;Ochorenia mozgových a periférnych nervov
-g520;Porucha čuchového nervu  [n. olfactorius];S37-10;Ochorenia mozgových a periférnych nervov
-g521;Porucha jazykovohltanového nervu [n. glossopharyngeus] ;S37-10;Ochorenia mozgových a periférnych nervov
+g520;Porucha čuchového nervu [n. olfactorius];S37-10;Ochorenia mozgových a periférnych nervov
+g521;Porucha jazykovohltanového nervu [n. glossopharyngeus];S37-10;Ochorenia mozgových a periférnych nervov
 g522;Porucha blúdivého nervu [n. vagus];S37-10;Ochorenia mozgových a periférnych nervov
 g523;Porucha podjazykového nervu [n. hypoglossus];S37-10;Ochorenia mozgových a periférnych nervov
 g527;Porucha viacerých hlavových nervov;S37-10;Ochorenia mozgových a periférnych nervov
@@ -8253,7 +8253,7 @@ g9049;Autonómna dysreflexia, bližšie neurčená;S37-10;Ochorenia mozgových a
 g908;Iná choroba autonómnej nervovej sústavy;S37-10;Ochorenia mozgových a periférnych nervov
 g909;Porucha autonómnej nervovej sústavy, bližšie neurčená;S37-10;Ochorenia mozgových a periférnych nervov
 m2133;Ovisnuté zápästie (získané) s postihnutím predlaktia (lakťová kosť, vretenná kosť, zápästný kĺb);S37-10;Ochorenia mozgových a periférnych nervov
-m2150;Získaná pazúrovitá ruka a krátka ruka [talipomanus], získaná pazúrovitá noha a  konská noha [talipes] na viacerých miestach;S37-10;Ochorenia mozgových a periférnych nervov
+m2150;Získaná pazúrovitá ruka a krátka ruka [talipomanus], získaná pazúrovitá noha a konská noha [talipes] na viacerých miestach;S37-10;Ochorenia mozgových a periférnych nervov
 m2154;Získaná pazúrovitá ruka a krátka ruka [talipomanus];S37-10;Ochorenia mozgových a periférnych nervov
 m7920;Neuralgia a neuritída, bližšie neurčená, na viacerých miestach;S37-10;Ochorenia mozgových a periférnych nervov
 m7921;Neuralgia a neuritída, bližšie neurčená, v oblasti pleca (kľúčna kosť, lopatka, akromioklavikulárny, ramenný, sternoklavikulárny kĺb);S37-10;Ochorenia mozgových a periférnych nervov
@@ -8261,7 +8261,7 @@ m7922;Neuralgia a neuritída, bližšie neurčená, v oblasti nadlaktia (ramenn�
 m7923;Neuralgia a neuritída, bližšie neurčená, v oblasti predlaktia (lakťová kosť, vretenná kosť, zápästný kĺb);S37-10;Ochorenia mozgových a periférnych nervov
 m7924;Neuralgia a neuritída, bližšie neurčená, v oblasti ruky (zápästie, záprstie, prsty, kĺby medzi týmito kosťami);S37-10;Ochorenia mozgových a periférnych nervov
 m7925;Neuralgia a neuritída, bližšie neurčená, v panvovej oblasti a stehna (panva, stehnová kosť, zadok, bedro, bedrový kĺb, sakroiliakálny kĺb);S37-10;Ochorenia mozgových a periférnych nervov
-m7926;Neuralgia a neuritída, bližšie neurčená, v oblasti predkolenia  (ihlica, píšťala, kolenný kĺb);S37-10;Ochorenia mozgových a periférnych nervov
+m7926;Neuralgia a neuritída, bližšie neurčená, v oblasti predkolenia (ihlica, píšťala, kolenný kĺb);S37-10;Ochorenia mozgových a periférnych nervov
 m7927;Neuralgia a neuritída, bližšie neurčená, v oblasti členka a nohy (predpriehlavok, priehlavok, prsty nohy, členkový kĺb, iné kĺby nohy);S37-10;Ochorenia mozgových a periférnych nervov
 m7928;Neuralgia a neuritída, bližšie neurčená, na inom mieste (hlava, krk, rebrá, lebka, trup, chrbtica);S37-10;Ochorenia mozgových a periférnych nervov
 m7929;Neuralgia a neuritída, bližšie neurčená, miesto bližšie neurčené;S37-10;Ochorenia mozgových a periférnych nervov
@@ -8336,11 +8336,11 @@ b022;Zoster s postihnutím iných častí nervovej sústavy;S37-11;Iné ochoreni
 d1802;Hemangióm intrakraniálny;S37-11;Iné ochorenia NS
 f950;Prechodná tiková porucha;S37-11;Iné ochorenia NS
 f951;Chronická pohybová alebo hlasová tiková porucha;S37-11;Iné ochorenia NS
-f952;Zmiešaná hlasová a rôznorodá pohybová tiková porucha  [Syndróm de la Tourette] ;S37-11;Iné ochorenia NS
+f952;Zmiešaná hlasová a rôznorodá pohybová tiková porucha [Syndróm de la Tourette];S37-11;Iné ochorenia NS
 f958;Iná tiková porucha;S37-11;Iné ochorenia NS
 f959;Tiková porucha, bližšie neurčená;S37-11;Iné ochorenia NS
 f985;Zajakavosť;S37-11;Iné ochorenia NS
-f986;Brblavosť [tumultus sermonis, ponáhľavá reč] ;S37-11;Iné ochorenia NS
+f986;Brblavosť [tumultus sermonis, ponáhľavá reč];S37-11;Iné ochorenia NS
 g041;Tropická spastická paraplégia;S37-11;Iné ochorenia NS
 g08;Intrakraniálna a intraspinálna flebitída a tromboflebitída;S37-11;Iné ochorenia NS
 g243;Spastický tortikolis;S37-11;Iné ochorenia NS
@@ -8365,9 +8365,9 @@ g92;Toxická encefalopatia;S37-11;Iné ochorenia NS
 g930;Mozgová cysta;S37-11;Iné ochorenia NS
 g932;Benígna intrakraniálna hypertenzia;S37-11;Iné ochorenia NS
 g937;Reyeov syndróm;S37-11;Iné ochorenia NS
-g951;Cievna  myelopatia;S37-11;Iné ochorenia NS
+g951;Cievna myelopatia;S37-11;Iné ochorenia NS
 g952;Kompresia miechy, bližšie neurčená;S37-11;Iné ochorenia NS
-g9583;Spinálna spasticita priečne pruhovaného svalstva ;S37-11;Iné ochorenia NS
+g9583;Spinálna spasticita priečne pruhovaného svalstva;S37-11;Iné ochorenia NS
 g9584;Detrúzorovo-sfinkterová dyssynergia pri poškodení miechy;S37-11;Iné ochorenia NS
 g9588;Iná choroba miechy, bližšie určená;S37-11;Iné ochorenia NS
 g959;Choroba miechy, bližšie neurčená;S37-11;Iné ochorenia NS
@@ -8377,7 +8377,7 @@ g968;Iná choroba centrálnej nervovej sústavy, bližšie určená;S37-11;Iné 
 g970;Presakovanie mozgovomiechového moku po spinálnej punkcii;S37-11;Iné ochorenia NS
 g972;Vnútrolebková hypotenzia po komorovom skrate;S37-11;Iné ochorenia NS
 g9780;Pooperačná likvorea;S37-11;Iné ochorenia NS
-g9781;Pooperačný (cerebelárny) mutizmus ;S37-11;Iné ochorenia NS
+g9781;Pooperačný (cerebelárny) mutizmus;S37-11;Iné ochorenia NS
 g9788;Iná choroba nervovej sústavy po lekárskom výkone;S37-11;Iné ochorenia NS
 g979;Choroba nervovej sústavy po lekárskom výkone, bližšie neurčená;S37-11;Iné ochorenia NS
 h471;Opuch papily zrakového nervu, bližšie neurčený;S37-11;Iné ochorenia NS
@@ -8405,7 +8405,7 @@ q018;Encefalokéla na inom mieste;S37-11;Iné ochorenia NS
 q019;Encefalokéla, bližšie neurčená;S37-11;Iné ochorenia NS
 q02;Mikrocefália;S37-11;Iné ochorenia NS
 q030;Chyby mozgového mokovodu;S37-11;Iné ochorenia NS
-q031;Atrézia pristredného  [Magendieho] a bočného [Luschkovho] otvoru štvrtej komory;S37-11;Iné ochorenia NS
+q031;Atrézia pristredného [Magendieho] a bočného [Luschkovho] otvoru štvrtej komory;S37-11;Iné ochorenia NS
 q038;Iný vrodený hydrocefalus;S37-11;Iné ochorenia NS
 q039;Vrodený hydrocefalus, bližšie neurčený;S37-11;Iné ochorenia NS
 q040;Vrodená chyba corpus callosum;S37-11;Iné ochorenia NS
@@ -8453,7 +8453,7 @@ q2830;Vrodená aneuryzma cerebrálnych ciev;S37-11;Iné ochorenia NS
 q2831;Vrodená fistula cerebrálnych ciev;S37-11;Iné ochorenia NS
 q2838;Iná vrodená chyba cerebrálnych ciev;S37-11;Iné ochorenia NS
 q2839;Vrodená chyba cerebrálnych ciev, bližšie neurčená;S37-11;Iné ochorenia NS
-q760;Skrytý rázštep chrbtice [Spina bifida occulta] ;S37-11;Iné ochorenia NS
+q760;Skrytý rázštep chrbtice [Spina bifida occulta];S37-11;Iné ochorenia NS
 q850;Neurofibromatóza (benígna);S37-11;Iné ochorenia NS
 q851;Tuberózna skleróza;S37-11;Iné ochorenia NS
 q900;Trizómia 21, meiotická nondisjunkcia;S37-11;Iné ochorenia NS
@@ -8599,7 +8599,7 @@ m4809;Stenóza spinálneho kanála: oblasť bližšie neurčená;S37-13;Dorzopat
 m500;Poškodenie krčnej medzistavcovej platničky s myelopatiou (G99.2*);S37-13;Dorzopatia a poruchy nervových koreňov
 m501;Poškodenie krčnej medzistavcovej platničky s radikulopatiou;S37-13;Dorzopatia a poruchy nervových koreňov
 m509;Poškodenie krčnej medzistavcovej platničky, bližšie neurčené;S37-13;Dorzopatia a poruchy nervových koreňov
-m510;Poškodenie driekových a iných medzistavcových platničiek s myelopatiou  (G99.2*);S37-13;Dorzopatia a poruchy nervových koreňov
+m510;Poškodenie driekových a iných medzistavcových platničiek s myelopatiou (G99.2*);S37-13;Dorzopatia a poruchy nervových koreňov
 m511;Poškodenie driekových a iných medzistavcových platničiek s radikulopatiou (G55.1*);S37-13;Dorzopatia a poruchy nervových koreňov
 m512;Iná dislokácia medzistavcovej platničky, bližšie určená;S37-13;Dorzopatia a poruchy nervových koreňov
 m513;Iná degenerácia medzistavcovej platničky, bližšie určená;S37-13;Dorzopatia a poruchy nervových koreňov
@@ -8612,7 +8612,7 @@ m5381;Iné dorzopatie, bližšie určené: v okcipito-atlanto-axiálnej oblasti;
 m5382;Iné dorzopatie, bližšie určené: v krčnej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
 m5383;Iné dorzopatie, bližšie určené: v krčnohrudníkovej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
 m5384;Iné dorzopatie, bližšie určené: v hrudníkovej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
-m5385;Iné  bližšie určené: v hrudníkovodriekovej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
+m5385;Iné dorzopatie, bližšie určené: v hrudníkovodriekovej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
 m5386;Iné dorzopatie, bližšie určené: v driekovej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
 m5387;Iné dorzopatie, bližšie určené: v driekovokrížovej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
 m5388;Iné dorzopatie, bližšie určené: v krížovej a krížovokostrčovej oblasti;S37-13;Dorzopatia a poruchy nervových koreňov
@@ -8688,8 +8688,8 @@ i6202;Subdurálne krvácanie (neúrazové), chronické;S37-14;Náhla cievna mozg
 i6209;Subdurálne krvácanie (neúrazové), bližšie neurčené;S37-14;Náhla cievna mozgová príhoda
 i621;Neúrazové extradurálne krvácanie;S37-14;Náhla cievna mozgová príhoda
 i629;Intrakraniálne krvácanie (neúrazové), bližšie neurčené;S37-14;Náhla cievna mozgová príhoda
-i630;Mozgový infarkt, zapríčinený trombózou prívodných mozgových  tepien;S37-14;Náhla cievna mozgová príhoda
-i631;Mozgový infarkt, zapríčinený embóliou prívodných mozgových  tepien;S37-14;Náhla cievna mozgová príhoda
+i630;Mozgový infarkt, zapríčinený trombózou prívodných mozgových tepien;S37-14;Náhla cievna mozgová príhoda
+i631;Mozgový infarkt, zapríčinený embóliou prívodných mozgových tepien;S37-14;Náhla cievna mozgová príhoda
 i632;Mozgový infarkt, zapríčinený bližšie neurčeným uzáverom alebo zúžením prívodných mozgových tepien;S37-14;Náhla cievna mozgová príhoda
 i633;Mozgový infarkt, zapríčinený trombózou mozgových tepien;S37-14;Náhla cievna mozgová príhoda
 i634;Mozgový infarkt, zapríčinený embóliou mozgových tepien;S37-14;Náhla cievna mozgová príhoda
@@ -8710,25 +8710,25 @@ i6711;Získaná mozgová artériovenózna fistula;S37-14;Náhla cievna mozgová 
 g4502;Vertebrobazilárny syndróm, s kompletným ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4503;Vertebrobazilárny syndróm, s kompletným ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4509;Vertebrobazilárny syndróm, s bližšie neurčeným priebehom ústupu;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4512;Syndróm krčnice (hemisferický), s kompletným  ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4513;Syndróm krčnice (hemisferický), s kompletným  ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4512;Syndróm krčnice (hemisferický), s kompletným ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4513;Syndróm krčnice (hemisferický), s kompletným ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4519;Syndróm krčnice (hemisferický), s bližšie neurčeným priebehom ústupu;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4522;Syndrómy prívodných mozgových tepien, viacpočetné a obojstranné, s kompletným ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4523;Syndrómy prívodných mozgových tepien, viacpočetné a obojstranné, s kompletným  ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4523;Syndrómy prívodných mozgových tepien, viacpočetné a obojstranné, s kompletným ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4529;Syndrómy prívodných mozgových tepien, viacpočetné a obojstranné, s bližšie neurčeným priebehom ústupu;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4542;Prechodná celková amnézia s kompletným  ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4543;Prechodná celková amnézia s kompletným  ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4542;Prechodná celková amnézia s kompletným ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4543;Prechodná celková amnézia s kompletným ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4549;Prechodná celková amnézia s bližšie neurčeným priebehom ústupu;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4582;Iná prechodné mozgové ischémie a príbuzný syndróm, s kompletným  ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4583;Iná prechodné mozgové ischémie a a príbuzný syndróm, s kompletným  ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4582;Iná prechodné mozgové ischémie a príbuzný syndróm, s kompletným ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4583;Iná prechodné mozgové ischémie a a príbuzný syndróm, s kompletným ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4589;Iné prechodné mozgové ischémie a príbuzné syndrómy s bližšie neurčeným priebehom ústupu;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4592;Prechodná mozgová ischémia, bližšie neurčená, s kompletným  ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-g4593;Prechodná mozgová ischémia, bližšie neurčená, s kompletným  ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4592;Prechodná mozgová ischémia, bližšie neurčená, s kompletným ústupom od 1 do 24 hodín;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+g4593;Prechodná mozgová ischémia, bližšie neurčená, s kompletným ústupom do 1 hodiny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 g4599;Prechodná mozgová ischémia, bližšie neurčená, s bližšie neurčeným priebehom ústupu;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 i650;Uzáver a zúženie a. vertebralis;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 i651;Uzáver a zúženie a. basilaris;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 i652;Uzáver a zúženie a. carotis;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
-i653;Uzáver a zúženie viacerých prívodných mozgových  tepien, obojstranne;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
+i653;Uzáver a zúženie viacerých prívodných mozgových tepien, obojstranne;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 i658;Uzáver a zúženie iných prívodných mozgových tepien;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 i659;Uzáver a zúženie bližšie neurčenej prívodnej mozgovej tepny;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
 i663;Uzáver a zúženie mozočkových tepien;S37-15;Prechodný ischemický záchvat a extrakraniálne cievne uzávery
@@ -8961,13 +8961,13 @@ f380;Iná jednotlivá afektívna porucha;S38-08;Bipolárna a iné afektívne por
 f381;Iná recidivujúca afektívna porucha;S38-08;Bipolárna a iné afektívne poruchy
 f388;Iná bližšie určená afektívna porucha;S38-08;Bipolárna a iné afektívne poruchy
 f39;Afektívna porucha, bližšie neurčená;S38-09;Anxiózne poruchy
-f4000; Agorafóbia bez panickej poruchy;S38-09;Anxiózne poruchy
+f4000;Agorafóbia bez panickej poruchy;S38-09;Anxiózne poruchy
 f4001;Agorafóbia s panickou poruchou;S38-09;Anxiózne poruchy
 f401;Sociálna fóbia;S38-09;Anxiózne poruchy
 f402;Špecifická (izolovaná) fóbia;S38-09;Anxiózne poruchy
 f408;Iná fóbická úzkostná porucha;S38-09;Anxiózne poruchy
 f409;Fóbická úzkostná porucha;S38-09;Anxiózne poruchy
-f410;Panická porucha [epizodická záchvatová úzkosť] ;S38-09;Anxiózne poruchy
+f410;Panická porucha [epizodická záchvatová úzkosť];S38-09;Anxiózne poruchy
 f411;Generalizovaná úzkostná porucha;S38-09;Anxiózne poruchy
 f412;Zmiešaná úzkostná a depresívna porucha;S38-09;Anxiózne poruchy
 f413;Iná zmiešaná úzkostná porucha;S38-09;Anxiózne poruchy
@@ -8988,7 +8988,7 @@ r451;Nepokoj a vzrušenosť;S38-09;Anxiózne poruchy
 r454;Podráždenosť a zlosť;S38-09;Anxiózne poruchy
 r457;Stav emočného šoku a stresu, bližšie neurčený;S38-09;Anxiózne poruchy
 f500;Mentálna anorexia;S38-10;Poruchy príjmu potravy
-f501;Atypická mentálna anorexia ;S38-10;Poruchy príjmu potravy
+f501;Atypická mentálna anorexia;S38-10;Poruchy príjmu potravy
 f502;Mentálna bulímia;S38-10;Poruchy príjmu potravy
 f503;Atypická mentálna bulímia;S38-10;Poruchy príjmu potravy
 f504;Prejedanie spojené s inými psychickými poruchami;S38-10;Poruchy príjmu potravy
@@ -9003,7 +9003,7 @@ f6031;Emočne nestabilná osobnosť, hraničný typ;S38-11;Poruchy osobnosti
 f604;Histriónska porucha osobnosti;S38-11;Poruchy osobnosti
 f605;Anankastická porucha osobnosti;S38-11;Poruchy osobnosti
 f606;Úzkostná [vyhýbavá] porucha osobnosti;S38-11;Poruchy osobnosti
-f607;Závislá [astenická] porucha osobnosti ;S38-11;Poruchy osobnosti
+f607;Závislá [astenická] porucha osobnosti;S38-11;Poruchy osobnosti
 f608;Iná špecifická porucha osobnosti;S38-11;Poruchy osobnosti
 f609;Porucha osobnosti, bližšie neurčená;S38-11;Poruchy osobnosti
 f61;Zmiešaná a iná porucha osobnosti;S38-11;Poruchy osobnosti
@@ -9012,7 +9012,7 @@ f621;Trvalá zmena osobnosti po psychickej chorobe;S38-11;Poruchy osobnosti
 f6280;Osobnostný syndróm chronickej bolesti;S38-11;Poruchy osobnosti
 f6288;Iná pretrvávajúca zmena osobnosti;S38-11;Poruchy osobnosti
 f629;Pretrvávajúca zmena osobnosti, bližšie neurčená;S38-11;Poruchy osobnosti
-f688;Iná porucha osobnosti a správania dospelých, bližšie určená ;S38-11;Poruchy osobnosti
+f688;Iná porucha osobnosti a správania dospelých, bližšie určená;S38-11;Poruchy osobnosti
 f69;Porucha osobnosti a správania dospelých, bližšie neurčená;S38-11;Poruchy osobnosti
 f700;Mierna duševná zaostalosť bez poruchy správania alebo s minimálnou poruchou správania;S38-12;Mentálne retardácie
 f701;Mierna duševná zaostalosť s významnou poruchou správania a s potrebou pozorovania alebo liečby;S38-12;Mentálne retardácie
@@ -9031,7 +9031,7 @@ f731;Hlboká duševná zaostalosť s významnou poruchou správania a s potrebou
 f738;Hlboká duševná zaostalosť s inou poruchou správania;S38-12;Mentálne retardácie
 f739;Hlboká duševná zaostalosť bez údaja o poruche správania;S38-12;Mentálne retardácie
 f740;Disociácia inteligencie bez poruchy správania alebo s minimálnou poruchou;S38-12;Mentálne retardácie
-f741;Disociácia inteligencie s významnou poruchou správania a  s potrebou pozorovania alebo liečby;S38-12;Mentálne retardácie
+f741;Disociácia inteligencie s významnou poruchou správania a s potrebou pozorovania alebo liečby;S38-12;Mentálne retardácie
 f748;Disociácia inteligencie s inou poruchou správania;S38-12;Mentálne retardácie
 f749;Disociácia inteligencie, bez udania poruchy správania;S38-12;Mentálne retardácie
 f780;Iná duševná zaostalosť bez poruchy správania alebo s minimálnou poruchou správania;S38-12;Mentálne retardácie
@@ -9041,7 +9041,7 @@ f789;Iná duševná zaostalosť, bez údaja o poruche správania;S38-12;Mentáln
 f790;Duševná zaostalosť bližšie neurčená, bez poruchy správania alebo s minimálnou poruchou správania;S38-12;Mentálne retardácie
 f791;Duševná zaostalosť bližšie neurčená, s významnou poruchou správania a s potrebou pozorovania alebo liečby;S38-12;Mentálne retardácie
 f798;Duševná zaostalosť bližšie neurčená, s inou poruchou správania;S38-12;Mentálne retardácie
-f799;Duševná zaostalosť bližšie neurčená, bez údaja o poruche správania ;S38-12;Mentálne retardácie
+f799;Duševná zaostalosť bližšie neurčená, bez údaja o poruche správania;S38-12;Mentálne retardácie
 f440;Disociatívna amnézia;S38-13;Iné psychické poruchy
 f441;Disociatívna fúga;S38-13;Iné psychické poruchy
 f442;Disociačný stupor;S38-13;Iné psychické poruchy
@@ -9052,9 +9052,9 @@ f446;Disociatívna anestézia a strata citlivosti;S38-13;Iné psychické poruchy
 f447;Zmiešaná disociatívna [konverzná] porucha;S38-13;Iné psychické poruchy
 f4480;Ganserov syndróm;S38-13;Iné psychické poruchy
 f4481;Viacpočetná osobnosť;S38-13;Iné psychické poruchy
-f4482;Prechodná disociatívna [konverzná]  porucha v detstve a v mladosti;S38-13;Iné psychické poruchy
-f4488;Iná disociatívna [konverzná]  porucha;S38-13;Iné psychické poruchy
-f449;Disociatívna [konverzná]  porucha, bližšie neurčená;S38-13;Iné psychické poruchy
+f4482;Prechodná disociatívna [konverzná] porucha v detstve a v mladosti;S38-13;Iné psychické poruchy
+f4488;Iná disociatívna [konverzná] porucha;S38-13;Iné psychické poruchy
+f449;Disociatívna [konverzná] porucha, bližšie neurčená;S38-13;Iné psychické poruchy
 f450;Somatizačná porucha;S38-13;Iné psychické poruchy
 f451;Nediferencovaná somatoformná porucha;S38-13;Iné psychické poruchy
 f452;Hypochondrická porucha;S38-13;Iné psychické poruchy
@@ -9073,13 +9073,13 @@ f488;Iné neurotické poruchy, bližšie určené;S38-13;Iné psychické poruchy
 f489;Neurotická porucha, bližšie neurčená;S38-13;Iné psychické poruchy
 f54;Psychické faktory a faktory správania spojené s poruchami alebo chorobami zatriedenými inde;S38-13;Iné psychické poruchy
 f59;Poruchy správania spojené s poruchami fyziologických funkcií a somatických faktorov, bližšie neurčené;S38-13;Iné psychické poruchy
-f631;Patologické podpaľačstvo [Pyromania] ;S38-13;Iné psychické poruchy
-f632;Patologické kradnutie [Kleptománia] ;S38-13;Iné psychické poruchy
+f631;Patologické podpaľačstvo [Pyromania];S38-13;Iné psychické poruchy
+f632;Patologické kradnutie [Kleptománia];S38-13;Iné psychické poruchy
 f633;Trichotilománia;S38-13;Iné psychické poruchy
 f638;Iná porucha návykov a impulzov;S38-13;Iné psychické poruchy
 f639;Porucha návykov a impulzov, bližšie neurčená;S38-13;Iné psychické poruchy
 f680;Zvýraznenie fyzických príznakov z psychických dôvodov;S38-13;Iné psychické poruchy
-f681;Úmyselné vyvolávanie alebo predstieranie somatických alebo psychických príznakov, alebo nespôsobilostí [predstieraná porucha] ;S38-13;Iné psychické poruchy
+f681;Úmyselné vyvolávanie alebo predstieranie somatických alebo psychických príznakov, alebo nespôsobilostí [predstieraná porucha];S38-13;Iné psychické poruchy
 r440;Sluchové halucinácie;S38-13;Iné psychické poruchy
 r442;Iné halucinácie;S38-13;Iné psychické poruchy
 r443;Halucinácie, bližšie neurčené;S38-13;Iné psychické poruchy
@@ -9111,7 +9111,7 @@ g4731;Obštrukčné spánkové apnoe;S39-02;Syndróm spánkového apnoe
 g4732;Hypoventilačný syndróm súvisiaci so spánkom;S39-02;Syndróm spánkového apnoe
 g4738;Iné spánkové apnoe;S39-02;Syndróm spánkového apnoe
 g4739;Spánkové apnoe, bližšie neurčené;S39-02;Syndróm spánkového apnoe
-c58;Zhubný nádor placenty ;S40-01;Zhubný nádor placenty
+c58;Zhubný nádor placenty;S40-01;Zhubný nádor placenty
 c690;Zhubný nádor spojovky;S40-03;Kuratívna liečba očných malignít
 c691;Zhubný nádor rohovky;S40-03;Kuratívna liečba očných malignít
 c692;Zhubný nádor sietnice;S40-03;Kuratívna liečba očných malignít
@@ -9142,8 +9142,8 @@ c023;Zhubný nádor predných dvoch tretín jazyka, bližšie neurčená časť;
 c024;Zhubný nádor jazykovej mandle;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c028;Zhubný nádor jazyka presahujúci viaceré oblasti;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c029;Zhubný nádor jazyka, bližšie neurčený;S40-05;Zhubné nádory ucha, nosa, úst a krku
-c030;Zhubný nádor horného ďasna ;S40-05;Zhubné nádory ucha, nosa, úst a krku
-c031;Zhubný nádor dolného ďasna ;S40-05;Zhubné nádory ucha, nosa, úst a krku
+c030;Zhubný nádor horného ďasna;S40-05;Zhubné nádory ucha, nosa, úst a krku
+c031;Zhubný nádor dolného ďasna;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c039;Zhubný nádor ďasna, bližšie neurčený;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c040;Zhubný nádor prednej časti ústnej spodiny;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c041;Zhubný nádor bočnej časti ústnej spodiny;S40-05;Zhubné nádory ucha, nosa, úst a krku
@@ -9192,10 +9192,10 @@ c142;Zhubný nádor Waldeyerovho lymfatického okruhu;S40-05;Zhubné nádory uch
 c148;Zhubný nádor pery, ústnej dutiny a hltana presahujúci viaceré oblasti;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c300;Zhubný nádor nosovej dutiny;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c301;Zhubný nádor stredného ucha;S40-05;Zhubné nádory ucha, nosa, úst a krku
-c310;Zhubný nádor čeľustnej dutiny ;S40-05;Zhubné nádory ucha, nosa, úst a krku
-c311;Zhubný nádor čuchovej dutiny ;S40-05;Zhubné nádory ucha, nosa, úst a krku
-c312;Zhubný nádor čelovej dutiny ;S40-05;Zhubné nádory ucha, nosa, úst a krku
-c313;Zhubný nádor dutiny klinovej kosti ;S40-05;Zhubné nádory ucha, nosa, úst a krku
+c310;Zhubný nádor čeľustnej dutiny;S40-05;Zhubné nádory ucha, nosa, úst a krku
+c311;Zhubný nádor čuchovej dutiny;S40-05;Zhubné nádory ucha, nosa, úst a krku
+c312;Zhubný nádor čelovej dutiny;S40-05;Zhubné nádory ucha, nosa, úst a krku
+c313;Zhubný nádor dutiny klinovej kosti;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c318;Zhubný nádor prinosovej dutiny presahujúci viaceré oblasti;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c319;Zhubný nádor bližšie neurčenej prinosovej dutiny;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c320;Zhubný nádor glottis;S40-05;Zhubné nádory ucha, nosa, úst a krku
@@ -9204,11 +9204,11 @@ c322;Zhubný nádor subglottis;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c323;Zhubný nádor hrtanovej chrupky;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c328;Zhubný nádor hrtana presahujúci viaceré oblasti;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c329;Zhubný nádor hrtana, bližšie neurčený;S40-05;Zhubné nádory ucha, nosa, úst a krku
-c390;Zhubný nádor bližšie neurčenej časti horných  dýchacích ciest;S40-05;Zhubné nádory ucha, nosa, úst a krku
+c390;Zhubný nádor bližšie neurčenej časti horných dýchacích ciest;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c462;Kaposiho sarkóm podnebia;S40-05;Zhubné nádory ucha, nosa, úst a krku
 c760;Zhubný nádor na iných a nepresne určených miestach hlavy, tváre a krku;S40-05;Zhubné nádory ucha, nosa, úst a krku
 d000;Karcinóm in situ pery, ústnej dutiny a hltana;S40-05;Zhubné nádory ucha, nosa, úst a krku
-d020;Karcinóm in situ hrtana ;S40-05;Zhubné nádory ucha, nosa, úst a krku
+d020;Karcinóm in situ hrtana;S40-05;Zhubné nádory ucha, nosa, úst a krku
 d370;Nádor pery, ústnej dutiny a hltana s neurčitým alebo neznámym správaním;S40-05;Zhubné nádory ucha, nosa, úst a krku
 d380;Nádor s neurčitým alebo neznámym správaním: hrtan;S40-05;Zhubné nádory ucha, nosa, úst a krku
 h602;Malígny zápal vonkajšieho ucha [otitis externa maligna];S40-05;Zhubné nádory ucha, nosa, úst a krku
@@ -9235,23 +9235,23 @@ c172;Zhubný nádor ilea;S40-06;Zhubný nádor GIT
 c173;Zhubný nádor Meckelovho divertikula;S40-06;Zhubný nádor GIT
 c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti;S40-06;Zhubný nádor GIT
 c179;Zhubný nádor tenkého čreva, bližšie neurčený;S40-06;Zhubný nádor GIT
-c180;Zhubný nádor slepého čreva ;S40-06;Zhubný nádor GIT
-c181;Zhubný nádor červovitého prívesku slepého čreva ;S40-06;Zhubný nádor GIT
-c182;Zhubný nádor vzostupnej časti hrubého čreva ;S40-06;Zhubný nádor GIT
-c183;Zhubný nádor pečeňového ohybu hrubého čreva ;S40-06;Zhubný nádor GIT
-c184;Zhubný nádor priečnej časti hrubého čreva ;S40-06;Zhubný nádor GIT
+c180;Zhubný nádor slepého čreva;S40-06;Zhubný nádor GIT
+c181;Zhubný nádor červovitého prívesku slepého čreva;S40-06;Zhubný nádor GIT
+c182;Zhubný nádor vzostupnej časti hrubého čreva;S40-06;Zhubný nádor GIT
+c183;Zhubný nádor pečeňového ohybu hrubého čreva;S40-06;Zhubný nádor GIT
+c184;Zhubný nádor priečnej časti hrubého čreva;S40-06;Zhubný nádor GIT
 c185;Zhubný nádor slezinového ohybu hrubého čreva;S40-06;Zhubný nádor GIT
-c186;Zhubný nádor zostupnej časti hrubého čreva ;S40-06;Zhubný nádor GIT
-c187;Zhubný nádor esovitej časti hrubého čreva ;S40-06;Zhubný nádor GIT
+c186;Zhubný nádor zostupnej časti hrubého čreva;S40-06;Zhubný nádor GIT
+c187;Zhubný nádor esovitej časti hrubého čreva;S40-06;Zhubný nádor GIT
 c188;Zhubný nádor hrubého čreva presahujúci viaceré oblasti;S40-06;Zhubný nádor GIT
 c189;Zhubný nádor hrubého čreva, bližšie neurčený;S40-06;Zhubný nádor GIT
 c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva;S40-06;Zhubný nádor GIT
-c20;Zhubný nádor konečníka ;S40-06;Zhubný nádor GIT
+c20;Zhubný nádor konečníka;S40-06;Zhubný nádor GIT
 c210;Zhubný nádor anusu, bližšie neurčený;S40-06;Zhubný nádor GIT
 c211;Zhubný nádor análneho kanála;S40-06;Zhubný nádor GIT
 c212;Zhubný nádor kloakovej oblasti;S40-06;Zhubný nádor GIT
 c218;Zhubný nádor rekta, anusu a análneho kanála presahujúci viaceré oblasti;S40-06;Zhubný nádor GIT
-c260;Zhubný nádor bližšie neurčenej časti črevného traktu ;S40-06;Zhubný nádor GIT
+c260;Zhubný nádor bližšie neurčenej časti črevného traktu;S40-06;Zhubný nádor GIT
 c268;Zhubný nádor tráviacej sústavy presahujúci viaceré oblasti;S40-06;Zhubný nádor GIT
 c269;Zhubný nádor na nepresne určenom mieste tráviacej sústavy;S40-06;Zhubný nádor GIT
 c451;Mezotelióm pobrušnice;S40-06;Zhubný nádor GIT
@@ -9280,7 +9280,7 @@ d379;Nádor s neurčitým alebo neznámym správaním, bližšie neurčený trá
 d483;Nádor s neurčitým alebo neznámym správaním: retroperitoneum;S40-06;Zhubný nádor GIT
 d484;Nádor s neurčitým alebo neznámym správaním: pobrušnica;S40-06;Zhubný nádor GIT
 c220;Hepatocelulárny karcinóm;S40-07;Zhubný nádor hepatobiliárneho systému a pankreasu
-c221;Karcinóm vnútropečeňových  žlčových ciest;S40-07;Zhubný nádor hepatobiliárneho systému a pankreasu
+c221;Karcinóm vnútropečeňových žlčových ciest;S40-07;Zhubný nádor hepatobiliárneho systému a pankreasu
 c222;Hepatoblastóm;S40-07;Zhubný nádor hepatobiliárneho systému a pankreasu
 c223;Angiosarkóm pečene;S40-07;Zhubný nádor hepatobiliárneho systému a pankreasu
 c224;Iný sarkóm pečene;S40-07;Zhubný nádor hepatobiliárneho systému a pankreasu
@@ -9316,8 +9316,8 @@ c765;Zhubný nádor na iných a nepresne určených miestach dolnej končatiny;S
 c767;Zhubný nádor na iných nepresne určených miestach;S40-09;Hematologické a solídné nádory
 c768;Zhubný nádor na iných a nepresne určených miestach presahujúci viaceré oblasti;S40-09;Hematologické a solídné nádory
 c770;Sekundárny a bližšie neurčený zhubný nádor lymfatických uzlín hlavy, tváre a krku;S40-09;Hematologické a solídné nádory
-c771;Sekundárny a bližšie neurčený zhubný nádor vnútrohrudníkovej lymfatických uzlín;S40-09;Hematologické a solídné nádory
-c772;Sekundárny a bližšie neurčený zhubný nádor vnútrobrušnej lymfatických uzlín;S40-09;Hematologické a solídné nádory
+c771;Sekundárny a bližšie neurčený zhubný nádor vnútrohrudníkovej lymfatickej uzliny;S40-09;Hematologické a solídné nádory
+c772;Sekundárny a bližšie neurčený zhubný nádor vnútrobrušnej lymfatickej uzliny;S40-09;Hematologické a solídné nádory
 c773;Sekundárny a bližšie neurčený zhubný nádor lymfatických uzlín pazuchy a hornej končatiny;S40-09;Hematologické a solídné nádory
 c774;Sekundárny a bližšie neurčený zhubný nádor lymfatických uzlín slabiny a lymfatických uzlín dolnej končatiny;S40-09;Hematologické a solídné nádory
 c775;Sekundárny a bližšie neurčený zhubný nádor vnútropanvových lymfatických uzlín;S40-09;Hematologické a solídné nádory
@@ -9351,7 +9351,7 @@ c408;Zhubný nádor kosti a kĺbovej chrupky končatín presahujúci viaceré ob
 c409;Zhubný nádor kosti a kĺbovej chrupky končatiny, bližšie neurčený;S40-11;Zhubný nádor spojivového tkaniva
 c4101;Zhubný nádor kosti a kĺbovej chrupky v kraniofaciálnej oblasti;S40-11;Zhubný nádor spojivového tkaniva
 c4102;Zhubný nádor kosti a kĺbovej chrupky v maxilofaciálnej oblasti;S40-11;Zhubný nádor spojivového tkaniva
-c411;Zhubný nádor kosti a kĺbovej chrupky dolnej čeľuste ;S40-11;Zhubný nádor spojivového tkaniva
+c411;Zhubný nádor kosti a kĺbovej chrupky dolnej čeľuste;S40-11;Zhubný nádor spojivového tkaniva
 c412;Zhubný nádor kosti a kĺbovej chrupky chrbtice;S40-11;Zhubný nádor spojivového tkaniva
 c4130;Zhubný nádor kosti a kĺbovej chrupky rebra;S40-11;Zhubný nádor spojivového tkaniva
 c4131;Zhubný nádor kosti a kĺbovej chrupky hrudnej kosti;S40-11;Zhubný nádor spojivového tkaniva
@@ -9423,7 +9423,7 @@ c795;Sekundárny zhubný nádor kosti a kostnej drene;S40-14;Iný zhubný nádor
 d480;Nádor s neurčitým alebo neznámym správaním: kosť a kĺbová chrupka;S40-14;Iný zhubný nádor spojivového tkaniva
 d481;Nádor s neurčitým alebo neznámym správaním: spojivové a iné mäkké tkanivo;S40-14;Iný zhubný nádor spojivového tkaniva
 d482;Nádor s neurčitým alebo neznámym správaním: periférne nervy a autonómny nervový systém;S40-14;Iný zhubný nádor spojivového tkaniva
-m312;Letálny granulóm strednej čiary ;S40-14;Iný zhubný nádor spojivového tkaniva
+m312;Letálny granulóm strednej čiary;S40-14;Iný zhubný nádor spojivového tkaniva
 m4840;Únavová zlomenina stavca na viacerých miestach chrbtice;S40-14;Iný zhubný nádor spojivového tkaniva
 m4841;Únavová zlomenina stavca v okcipito-atlanto-axiálnej oblasti;S40-14;Iný zhubný nádor spojivového tkaniva
 m4842;Únavová zlomenina stavca v krčnej oblasti;S40-14;Iný zhubný nádor spojivového tkaniva
@@ -9526,7 +9526,7 @@ c602;Zhubný nádor tela penisu;S40-17;Zhubné nádory mužských pohlavných or
 c608;Zhubný nádor penisu presahujúci viaceré oblasti;S40-17;Zhubné nádory mužských pohlavných orgánov
 c609;Zhubný nádor penisu, bližšie neurčený;S40-17;Zhubné nádory mužských pohlavných orgánov
 c61;Zhubný nádor prostaty;S40-17;Zhubné nádory mužských pohlavných orgánov
-c630;Zhubný nádor nadsemenníka ;S40-17;Zhubné nádory mužských pohlavných orgánov
+c630;Zhubný nádor nadsemenníka;S40-17;Zhubné nádory mužských pohlavných orgánov
 c631;Zhubný nádor semenného povrazca;S40-17;Zhubné nádory mužských pohlavných orgánov
 c632;Zhubný nádor mieška;S40-17;Zhubné nádory mužských pohlavných orgánov
 c637;Zhubný nádor iných mužských pohlavných orgánov, bližšie určených;S40-17;Zhubné nádory mužských pohlavných orgánov
@@ -9545,7 +9545,7 @@ n423;Dysplázia prostaty;S40-17;Zhubné nádory mužských pohlavných orgánov
 c64;Zhubný nádor obličky okrem obličkovej panvičky;S40-18;Zhubné nádory močových orgánov
 c65;Zhubný nádor obličkovej panvičky;S40-18;Zhubné nádory močových orgánov
 c66;Zhubný nádor močovodu;S40-18;Zhubné nádory močových orgánov
-c670;Zhubný nádor trigonum močového mechúra ;S40-18;Zhubné nádory močových orgánov
+c670;Zhubný nádor trigonum močového mechúra;S40-18;Zhubné nádory močových orgánov
 c671;Zhubný nádor klenby močového mechúra;S40-18;Zhubné nádory močových orgánov
 c672;Zhubný nádor bočnej steny močového mechúra;S40-18;Zhubné nádory močových orgánov
 c673;Zhubný nádor prednej steny močového mechúra;S40-18;Zhubné nádory močových orgánov
@@ -9631,15 +9631,15 @@ c740;Zhubný nádor kôry nadobličky;S40-20;Zhubný nádor endokrinného systé
 c741;Zhubný nádor drene nadobličky;S40-20;Zhubný nádor endokrinného systému
 c749;Zhubný nádor nadobličky, bližšie neurčený;S40-20;Zhubný nádor endokrinného systému
 c750;Zhubný nádor prištítnej žľazy;S40-20;Zhubný nádor endokrinného systému
-c751;Zhubný nádor podmozgovej žľazy ;S40-20;Zhubný nádor endokrinného systému
+c751;Zhubný nádor podmozgovej žľazy;S40-20;Zhubný nádor endokrinného systému
 c758;Zhubný nádor s postihnutím viacerých žliaz, bližšie neurčený;S40-20;Zhubný nádor endokrinného systému
-c759;Zhubný nádor žľazy s vnútorným vylučovaním,  bližšie neurčený ;S40-20;Zhubný nádor endokrinného systému
+c759;Zhubný nádor žľazy s vnútorným vylučovaním, bližšie neurčený;S40-20;Zhubný nádor endokrinného systému
 c797;Sekundárny zhubný nádor nadobličky;S40-20;Zhubný nádor endokrinného systému
 d440;Nádor s neurčitým alebo neznámym správaním: štítna žľaza;S40-20;Zhubný nádor endokrinného systému
 d441;Nádor s neurčitým alebo neznámym správaním: nadoblička;S40-20;Zhubný nádor endokrinného systému
 d442;Nádor s neurčitým alebo neznámym správaním: prištítna žľaza;S40-20;Zhubný nádor endokrinného systému
-d443;Nádor s neurčitým alebo neznámym správaním: podmozgová žľaza ;S40-20;Zhubný nádor endokrinného systému
-d448;Nádor s neurčitým alebo neznámym správaním: viaceré endokrinné žľazy ;S40-20;Zhubný nádor endokrinného systému
+d443;Nádor s neurčitým alebo neznámym správaním: podmozgová žľaza;S40-20;Zhubný nádor endokrinného systému
+d448;Nádor s neurčitým alebo neznámym správaním: viaceré endokrinné žľazy;S40-20;Zhubný nádor endokrinného systému
 d449;Nádor s neurčitým alebo neznámym správaním: bližšie neurčená žľaza s vnútorným vylučovaním;S40-20;Zhubný nádor endokrinného systému
 z230;Potreba imunizácie výlučne proti cholere;S33-13;Iné faktory, ktoré ovplyvňujú zdravotný stav a následná starostlivosť po ukončenej liečbe
 z231;Potreba imunuzácie výlučne proti týfusu – paratýfusu [TAB];S33-13;Iné faktory, ktoré ovplyvňujú zdravotný stav a následná starostlivosť po ukončenej liečbe
