@@ -1,5 +1,5 @@
 kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
-5t06f0;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, nemotorizovaná ;Trauma a poúrazové stavy;S02-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
+5t06f0;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, nemotorizovaná;Trauma a poúrazové stavy;S02-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
 5t06f1;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, motorizovaná;Trauma a poúrazové stavy;S02-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
 5t900;Replantácia v oblasti nad lakťom;Trauma a poúrazové stavy;S02-06;Replantácie
 5t901;Replantácia v oblasti lakťa;Trauma a poúrazové stavy;S02-06;Replantácie
@@ -151,9 +151,9 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;Trauma a poúrazové stavy;S02-27;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;Trauma a poúrazové stavy;S02-27;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5t621a;Parciálna resekcia  hemivertebry;Trauma a poúrazové stavy;S02-27;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;Trauma a poúrazové stavy;S02-27;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;Trauma a poúrazové stavy;S02-27;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a904x;Iný prístup k bedrovej chrbtici;Trauma a poúrazové stavy;S02-28;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;Trauma a poúrazové stavy;S02-28;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;Trauma a poúrazové stavy;S02-28;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S02-28;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;Trauma a poúrazové stavy;S02-28;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S02-28;Iné výkony na chrbtici pre traumu a poúrazové stavy
@@ -499,7 +499,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 8m3070;Iná imunoterapia s nemodifikovanými protilátkami;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
 8m3071;Iná imunoterapia s modifikovanými protilátkami;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
 8m3072;Iná imunoterapia s imunomodulátormi;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
-8m30730;Intravenózna imunosupresia ;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
+8m30730;Intravenózna imunosupresia;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
 8m3073x;Iná imunosupresia;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
 8m307x;Iná imunoterapia, ostatné;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
 93016;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení;Hematologické a hematoonkologické ochorenia;S32-39;Symptomatická liečba pri hematologickom a hematoonkologickom ochorení
@@ -728,11 +728,11 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5o90x4;Iná incízia a excízia retroperitoneálneho tkaniva, laparoskopicky;Skupina onkologických diagnóz 107;S44-05;Komplexné výkony v retroperitoneu - onko
 5o90x5;Iná incízia a excízia retroperitoneálneho tkaniva, perkutánne;Skupina onkologických diagnóz 107;S44-05;Komplexné výkony v retroperitoneu - onko
 5o90xx;Iná incízia a excízia retroperitoneálneho tkaniva, ostatné;Skupina onkologických diagnóz 107;S44-05;Komplexné výkony v retroperitoneu - onko
-5l5354;Plastika záplatou [patch plastika] cievnej protézy tepny panvy a trupu ;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5360;Plastika záplatou [patch plastika] truncus coeliacus ;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5361;Plastika záplatou [patch plastika] a. hepatica ;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5365;Plastika záplatou [patch plastika] a. mesenterica superior ;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5366;Plastika záplatou [patch plastika] a. mesenterica inferior ;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5354;Plastika záplatou [patch plastika] cievnej protézy tepny panvy a trupu;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5360;Plastika záplatou [patch plastika] truncus coeliacus;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5361;Plastika záplatou [patch plastika] a. hepatica;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5365;Plastika záplatou [patch plastika] a. mesenterica superior;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5366;Plastika záplatou [patch plastika] a. mesenterica inferior;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l5460;Transpozícia a. hepatica;Skupina onkologických diagnóz 23;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l5462;Transpozícia a. lienalis;Skupina onkologických diagnóz 42;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l5144;Bajpasové operácie aorty pomocou žily, aortoiliofemorálny bajpas;Skupina onkologických diagnóz 70;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
@@ -769,16 +769,16 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5l5257;Bajpasové operácie a. iliaca a viscerálnej tepny pomocou protézy, a. renalis;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l5258;Bajpasové operácie a. iliaca a viscerálnej tepny pomocou protézy, iné viscerálnej tepny;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l525x;Bajpasové operácie a. iliaca a viscerálnej tepny pomocou protézy, ostatné;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5331;Plastika záplatou [patch plastika] abdominálnej aorty ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5331;Plastika záplatou [patch plastika] abdominálnej aorty;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l533x;Plastika záplatou [patch plastika] aorty, ostatné;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5350;Plastika záplatou [patch plastika] bližšie neurčenej časti a. iliaca ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5351;Plastika záplatou [patch plastika] a. iliaca communis ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5352;Plastika záplatou [patch plastika] a. iliaca externa ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5353;Plastika záplatou [patch plastika] a. iliaca interna ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5350;Plastika záplatou [patch plastika] bližšie neurčenej časti a. iliaca;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5351;Plastika záplatou [patch plastika] a. iliaca communis;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5352;Plastika záplatou [patch plastika] a. iliaca externa;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5353;Plastika záplatou [patch plastika] a. iliaca interna;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l535x;Plastika záplatou [patch plastika] tepny panvy a trupu, ostatné;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5362;Plastika záplatou [patch plastika] a. gastrica ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5363;Plastika záplatou [patch plastika] a. lienalis ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
-5l5364;Plastika záplatou [patch plastika] a. renalis ;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5362;Plastika záplatou [patch plastika] a. gastrica;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5363;Plastika záplatou [patch plastika] a. lienalis;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
+5l5364;Plastika záplatou [patch plastika] a. renalis;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l536x;Plastika záplatou [patch plastika] viscerálnej tepny, ostatné;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l5450;Transpozícia bližšie neurčenej časti a. iliaca;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
 5l5451;Transpozícia a. iliaca externa;Skupina onkologických diagnóz 86;S44-06;Operačné výkony na cievach - aortoiliacká oblasť - onko
@@ -800,20 +800,20 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5l15b1;Resekcia v. cava inferior s protetickou náhradou - suprarenálny úsek;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5l15b2;Resekcia v. cava inferior bez použitia protetického materiálu;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5l15x;Resekcia pseudoaneuryziem, ostatné;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l529;Bajpasové operácie žily pomocou protézy ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l5392;Plastika záplatou [patch plastika] v. portae ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l5393;Plastika záplatou [patch plastika] v. gastrica ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l5394;Plastika záplatou [patch plastika] v. lienalis ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l529;Bajpasové operácie žily pomocou protézy;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l5392;Plastika záplatou [patch plastika] v. portae;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l5393;Plastika záplatou [patch plastika] v. gastrica;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l5394;Plastika záplatou [patch plastika] v. lienalis;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5l5395;Plastika záplatou [patch plastika] v. mesenterica superior;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l5396;Plastika záplatou [patch plastika] v. mesenterica inferior ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l5396;Plastika záplatou [patch plastika] v. mesenterica inferior;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5l5397;Plastika záplatou [patch plastika] vv. hepaticae;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5l5398;Plastika záplatou [patch plastika] v. renalis;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5l539f;Plastika záplatou [patch plastika] v. cava inferior;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l539g;Plastika záplatou [patch plastika] v. iliaca communis ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l539h;Plastika záplatou [patch plastika] v. iliaca externa ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l539i;Plastika záplatou [patch plastika] v. iliaca interna ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l539g;Plastika záplatou [patch plastika] v. iliaca communis;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l539h;Plastika záplatou [patch plastika] v. iliaca externa;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l539i;Plastika záplatou [patch plastika] v. iliaca interna;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5l539x;Plastika záplatou [patch plastika] hĺbkovej žily, ostatné;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
-5l53a0;Plastika záplatou [patch plastika] na povrchových žilách hlavy a krku ;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
+5l53a0;Plastika záplatou [patch plastika] na povrchových žilách hlavy a krku;Skupina onkologických diagnóz 86;S44-07;Operačné výkony na cievach - vény a iné - onko
 5o9011;Perirenálna drenáž retroperitoneálneho tkaniva, otvorene chirurgicky abdominálne;Skupina onkologických diagnóz 107;S44-09;Operačné výkony v retroperitoneu - onko
 5o9012;Perirenálna drenáž retroperitoneálneho tkaniva, lumbotomicky;Skupina onkologických diagnóz 107;S44-09;Operačné výkony v retroperitoneu - onko
 5o9014;Perirenálna drenáž retroperitoneálneho tkaniva, laparoskopicky;Skupina onkologických diagnóz 107;S44-09;Operačné výkony v retroperitoneu - onko
@@ -961,19 +961,19 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5j14x;Iná lobektómia alebo bilobektómia;Skupina onkologických diagnóz 10;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j15000;Pneumonektómia, torakotomicky bez lymfadenektómie;Skupina onkologických diagnóz 10;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j15001;Pneumonektómia, torakotomicky s lymfadenektómiou;Skupina onkologických diagnóz 10;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j154;Rozšírená pneumonektómia ;Skupina onkologických diagnóz 10;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j154;Rozšírená pneumonektómia;Skupina onkologických diagnóz 10;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j13120;Segmentálna resekcia pľúc, torakoskopicky bez lymfadenektómie bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j13121;Segmentálna resekcia pľúc, torakoskopicky s lymfadenektómiou bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j13200;Segmentálna resekcia pľúc, torakotomicky bez lymfadenektómie s použitím svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j13201;Segmentálna resekcia pľúc, torakotomicky s lymfadenektómiou s použitím svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j13200;Segmentálna resekcia pľúc, torakotomicky bez lymfadenektómie s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j13201;Segmentálna resekcia pľúc, torakotomicky s lymfadenektómiou s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j13220;Segmentálna resekcia pľúc, torakoskopicky bez lymfadenektómie s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j13221;Segmentálna resekcia pľúc, torakoskopicky s lymfadenektómiou s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14000;Lobektómia bez bronchoplastiky, torakotomicky bez lymfadenektómie bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14001;Lobektómia bez bronchoplastiky, torakotomicky s lymfadenektómiou bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14020;Lobektómia bez bronchoplastiky, torakoskopicky bez lymfadenektómie bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14021;Lobektómia bez bronchoplastiky, torakoskopicky s lymfadenektómiou bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14000;Lobektómia bez bronchoplastiky, torakotomicky bez lymfadenektómie bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14001;Lobektómia bez bronchoplastiky, torakotomicky s lymfadenektómiou bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14020;Lobektómia bez bronchoplastiky, torakoskopicky bez lymfadenektómie bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14021;Lobektómia bez bronchoplastiky, torakoskopicky s lymfadenektómiou bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14100;Lobektómia bez bronchoplastiky, torakotomicky bez lymfadenektómie s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14101;Lobektómia bez bronchoplastiky, torakotomicky s lymfadenektómiou s použitím svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14101;Lobektómia bez bronchoplastiky, torakotomicky s lymfadenektómiou s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14120;Lobektómia bez bronchoplastiky, torakoskopicky  bez lymfadenektómie s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14121;Lobektómia bez bronchoplastiky, torakoskopicky  s lymfadenektómiou s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14210;Lobektómia s bronchoplastikou, torakotomicky bez lymfadenektómie;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
@@ -981,20 +981,20 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5j14220;Lobektómia s bronchoplastikou, torakoskopicky bez lymfadenektómie;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14400;Rozšírená lobektómia, torakotomicky bez lymfadenektómie;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14401;Rozšírená lobektómia, torakotomicky s lymfadenektómiou;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14a00;Bilobektómia bez bronchoplastiky, torakotomicky bez lymfadenektómie bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14a01;Bilobektómia bez bronchoplastiky, torakotomicky s lymfadenektómiou bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14a20;Bilobektómia bez bronchoplastiky, torakoskopicky bez lymfadenektómie bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14a21;Bilobektómia bez bronchoplastiky, torakoskopicky s lymfadenektómiou bez použitia svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14b00;Bilobektómia bez bronchoplastiky, torakotomicky  bez lymfadenektómie s použitím svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14a00;Bilobektómia bez bronchoplastiky, torakotomicky bez lymfadenektómie bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14a01;Bilobektómia bez bronchoplastiky, torakotomicky s lymfadenektómiou bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14a20;Bilobektómia bez bronchoplastiky, torakoskopicky bez lymfadenektómie bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14a21;Bilobektómia bez bronchoplastiky, torakoskopicky s lymfadenektómiou bez použitia svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14b00;Bilobektómia bez bronchoplastiky, torakotomicky  bez lymfadenektómie s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14b01;Bilobektómia bez bronchoplastiky, torakotomicky s lymfadenektómiou s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j14b20;Bilobektómia bez bronchoplastiky, torakoskopicky bez lymfadenektómie s použitím svorkovača ;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j14b20;Bilobektómia bez bronchoplastiky, torakoskopicky bez lymfadenektómie s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14b21;Bilobektómia bez bronchoplastiky, torakoskopicky s lymfadenektómiou s použitím svorkovača;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14c11;Bilobektómia s bronchoplastikou, torakotomicky  s lymfadenektómiou;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14c20;Bilobektómia s bronchoplastikou, torakoskopicky bez lymfadenektómie;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j14c21;Bilobektómia s bronchoplastikou, torakoskopicky s lymfadenektómiou;Skupina onkologických diagnóz 115;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j12200;Klinovitá alebo atypická resekcia pľúc, torakotomicky bez lymfadenektómies použitím svorkovača;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j12201;Klinovitá alebo atypická resekcia pľúc, torakotomicky s lymfadenektómiou s použitím svorkovača ;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
-5j12300;Klinovitá resekcia pľúc, torakotomicky bez lymfadenektómie ;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j12201;Klinovitá alebo atypická resekcia pľúc, torakotomicky s lymfadenektómiou s použitím svorkovača;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
+5j12300;Klinovitá resekcia pľúc, torakotomicky bez lymfadenektómie;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j12301;Klinovitá resekcia pľúc, torakotomicky s lymfadenektómiou;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j12320;Klinovitá resekcia pľúc, torakoskopicky bez lymfadenektómie;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
 5j12321;Klinovitá resekcia pľúc, torakoskopicky s lymfadenektómiou;Skupina onkologických diagnóz 39;S44-15;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách - onko
@@ -1017,7 +1017,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n6512;Incízia na Oddiho zvierači a papilla duodeni major [papilotómia], laparoskopicky;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
 5n6514;Incízia na Oddiho zvierači a papilla duodeni major [papilotómia], konverzia z laparoskopie na laparotómiu;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
 5n651x;Incízia na Oddiho zvierači a papilla duodeni major [papilotómia], ostatné;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
-5n6520;Ostatné incízie (s duodenotómiou) na Oddiho zvierači a papilla duodeni major, laparotomicky ;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
+5n6520;Ostatné incízie (s duodenotómiou) na Oddiho zvierači a papilla duodeni major, laparotomicky;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
 5n6522;Ostatné incízie (s duodenotómiou) na Oddiho zvierači a papilla duodeni major, laparoskopicky;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
 5n6524;Ostatné incízie (s duodenotómiou) na Oddiho zvierači a papilla duodeni major, konverzia z laparoskopie na laparotómiu;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
 5n652x;Ostatné incízie (s duodenotómiou) na Oddiho zvierači a papilla duodeni major, ostatné;Skupina onkologických diagnóz 59;S44-16;Revízie a špeciálne operácie žlčových ciest - onko
@@ -1221,12 +1221,12 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5b110;Incízia v oblasti štítnej žľazy bez ďalších výkonov;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
 5b111;Drenáž v oblasti štítnej žľazy;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
 5b11x;Iná incízia v oblasti štítnej žľazy;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
-5b12x0;Iná hemityreoidektómia, štandardná ;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
-5b12x1;Iná hemityreoidektómia, miniinvazívna videoasistovaná ;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
-5b12x2;Iná hemityreoidektómia, miniinvazívna radioasistovaná ;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
-5b12x3;Iná hemityreoidektómia, miniinvazívna video a radioasistovaná ;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
-5b12x4;Iná hemityreoidektómia, endoskopicky asistovaná ;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
-5b12x5;Iná hemityreoidektómia, endoskopicky radioasistovaná ;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
+5b12x0;Iná hemityreoidektómia, štandardná;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
+5b12x1;Iná hemityreoidektómia, miniinvazívna videoasistovaná;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
+5b12x2;Iná hemityreoidektómia, miniinvazívna radioasistovaná;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
+5b12x3;Iná hemityreoidektómia, miniinvazívna video a radioasistovaná;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
+5b12x4;Iná hemityreoidektómia, endoskopicky asistovaná;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
+5b12x5;Iná hemityreoidektómia, endoskopicky radioasistovaná;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
 5b12x6;Iná hemityreoidektómia s použitím elektroneurostimulátora;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
 5b12xx;Iná hemityreoidektómia, ostatné;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
 5b14x0;Iná tyreoidektómia, štandardná;Skupina onkologických diagnóz 96;S44-19;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok - onko
@@ -1315,7 +1315,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n7100;Incízia pankreasu bez ďalších výkonov;Skupina onkologických diagnóz 92;S44-22;Iné operačné výkony na pankrease - onko
 5n7101;Drenáž pankreasu;Skupina onkologických diagnóz 92;S44-22;Iné operačné výkony na pankrease - onko
 5n710x;Incízia, drenáž pankreasu, ostatné;Skupina onkologických diagnóz 92;S44-22;Iné operačné výkony na pankrease - onko
-5o243a1;Zavedenie trvalého kovového stentu do močovodu, transuretrálne antegrádne ;Skupina onkologických diagnóz 11;S44-24;Jednoduché výkony na močovode - onko
+5o243a1;Zavedenie trvalého kovového stentu do močovodu, transuretrálne antegrádne;Skupina onkologických diagnóz 11;S44-24;Jednoduché výkony na močovode - onko
 5o243a2;Zavedenie iného trvalého stentu do močovodu, transuretrálne antegrádne;Skupina onkologických diagnóz 11;S44-24;Jednoduché výkony na močovode - onko
 5o243r1;Zavedenie trvalého kovového stentu do močovodu, transuretrálne retrográdne;Skupina onkologických diagnóz 11;S44-24;Jednoduché výkony na močovode - onko
 5o243r2;Zavedenie iného trvalého stentu do močovodu, transuretrálne retrográdne;Skupina onkologických diagnóz 11;S44-24;Jednoduché výkony na močovode - onko
@@ -1355,7 +1355,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n4187;Peranálna excízia celej steny chorého tkaniva konečníka, lokálne endoskopicko-mikrochirurgicky;Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
 5n4188;Peranálna lokálna excízia celej steny chorého tkaniva konečníka, transanálne miniinvazívne [TAMIS];Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
 5n418x;Peranálna lokálna excízia celej steny chorého tkaniva konečníka,  ostatné;Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
-5n4190;Peranálna excízia celej steny chorého tkaniva konečníka, cirkulárna peranálne ;Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
+5n4190;Peranálna excízia celej steny chorého tkaniva konečníka, cirkulárna peranálne;Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
 5n4197;Peranálna excízia celej steny chorého tkaniva konečníka, cirkulárna endoskopicko-mikrochirurgicky;Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
 5n419x;Peranálna excízia celej steny chorého tkaniva konečníka, cirkulárna ostatné;Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
 5n41a7;Peranálna excízia celej steny chorého tkaniva konečníka, cirkulárna intraperitoneálna endoskopická, mikrochirurgická;Skupina onkologických diagnóz 75;S44-28;Komplexné peranálne operácie - onko
@@ -1639,11 +1639,11 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n59122;Fenestrácia cysty pečene, laparoskopicky;Skupina onkologických diagnóz 57;S44-50;Ostatné operačné výkony na pečeni - onko
 5n591x;Incízia a fenestrácia pečene, ostatné;Skupina onkologických diagnóz 57;S44-50;Ostatné operačné výkony na pečeni - onko
 5n610;Excízia zbytkového kýpťa ductusu cysticus;Skupina onkologických diagnóz 58;S44-50;Ostatné operačné výkony na pečeni - onko
-5n92d2;Lokálna parietálna peritoneálna ektómia peritoneálneho tkaniva ;Skupina onkologických diagnóz 1;S44-55;Resekcia peritonea - onko
+5n92d2;Lokálna parietálna peritoneálna ektómia peritoneálneho tkaniva;Skupina onkologických diagnóz 1;S44-55;Resekcia peritonea - onko
 5n92e;Resekcia tkaniva z brušného regiónu bez orgánového priradenia, intraperitoneálna;Skupina onkologických diagnóz 1;S44-55;Resekcia peritonea - onko
 5n92b;Resekcia mesentéria;Skupina onkologických diagnóz 2;S44-55;Resekcia peritonea - onko
 5n92d0;Parciálna parietálna peritoneálna ektómia peritoneálneho tkaniva;Skupina onkologických diagnóz 2;S44-55;Resekcia peritonea - onko
-5n92d1;Subtotálna parietálna peritoneálna ektómia peritoneálneho tkaniva ;Skupina onkologických diagnóz 2;S44-55;Resekcia peritonea - onko
+5n92d1;Subtotálna parietálna peritoneálna ektómia peritoneálneho tkaniva;Skupina onkologických diagnóz 2;S44-55;Resekcia peritonea - onko
 5n110;Lokálna otvorená excízia chorobou zmeneného žalúdočného tkaniva;Skupina onkologických diagnóz 61;S44-56;Resekcie a komplexné výkony na žalúdku - onko
 5n111;Lokálna laparoskopická excízia chorobou zmeneného žalúdočného tkaniva;Skupina onkologických diagnóz 61;S44-56;Resekcie a komplexné výkony na žalúdku - onko
 5n120;Atypická parciálna resekcia žalúdka, segmentárna resekcia;Skupina onkologických diagnóz 61;S44-56;Resekcie a komplexné výkony na žalúdku - onko
@@ -1764,7 +1764,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n532;Odstránenie vlastného tkaniva pečene ako samostatný výkon;Skupina onkologických diagnóz 57;S44-59;Resekcie pečene - onko
 5n42001;Predná manžetová resekcia konečníka pri uchovaní sfinkteru, otvorene chirurgicky s anastomózou;Skupina onkologických diagnóz 71;S44-60;Resekčné operácie na rekte pri zhubnom nádore - onko
 5n42002;Predná manžetová resekcia konečníka pri uchovaní sfinkteru, otvorene chirurgicky s enterostómiou a slepým uzáverom;Skupina onkologických diagnóz 71;S44-60;Resekčné operácie na rekte pri zhubnom nádore - onko
-5n42021;Predná manžetová resekcia konečníka pri uchovaní sfinkteru, laparoskopicky s anastomózou ;Skupina onkologických diagnóz 71;S44-60;Resekčné operácie na rekte pri zhubnom nádore - onko
+5n42021;Predná manžetová resekcia konečníka pri uchovaní sfinkteru, laparoskopicky s anastomózou;Skupina onkologických diagnóz 71;S44-60;Resekčné operácie na rekte pri zhubnom nádore - onko
 5n42022;Predná manžetová resekcia konečníka pri uchovaní sfinkteru, laparoskopicky s enterostómiou a slepým uzáverom;Skupina onkologických diagnóz 71;S44-60;Resekčné operácie na rekte pri zhubnom nádore - onko
 5n420x;Predná manžetová resekcia konečníka pri uchovaní sfinkteru, laparoskopicky ostatné;Skupina onkologických diagnóz 71;S44-60;Resekčné operácie na rekte pri zhubnom nádore - onko
 5n42101;Zadná manžetová resekcia konečníka pri uchovaní sfinkteru, otvorene chirurgicky s anastomózou;Skupina onkologických diagnóz 71;S44-60;Resekčné operácie na rekte pri zhubnom nádore - onko
@@ -1926,10 +1926,10 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n6212;Cholecystektómia jednoduchá s revíziou žlčových ciest, laparoskopicky;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
 5n6214;Cholecystektómia jednoduchá s revíziou žlčových ciest, konverzia z laparoskopie na laparotómiu;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
 5n623;Cholecystektómia rozšírená;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
-5n6241;Cholecystektómia simultánne bez operačnej revízie žlčových ciest počas jednej laparotómie z iných dôvodov ;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
-5n6242;Cholecystektómia simultánne s operačnou revíziou žlčových ciest počas jednej laparotómie z iných dôvodov ;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
-5n6251;Cholecystektómia simultánne bez operačnej revízie žlčových ciest počas jednej laparoskopie z iných dôvodov ;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
-5n6252;Cholecystektómia simultánne s operačnou revíziou žlčových ciest počas jednej laparoskopie z iných dôvodov ;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
+5n6241;Cholecystektómia simultánne bez operačnej revízie žlčových ciest počas jednej laparotómie z iných dôvodov;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
+5n6242;Cholecystektómia simultánne s operačnou revíziou žlčových ciest počas jednej laparotómie z iných dôvodov;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
+5n6251;Cholecystektómia simultánne bez operačnej revízie žlčových ciest počas jednej laparoskopie z iných dôvodov;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
+5n6252;Cholecystektómia simultánne s operačnou revíziou žlčových ciest počas jednej laparoskopie z iných dôvodov;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
 5n62x;Cholecystektómia, ostatné;Skupina onkologických diagnóz 94;S44-72;Cholecystektómia - onko
 5n6110;Cholecystotómia, laparotomicky;Skupina onkologických diagnóz 58;S44-73;Iné jednoduché výkony na žlčníku - onko
 5n6112;Cholecystotómia, laparoskopicky;Skupina onkologických diagnóz 58;S44-73;Iné jednoduché výkony na žlčníku - onko
@@ -2052,7 +2052,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n44b;Lokálna deštrukcia chorého tkaniva análneho kanála;Skupina onkologických diagnóz 71;S44-77;Jednoduché výkony na anuse - onko
 5n44x;Iné excízie a deštrukcie chorého tkaniva análneho kanála;Skupina onkologických diagnóz 71;S44-77;Jednoduché výkony na anuse - onko
 5n450;Incízia análnej fistuly;Skupina onkologických diagnóz 71;S44-77;Jednoduché výkony na anuse - onko
-5n4510;Subkutánna excízia análnej fistuly ;Skupina onkologických diagnóz 71;S44-77;Jednoduché výkony na anuse - onko
+5n4510;Subkutánna excízia análnej fistuly;Skupina onkologických diagnóz 71;S44-77;Jednoduché výkony na anuse - onko
 5n459;Operatívna liečba análnej fistuly, ostatné;Skupina onkologických diagnóz 71;S44-77;Jednoduché výkony na anuse - onko
 5n49x;Iné operačné výkony na konečníku, ostatné;Skupina onkologických diagnóz 71;S44-77;Jednoduché výkony na anuse - onko
 5o3611;Cystostómia, perkutánne;Skupina onkologických diagnóz 17;S44-78;Jednoduché výkony na močovom mechúri - onko
@@ -2184,7 +2184,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n22x4;Iná excízia a deštrukcia chorého tkaniva hrubého čreva fotodynamickou liečbou;Skupina onkologických diagnóz 22;S44-84;Základné operačné výkony na čreve - onko
 5n22xx;Iná excízia a deštrukcia chorého tkaniva hrubého čreva, ostatné;Skupina onkologických diagnóz 22;S44-84;Základné operačné výkony na čreve - onko
 5n3503;Dezinvaginácia hrubého čreva;Skupina onkologických diagnóz 22;S44-84;Základné operačné výkony na čreve - onko
-5n220;Lokálna excízia chorého tkaniva hrubého čreva, otvorene chirurgicky ;Skupina onkologických diagnóz 24;S44-84;Základné operačné výkony na čreve - onko
+5n220;Lokálna excízia chorého tkaniva hrubého čreva, otvorene chirurgicky;Skupina onkologických diagnóz 24;S44-84;Základné operačné výkony na čreve - onko
 5n2230;Otvorená chirurgická deštrukcia chorého tkaniva hrubého čreva elektrokoaguláciou;Skupina onkologických diagnóz 24;S44-84;Základné operačné výkony na čreve - onko
 5n20e;Bajpasové viacpočetné anastomózy čriev;Skupina onkologických diagnóz 28;S44-84;Základné operačné výkony na čreve - onko
 5n203;Perkutána endoskopická jejunostómia [PEJ];Skupina onkologických diagnóz 31;S44-84;Základné operačné výkony na čreve - onko
@@ -2278,13 +2278,13 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5n322x;Vytvorenie enterostómie ako protektívny výkon v súvislosti s iným výkonom, ostatné;Skupina onkologických diagnóz 7;S44-84;Základné operačné výkony na čreve - onko
 5n32x0;Vytvorenie iných enterostómií, laparotomicky;Skupina onkologických diagnóz 7;S44-84;Základné operačné výkony na čreve - onko
 5n32x2;Vytvorenie iných enterostómií, laparoskopicky;Skupina onkologických diagnóz 7;S44-84;Základné operačné výkony na čreve - onko
-5n461;Sfinkteroktómia laterálna  ;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
-5n462;Sfinkterotómia mediálna ;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
+5n461;Sfinkteroktómia laterálna;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
+5n462;Sfinkterotómia mediálna;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
 5n46x;Sfinkteroktómia, ostatné;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
 5n499;Iné operačné výkony na anuse, ostatné;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
 5n49a;Ligatúra konečníka;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
 5n49b;Peranálna sklerotizácia konečníka;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
-5n49c;Peranálna dilatácia konečníka ;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
+5n49c;Peranálna dilatácia konečníka;Skupina onkologických diagnóz 71;S44-84;Základné operačné výkony na čreve - onko
 5n21xx;Iná lokálna excízia a deštrukcia chorého tkaniva tenkého čreva, ostatné;Skupina onkologických diagnóz 74;S44-84;Základné operačné výkony na čreve - onko
 5n210;Lokálna excízia na tenkom čreve intraluminálnych membrán;Skupina onkologických diagnóz 76;S44-84;Základné operačné výkony na čreve - onko
 5n2110;Lokálna excízia na tenkom čreve, laparotomicky;Skupina onkologických diagnóz 76;S44-84;Základné operačné výkony na čreve - onko

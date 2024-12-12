@@ -1,10 +1,10 @@
 kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 93020;Predpôrodná starostlivosť pri dekompenzovanom diabete a DM s komplikáciami;Diabetes mellitus v gravidite;S11-05;Predpôrodná starostlivosť pri dekompenzovanom diabete a DM s komplikáciami
-643161;Podanie lieku surfaktant, endotracheálne: od 120 mg do menej ako 240 mg ;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
-643162;Podanie lieku surfaktant, endotracheálne: od 240 mg do menej ako 360 mg ;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
+643161;Podanie lieku surfaktant, endotracheálne: od 120 mg do menej ako 240 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
+643162;Podanie lieku surfaktant, endotracheálne: od 240 mg do menej ako 360 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
 643163;Podanie lieku surfaktant, endotracheálne: od 360 mg do menej ako 480 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
 643164;Podanie lieku surfaktant, endotracheálne: 480 mg a viac;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
-5t06f0;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, nemotorizovaná ;Trauma a poúrazové stavy;S52-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
+5t06f0;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, nemotorizovaná;Trauma a poúrazové stavy;S52-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
 5t06f1;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, motorizovaná;Trauma a poúrazové stavy;S52-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
 5t900;Replantácia v oblasti nad lakťom;Trauma a poúrazové stavy;S52-06;Replantácie
 5t901;Replantácia v oblasti lakťa;Trauma a poúrazové stavy;S52-06;Replantácie
@@ -156,9 +156,9 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5t621a;Parciálna resekcia  hemivertebry;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a904x;Iný prístup k bedrovej chrbtici;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy

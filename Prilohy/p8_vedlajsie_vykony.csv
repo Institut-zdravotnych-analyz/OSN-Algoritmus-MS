@@ -14,14 +14,14 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-04
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-04
 5t621a;Parciálna resekcia  hemivertebry;S12-04
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-04
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-04
 5t6401;Dorzálna spondylodéza, 1 segment;S12-04
 5t6402;Dorzálna spondylodéza, 2 segmenty;S12-04
 5t6403;Dorzálna spondylodéza, 3 segmenty;S12-04
 5t6404;Dorzálna spondylodéza, 4 segmenty;S12-04
 5t6405;Dorzálna spondylodéza, 5 segmentov;S12-04
 5t6406;Dorzálna spondylodéza, 6 a viac segmentov;S12-04
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-04
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-04
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-04
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-04
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-04
@@ -54,10 +54,10 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6831;Revízia endoprotézy medzistavcovej platničky bez výmeny;S12-04
 5t6832;Výmena endoprotézy medzistavcovej platničky;S12-04
 5t6833;Odstránenie endoprotézy medzistavcovej platničky;S12-04
-5t6411;Predĺženie dorzálnej spondylodézy s použitím konektora, 1 segment ;S12-04
-5t6412;Predĺženie dorzálnej spondylodézy s použitím konektora, 2 segmenty ;S12-04
-5t6413;Predĺženie dorzálnej spondylodézy s použitím konektora, 3 segmenty ;S12-04
-5t6414;Predĺženie dorzálnej spondylodézy s použitím konektora, 4 segmenty ;S12-04
+5t6411;Predĺženie dorzálnej spondylodézy s použitím konektora, 1 segment;S12-04
+5t6412;Predĺženie dorzálnej spondylodézy s použitím konektora, 2 segmenty;S12-04
+5t6413;Predĺženie dorzálnej spondylodézy s použitím konektora, 3 segmenty;S12-04
+5t6414;Predĺženie dorzálnej spondylodézy s použitím konektora, 4 segmenty;S12-04
 5t6415;Predĺženie dorzálnej spondylodézy s použitím konektora, 5 segmentov;S12-04
 5t6416;Predĺženie dorzálnej spondylodézy s použitím konektora, 6 a viac segmentov;S12-04
 5t6241;Totálna artrektómia, 1 segment;S12-04
@@ -107,7 +107,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-05
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-05
 5t621a;Parciálna resekcia  hemivertebry;S12-05
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-05
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-05
 5t6601;Osteosyntéza chrbtice drôtovou serklážou, 1 segment;S12-05
 5t6602;Osteosyntéza chrbtice drôtovou serklážou, 2 segmenty;S12-05
 5t6603;Osteosyntéza chrbtice drôtovou serklážou, 3 segmenty;S12-05
@@ -137,7 +137,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5a901a;Prístup ku kraniocervikálnemu spojeniu, transorálne;S12-05
 5a901c;Prístup ku kraniocervikálnemu spojeniu, laterálne;S12-05
 5a902x;Iný prístup ku krčnej chrbtici;S12-05
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-05
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-05
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-05
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-05
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-05
@@ -203,7 +203,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-06
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-06
 5t621a;Parciálna resekcia  hemivertebry;S12-06
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-06
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-06
 5t6601;Osteosyntéza chrbtice drôtovou serklážou, 1 segment;S12-06
 5t6602;Osteosyntéza chrbtice drôtovou serklážou, 2 segmenty;S12-06
 5t6603;Osteosyntéza chrbtice drôtovou serklážou, 3 segmenty;S12-06
@@ -235,7 +235,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5a90453;Retroperitoneálny prístup k bedrovej chrbtici;S12-06
 5a90455;Kombinácia torako-retroperitoneálne-retroperitoneálneho prístupu;S12-06
 5a904x;Iný prístup k bedrovej chrbtici;S12-06
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-06
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-06
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-06
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-06
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-06
@@ -261,7 +261,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-07
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-07
 5t621a;Parciálna resekcia  hemivertebry;S12-07
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-07
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-07
 8f60604;Rádiofrekvenčná ablácia stavca transpedikulárnym prístupom;S12-07
 5t6991;Vertebroplastika, 1 stavec;S12-07
 5t6992;Vertebroplastika, 2 stavce;S12-07
@@ -294,7 +294,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-08
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-08
 5t621a;Parciálna resekcia  hemivertebry;S12-08
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-08
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-08
 5a90211;Laminotómia krčnej chrbtice, 1 segment;S12-01
 5a90212;Laminotómia krčnej chrbtice, 2 segmenty;S12-01
 5a90213;Laminotómia krčnej chrbtice, 3 a viac segmentov;S12-01
@@ -338,7 +338,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-01
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-01
 5t621a;Parciálna resekcia  hemivertebry;S12-01
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-01
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-01
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-01
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-01
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-01
@@ -350,7 +350,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t61e3;Excízia z medzistavcovej platničky: 3 segmenty;S12-01
 5t61e4;Excízia z medzistavcovej platničky: 4 a viac segmentov;S12-01
 5t6831;Revízia endoprotézy medzistavcovej platničky bez výmeny;S12-01
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-01
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-01
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-01
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-01
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-01
@@ -450,7 +450,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-02
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-02
 5t621a;Parciálna resekcia  hemivertebry;S12-02
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-02
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-02
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-02
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-02
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-02
@@ -462,7 +462,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t61e3;Excízia z medzistavcovej platničky: 3 segmenty;S12-02
 5t61e4;Excízia z medzistavcovej platničky: 4 a viac segmentov;S12-02
 5t6831;Revízia endoprotézy medzistavcovej platničky bez výmeny;S12-02
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-02
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-02
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-02
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-02
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-02
@@ -543,13 +543,13 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-03
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-03
 5t621a;Parciálna resekcia  hemivertebry;S12-03
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-03
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-03
 5t61e1;Excízia z medzistavcovej platničky: 1 segment;S12-03
 5t61e2;Excízia z medzistavcovej platničky: 2 segmenty;S12-03
 5t61e3;Excízia z medzistavcovej platničky: 3 segmenty;S12-03
 5t61e4;Excízia z medzistavcovej platničky: 4 a viac segmentov;S12-03
 5t6831;Revízia endoprotézy medzistavcovej platničky bez výmeny;S12-03
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-03
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-03
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-03
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-03
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-03
@@ -586,7 +586,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-09
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-09
 5t64x;Spondylodéza, ostatné;S12-09
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-09
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-09
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-09
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-09
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-09
@@ -659,7 +659,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-10
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-10
 5t64x;Spondylodéza, ostatné;S12-10
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-10
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-10
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-10
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-10
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-10
@@ -727,7 +727,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-11
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-11
 5t64x;Spondylodéza, ostatné;S12-11
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-11
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-11
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-11
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-11
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-11
@@ -801,7 +801,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-12
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-12
 5t64x;Spondylodéza, ostatné;S12-12
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-12
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-12
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-12
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-12
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-12
@@ -897,7 +897,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-13
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-13
 5t64x;Spondylodéza, ostatné;S12-13
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-13
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-13
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-13
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-13
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-13
@@ -980,7 +980,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-14
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-14
 5t64x;Spondylodéza, ostatné;S12-14
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-14
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-14
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-14
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-14
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-14
@@ -1060,7 +1060,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-15
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-15
 5t64x;Spondylodéza, ostatné;S12-15
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-15
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-15
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-15
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-15
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-15
@@ -1144,7 +1144,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6424;Ventrálna spondylodéza, 4 segmenty;S12-16
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-16
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-16
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-16
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-16
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-16
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-16
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-16
@@ -1212,7 +1212,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-17
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-17
 5t64x;Spondylodéza, ostatné;S12-17
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-17
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-17
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-17
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-17
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-17
@@ -1260,7 +1260,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-17
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-17
 5t621a;Parciálna resekcia  hemivertebry;S12-17
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-17
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-17
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-17
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-17
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-17
@@ -1312,7 +1312,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-18
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-18
 5t64x;Spondylodéza, ostatné;S12-18
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-18
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-18
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-18
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-18
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-18
@@ -1402,7 +1402,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-18
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-18
 5t621a;Parciálna resekcia  hemivertebry;S12-18
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-18
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-18
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-18
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-18
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-18
@@ -1445,7 +1445,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-19
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-19
 5t64x;Spondylodéza, ostatné;S12-19
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-19
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-19
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-19
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-19
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-19
@@ -1516,7 +1516,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-19
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-19
 5t621a;Parciálna resekcia  hemivertebry;S12-19
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-19
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-19
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-19
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-19
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-19
@@ -1560,7 +1560,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-20
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-20
 5t64x;Spondylodéza, ostatné;S12-20
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-20
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-20
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-20
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-20
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-20
@@ -1646,7 +1646,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-35
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-35
 5t64x;Spondylodéza, ostatné;S12-35
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-35
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-35
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-35
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-35
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-35
@@ -1729,7 +1729,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-35
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-35
 5t621a;Parciálna resekcia  hemivertebry;S12-35
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-35
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-35
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-35
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-35
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-35
@@ -1752,7 +1752,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6424;Ventrálna spondylodéza, 4 segmenty;S12-36
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-36
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-36
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-36
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-36
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-36
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-36
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-36
@@ -1809,7 +1809,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-36
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-36
 5t621a;Parciálna resekcia  hemivertebry;S12-36
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-36
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-36
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-36
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-36
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-36
@@ -1850,7 +1850,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-37
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-37
 5t64x;Spondylodéza, ostatné;S12-37
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-37
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-37
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-37
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-37
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-37
@@ -1902,7 +1902,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-37
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-37
 5t621a;Parciálna resekcia  hemivertebry;S12-37
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-37
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-37
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-37
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-37
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-37
@@ -1968,7 +1968,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-38
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-38
 5t64x;Spondylodéza, ostatné;S12-38
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-38
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-38
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-38
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-38
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-38
@@ -2056,7 +2056,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-38
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-38
 5t621a;Parciálna resekcia  hemivertebry;S12-38
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-38
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-38
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-38
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-38
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-38
@@ -2111,7 +2111,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-39
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-39
 5t64x;Spondylodéza, ostatné;S12-39
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-39
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-39
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-39
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-39
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-39
@@ -2182,7 +2182,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-39
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-39
 5t621a;Parciálna resekcia  hemivertebry;S12-39
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-39
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-39
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-39
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-39
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-39
@@ -2238,7 +2238,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6425;Ventrálna spondylodéza, 5 segmentov;S12-40
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;S12-40
 5t64x;Spondylodéza, ostatné;S12-40
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-40
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-40
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-40
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-40
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-40
@@ -2321,7 +2321,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-40
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-40
 5t621a;Parciálna resekcia  hemivertebry;S12-40
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-40
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-40
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-40
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-40
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-40
@@ -2380,14 +2380,14 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-21
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-21
 5t621a;Parciálna resekcia  hemivertebry;S12-21
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-21
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-21
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-21
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-21
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-21
 5t6224;Totálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-21
 5t622a;Totálna resekcia hemivertebry, zadný prístup;S12-21
 5t622b;Totálna resekcia hemivertebry, kombinovaný prístup;S12-21
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-21
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-21
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-21
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-21
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-21
@@ -2505,14 +2505,14 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-22
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-22
 5t621a;Parciálna resekcia  hemivertebry;S12-22
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-22
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-22
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-22
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-22
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-22
 5t6224;Totálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-22
 5t622a;Totálna resekcia hemivertebry, zadný prístup;S12-22
 5t622b;Totálna resekcia hemivertebry, kombinovaný prístup;S12-22
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-22
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-22
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-22
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-22
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-22
@@ -2604,7 +2604,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6252;Foraminotómia, 2 segmenty;S12-23
 5t6253;Foraminotómia, 3 segmenty;S12-23
 5t6254;Foraminotómia, 4 a viac segmentov;S12-23
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-23
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-23
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-23
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-23
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-23
@@ -2677,14 +2677,14 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-24
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-24
 5t621a;Parciálna resekcia  hemivertebry;S12-24
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-24
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-24
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-24
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-24
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-24
 5t6224;Totálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-24
 5t622a;Totálna resekcia hemivertebry, zadný prístup;S12-24
 5t622b;Totálna resekcia hemivertebry, kombinovaný prístup;S12-24
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-24
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-24
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-24
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-24
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-24
@@ -2788,14 +2788,14 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-25
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-25
 5t621a;Parciálna resekcia  hemivertebry;S12-25
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-25
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-25
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-25
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-25
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-25
 5t6224;Totálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-25
 5t622a;Totálna resekcia hemivertebry, zadný prístup;S12-25
 5t622b;Totálna resekcia hemivertebry, kombinovaný prístup;S12-25
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-25
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-25
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-25
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-25
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-25
@@ -2911,14 +2911,14 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;S12-26
 5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-26
 5t621a;Parciálna resekcia  hemivertebry;S12-26
-5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei  ;S12-26
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;S12-26
 5t6221;Totálna excízia tela stavca chrbtice, 1 segment;S12-26
 5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;S12-26
 5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;S12-26
 5t6224;Totálna excízia tela stavca chrbtice, 4 a viac segmentov;S12-26
 5t622a;Totálna resekcia hemivertebry, zadný prístup;S12-26
 5t622b;Totálna resekcia hemivertebry, kombinovaný prístup;S12-26
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-26
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-26
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-26
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-26
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-26
@@ -3017,7 +3017,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6252;Foraminotómia, 2 segmenty;S12-27
 5t6253;Foraminotómia, 3 segmenty;S12-27
 5t6254;Foraminotómia, 4 a viac segmentov;S12-27
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-27
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-27
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-27
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-27
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-27
@@ -3266,7 +3266,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5t6252;Foraminotómia, 2 segmenty;S12-31
 5t6253;Foraminotómia, 3 segmenty;S12-31
 5t6254;Foraminotómia, 4 a viac segmentov;S12-31
-5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu ;S12-31
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;S12-31
 5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;S12-31
 5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;S12-31
 5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;S12-31
@@ -3294,7 +3294,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5z141;Konverzia endoskopického výkonu na otvorený;S12-31
 5z142;Reoperácia;S12-31
 5z143;Predčasné ukončenie operácie;S12-31
-13n094;Biopsia s incíziou peritonea ;S44-21
+13n094;Biopsia s incíziou peritonea;S44-21
 5j5540;Excízia chorého tkaniva bránice bez uzáveru aloplastickým materiálom;S44-21
 5m201;Transabdominálna totálna splenektómia, laparotomicky;S44-21
 5n129;Iná atypická parciálna resekcia žalúdka;S44-21
@@ -3400,7 +3400,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5n52340;Anatomická (typická) resekcia pečene, ostatné, laparotomicky;S44-21
 5n52341;Anatomická (typická) resekcia pečene, ostatné, laparoskopicky;S44-21
 5n6200;Cholecystektómia jednoduchá bez revízie žlčových ciest, laparotomicky;S44-21
-5n6241;Cholecystektómia simultánne bez operačnej revízie žlčových ciest počas jednej laparotómie z iných dôvodov ;S44-21
+5n6241;Cholecystektómia simultánne bez operačnej revízie žlčových ciest počas jednej laparotómie z iných dôvodov;S44-21
 5n7200;Enukleácia nádoru pankreasu, laparotomicky;S44-21
 5n7202;Enukleácia nádoru pankreasu, laparoskopicky;S44-21
 5n7210;Parciálna ľavostranná pankreatektómia bez anastomózy, laparotomicky;S44-21
@@ -3418,7 +3418,7 @@ kod_vykonu;nazov_vykonu;kod_ms
 5n910;Biopsia peritonea laparotomicky;S44-21
 5n92c;Omentektómia peritoneálneho tkaniva;S44-21
 5n92d0;Parciálna parietálna peritoneálna ektómia peritoneálneho tkaniva;S44-21
-5n92d1;Subtotálna parietálna peritoneálna ektómia peritoneálneho tkaniva ;S44-21
+5n92d1;Subtotálna parietálna peritoneálna ektómia peritoneálneho tkaniva;S44-21
 5o90650;Resekcia nádoru retroperitonea v brušnej oblasti, laparotomicky;S44-21
 5o90651;Resekcia nádoru retroperitonea v malej panve, laparotomicky;S44-21
 5o9071;Radikálna paraaortálna lymfadenektómia v kombinácii s inými operáciami, laparotomicky;S44-21
