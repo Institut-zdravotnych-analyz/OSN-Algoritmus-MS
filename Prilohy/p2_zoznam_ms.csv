@@ -2060,7 +2060,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 50;S72-05;True;Komplexné ochorenia imunitného systému;D;;4;3;3;3;P;P;P;;;21;;
 50;S53-30;True;Iné ochorenia ucha, nosa, úst a krku;D;;4;3;3;3;P;P;P;;;;;
 50;S76-02;True;Špecializovaná konziliárna paliatívna starostlivosť;V;;3;3;3;3;N;N;P;;;;;
-50;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;P;;;60;70;10
+50;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 50;S63-20;True;Hemolytické a aplastické anémie a iné komplexné ochorenia erytrocytov II;D;;3;3;3;3;P;P;P;;;;;
 50;S63-19;True;Otravy alebo toxické účinky z vonkajších príčin II;D;;3;3;3;3;P;P;P;;;;;
 50;S62-50;True;Vybrané poranenia oka a očných adnexov - primárne ošetrenie;D;;3;3;3;3;P;P;P;;;;;
@@ -2406,7 +2406,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 52;S56-47;True;Jednoduché amputácie a exartikulácie;V;;3;3;3;3;N;N;P;;;;;
 52;S59-36;True;Komplexné výkony na mužských pohlavných orgánoch;V;;3;3;3;3;P;P;P;;;;;
 52;S59-32;True;Komplexné výkony na močovode;V;;3;3;3;3;P;P;P;;;;;
-52;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;P;;;60;70;10
+52;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 52;S03-55;True;Evakuácia epidurálneho hematómu;V;;3;3;3;3;P;P;P;;;;10;
 52;S03-65;True;Operácia pre úžinový syndróm na hornej končatine;V;;3;3;3;3;P;P;P;;;;10;
 52;S03-64;True;Operačné výkony na nervoch a nervových gangliách;V;;3;3;3;3;P;P;P;;;;10;
@@ -2542,7 +2542,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 53;S54-05;True;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;60;70;10
 53;S62-52;True;Menej komplexné výkony na očných viečkach (b);V;;3;3;3;3;P;N;N;;;;;
 53;S54-04;True;Submandibulárny absces;D;;3;3;3;3;P;P;P;;;30;;
-53;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;P;;;60;70;10
+53;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 53;S63-40;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;;3;2;2;2;P;P;P;N;;;;
 53;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 53;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
@@ -2610,7 +2610,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 54;S54-06;False;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;30;70;10
 54;S54-05;False;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;60;70;10
 54;S54-04;False;Submandibulárny absces;D;;3;3;3;3;P;P;P;;;30;;
-54;S54-03;False;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;P;;;60;70;10
+54;S54-03;False;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 54;S51-67;True;Exstirpácia lymfatických uzlín;V;;4;4;3;2;P;P;N;N;;15;;
 54;S52-60;True;Ťažké poranenia pohybového systému;D;;4;4;3;2;P;P;N;N;;;;
 54;S56-45;True;Iné ochorenia pohybového systému;D;;3;3;2;2;P;P;P;P;;;;
@@ -3440,7 +3440,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 70;S69-15;True;Diagnostické vyšetrenie a terapeutický výkon pri reumatickom ochorení ;V;;3;3;3;3;P;P;P;;;14;25;10
 70;S66-43;True;Diagnostické vyšetrenie pri gastroenterologickom ochorení (biopsie);V;;3;3;3;3;P;P;N;;;30;;
 70;S67-11;True;Diagnostické vyšetrenie pri endokrinologickom ochorení (biopsie);V;;3;3;3;3;P;P;N;;;;;
-70;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;P;;;60;70;10
+70;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 70;S03-63;True;Iné kraniálne výkony;V;;3;3;3;3;P;P;P;;;;10;
 70;S70-55;False;Iné anémie;D;;3;3;3;3;P;P;P;;;30;;
 70;S70-54;False;Poruchy leukocytov a iné  hematologické ochorenia I;D;;3;3;3;3;P;P;P;;;30;;
