@@ -1,83 +1,83 @@
 kod_diagnozy;nazov_diagnozy
-I601;Subarachnoidálne krvácanie z a.cerebri media
-I602;Subarachnoidálne krvácanie z a.communicans anterior
-I603;Subarachnoidálne krvácanie z a.communicans posterior
-I604;Subarachnoidálne krvácanie z a.basilaris
-I605;Subarachnoidálne krvácanie z a.vertebralis
-I606;Subarachnoidálne krvácanie z iných intrakraniálnych tepien
-I607;Subarachnoidálne krvácanie z bližšie neurčenej intrakraniálnej tepny
-I608;Iné subarachnoidálne krvácanie
-I609;Subarachnoidálne krvácanie, bližšie neurčené
-I610;Vnútromozgové krvácanie do mozgovej hemisféry, subkortikálne
-I611;Vnútromozgové krvácanie do hemisféry, kortikálne
-I612;Vnútromozgové krvácanie do hemisféry, bližšie neurčené
-I613;Vnútromozgové krvácanie do mozgového kmeňa
-I614;Vnútromozgové krvácanie do mozočka (cerebela)
-I615;Vnútromozgové vnútrokomorové (intraventrikulárne) krvácanie
-I616;Vnútromozgové krvácanie na viacerých miestach
-I618;Iné vnútromozgové krvácanie
-I619;Vnútromozgové krvácanie, bližšie neurčené
-I6200;Subdurálne krvácanie (neúrazové), akútne
-I6201;Subdurálne krvácanie (neúrazové), subakútne
-I6202;Subdurálne krvácanie (neúrazové), chronické
-I6209;Subdurálne krvácanie (neúrazové), bližšie neurčené
-I621;Neúrazové extradurálne krvácanie
-I629;Intrakraniálne krvácanie (neúrazové), bližšie neurčené
-I630;Mozgový infarkt, zapríčinený trombózou prívodných mozgových  tepien
-I631;Mozgový infarkt, zapríčinený embóliou prívodných mozgových  tepien
-I632;Mozgový infarkt, zapríčinený bližšie neurčeným uzáverom alebo zúžením prívodných mozgových tepien
-I633;Mozgový infarkt, zapríčinený trombózou mozgových tepien
-I634;Mozgový infarkt, zapríčinený embóliou mozgových tepien
-I635;Mozgový infarkt, zapríčinený bližšie neurčeným uzáverom alebo zúžením mozgových tepien
-I636;Mozgový infarkt, zapríčinený nehnisovou mozgovou žilovou trombózou
-I638;Iný mozgový infarkt
-I639;Mozgový infarkt, bližšie neurčený
-I64;Cievna mozgová príhoda bližšie neurčená ako krvácanie alebo infarkt
-I650;Uzáver a zúženie a. vertebralis
-I651;Uzáver a zúženie a. basilaris
-I652;Uzáver a zúženie a. carotis
-I653;Uzáver a zúženie viacerých prívodných mozgových  tepien, obojstranne
-I658;Uzáver a zúženie iných prívodných mozgových tepien
-I659;Uzáver a zúženie bližšie neurčenej prívodnej mozgovej tepny
-I660;Uzáver a zúženie a.cerebri media
-I661;Uzáver a zúženie a.cerebri anterior
-I662;Uzáver a zúženie a.cerebri posterior
-I663;Uzáver a zúženie mozočkových tepien
-I664;Uzáver a zúženie viacerých mozgových tepien, obojstranne
-I668;Uzáver a zúženie inej mozgovej tepny
-I669;Uzáver a zúženie bližšie neurčenej mozgovej tepny
-I670;Disekcia mozgovej tepny
-I6710;Získaná mozgová aneuryzma
-I6711;Získaná mozgová artériovenózna fistula
-S060;Otras mozgu
-S061;Poúrazový opuch mozgu
-S0620;Difúzne poranenie mozgu a mozočka, bližšie neurčené
-S0621;Difúzne pomliaždenie mozgu
-S0622;Difúzne pomliaždenie mozočka
-S0623;Viaceré vnútromozgové a mozočkové hematómy
-S0628;Iné difúzne poranenie mozgu a mozočka
-S0630;Ložiskové poranenie mozgu a mozočka, bližšie neurčené
-S0631;Ložiskové pomliaždenie mozgu
-S0632;Ložiskové pomliaždenie mozočka
-S0633;Ložiskový hematóm mozgu
-S0634;Ložiskový hematóm mozočka
-S0638;Iné ložiskové poranenie mozgu a mozočka
-S064;Epidurálne krvácanie
-S065;Subdurálne krvácanie po úraze
-S066;Subarachnoidálne krvácanie po úraze
-S0670;Bezvedomie pri poranení lebky a mozgu, trvajúce menej ako 30 minút
-S0671;Bezvedomie pri poranení lebky a mozgu, trvajúce 30 minút až 24 hodín
-S0672;Bezvedomie pri poranení lebky a mozgu, trvajúce viac ako 24 hodín, s návratom do pôvodného stavu vedomia
-S0673;Bezvedomie pri poranení lebky a mozgu, trvajúce viac ako 24 hodín, bez návratu do pôvodného stavu vedomia
-S0679;Bezvedomie pri poranení lebky a mozgu, bližšie neurčeného trvania
-S068;Iné vnútrolebkové poranenie
-S069;Vnútrolebkové poranenie, bližšie neurčené
-S070;Drvivé poranenie tváre
-S071;Drvivé poranenie lebky
-S078;Drvivé poranenie iných častí hlavy
-S079;Drvivé poranenie hlavy, časť bližšie neurčená
-S097;Viaceré poranenia hlavy
-S099;Poranenie hlavy, bližšie neurčené
-T040;Drvivé poranenie postihujúce hlavu aj krk
-T060;Poranenie mozgu a hlavových nervov kombinované s poranením nervov a miechy v úrovni krku
-Z524;Živý darca obličky
+i601;Subarachnoidálne krvácanie z a.cerebri media
+i602;Subarachnoidálne krvácanie z a.communicans anterior
+i603;Subarachnoidálne krvácanie z a.communicans posterior
+i604;Subarachnoidálne krvácanie z a.basilaris
+i605;Subarachnoidálne krvácanie z a.vertebralis
+i606;Subarachnoidálne krvácanie z iných intrakraniálnych tepien
+i607;Subarachnoidálne krvácanie z bližšie neurčenej intrakraniálnej tepny
+i608;Iné subarachnoidálne krvácanie
+i609;Subarachnoidálne krvácanie, bližšie neurčené
+i610;Vnútromozgové krvácanie do mozgovej hemisféry, subkortikálne
+i611;Vnútromozgové krvácanie do hemisféry, kortikálne
+i612;Vnútromozgové krvácanie do hemisféry, bližšie neurčené
+i613;Vnútromozgové krvácanie do mozgového kmeňa
+i614;Vnútromozgové krvácanie do mozočka (cerebela)
+i615;Vnútromozgové vnútrokomorové (intraventrikulárne) krvácanie
+i616;Vnútromozgové krvácanie na viacerých miestach
+i618;Iné vnútromozgové krvácanie
+i619;Vnútromozgové krvácanie, bližšie neurčené
+i6200;Subdurálne krvácanie (neúrazové), akútne
+i6201;Subdurálne krvácanie (neúrazové), subakútne
+i6202;Subdurálne krvácanie (neúrazové), chronické
+i6209;Subdurálne krvácanie (neúrazové), bližšie neurčené
+i621;Neúrazové extradurálne krvácanie
+i629;Intrakraniálne krvácanie (neúrazové), bližšie neurčené
+i630;Mozgový infarkt, zapríčinený trombózou prívodných mozgových tepien
+i631;Mozgový infarkt, zapríčinený embóliou prívodných mozgových tepien
+i632;Mozgový infarkt, zapríčinený bližšie neurčeným uzáverom alebo zúžením prívodných mozgových tepien
+i633;Mozgový infarkt, zapríčinený trombózou mozgových tepien
+i634;Mozgový infarkt, zapríčinený embóliou mozgových tepien
+i635;Mozgový infarkt, zapríčinený bližšie neurčeným uzáverom alebo zúžením mozgových tepien
+i636;Mozgový infarkt, zapríčinený nehnisovou mozgovou žilovou trombózou
+i638;Iný mozgový infarkt
+i639;Mozgový infarkt, bližšie neurčený
+i64;Cievna mozgová príhoda bližšie neurčená ako krvácanie alebo infarkt
+i650;Uzáver a zúženie a. vertebralis
+i651;Uzáver a zúženie a. basilaris
+i652;Uzáver a zúženie a. carotis
+i653;Uzáver a zúženie viacerých prívodných mozgových tepien, obojstranne
+i658;Uzáver a zúženie iných prívodných mozgových tepien
+i659;Uzáver a zúženie bližšie neurčenej prívodnej mozgovej tepny
+i660;Uzáver a zúženie a.cerebri media
+i661;Uzáver a zúženie a.cerebri anterior
+i662;Uzáver a zúženie a.cerebri posterior
+i663;Uzáver a zúženie mozočkových tepien
+i664;Uzáver a zúženie viacerých mozgových tepien, obojstranne
+i668;Uzáver a zúženie inej mozgovej tepny
+i669;Uzáver a zúženie bližšie neurčenej mozgovej tepny
+i670;Disekcia mozgovej tepny
+i6710;Získaná mozgová aneuryzma
+i6711;Získaná mozgová artériovenózna fistula
+s060;Otras mozgu
+s061;Poúrazový opuch mozgu
+s0620;Difúzne poranenie mozgu a mozočka, bližšie neurčené
+s0621;Difúzne pomliaždenie mozgu
+s0622;Difúzne pomliaždenie mozočka
+s0623;Viaceré vnútromozgové a mozočkové hematómy
+s0628;Iné difúzne poranenie mozgu a mozočka
+s0630;Ložiskové poranenie mozgu a mozočka, bližšie neurčené
+s0631;Ložiskové pomliaždenie mozgu
+s0632;Ložiskové pomliaždenie mozočka
+s0633;Ložiskový hematóm mozgu
+s0634;Ložiskový hematóm mozočka
+s0638;Iné ložiskové poranenie mozgu a mozočka
+s064;Epidurálne krvácanie
+s065;Subdurálne krvácanie po úraze
+s066;Subarachnoidálne krvácanie po úraze
+s0670;Bezvedomie pri poranení lebky a mozgu, trvajúce menej ako 30 minút
+s0671;Bezvedomie pri poranení lebky a mozgu, trvajúce 30 minút až 24 hodín
+s0672;Bezvedomie pri poranení lebky a mozgu, trvajúce viac ako 24 hodín, s návratom do pôvodného stavu vedomia
+s0673;Bezvedomie pri poranení lebky a mozgu, trvajúce viac ako 24 hodín, bez návratu do pôvodného stavu vedomia
+s0679;Bezvedomie pri poranení lebky a mozgu, bližšie neurčeného trvania
+s068;Iné vnútrolebkové poranenie
+s069;Vnútrolebkové poranenie, bližšie neurčené
+s070;Drvivé poranenie tváre
+s071;Drvivé poranenie lebky
+s078;Drvivé poranenie iných častí hlavy
+s079;Drvivé poranenie hlavy, časť bližšie neurčená
+s097;Viaceré poranenia hlavy
+s099;Poranenie hlavy, bližšie neurčené
+t040;Drvivé poranenie postihujúce hlavu aj krk
+t060;Poranenie mozgu a hlavových nervov kombinované s poranením nervov a miechy v úrovni krku
+z524;Darca obličky
