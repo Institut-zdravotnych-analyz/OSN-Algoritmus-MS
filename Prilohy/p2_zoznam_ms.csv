@@ -17,7 +17,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 1;S20-05;True;Dočasná mech. podpora obehu - aspoň jedna metodika;V;3;;;;;P;P;P;;;;;
 1;S20-03;True;Medicínska služba pPKI 24/7 u infarktu;V;3;;;;;P;P;P;;;;100;30
 1;S03-51;True;Likvorová drenáž;V;3;;;;;P;P;P;;;;10;
-1;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;3;;;;;P;P;P;;;14;500*3;
+1;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
 1;S07-12;True;Popáleniny hrtana a priedušnice;D;3;;;;;P;P;P;;;;;
 1;S28-20;True;Komplexné ochorenie pečene;D;3;;;;;P;P;P;;;;;
 1;S28-21;True;Akútne zlyhanie pečene;D;3;;;;;P;P;P;;;;;
@@ -567,7 +567,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 6;S05-24;True;Operačné výkony na slinných žľazách;V;3;;;;;P;P;P;;;90;25;10
 6;S12-34;True;Iné ochorenia chrbtice;D;3;;;;;P;P;N;;;;;
 6;S15-16;True;Stuhnutia kĺbov a kontrakúry svalu;D;3;;;;;P;P;P;;;;;
-6;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;3;;;;;P;P;P;;;14;500*3;
+6;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
 6;S13-15;True;Infekcie v oblasti chrbtice;D;3;;;;;P;P;P;;;;;
 6;S05-31;True;Iné ochorenia ucha, nosa, úst a krku;D;3;;;;;P;P;P;;;;;
 6;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;30;;
@@ -1338,7 +1338,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S28-20;True;Komplexné ochorenie pečene;D;3;;;;;P;P;P;;;;;
 25;S28-19;True;Komplexné ochorenia pažeráka;D;3;;;;;P;P;P;;;;;
 25;S32-19;True;Komplexné hematologické ochorenia;D;3;;;;;P;P;P;;;;;
-25;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;3;;;;;P;P;P;;;14;500*3;
+25;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
 25;S27-07;True;Iné infekcie a zápaly dýchacích orgánov II.;D;3;;;;;P;P;P;;;;;
 25;S32-21;True;Hemolytická anémia;D;3;;;;;P;P;P;;;;;
 25;S28-21;True;Akútne zlyhanie pečene;D;3;;;;;P;P;P;;;;;
@@ -1724,7 +1724,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 33;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 33;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 34;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
-34;S34-04;False;Iné ochorenia kože, podkožia a slizníc;D;3;;;;;P;P;P;;;14;500*3;
+34;S34-04;False;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
 34;S34-03;False;Kožný vred;D;3;;;;;P;P;P;;;14;500*3;
 34;S34-01;False;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
 34;S25-21;True;Infekcia/zápal kože a podkožia;D;2;;;;;P;P;P;N;;;500*3;
@@ -1738,7 +1738,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 35;S35-03;False;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;4;;;;;P;P;;;;30;;
 35;S35-02;False;Vysoko komplexné ochorenia imunitného systému;D;4;;;;;P;P;;;;30;;
 35;S35-01;False;Vysoko komplexné ochorenia imunitného systému – transplantácia kmeňových buniek;VD;4;;;;;N;N;;;;;;
-35;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;3;;;;;P;P;P;;;14;500*3;
+35;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
 35;S34-01;True;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
 35;S06-05;True;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;60;70;10
 35;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
