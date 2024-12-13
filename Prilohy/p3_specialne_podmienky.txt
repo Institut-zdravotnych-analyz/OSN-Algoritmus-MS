@@ -6832,7 +6832,7 @@ glukomer.
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
 pediatrická endokrinológia a diabetológia, poruchy látkovej premeny a výživy, 
-rádiológia v nemocnici.
+rádiológia.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Diabetes Mellitus s aspoň čiastočným úväzkom je lekár so špecializáciou v špecializačnom odbore
  pediatrická endokrinológia a diabetológia, poruchy látkovej premeny a výživy, 
