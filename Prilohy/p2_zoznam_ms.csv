@@ -23,6 +23,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 1;S01-06;False;Bezvedomie a zabezpečenie DC vyžadujúce špecializované postupy ;V;3;;;;;P;P;P;;;;;
 1;S01-05;False;Kritické poruchy vnútorného prostredia vyžadujúce špecializované postupy ;V;3;;;;;P;P;P;;;;;
 1;S39-03;True;Polysomnografia a ďalšie diagnostické a terapeutické metódy v spánkovej medicíne;V;3;;;;;P;N;N;;;;;
+1;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
 1;S33-06;True;Závažné infekcie nervového systému;D;3;;;;;P;P;P;;;;;
 1;S33-03;True;Sepsa II;D;3;;;;;N;N;N;;;;;
 1;S28-21;True;Akútne zlyhanie pečene;D;3;;;;;P;P;P;;;;;
@@ -564,6 +565,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 6;S06-05;False;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;60;70;10
 6;S06-04;False;Submandibulárny absces;D;3;;;;;P;P;P;;;30;;
 6;S06-03;False;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;60;70;10
+6;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
 6;S34-01;True;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
 6;S15-16;True;Stuhnutia kĺbov a kontrakúry svalu;D;3;;;;;P;P;P;;;;;
 6;S15-15;True;Rekonštrukčné výkony v dutine ústnej;V;3;;;;;P;P;N;;;;;
@@ -1332,6 +1334,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S25-04;False;Farmakoterapia;V;3;;;;;P;P;P;;;;;
 25;S25-03;False;Účinky vibrácie;D;3;;;;;P;P;P;;;30;;
 25;S25-02;False;Amyloidóza;D;3;;;;;P;P;P;;;30;;
+25;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
 25;S34-03;True;Kožný vred;D;3;;;;;P;P;P;;;14;500*3;
 25;S33-03;True;Sepsa II;D;3;;;;;N;N;N;;;;;
 25;S32-22;True;Akútne leukémie - podporná liečba;D;3;;;;;P;P;P;;;;;
@@ -1723,6 +1726,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 33;S25-21;True;Infekcia/zápal kože a podkožia;D;2;;;;;P;P;P;N;;;500*3;
 33;S09-26;True;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov;D;2;;;;;P;P;P;P;;;;
 33;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
+34;S34-05;False;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
 34;S34-03;False;Kožný vred;D;3;;;;;P;P;P;;;14;500*3;
 34;S34-01;False;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
 34;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
@@ -1740,6 +1744,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 35;S35-01;False;Vysoko komplexné ochorenia imunitného systému – transplantácia kmeňových buniek;VD;4;;;;;N;N;;;;;;
 35;S35-05;False;Desenzibilizácia na alergény;D;3;;;;;P;P;P;;;180;;
 35;S35-04;False;Závažná protilátková porucha imunity;D;3;;;;;P;P;N;;;30;;
+35;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
 35;S34-01;True;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
 35;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
 35;S06-05;True;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;60;70;10
