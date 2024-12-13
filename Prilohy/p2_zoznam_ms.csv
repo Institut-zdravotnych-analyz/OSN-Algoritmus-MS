@@ -23,7 +23,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 1;S01-06;False;Bezvedomie a zabezpečenie DC vyžadujúce špecializované postupy ;V;3;;;;;P;P;P;;;;;
 1;S01-05;False;Kritické poruchy vnútorného prostredia vyžadujúce špecializované postupy ;V;3;;;;;P;P;P;;;;;
 1;S39-03;True;Polysomnografia a ďalšie diagnostické a terapeutické metódy v spánkovej medicíne;V;3;;;;;P;N;N;;;;;
-1;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
+1;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;;500*3;
 1;S33-06;True;Závažné infekcie nervového systému;D;3;;;;;P;P;P;;;;;
 1;S33-03;True;Sepsa II;D;3;;;;;N;N;N;;;;;
 1;S28-21;True;Akútne zlyhanie pečene;D;3;;;;;P;P;P;;;;;
@@ -57,23 +57,23 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 1;S38-04;True;Psychické poruchy zapríčinené závislosťou mimo alkoholu;D;2;;;;;P;P;P;P;;;;
 1;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 1;S37-14;True;Náhla cievna mozgová príhoda;D;2;;;;;P;P;P;P;;;60;
-1;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;30;;
+1;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;;;
 1;S37-07;True;Paralytické syndrómy;D;2;;;;;P;P;P;P;;;;
-1;S37-06;True;Degeneratívne ochorenia nervového systému;D;2;;;;;P;P;P;P;;30;;
+1;S37-06;True;Degeneratívne ochorenia nervového systému;D;2;;;;;P;P;P;P;;;;
 1;S37-05;True;Epilepsia a iné záchvaty;D;2;;;;;P;P;P;P;;;;
 1;S37-03;True;Stupor a kóma netraumatického pôvodu;D;2;;;;;P;P;P;N;;;;
 1;S35-08;True;Anafylaktický šok na potraviny;D;2;;;;;P;P;P;P;;;;
-1;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
+1;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;;500*3;
 1;S33-14;True;Infekcie nervového systému;D;2;;;;;P;P;P;P;;;;
 1;S30-10;True;Nefrologická starostlivosť – eliminačné metódy (akútne);V;2;;;;;P;P;P;P;;;;
 1;S30-09;True;Darca obličky;D;2;;;;;P;P;P;P;;;;
 1;S30-08;True;Insuficiencia obličiek;D;2;;;;;P;P;P;P;;;;
 1;S30-07;True;Nefrologická starostlivosť – eliminačné metódy (peritoneálna dialýza - akútna);V;2;;;;;P;P;P;N;;;5;
 1;S30-06;True;Nefrologická starostlivosť – eliminačné metódy (kontinuálne metódy);V;2;;;;;P;P;P;N;;;;
-1;S29-10;True;Endokrinopatie;D;2;;;;;P;P;P;P;;30;;
-1;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;30;;
-1;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;30;;
-1;S29-06;True;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;30;;
+1;S29-10;True;Endokrinopatie;D;2;;;;;P;P;P;P;;;;
+1;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;;;
+1;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;;;
+1;S29-06;True;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;;;
 1;S28-52;True;Akútny peptický vred jejúna;D;2;;;;;P;P;P;P;;;;
 1;S28-50;True;Závažné ochorenia pankreasu;D;2;;;;;P;P;P;P;;;;
 1;S28-48;True;Gastrointestinálne krvácanie;D;2;;;;;P;P;P;P;;;;
@@ -85,11 +85,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 1;S27-26;True;Zápal pľúc;D;2;;;;;P;P;P;P;;;;
 1;S27-25;True;Pneumotorax;D;2;;;;;P;P;P;P;;;;
 1;S27-24;True;Pleurálny výpotok;D;2;;;;;P;P;P;P;;;;
-1;S27-21;True;Iné ochorenie dýchacích orgánov;D;2;;;;;P;P;P;P;;90;;
-1;S27-20;True;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;30;;
-1;S27-19;True;CHOCHP a bronchiektázie;D;2;;;;;P;P;P;P;;30;;
+1;S27-21;True;Iné ochorenie dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
+1;S27-20;True;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
+1;S27-19;True;CHOCHP a bronchiektázie;D;2;;;;;P;P;P;P;;;;
 1;S27-18;True;Bronchitída a iné akútne infekcie DDC;D;2;;;;;P;P;P;P;;;;
-1;S27-17;True;Astma bronchiale;D;2;;;;;P;P;P;P;;30;;
+1;S27-17;True;Astma bronchiale;D;2;;;;;P;P;P;P;;;;
 1;S26-17;True;Synkopa a kolaps;D;2;;;;;P;P;P;P;;;;
 1;S26-15;True;Periférne ochorenia ciev;D;2;;;;;P;P;P;P;;;;
 1;S26-14;True;Zastavenie srdca;D;2;;;;;P;P;P;P;;;;
@@ -139,8 +139,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 2;S13-06;True;Prenos vaskularizovaného kostného tkaniva;V;4;;;;;P;N;;;;;;
 2;S13-05;True;Vysoko komplexné amputácie a exartikulácie;V;4;;;;;P;P;;;;;;
 2;S13-03;True;Implantácia komplexnej kostnej náhrady;V;4;;;;;P;P;;;;;;
-2;S08-07;True;Resekcie pankreasu;V;4;;;;;P;P;;;;30;30;
-2;S08-01;True;Rozšírené a vysoko komplexné resekcie žalúdka;V;4;;;;;P;P;;;;30;25;
+2;S08-07;True;Resekcie pankreasu;V;4;;;;;P;P;;;;45;30;
+2;S08-01;True;Rozšírené a vysoko komplexné resekcie žalúdka;V;4;;;;;P;P;;;;45;25;
 2;S07-04;True;Ostatné špecializované operačné výkony na pažeráku;V;4;;;;;P;N;;;;;;
 2;S05-16;True;Iný maxilofaciálny výkon;V;4;;;;;P;P;;;;;15;5
 2;S05-12;True;Komplexné výkony na jazyku, hltane, hrtane, LU;V;4;;;;;P;P;;;;30;;
@@ -169,25 +169,25 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 2;S13-13;True;Iný základný výkon na rastúcom skelete;V;3;;;;;P;P;P;;;;;
 2;S13-12;True;Osteotómia panvy a proximálneho femoru;V;3;;;;;P;P;P;;;;10;
 2;S13-11;True;Alogénna transplantácia kostného tkaniva;V;3;;;;;P;P;P;;;;;
-2;S13-10;True;Revízna endoprotetika kolenného kĺbu;V;3;;;;;P;P;P;;;182;15;5
+2;S13-10;True;Revízna endoprotetika kolenného kĺbu;V;3;;;;;P;P;P;;;180;15;5
 2;S13-09;True;Komplexné amputácie a exartikulácie;V;3;;;;;P;P;P;;;;;
 2;S09-14;True;Komplexné výkony na mužských pohlavných orgánoch;V;3;;;;;P;P;P;;;180;5;
 2;S09-10;True;Komplexné výkony na močovode;V;3;;;;;P;P;P;;;90;10;
 2;S09-08;True;Ostatné komplexné výkony na obličke;V;3;;;;;P;P;P;;;120;10;
 2;S09-06;True;Nefrektómia;V;3;;;;;P;P;P;;;180;30;
 2;S08-21;True;Iné operačné výkony na pankrease;V;3;;;;;P;P;N;;;30;15;
-2;S08-19;True;Ostatné operačné výkony na pečeni;V;3;;;;;P;P;N;;;30;15;
+2;S08-19;True;Ostatné operačné výkony na pečeni;V;3;;;;;P;P;N;;;45;15;
 2;S08-18;True;Lumbotómia a iné komplexné výkony v brušnej oblasti;V;3;;;;;P;P;N;;;;;
 2;S08-13;True;Rozšírená a komplexná resekcia čreva;V;3;;;;;P;P;N;;;60;20;
 2;S07-12;True;Popáleniny hrtana a priedušnice;D;3;;;;;P;P;P;;;;;
 2;S07-08;True;Operačné výkony na hrudnej stene, pleure a bránici;V;3;;;;;P;P;P;;;;80;
 2;S07-07;True;Operačné výkony na mediastine;V;3;;;;;P;P;P;;;;70;
 2;S07-06;True;Resekcie pľúc a ostatné operačné výkony na pľúcach a prieduškách;V;3;;;;;P;P;P;;;;170;
-2;S06-03;True;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;60;70;10
-2;S05-26;True;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;90;;
+2;S06-03;True;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;120;70;10
+2;S05-26;True;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;;;
 2;S05-22;True;Operačné výkony v dutine ústnej alebo na perách;V;3;;;;;P;P;N;;;90;;
 2;S03-54;True;Operácia pre úžinový syndróm na hornej končatine;V;3;;;;;P;P;P;;;180;10;
-2;S03-53;True;Operačné výkony na nervoch a nervových gangliách;V;3;;;;;P;P;P;;;60;10;
+2;S03-53;True;Operačné výkony na nervoch a nervových gangliách;V;3;;;;;P;P;P;;;90;10;
 2;S03-52;True;Iné kraniálne výkony;V;3;;;;;P;P;P;;;;10;
 2;S03-51;True;Likvorová drenáž;V;3;;;;;P;P;P;;;;10;
 2;S03-50;True;Plastika dury a kalvy;V;3;;;;;P;P;P;;;;10;
@@ -223,8 +223,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 2;S02-32;False;Osteosyntéza zlomeniny externým fixátorom;V;2;;;;;P;P;P;P;;;;
 2;S02-31;False;Chirurgické ošetrenie zlomeniny bez osteosyntézy;V;2;;;;;P;P;P;P;;;;
 2;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-2;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
-2;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;30;;
+2;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
+2;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;;;
 2;S30-08;True;Insuficiencia obličiek;D;2;;;;;P;P;P;P;;;;
 2;S27-28;True;Základné výkony diagnostické a terapeutické výkony v pneumológii;V;2;;;;;P;P;P;N;;;;
 2;S16-04;True;Malé výkony na koži a podkoží pri popáleninách a poleptaniach;V;2;;;;;P;P;P;P;;;;
@@ -255,10 +255,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 2;S13-23;True;Revízne operácie iných endoprotéz;V;2;;;;;N;N;N;N;;;;
 2;S13-22;True;Totálna endoprotéza bedrového kĺbu;V;2;;;;;P;P;P;P;;395;100;20
 2;S13-21;True;Totálna endoprotéza iného kĺbu;V;2;;;;;N;N;N;N;;;;
-2;S13-20;True;Totálna endoprotéza kolenného kĺbu;V;2;;;;;P;P;P;P;;395;100;20
+2;S13-20;True;Totálna endoprotéza kolenného kĺbu;V;2;;;;;P;P;P;P;;425;100;20
 2;S13-19;True;Komplexná korekcia deformity;V;2;;;;;P;P;P;N;;;;
-2;S13-18;True;Revízna endoprotetika bedrového kĺbu;V;2;;;;;P;P;P;N;;182;30;10
-2;S13-17;True;Primárna implantácia špeciálnej protézy kolenného a bedrového kĺbu;V;2;;;;;P;P;P;P;;182;20;
+2;S13-18;True;Revízna endoprotetika bedrového kĺbu;V;2;;;;;P;P;P;N;;180;30;10
+2;S13-17;True;Primárna implantácia špeciálnej protézy kolenného a bedrového kĺbu;V;2;;;;;P;P;P;P;;180;20;
 2;S09-24;True;Menej komplexné výkony na mužských pohlavných orgánoch;V;2;;;;;P;P;P;P;;180;10;
 2;S09-22;True;Menej komplexné výkony na močovom mechúri;V;2;;;;;P;P;P;P;;90;10;
 2;S09-21;True;Menej komplexné výkony pri ureterolitiáze;V;2;;;;;P;P;P;P;;90;20;
@@ -268,7 +268,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 2;S08-27;True;Operačné výkony na slezine;V;2;;;;;P;P;P;P;;;;
 2;S08-26;True;Jednoduchá resekcia čreva;V;2;;;;;P;P;P;P;;60;30;
 2;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-2;S14-20;True;Malé výkony na koži a podkoží;V;1;;;;;P;P;P;P;N;90;;
+2;S14-20;True;Malé výkony na koži a podkoží;V;1;;;;;P;P;P;P;N;;;
 2;S14-19;True;Jednoduché lalokové plastiky;V;1;;;;;P;P;P;P;N;90;;
 2;S14-18;True;Malé výkony na prsníku;V;1;;;;;P;P;P;P;N;90;;
 2;S14-17;True;Jednoduché vyčistenie rany s odstránením patologického tkaniva;V;1;;;;;P;P;P;P;N;90;;
@@ -348,7 +348,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 3;S03-56;False;Trauma mozgu s komplexným výkonom;V;;3;3;3;3;P;P;P;;;;10;
 3;S03-55;False;Evakuácia epidurálneho hematómu;V;;3;3;3;3;P;P;P;;;;10;
 3;S03-54;False;Operácia pre úžinový syndróm na hornej končatine;V;3;;;;;P;P;P;;;180;10;
-3;S03-53;False;Operačné výkony na nervoch a nervových gangliách;V;3;;;;;P;P;P;;;60;10;
+3;S03-53;False;Operačné výkony na nervoch a nervových gangliách;V;3;;;;;P;P;P;;;90;10;
 3;S03-52;False;Iné kraniálne výkony;V;3;;;;;P;P;P;;;;10;
 3;S03-51;False;Likvorová drenáž;V;3;;;;;P;P;P;;;;10;
 3;S03-50;False;Plastika dury a kalvy;V;3;;;;;P;P;P;;;;10;
@@ -380,8 +380,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 3;S12-25;True;Chirurgická liečba instabilít chrbtice - C3-C7;VV;3;;;;;P;P;P;;;60;5;
 3;S12-24;True;Chirurgická liečba instabilít chrbtice - C0-C2;VV;3;;;;;P;P;N;;;60;3;
 3;S12-23;True;Chirurgická liečba degen. ochorení chrbtice - S2-Co + SI kĺby;VV;3;;;;;P;P;N;;;60;5;
-3;S12-22;True;Chirurgická liečba degen. ochorení chrbtice - T1-S1;VV;3;;;;;P;P;P;;;180;100;
-3;S12-21;True;Chirurgická liečba degen. ochorení chrbtice - C0-C7 ;VV;3;;;;;P;P;P;;;120;100;
+3;S12-22;True;Chirurgická liečba degen. ochorení chrbtice - T1-S1;VV;3;;;;;P;P;P;;;270;100;
+3;S12-21;True;Chirurgická liečba degen. ochorení chrbtice - C0-C7 ;VV;3;;;;;P;P;P;;;270;100;
 3;S12-20;True;Chirurgická liečba úrazov chrbtice s instabilitou - S-Co;VV;3;;;;;P;P;N;;;;3;
 3;S12-19;True;Chirurgická liečba úrazov chrbtice s instabilitou - L1-L5;VV;3;;;;;P;P;P;;;;10;
 3;S12-18;True;Chirurgická liečba úrazov chrbtice s instabilitou - T12-L2;VV;3;;;;;P;P;P;;;;10;
@@ -409,11 +409,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 3;S40-11;True;Zhubný nádor spojivového tkaniva;D;2;;;;;P;P;P;P;;;;
 3;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 3;S37-14;True;Náhla cievna mozgová príhoda;D;2;;;;;P;P;P;P;;;60;
-3;S37-13;True;Dorzopatia a poruchy nervových koreňov;D;2;;;;;P;P;P;P;;30;;
-3;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
+3;S37-13;True;Dorzopatia a poruchy nervových koreňov;D;2;;;;;P;P;P;P;;;;
+3;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
 3;S33-14;True;Infekcie nervového systému;D;2;;;;;P;P;P;P;;;;
-3;S31-04;True;Deformujúca dorzopatia a iné komplexné spondylopatie;D;2;;;;;P;P;P;N;;14;;
-3;S29-12;True;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;30;;
+3;S31-04;True;Deformujúca dorzopatia a iné komplexné spondylopatie;D;2;;;;;P;P;P;N;;;;
+3;S29-12;True;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;;;
 3;S12-32;True;Následná starostlivosť na úrovni spinálnej jednotky;V;2;;;;;P;P;P;P;;;;
 3;S02-61;True;Zlomenina panvy a stehnovej kosti;D;2;;;;;P;P;P;P;;;;
 3;S02-59;True;Poranenia miechy a chrbtice;D;2;;;;;P;P;P;P;;;;
@@ -421,10 +421,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 3;S02-55;True;Intrakraniálne poranenia a zlomeniny kránia;D;2;;;;;P;P;P;P;;;;
 3;S02-54;True;Povrchové poranenia, otvorené rany a poškodenia mäkkých častí;D;2;;;;;P;P;P;P;;;;
 3;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-4;S04-03;False;Špecializované výkony v prednom segmente oka;V;5;;;;;P;;;;;90;;
+4;S04-03;False;Špecializované výkony v prednom segmente oka;V;5;;;;;P;;;;;120;;
 4;S04-02;False;Špecializované výkony v zadnom segmente oka;V;5;;;;;P;;;;;45;;
 4;S04-01;False;Brachyterapia v oftalmológii;V;5;;;;;P;;;;;30;;
-4;S04-08;False;Vrodené chyby oka a očných adnexov;D;4;;;;;P;P;;;;30;;
+4;S04-08;False;Vrodené chyby oka a očných adnexov;D;4;;;;;P;P;;;;;;
 4;S04-07;False;Vysoko komplexné výkony v prednom segmente oka;V;4;;;;;P;P;;;;90;;
 4;S04-06;False;Vysoko komplexné výkony na orbite alebo bulbe;V;4;;;;;P;P;;;;60;;
 4;S04-05;False;Špeciálne laserové ošetrenie sietnice;V;4;;;;;P;P;;;;30;;
@@ -432,18 +432,18 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 4;S40-03;True;Kuratívna liečba očných malignít;D;4;;;;;P;P;;;;;;
 4;S04-31;False;Komplexné výkony pri traume oka;V;3;;;;;P;P;P;;;;;
 4;S04-30;False;Poranenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
-4;S04-29;False;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;30;;
-4;S04-28;False;Neuro-oftalmologické ochorenie oka;D;3;;;;;P;P;P;;;30;;
-4;S04-27;False;Zápalové a infekčné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;10;;
-4;S04-26;False;Glaukóm;D;3;;;;;P;P;P;;;30;;
-4;S04-25;False;Katarakta;D;3;;;;;P;P;P;;;90;;
-4;S04-23;False;Dekompenzovaný glaukóm;D;3;;;;;P;P;P;;;30;;
+4;S04-29;False;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
+4;S04-28;False;Neuro-oftalmologické ochorenie oka;D;3;;;;;P;P;P;;;;;
+4;S04-27;False;Zápalové a infekčné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
+4;S04-26;False;Glaukóm;D;3;;;;;P;P;P;;;;;
+4;S04-25;False;Katarakta;D;3;;;;;P;P;P;;;;;
+4;S04-23;False;Dekompenzovaný glaukóm;D;3;;;;;P;P;P;;;;;
 4;S04-22;False;Katarakta Morgagniho typu;D;3;;;;;P;P;P;;;;;
-4;S04-21;False;Ochorenia sietnice vyžadujúce si chirurgický zákrok;D;3;;;;;P;P;P;;;60;;
-4;S04-20;False;Iné ochorenia oka a očných adnexov vyžadujúce komplexný prístup;D;3;;;;;P;P;P;;;15;;
-4;S04-19;False;Zápalové ochorenia očného nervu a paralytické škúlenie;D;3;;;;;P;P;P;;;30;;
-4;S04-18;False;Infekcie a zápaly oka a očných adnexov;D;3;;;;;P;P;P;;;10;;
-4;S04-17;False;Retinopatia;D;3;;;;;P;P;P;;;60;;
+4;S04-21;False;Ochorenia sietnice vyžadujúce si chirurgický zákrok;D;3;;;;;P;P;P;;;;;
+4;S04-20;False;Iné ochorenia oka a očných adnexov vyžadujúce komplexný prístup;D;3;;;;;P;P;P;;;;;
+4;S04-19;False;Zápalové ochorenia očného nervu a paralytické škúlenie;D;3;;;;;P;P;P;;;;;
+4;S04-18;False;Infekcie a zápaly oka a očných adnexov;D;3;;;;;P;P;P;;;;;
+4;S04-17;False;Retinopatia;D;3;;;;;P;P;P;;;;;
 4;S04-16;False;Komplexné výkony v prednom segmente oka;V;3;;;;;P;P;P;;;90;;
 4;S04-15;False;Komplexné výkony v prednom segmente oka -terapeutická plastika;V;3;;;;;P;P;P;;;90;;
 4;S04-14;False;Komplexné výkony v zadnom segmente oka;V;3;;;;;P;P;P;;;60;20;20
@@ -456,31 +456,31 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 4;S15-13;True;Rekonštrukčné výkony na očných viečkach;V;3;;;;;P;P;P;;;;;
 4;S05-20;True;Operačné výkony v orbite a slzných cestách;V;3;;;;;P;P;N;;;;;
 4;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-4;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;30;;
-4;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;30;;
+4;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;;;
+4;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;;;
 4;S04-48;False;Vybrané výkon vertikálneho predĺženia horného viečka;V;1;;;;;P;P;P;N;N;;;
 4;S04-47;False;Iné výkony JZS v oftalmológii  3;V;1;;;;;P;P;N;N;N;;;
 4;S04-46;False;Iné výkony JZS v oftalmológii 2;V;1;;;;;P;N;N;N;N;;;
 4;S04-45;False;Iné výkony JZS v oftalmológii ;V;1;;;;;P;P;P;N;N;;;
 4;S04-44;False;Základné výkony pri traume oka;V;1;;;;;P;P;P;N;N;;;
-4;S04-43;False;Terapeutické podanie látok do oka;V;1;;;;;P;P;P;N;N;10*10;200;100
-4;S04-42;False;Laserová retinopexia;V;1;;;;;P;P;P;N;N;30;100;50
+4;S04-43;False;Terapeutické podanie látok do oka;V;1;;;;;P;P;P;N;N;;200;100
+4;S04-42;False;Laserová retinopexia;V;1;;;;;P;P;P;N;N;45;100;50
 4;S04-41;False;Kryopexia sietnice;V;1;;;;;P;P;P;N;N;30;;
 4;S04-40;False;Iné menej komplexné výkony v prednom segmente oka II.;V;1;;;;;N;N;N;N;N;90;50;20
-4;S04-39;False;Iné menej komplexné výkony v prednom segmente oka;V;1;;;;;P;P;P;N;N;90;50;20
+4;S04-39;False;Iné menej komplexné výkony v prednom segmente oka;V;1;;;;;P;P;P;N;N;;50;20
 4;S04-38;False;Pars-plana a iné vitrektómie;V;1;;;;;P;P;P;N;N;60;50;50
-4;S04-37;False;Operačné výkony pri glaukóme;V;1;;;;;P;P;P;N;N;30;20;20
+4;S04-37;False;Operačné výkony pri glaukóme;V;1;;;;;P;P;P;N;N;45;20;20
 4;S04-36;False;Menej komplexné výkony na očných viečkach;V;1;;;;;P;P;P;N;N;90;50;20
 4;S04-35;False;Menej komplexné výkony na slznej žľaze alebo slzných cestách;V;1;;;;;P;P;P;N;N;90;;
 4;S04-34;False;Menej komplexné výkony v prednom segmente oka;V;1;;;;;P;P;P;N;N;90;20;20
-4;S04-33;False;Extrakcia a implantácia šošovky;V;1;;;;;P;P;P;N;N;90;500;200
+4;S04-33;False;Extrakcia a implantácia šošovky;V;1;;;;;P;P;P;N;N;120;500;200
 4;S04-32;False;Menej komplexné výkony v zadnom segmente oka;V;1;;;;;P;P;P;N;N;60;;
 4;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 4;S05-33;True;Operačné výkony na očných viečkach;V;1;;;;;P;P;P;P;N;;;
 4;S05-32;True;Operačné výkony na slzných cestách;V;1;;;;;P;P;P;P;N;180;;
 5;S05-16;False;Iný maxilofaciálny výkon;V;4;;;;;P;P;;;;;15;5
 5;S05-15;False;Komplexné operačné výkony na slinných žľazách;V;4;;;;;P;P;;;;30;;
-5;S05-14;False;Komplexné operačné výkony na tvári a priľahlej oblasti;V;4;;;;;P;P;;;;30;10;5
+5;S05-14;False;Komplexné operačné výkony na tvári a priľahlej oblasti;V;4;;;;;P;P;;;;60;10;5
 5;S05-13;False;Komplexné operačné výkony v dutine ústnej alebo na perách;V;4;;;;;P;P;;;;30;;
 5;S05-12;False;Komplexné výkony na jazyku, hltane, hrtane, LU;V;4;;;;;P;P;;;;30;;
 5;S05-11;False;Operačné výkony na hltane, hrtane a priedušnici;V;4;;;;;P;P;;;;90;;
@@ -497,8 +497,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 5;S15-03;True;Komplexné operačné výkony pri rázštepe;V;4;;;;;P;N;;;;90;20;
 5;S07-05;True;Operačné výkony na týmuse;V;4;;;;;P;P;;;;;10;
 5;S07-02;True;Vysoko komplexné výkony na priedušnici;V;4;;;;;P;P;;;;;20;
-5;S06-02;True;Rázštepy;D;4;;;;;P;P;;;;60;10;1
-5;S06-01;True;Ostatné maxilofaciálne výkony;V;4;;;;;P;P;;;;60;10;1
+5;S06-02;True;Rázštepy;D;4;;;;;P;P;;;;;10;1
+5;S06-01;True;Ostatné maxilofaciálne výkony;V;4;;;;;P;P;;;;120;10;1
 5;S04-06;True;Vysoko komplexné výkony na orbite alebo bulbe;V;4;;;;;P;P;;;;60;;
 5;S03-02;True;Operačné výkony na vnútornom uchu;V;4;;;;;P;P;;;;;;
 5;S05-31;False;Iné ochorenia ucha, nosa, úst a krku;D;3;;;;;P;P;P;;;;;
@@ -506,22 +506,22 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 5;S05-29;False;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;3;;;;;P;P;P;;;;;
 5;S05-28;False;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok;V;3;;;;;P;P;P;;;180;50;30
 5;S05-27;False;Komplexné operácie na krku;V;3;;;;;P;P;N;;;180;10;10
-5;S05-26;False;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;90;;
-5;S05-25;False;Operačné výkony na prištítnych telieskach;V;3;;;;;P;P;N;;;90;15;10
+5;S05-26;False;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;;;
+5;S05-25;False;Operačné výkony na prištítnych telieskach;V;3;;;;;P;P;N;;;120;15;10
 5;S05-24;False;Operačné výkony na slinných žľazách;V;3;;;;;P;P;P;;;90;25;10
 5;S05-23;False;Operačné výkony na vonkajšom zvukovode a ušnici;V;3;;;;;P;P;N;;;90;;
 5;S05-22;False;Operačné výkony v dutine ústnej alebo na perách;V;3;;;;;P;P;N;;;90;;
-5;S05-21;False;Operačné výkony v hltane;V;3;;;;;P;P;P;;;30;10;
+5;S05-21;False;Operačné výkony v hltane;V;3;;;;;P;P;P;;;;10;
 5;S05-20;False;Operačné výkony v orbite a slzných cestách;V;3;;;;;P;P;N;;;;;
 5;S05-19;False;Chirurgia štítnej žľazy a prištítnych žliaz;V;3;;;;;P;P;P;;;180;10;10
 5;S05-18;False;Operácia pre hlbokú krčnú infekciu;V;3;;;;;P;P;N;;;;;
 5;S05-17;False;Zložité operačné výkony na prištítnych telieskach;V;3;;;;;P;P;P;;;90;;
 5;S27-12;True;Tuberkulóza;D;3;;;;;P;P;P;;;;;
 5;S15-10;True;Rekonštrukcie pery;V;3;;;;;P;P;P;;;90;;
-5;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
-5;S06-05;True;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;60;70;10
-5;S06-04;True;Submandibulárny absces;D;3;;;;;P;P;P;;;30;;
-5;S06-03;True;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;60;70;10
+5;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;;70;10
+5;S06-05;True;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;;70;10
+5;S06-04;True;Submandibulárny absces;D;3;;;;;P;P;P;;;;;
+5;S06-03;True;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;120;70;10
 5;S04-10;True;Komplexné výkony na orbite alebo bulbe;V;3;;;;;P;P;P;;;30;;
 5;S03-40;True;Operačné výkony na hypofýze – Endoskopický prístup;V;3;;;;;P;P;P;;;;;
 5;S03-39;True;Operačné výkony na hypofýze;V;3;;;;;P;P;P;;;;;
@@ -546,13 +546,13 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 5;S04-35;True;Menej komplexné výkony na slznej žľaze alebo slzných cestách;V;1;;;;;P;P;P;N;N;90;;
 6;S15-02;True;Vysoko komplexné porázštepové výkony v dutine ústnej;V;5;;;;;P;;;;;;;
 6;S15-01;True;Vysoko komplexné operačné výkony pri rázštepe;V;5;;;;;P;;;;;90;20;
-6;S06-02;False;Rázštepy;D;4;;;;;P;P;;;;60;10;1
-6;S06-01;False;Ostatné maxilofaciálne výkony;V;4;;;;;P;P;;;;60;10;1
+6;S06-02;False;Rázštepy;D;4;;;;;P;P;;;;;10;1
+6;S06-01;False;Ostatné maxilofaciálne výkony;V;4;;;;;P;P;;;;120;10;1
 6;S40-03;True;Kuratívna liečba očných malignít;D;4;;;;;P;P;;;;;;
 6;S32-12;True;Agresívne lymfómy (NHL), Hodgkinov lymfóm a iné vybrané lymfómy;D;4;;;;;P;P;;;;;30;
 6;S05-16;True;Iný maxilofaciálny výkon;V;4;;;;;P;P;;;;;15;5
 6;S05-15;True;Komplexné operačné výkony na slinných žľazách;V;4;;;;;P;P;;;;30;;
-6;S05-14;True;Komplexné operačné výkony na tvári a priľahlej oblasti;V;4;;;;;P;P;;;;30;10;5
+6;S05-14;True;Komplexné operačné výkony na tvári a priľahlej oblasti;V;4;;;;;P;P;;;;60;10;5
 6;S05-13;True;Komplexné operačné výkony v dutine ústnej alebo na perách;V;4;;;;;P;P;;;;30;;
 6;S05-12;True;Komplexné výkony na jazyku, hltane, hrtane, LU;V;4;;;;;P;P;;;;30;;
 6;S05-08;True;Pokročilé operácie na nosovej a prinosových dutinách;V;4;;;;;P;P;;;;90;;
@@ -561,11 +561,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 6;S03-03;True;Iné vysoko komplexné kraniálne výkony;V;4;;;;;P;P;;;;;;
 6;S06-08;False;Ošetrenie nespolupracujúceho a zdravotne znevýhodneného pacienta v celkovej anestézii;V;3;;;;;P;P;P;;;;;
 6;S06-07;False;Osteosyntéza;V;3;;;;;P;P;P;;;;;
-6;S06-06;False;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
-6;S06-05;False;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;60;70;10
-6;S06-04;False;Submandibulárny absces;D;3;;;;;P;P;P;;;30;;
-6;S06-03;False;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;60;70;10
-6;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
+6;S06-06;False;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;;70;10
+6;S06-05;False;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;;70;10
+6;S06-04;False;Submandibulárny absces;D;3;;;;;P;P;P;;;;;
+6;S06-03;False;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;120;70;10
+6;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;;500*3;
 6;S34-01;True;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
 6;S15-16;True;Stuhnutia kĺbov a kontrakúry svalu;D;3;;;;;P;P;P;;;;;
 6;S15-15;True;Rekonštrukčné výkony v dutine ústnej;V;3;;;;;P;P;N;;;;;
@@ -580,11 +580,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 6;S05-31;True;Iné ochorenia ucha, nosa, úst a krku;D;3;;;;;P;P;P;;;;;
 6;S05-29;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;3;;;;;P;P;P;;;;;
 6;S05-27;True;Komplexné operácie na krku;V;3;;;;;P;P;N;;;180;10;10
-6;S05-26;True;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;90;;
+6;S05-26;True;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;;;
 6;S05-24;True;Operačné výkony na slinných žľazách;V;3;;;;;P;P;P;;;90;25;10
 6;S05-22;True;Operačné výkony v dutine ústnej alebo na perách;V;3;;;;;P;P;N;;;90;;
 6;S04-30;True;Poranenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
-6;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;30;;
+6;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
 6;S04-10;True;Komplexné výkony na orbite alebo bulbe;V;3;;;;;P;P;P;;;30;;
 6;S03-52;True;Iné kraniálne výkony;V;3;;;;;P;P;P;;;;10;
 6;S02-30;True;Výkony pre poranenia artérií a vén;V;3;;;;;P;P;P;;;;;
@@ -596,12 +596,12 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 6;S40-08;True;Lymfóm a neakútna leukémia;D;2;;;;;P;P;P;P;;;;
 6;S40-05;True;Zhubné nádory ucha, nosa, úst a krku;D;2;;;;;P;P;P;P;;;;
 6;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-6;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
-6;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;30;;
-6;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
+6;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
+6;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;;;
+6;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;;500*3;
 6;S31-08;True;Ochorenia spojivového tkaniva;D;2;;;;;P;P;P;N;;;;
-6;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;14;;
-6;S29-13;True;Osteoporóza a osteomalácia;D;2;;;;;P;P;P;P;;30;;
+6;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;;;
+6;S29-13;True;Osteoporóza a osteomalácia;D;2;;;;;P;P;P;P;;;;
 6;S26-04;True;Iné ochorenia obehového systému;D;2;;;;;P;P;P;P;;;;
 6;S25-21;True;Infekcia/zápal kože a podkožia;D;2;;;;;P;P;P;N;;;500*3;
 6;S25-16;True;Opuch;D;2;;;;;P;P;P;P;;;;
@@ -644,7 +644,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 7;S40-09;True;Hematologické a solídné nádory;D;2;;;;;P;P;P;P;;;;
 7;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 7;S26-04;True;Iné ochorenia obehového systému;D;2;;;;;P;P;P;P;;;;
-7;S10-24;True;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;60;;
+7;S10-24;True;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;;;
 7;S08-36;True;Obštrukcia GIT;D;2;;;;;P;P;P;N;;;;
 7;S08-35;True;Vybrané ochorenia v brušnej oblasti;D;2;;;;;P;P;P;P;;;;
 7;S08-34;True;Iné ochorenia GIT III.;D;2;;;;;P;P;P;P;;;;
@@ -656,25 +656,25 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 7;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 8;S08-09;False;Komplexné výkony v retroperitoneu;V;4;;;;;P;P;;;;;;
 8;S08-08;False;Iné vysoko komplexné výkony na pankrease;V;4;;;;;P;P;;;;;;
-8;S08-07;False;Resekcie pankreasu;V;4;;;;;P;P;;;;30;30;
-8;S08-06;False;Resekcie pečene;V;4;;;;;P;P;;;;30;10;
+8;S08-07;False;Resekcie pankreasu;V;4;;;;;P;P;;;;45;30;
+8;S08-06;False;Resekcie pečene;V;4;;;;;P;P;;;;45;10;
 8;S08-05;False;Radikálna retroperitoneálna lymfadenektómia;V;4;;;;;P;P;;;;;;
 8;S08-04;False;Vysoko komplexné rekonštrukcie anurekta;V;4;;;;;P;P;;;;180;15;
 8;S08-03;False;Vysoko komplexné výkony na čreve;V;4;;;;;P;P;;;;;;
 8;S08-02;False;Vysoko komplexná rozšírená resekcia čreva;V;4;;;;;P;P;;;;;;
-8;S08-01;False;Rozšírené a vysoko komplexné resekcie žalúdka;V;4;;;;;P;P;;;;30;25;
+8;S08-01;False;Rozšírené a vysoko komplexné resekcie žalúdka;V;4;;;;;P;P;;;;45;25;
 8;S17-21;True;Odber orgánu pre transplantáciu od živého darcu;V;4;;;;;P;P;;;;;5;
 8;S17-20;True;Odber orgánu pre transplantáciu od mŕtveho darcu;V;4;;;;;P;P;;;;;;
 8;S08-25;False;Popáleniny pažeráka a iných častí tráviacej sústavy;D;3;;;;;P;P;P;;;;;
 8;S08-24;False;Ochorenia žlčníka a žlčovodov II.;D;3;;;;;P;P;P;;;;;
-8;S08-22;False;Operačné výkony v retroperitoneu;V;3;;;;;P;P;P;;;30;15;
+8;S08-22;False;Operačné výkony v retroperitoneu;V;3;;;;;P;P;P;;;45;15;
 8;S08-21;False;Iné operačné výkony na pankrease;V;3;;;;;P;P;N;;;30;15;
 8;S08-20;False;Revízie a špeciálne operácie žlčových ciest;V;3;;;;;P;P;N;;;30;10;
-8;S08-19;False;Ostatné operačné výkony na pečeni;V;3;;;;;P;P;N;;;30;15;
+8;S08-19;False;Ostatné operačné výkony na pečeni;V;3;;;;;P;P;N;;;45;15;
 8;S08-18;False;Lumbotómia a iné komplexné výkony v brušnej oblasti;V;3;;;;;P;P;N;;;;;
 8;S08-17;False;Resekcia peritonea;V;3;;;;;P;P;N;;;;;
 8;S08-16;False;Komplexné peranálne operácie;V;3;;;;;P;P;P;;;180;15;
-8;S08-15;False;Resekčné operácie na rekte pri zhubnom nádore;V;3;;;;;P;P;N;;;30;30;
+8;S08-15;False;Resekčné operácie na rekte pri zhubnom nádore;V;3;;;;;P;P;N;;;;30;
 8;S08-14;False;Komplexné výkony na čreve;V;3;;;;;P;P;N;;;;;
 8;S08-13;False;Rozšírená a komplexná resekcia čreva;V;3;;;;;P;P;N;;;60;20;
 8;S08-12;False;Operačné výkony na žalúdku - GERD;V;3;;;;;P;P;N;;;180;30;
@@ -713,7 +713,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 9;S09-02;False;Operácie na zmenu pohlavia;V;5;;;;;P;;;;;;;
 9;S09-01;False;Uzavretie extrofie močového mechúra;V;5;;;;;P;;;;;;;
 9;S09-03;False;Autotransplantácia obličky;V;4;;;;;N;N;;;;;;
-9;S29-03;True;Vrodené chromozómové ochorenia;D;4;;;;;P;P;;;;30;;
+9;S29-03;True;Vrodené chromozómové ochorenia;D;4;;;;;P;P;;;;;;
 9;S17-13;True;Transplantácia obličky;V;4;;;;;P;P;;;;;25;
 9;S09-15;False;Neurologické disfunkcie močových ciest;D;3;;;;;P;P;P;;;;;
 9;S09-14;False;Komplexné výkony na mužských pohlavných orgánoch;V;3;;;;;P;P;P;;;180;5;
@@ -747,11 +747,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 9;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 9;S30-08;True;Insuficiencia obličiek;D;2;;;;;P;P;P;P;;;;
 9;S30-05;True;Močové kamene a obštrukcia močových ciest;D;2;;;;;P;P;P;N;;;;
-9;S25-09;True;Ochorenia a poruchy močových orgánov;D;2;;;;;P;P;P;P;;30;;
+9;S25-09;True;Ochorenia a poruchy močových orgánov;D;2;;;;;P;P;P;P;;;;
 9;S10-27;True;Základné operácie pri poklese panvového dna II;V;2;;;;;P;P;P;N;;60;50;
 9;S10-26;True;Komplexné operácie pri inkontinencii;V;2;;;;;P;P;P;N;;60;30;
 9;S10-25;True;Rekonštrukčné operácie genitálu - jednoduché;V;2;;;;;P;P;P;N;;180;30;
-9;S10-23;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;60;;
+9;S10-23;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
 9;S09-36;False;Jednoduché výkony na mužských pohlavných orgánoch;V;1;;;;;P;P;P;P;P;180;10;
 9;S09-35;False;Jednoduchá resekcia prostaty;V;1;;;;;P;P;P;P;P;180;20;
 9;S09-34;False;Jednoduché výkony na močovej rúre;V;1;;;;;P;P;P;P;P;180;10;
@@ -763,8 +763,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 9;S09-28;False;Implantácia stentu do močových ciest;V;1;;;;;P;P;P;P;P;;;
 9;S09-27;False;Implantácia double pigtailu do močových ciest;V;1;;;;;P;P;P;P;P;;;
 9;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-9;S10-46;True;Základné operácie pri poklese panvového dna I;V;1;;;;;P;P;P;N;N;60;50;
-9;S10-45;True;Základné operácie pri inkontinencii;V;1;;;;;P;P;P;N;N;60;30;
+9;S10-46;True;Základné operácie pri poklese panvového dna I;V;1;;;;;P;P;P;N;N;90;50;
+9;S10-45;True;Základné operácie pri inkontinencii;V;1;;;;;P;P;P;N;N;;30;
 9;S10-39;True;Výkony na pošve a vulve - jednoduché;V;1;;;;;P;P;P;P;P;60;20;
 10;S40-01;True;Zhubný nádor placenty;D;5;;;;;P;;;;;;;
 10;S09-02;True;Operácie na zmenu pohlavia;V;5;;;;;P;;;;;;;
@@ -775,18 +775,18 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 10;S10-09;False;Iné výkony na maternici IV;V;4;;;;;P;P;;;;;10*9;
 10;S10-08;False;Hysterektómia IV;V;4;;;;;P;P;;;;;10*9;
 10;S10-07;False;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) - komplexná;VD;4;;;;;P;N;;;;180;10;
-10;S10-06;False;Vulvektómia, kolpektómia;V;4;;;;;P;N;;;;21;100*8;
-10;S10-05;False;Onkologické výkony - uterus;V;4;;;;;P;P;;;;21;100*8;
-10;S10-04;False;Onkologické výkony - ováriá;V;4;;;;;P;P;;;;21;100*8;
-10;S10-03;False;Onkologické výkony - lymfatické uzliny;V;4;;;;;P;P;;;;21;100*8;
-10;S10-02;False;Onkologické výkony - krčok uteru;V;4;;;;;P;P;;;;21;100*8;
+10;S10-06;False;Vulvektómia, kolpektómia;V;4;;;;;P;N;;;;30;100*8;
+10;S10-05;False;Onkologické výkony - uterus;V;4;;;;;P;P;;;;30;100*8;
+10;S10-04;False;Onkologické výkony - ováriá;V;4;;;;;P;P;;;;30;100*8;
+10;S10-03;False;Onkologické výkony - lymfatické uzliny;V;4;;;;;P;P;;;;30;100*8;
+10;S10-02;False;Onkologické výkony - krčok uteru;V;4;;;;;P;P;;;;45;100*8;
 10;S10-01;False;Výkony na vaječníkoch a vajíčkovodoch - komplexné;V;4;;;;;P;P;;;;60;5;
 10;S11-06;True;Operácie na krčku maternice v gravidite;V;3;;;3;3;P;P;P;;;;;
 10;S10-20;False;Riešenie pooperačných komplikácií;V;3;;;;;P;P;P;;;;;
 10;S10-19;False;Komplexné operácie pri inkontinencii II;V;3;;;;;P;P;P;;;60;30;
-10;S10-18;False;Vybrané ochorenia ženských pohlavných orgánov (vybrané fistuly);D;3;;;;;P;P;P;;;60;;
+10;S10-18;False;Vybrané ochorenia ženských pohlavných orgánov (vybrané fistuly);D;3;;;;;P;P;P;;;;;
 10;S10-17;False;Výkony na krčku uteru - komplexné;V;3;;;;;P;P;N;;;60;5;
-10;S10-16;False;Závažné ochorenia ženských pohlavných orgánov (vybrané endometriózy);D;3;;;;;P;P;N;;;60;;
+10;S10-16;False;Závažné ochorenia ženských pohlavných orgánov (vybrané endometriózy);D;3;;;;;P;P;N;;;;;
 10;S10-15;False;Výkony pri endometrióze - komplexné ;V;3;;;;;P;P;N;;;60;20;
 10;S10-14;False;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9);VD;3;;;;;P;N;N;;;180;10;
 10;S10-13;False;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I.;VD;3;;;;;P;N;N;;;180;10;
@@ -808,9 +808,9 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 10;S10-27;False;Základné operácie pri poklese panvového dna II;V;2;;;;;P;P;P;N;;60;50;
 10;S10-26;False;Komplexné operácie pri inkontinencii;V;2;;;;;P;P;P;N;;60;30;
 10;S10-25;False;Rekonštrukčné operácie genitálu - jednoduché;V;2;;;;;P;P;P;N;;180;30;
-10;S10-24;False;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;60;;
-10;S10-23;False;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;60;;
-10;S10-22;False;Infekcia a zápal ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;60;;
+10;S10-24;False;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;;;
+10;S10-23;False;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
+10;S10-22;False;Infekcia a zápal ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
 10;S10-21;False;Výkony na pošve a vulve;V;2;;;;;P;P;P;P;;60;5;
 10;S40-16;True;Zhubný nádor ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
 10;S40-15;True;Zhubné nádory prsníka;D;2;;;;;P;P;P;P;;;;
@@ -818,8 +818,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 10;S30-08;True;Insuficiencia obličiek;D;2;;;;;P;P;P;P;;;;
 10;S25-15;True;Ťažkosti, symptómy a iné anomálie;D;2;;;;;P;P;P;P;;;;
 10;S11-21;True;Kyretáž pre ukončenie gravidity;V;1;;;1;1;P;P;P;P;P;;;
-10;S10-46;False;Základné operácie pri poklese panvového dna I;V;1;;;;;P;P;P;N;N;60;50;
-10;S10-45;False;Základné operácie pri inkontinencii;V;1;;;;;P;P;P;N;N;60;30;
+10;S10-46;False;Základné operácie pri poklese panvového dna I;V;1;;;;;P;P;P;N;N;90;50;
+10;S10-45;False;Základné operácie pri inkontinencii;V;1;;;;;P;P;P;N;N;;30;
 10;S10-44;False;Iné výkony JZS v gynekoléogii;V;1;;;;;P;P;P;P;N;60;20;
 10;S10-43;False;Operácie pri EUG I;V;1;;;;;P;P;P;P;N;;;
 10;S10-42;False;Výkony na endometriu (frakcionovaná kyretáž, HSK, termoablácia);V;1;;;;;P;P;P;P;P;60;;
@@ -834,7 +834,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 10;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 10;S14-18;True;Malé výkony na prsníku;V;1;;;;;P;P;P;P;N;90;;
 11;S11-02;False;Intrauterinná operácia plodu;V;5;;;5;5;N;;;;;;;
-11;S11-01;False;Intrauterinná terapia plodu;V;5;;;5;5;P;;;;;14;5;
+11;S11-01;False;Intrauterinná terapia plodu;V;5;;;5;5;P;;;;;30;5;
 11;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 11;S11-03;False;Starostlivosť o tehotnú do 29. týždňa;D;4;;;4;4;P;P;;;;;;
 11;S11-06;False;Operácie na krčku maternice v gravidite;V;3;;;3;3;P;P;P;;;;;
@@ -882,8 +882,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 12;S12-25;False;Chirurgická liečba instabilít chrbtice - C3-C7;VV;3;;;;;P;P;P;;;60;5;
 12;S12-24;False;Chirurgická liečba instabilít chrbtice - C0-C2;VV;3;;;;;P;P;N;;;60;3;
 12;S12-23;False;Chirurgická liečba degen. ochorení chrbtice - S2-Co + SI kĺby;VV;3;;;;;P;P;N;;;60;5;
-12;S12-22;False;Chirurgická liečba degen. ochorení chrbtice - T1-S1;VV;3;;;;;P;P;P;;;180;100;
-12;S12-21;False;Chirurgická liečba degen. ochorení chrbtice - C0-C7 ;VV;3;;;;;P;P;P;;;120;100;
+12;S12-22;False;Chirurgická liečba degen. ochorení chrbtice - T1-S1;VV;3;;;;;P;P;P;;;270;100;
+12;S12-21;False;Chirurgická liečba degen. ochorení chrbtice - C0-C7 ;VV;3;;;;;P;P;P;;;270;100;
 12;S12-20;False;Chirurgická liečba úrazov chrbtice s instabilitou - S-Co;VV;3;;;;;P;P;N;;;;3;
 12;S12-19;False;Chirurgická liečba úrazov chrbtice s instabilitou - L1-L5;VV;3;;;;;P;P;P;;;;10;
 12;S12-18;False;Chirurgická liečba úrazov chrbtice s instabilitou - T12-L2;VV;3;;;;;P;P;P;;;;10;
@@ -920,7 +920,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 13;S13-13;False;Iný základný výkon na rastúcom skelete;V;3;;;;;P;P;P;;;;;
 13;S13-12;False;Osteotómia panvy a proximálneho femoru;V;3;;;;;P;P;P;;;;10;
 13;S13-11;False;Alogénna transplantácia kostného tkaniva;V;3;;;;;P;P;P;;;;;
-13;S13-10;False;Revízna endoprotetika kolenného kĺbu;V;3;;;;;P;P;P;;;182;15;5
+13;S13-10;False;Revízna endoprotetika kolenného kĺbu;V;3;;;;;P;P;P;;;180;15;5
 13;S13-09;False;Komplexné amputácie a exartikulácie;V;3;;;;;P;P;P;;;;;
 13;S12-34;True;Iné ochorenia chrbtice;D;3;;;;;P;P;N;;;;;
 13;S12-33;True;Iné výkony na chrbtici;V;3;;;;;P;P;N;;;;;
@@ -953,10 +953,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 13;S13-23;False;Revízne operácie iných endoprotéz;V;2;;;;;N;N;N;N;;;;
 13;S13-22;False;Totálna endoprotéza bedrového kĺbu;V;2;;;;;P;P;P;P;;395;100;20
 13;S13-21;False;Totálna endoprotéza iného kĺbu;V;2;;;;;N;N;N;N;;;;
-13;S13-20;False;Totálna endoprotéza kolenného kĺbu;V;2;;;;;P;P;P;P;;395;100;20
+13;S13-20;False;Totálna endoprotéza kolenného kĺbu;V;2;;;;;P;P;P;P;;425;100;20
 13;S13-19;False;Komplexná korekcia deformity;V;2;;;;;P;P;P;N;;;;
-13;S13-18;False;Revízna endoprotetika bedrového kĺbu;V;2;;;;;P;P;P;N;;182;30;10
-13;S13-17;False;Primárna implantácia špeciálnej protézy kolenného a bedrového kĺbu;V;2;;;;;P;P;P;P;;182;20;
+13;S13-18;False;Revízna endoprotetika bedrového kĺbu;V;2;;;;;P;P;P;N;;180;30;10
+13;S13-17;False;Primárna implantácia špeciálnej protézy kolenného a bedrového kĺbu;V;2;;;;;P;P;P;P;;180;20;
 13;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 13;S31-06;True;Infekčné artritídy;D;2;;;;;P;P;P;N;;;;
 13;S02-63;True;Stredne ťažké poranenia pohybového systému;D;2;;;;;P;P;P;P;;;;
@@ -997,7 +997,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 14;S15-11;True;Rekonštrukčné výkony na prsníku;V;3;;;;;P;P;P;;;90;10;
 14;S14-15;False;Vyčistenie rany s odstránením patologického tkaniva;V;2;;;;;P;P;P;P;;90;;
 14;S14-14;False;Voľná transplantácia kože;V;2;;;;;P;P;P;P;;90;;
-14;S14-13;False;Radikálna excízia patologického tkaniva na koži a podkoží;V;2;;;;;P;P;P;P;;90;;
+14;S14-13;False;Radikálna excízia patologického tkaniva na koži a podkoží;V;2;;;;;P;P;P;P;;;;
 14;S14-12;False;Operačné výkony na tvári;V;2;;;;;P;P;P;P;;90;;
 14;S14-11;False;Laloková plastika;V;2;;;;;P;P;P;P;;90;;
 14;S14-10;False;Iné výkony na koži a podkoží;V;2;;;;;P;P;P;P;;90;;
@@ -1006,7 +1006,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 14;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 14;S14-22;False;Biopsia a punkcia prsníka;V;1;;;;;P;P;P;P;N;90;;
 14;S14-21;False;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-14;S14-20;False;Malé výkony na koži a podkoží;V;1;;;;;P;P;P;P;N;90;;
+14;S14-20;False;Malé výkony na koži a podkoží;V;1;;;;;P;P;P;P;N;;;
 14;S14-19;False;Jednoduché lalokové plastiky;V;1;;;;;P;P;P;P;N;90;;
 14;S14-18;False;Malé výkony na prsníku;V;1;;;;;P;P;P;P;N;90;;
 14;S14-17;False;Jednoduché vyčistenie rany s odstránením patologického tkaniva;V;1;;;;;P;P;P;P;N;90;;
@@ -1025,11 +1025,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 15;S13-05;True;Vysoko komplexné amputácie a exartikulácie;V;4;;;;;P;P;;;;;;
 15;S13-04;True;Resekcia malígneho tumoru končatiny;V;4;;;;;P;P;;;;;40;10
 15;S13-03;True;Implantácia komplexnej kostnej náhrady;V;4;;;;;P;P;;;;;;
-15;S06-02;True;Rázštepy;D;4;;;;;P;P;;;;60;10;1
-15;S06-01;True;Ostatné maxilofaciálne výkony;V;4;;;;;P;P;;;;60;10;1
+15;S06-02;True;Rázštepy;D;4;;;;;P;P;;;;;10;1
+15;S06-01;True;Ostatné maxilofaciálne výkony;V;4;;;;;P;P;;;;120;10;1
 15;S05-16;True;Iný maxilofaciálny výkon;V;4;;;;;P;P;;;;;15;5
 15;S05-15;True;Komplexné operačné výkony na slinných žľazách;V;4;;;;;P;P;;;;30;;
-15;S05-14;True;Komplexné operačné výkony na tvári a priľahlej oblasti;V;4;;;;;P;P;;;;30;10;5
+15;S05-14;True;Komplexné operačné výkony na tvári a priľahlej oblasti;V;4;;;;;P;P;;;;60;10;5
 15;S05-13;True;Komplexné operačné výkony v dutine ústnej alebo na perách;V;4;;;;;P;P;;;;30;;
 15;S05-12;True;Komplexné výkony na jazyku, hltane, hrtane, LU;V;4;;;;;P;P;;;;30;;
 15;S05-11;True;Operačné výkony na hltane, hrtane a priedušnici;V;4;;;;;P;P;;;;90;;
@@ -1053,7 +1053,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 15;S15-06;False;Chirurgia voľných lalokov;V;3;;;;;P;P;N;;;90;10;
 15;S31-03;True;Závažné ochorenia kostí a určité artropatie;D;3;;;;;P;P;P;;;;;
 15;S27-12;True;Tuberkulóza;D;3;;;;;P;P;P;;;;;
-15;S25-02;True;Amyloidóza;D;3;;;;;P;P;P;;;30;;
+15;S25-02;True;Amyloidóza;D;3;;;;;P;P;P;;;;;
 15;S19-05;True;Operačné výkony na cievach - vény a iné;V;3;;;;;P;P;P;;;360;;
 15;S19-04;True;Operačné výkony na cievach - končatiny;V;3;;;;;P;P;P;;;360;70;
 15;S16-03;True;Komplexné výkony na koži a podkoží pri popáleninách a poleptaniach;V;3;;;;;P;P;P;;;;;
@@ -1073,24 +1073,24 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 15;S12-34;True;Iné ochorenia chrbtice;D;3;;;;;P;P;N;;;;;
 15;S12-33;True;Iné výkony na chrbtici;V;3;;;;;P;P;N;;;;;
 15;S09-14;True;Komplexné výkony na mužských pohlavných orgánoch;V;3;;;;;P;P;P;;;180;5;
-15;S06-03;True;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;60;70;10
+15;S06-03;True;Ostatné maxilofaciálne výkony II.;V;3;;;;;P;P;P;;;120;70;10
 15;S05-28;True;Hemityreoidektómie, tyreoidektómie a resekcie bez odstránenia prištítných teliesok;V;3;;;;;P;P;P;;;180;50;30
 15;S05-27;True;Komplexné operácie na krku;V;3;;;;;P;P;N;;;180;10;10
-15;S05-26;True;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;90;;
+15;S05-26;True;Operačné výkony na nose a nosovej dutine;V;3;;;;;P;P;N;;;;;
 15;S05-23;True;Operačné výkony na vonkajšom zvukovode a ušnici;V;3;;;;;P;P;N;;;90;;
 15;S05-22;True;Operačné výkony v dutine ústnej alebo na perách;V;3;;;;;P;P;N;;;90;;
-15;S05-21;True;Operačné výkony v hltane;V;3;;;;;P;P;P;;;30;10;
+15;S05-21;True;Operačné výkony v hltane;V;3;;;;;P;P;P;;;;10;
 15;S05-20;True;Operačné výkony v orbite a slzných cestách;V;3;;;;;P;P;N;;;;;
 15;S05-19;True;Chirurgia štítnej žľazy a prištítnych žliaz;V;3;;;;;P;P;P;;;180;10;10
 15;S05-18;True;Operácia pre hlbokú krčnú infekciu;V;3;;;;;P;P;N;;;;;
 15;S04-31;True;Komplexné výkony pri traume oka;V;3;;;;;P;P;P;;;;;
 15;S04-30;True;Poranenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
-15;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;30;;
-15;S04-28;True;Neuro-oftalmologické ochorenie oka;D;3;;;;;P;P;P;;;30;;
-15;S04-27;True;Zápalové a infekčné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;10;;
-15;S04-20;True;Iné ochorenia oka a očných adnexov vyžadujúce komplexný prístup;D;3;;;;;P;P;P;;;15;;
-15;S04-19;True;Zápalové ochorenia očného nervu a paralytické škúlenie;D;3;;;;;P;P;P;;;30;;
-15;S04-18;True;Infekcie a zápaly oka a očných adnexov;D;3;;;;;P;P;P;;;10;;
+15;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
+15;S04-28;True;Neuro-oftalmologické ochorenie oka;D;3;;;;;P;P;P;;;;;
+15;S04-27;True;Zápalové a infekčné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
+15;S04-20;True;Iné ochorenia oka a očných adnexov vyžadujúce komplexný prístup;D;3;;;;;P;P;P;;;;;
+15;S04-19;True;Zápalové ochorenia očného nervu a paralytické škúlenie;D;3;;;;;P;P;P;;;;;
+15;S04-18;True;Infekcie a zápaly oka a očných adnexov;D;3;;;;;P;P;P;;;;;
 15;S04-12;True;Komplexné výkony na očných svaloch;V;3;;;;;P;P;P;;;90;;
 15;S04-10;True;Komplexné výkony na orbite alebo bulbe;V;3;;;;;P;P;P;;;30;;
 15;S03-50;True;Plastika dury a kalvy;V;3;;;;;P;P;P;;;;10;
@@ -1114,16 +1114,16 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 15;S31-10;True;Dna zapríčinená liekmi;D;2;;;;;P;P;P;N;;;;
 15;S31-09;True;Artritída pri Lymskej chorobe;D;2;;;;;P;P;P;N;;;;
 15;S31-08;True;Ochorenia spojivového tkaniva;D;2;;;;;P;P;P;N;;;;
-15;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;14;;
+15;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;;;
 15;S31-06;True;Infekčné artritídy;D;2;;;;;P;P;P;N;;;;
 15;S31-05;True;Reumatizmus, bližšie neurený;D;2;;;;;P;P;P;N;;;;
-15;S29-13;True;Osteoporóza a osteomalácia;D;2;;;;;P;P;P;P;;30;;
+15;S29-13;True;Osteoporóza a osteomalácia;D;2;;;;;P;P;P;P;;;;
 15;S25-21;True;Infekcia/zápal kože a podkožia;D;2;;;;;P;P;P;N;;;500*3;
 15;S16-05;True;Menej ťažké popáleniny a poleptania;D;2;;;;;P;P;P;P;;;;
 15;S16-04;True;Malé výkony na koži a podkoží pri popáleninách a poleptaniach;V;2;;;;;P;P;P;P;;;;
 15;S14-15;True;Vyčistenie rany s odstránením patologického tkaniva;V;2;;;;;P;P;P;P;;90;;
 15;S14-14;True;Voľná transplantácia kože;V;2;;;;;P;P;P;P;;90;;
-15;S14-13;True;Radikálna excízia patologického tkaniva na koži a podkoží;V;2;;;;;P;P;P;P;;90;;
+15;S14-13;True;Radikálna excízia patologického tkaniva na koži a podkoží;V;2;;;;;P;P;P;P;;;;
 15;S14-12;True;Operačné výkony na tvári;V;2;;;;;P;P;P;P;;90;;
 15;S14-11;True;Laloková plastika;V;2;;;;;P;P;P;P;;90;;
 15;S14-10;True;Iné výkony na koži a podkoží;V;2;;;;;P;P;P;P;;90;;
@@ -1147,7 +1147,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 15;S13-23;True;Revízne operácie iných endoprotéz;V;2;;;;;N;N;N;N;;;;
 15;S13-21;True;Totálna endoprotéza iného kĺbu;V;2;;;;;N;N;N;N;;;;
 15;S13-19;True;Komplexná korekcia deformity;V;2;;;;;P;P;P;N;;;;
-15;S13-17;True;Primárna implantácia špeciálnej protézy kolenného a bedrového kĺbu;V;2;;;;;P;P;P;P;;182;20;
+15;S13-17;True;Primárna implantácia špeciálnej protézy kolenného a bedrového kĺbu;V;2;;;;;P;P;P;P;;180;20;
 15;S10-25;True;Rekonštrukčné operácie genitálu - jednoduché;V;2;;;;;P;P;P;N;;180;30;
 15;S02-66;True;Komplikácie po úraze;D;2;;;;;P;P;P;P;;;;
 15;S02-64;True;Ťažké poranenia pohybového systému;D;2;;;;;P;P;P;P;;;;
@@ -1171,7 +1171,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 15;S15-22;False;Iné malé výkony na koži a podkoží B;V;1;;;;;P;P;P;P;N;90;;
 15;S15-21;False;Malé výkony na koži a podkoží B;V;1;;;;;P;P;P;P;N;90;;
 15;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-15;S14-20;True;Malé výkony na koži a podkoží;V;1;;;;;P;P;P;P;N;90;;
+15;S14-20;True;Malé výkony na koži a podkoží;V;1;;;;;P;P;P;P;N;;;
 15;S14-19;True;Jednoduché lalokové plastiky;V;1;;;;;P;P;P;P;N;90;;
 15;S14-18;True;Malé výkony na prsníku;V;1;;;;;P;P;P;P;N;90;;
 15;S14-17;True;Jednoduché vyčistenie rany s odstránením patologického tkaniva;V;1;;;;;P;P;P;P;N;90;;
@@ -1253,8 +1253,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 18;S18-06;False;Perikardektómia, perikardiotómia a kardiotómia;V;4;;;;;P;P;;;;180;400*2;
 18;S18-05;False;Ablácie porúch rytmu;V;4;;;;;P;P;;;;180;400*2;
 18;S18-04;False;Iné operačné výkony na srdci a veľkých cievach;V;4;;;;;P;P;;;;180;400*2;
-18;S18-03;False;Kardiochirurgia VVCH;V;4;;;;;P;P;;;;180;400*2;
-18;S18-02;False;Výkon na srdcových chlopniach;V;4;;;;;P;P;;;;180;400*2;
+18;S18-03;False;Kardiochirurgia VVCH;V;4;;;;;P;P;;;;270;400*2;
+18;S18-02;False;Výkon na srdcových chlopniach;V;4;;;;;P;P;;;;270;400*2;
 18;S02-29;True;Výkony vnútrohrudné akútne pre traumu;V;3;;;;;P;P;N;;;;;
 18;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 18;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
@@ -1269,8 +1269,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 19;S19-08;False;Shuntové operácie - AV shunt;V;1;;;;;P;P;P;N;N;180;30;
 19;S19-07;False;Operačné výkony na varikóznych žilách;V;1;;;;;P;P;P;N;N;360;100;
 19;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-20;S20-01;False;Intervenčné výkony - chlopne;V;4;;;;;P;P;;;;90;50;30
-20;S20-09;False;Diag. katetrizácia ľavého srdca/selekt.koronarografia;V;3;;;;;P;P;P;;;90;1200;130
+20;S20-01;False;Intervenčné výkony - chlopne;V;4;;;;;P;P;;;;395;50;30
+20;S20-09;False;Diag. katetrizácia ľavého srdca/selekt.koronarografia;V;3;;;;;P;P;P;;;180;1200;130
 20;S20-07;False;Intravaskulárne zobrazovacie metódy - aspoň jedna metodika;V;3;;;;;P;P;P;;;;;
 20;S20-05;False;Dočasná mech. podpora obehu - aspoň jedna metodika;V;3;;;;;P;P;P;;;;;
 20;S20-03;False;Medicínska služba pPKI 24/7 u infarktu;V;3;;;;;P;P;P;;;;100;30
@@ -1323,8 +1323,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 24;S24-06;False;Nevaskulárna intervenčná rádiológia I (jednoduché biopsie, drenážne výkony a pod.);V;2;;;;;P;P;P;P;;90;100;20
 24;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 24;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-25;S35-03;True;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;4;;;;;P;P;;;;30;;
-25;S35-02;True;Vysoko komplexné ochorenia imunitného systému;D;4;;;;;P;P;;;;30;;
+25;S35-03;True;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;4;;;;;P;P;;;;;;
+25;S35-02;True;Vysoko komplexné ochorenia imunitného systému;D;4;;;;;P;P;;;;;;
 25;S32-17;True;Vrodené trombocytopatie klinicky závažné ;D;4;;;;;P;P;;;;;;
 25;S32-16;True;Vysoko komplexné hematologické ochorenia;D;4;;;;;P;P;;;;;;
 25;S32-10;True;Idiopatická aplastická anémia, ťažká a veľmi ťažká forma;D;4;;;;;P;P;;;;;;
@@ -1332,10 +1332,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S28-05;True;Vysoko komplexné ochorenia GIT;D;4;;;;;P;P;;;;;;
 25;S25-05;False;Akútna geriatrická starostlivosť;V;3;;;;;P;P;N;;;;;
 25;S25-04;False;Farmakoterapia;V;3;;;;;P;P;P;;;;;
-25;S25-03;False;Účinky vibrácie;D;3;;;;;P;P;P;;;30;;
-25;S25-02;False;Amyloidóza;D;3;;;;;P;P;P;;;30;;
-25;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
-25;S34-03;True;Kožný vred;D;3;;;;;P;P;P;;;14;500*3;
+25;S25-03;False;Účinky vibrácie;D;3;;;;;P;P;P;;;;;
+25;S25-02;False;Amyloidóza;D;3;;;;;P;P;P;;;;;
+25;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;;500*3;
+25;S34-03;True;Kožný vred;D;3;;;;;P;P;P;;;;500*3;
 25;S33-03;True;Sepsa II;D;3;;;;;N;N;N;;;;;
 25;S32-22;True;Akútne leukémie - podporná liečba;D;3;;;;;P;P;P;;;;;
 25;S32-21;True;Hemolytická anémia;D;3;;;;;P;P;P;;;;;
@@ -1347,9 +1347,9 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S28-17;True;Ochorenia pečene;D;3;;;;;P;P;P;;;;;
 25;S28-16;True;Ochorenia pažeráka;D;3;;;;;P;P;P;;;;;
 25;S27-10;True;Extrémna obezita s alveolovou hypoventiláciou;D;3;;;;;P;P;P;;;;;
-25;S27-09;True;Intersticiálna choroba pľúc II.;D;3;;;;;P;P;P;;;90;;
+25;S27-09;True;Intersticiálna choroba pľúc II.;D;3;;;;;P;P;P;;;;;
 25;S27-07;True;Iné infekcie a zápaly dýchacích orgánov II.;D;3;;;;;P;P;P;;;;;
-25;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;30;;
+25;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
 25;S11-18;True;Hospitalizácia po pôrode;D;2;;;2;2;P;P;P;P;;;;
 25;S25-21;False;Infekcia/zápal kože a podkožia;D;2;;;;;P;P;P;N;;;500*3;
 25;S25-20;False;Komplikácie po infúzii, trasfúzii a liečebnej injekcii;D;2;;;;;P;P;P;P;;;;
@@ -1361,21 +1361,21 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S25-14;False;Rôzne poruchy metabolizmu;D;2;;;;;P;P;P;P;;;;
 25;S25-13;False;Akútna intoxikácia alkoholom alebo drogami;D;2;;;;;P;P;P;P;;;;
 25;S25-12;False;Otravy alebo toxické účinky z vonkajších príčin;D;2;;;;;P;P;P;P;;;;
-25;S25-11;False;Ochorenia sleziny;D;2;;;;;P;P;P;P;;30;;
+25;S25-11;False;Ochorenia sleziny;D;2;;;;;P;P;P;P;;;;
 25;S25-10;False;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi;D;2;;;;;P;P;P;P;;;;
-25;S25-09;False;Ochorenia a poruchy močových orgánov;D;2;;;;;P;P;P;P;;30;;
-25;S25-08;False;Iné kardiovaskulárne ochorenia;D;2;;;;;P;P;P;P;;30;;
+25;S25-09;False;Ochorenia a poruchy močových orgánov;D;2;;;;;P;P;P;P;;;;
+25;S25-08;False;Iné kardiovaskulárne ochorenia;D;2;;;;;P;P;P;P;;;;
 25;S25-07;False;Hypovolemický a iný šok;D;2;;;;;P;P;P;P;;;;
-25;S25-06;False;Anémia a iné hematologické ochorenia;D;2;;;;;P;P;P;P;;30;;
+25;S25-06;False;Anémia a iné hematologické ochorenia;D;2;;;;;P;P;P;P;;;;
 25;S40-21;True;Chemoterapia;V;2;;;;;P;P;P;P;;;;
 25;S40-18;True;Zhubné nádory močových orgánov;D;2;;;;;P;P;P;P;;;;
 25;S40-08;True;Lymfóm a neakútna leukémia;D;2;;;;;P;P;P;P;;;;
 25;S40-05;True;Zhubné nádory ucha, nosa, úst a krku;D;2;;;;;P;P;P;P;;;;
 25;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-25;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
+25;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
 25;S37-03;True;Stupor a kóma netraumatického pôvodu;D;2;;;;;P;P;P;N;;;;
-25;S35-06;True;Ochorenia imunitného systému;D;2;;;;;P;P;P;P;;90;;
-25;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
+25;S35-06;True;Ochorenia imunitného systému;D;2;;;;;P;P;P;P;;;;
+25;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;;500*3;
 25;S33-11;True;Horúčka neznámeho pôvodu;D;2;;;;;P;P;P;P;;;;
 25;S33-09;True;Iné infekčné ochorenia;D;2;;;;;P;P;P;P;;;;
 25;S33-08;True;Sepsa;D;2;;;;;P;P;P;P;;;;
@@ -1388,13 +1388,13 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S31-11;True;Raynaudov syndróm;D;2;;;;;P;P;P;N;;;;
 25;S31-10;True;Dna zapríčinená liekmi;D;2;;;;;P;P;P;N;;;;
 25;S31-08;True;Ochorenia spojivového tkaniva;D;2;;;;;P;P;P;N;;;;
-25;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;14;;
+25;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;;;
 25;S30-08;True;Insuficiencia obličiek;D;2;;;;;P;P;P;P;;;;
-25;S29-10;True;Endokrinopatie;D;2;;;;;P;P;P;P;;30;;
-25;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;30;;
-25;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;30;;
-25;S29-07;True;Vrodené metabolické poruchy;D;2;;;;;P;P;P;P;;30;;
-25;S29-06;True;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;30;;
+25;S29-10;True;Endokrinopatie;D;2;;;;;P;P;P;P;;;;
+25;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;;;
+25;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;;;
+25;S29-07;True;Vrodené metabolické poruchy;D;2;;;;;P;P;P;P;;;;
+25;S29-06;True;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;;;
 25;S28-65;True;Infekčná gastroenteritída;D;2;;;;;P;P;P;P;;;;
 25;S28-64;True;Iné infečné ochorenia GIT;D;2;;;;;P;P;P;P;;;;
 25;S28-62;True;Enterokolitída zapríčinená Clostridium difficile;D;2;;;;;P;P;P;P;;;;
@@ -1420,13 +1420,13 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S28-18;True;Ochorenia žlčníka a žlčovodov;D;2;;;;;P;P;P;N;;;;
 25;S27-26;True;Zápal pľúc;D;2;;;;;P;P;P;P;;;;
 25;S27-24;True;Pleurálny výpotok;D;2;;;;;P;P;P;P;;;;
-25;S27-23;True;Kašeľ, dyspnoe a iné poruchy dýchania;D;2;;;;;P;P;P;P;;30;;
-25;S27-22;True;Intersticiálna choroba pľúc;D;2;;;;;P;P;P;P;;30;;
-25;S27-21;True;Iné ochorenie dýchacích orgánov;D;2;;;;;P;P;P;P;;90;;
-25;S27-20;True;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;30;;
-25;S27-19;True;CHOCHP a bronchiektázie;D;2;;;;;P;P;P;P;;30;;
+25;S27-23;True;Kašeľ, dyspnoe a iné poruchy dýchania;D;2;;;;;P;P;P;P;;;;
+25;S27-22;True;Intersticiálna choroba pľúc;D;2;;;;;P;P;P;P;;;;
+25;S27-21;True;Iné ochorenie dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
+25;S27-20;True;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
+25;S27-19;True;CHOCHP a bronchiektázie;D;2;;;;;P;P;P;P;;;;
 25;S27-18;True;Bronchitída a iné akútne infekcie DDC;D;2;;;;;P;P;P;P;;;;
-25;S27-17;True;Astma bronchiale;D;2;;;;;P;P;P;P;;30;;
+25;S27-17;True;Astma bronchiale;D;2;;;;;P;P;P;P;;;;
 25;S26-18;True;Bolesť na hrudníku;D;2;;;;;P;P;P;P;;;;
 25;S26-17;True;Synkopa a kolaps;D;2;;;;;P;P;P;P;;;;
 25;S26-16;True;Žilová trombóza;D;2;;;;;P;P;P;P;;;;
@@ -1447,7 +1447,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 25;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 26;S26-01;False;Nepretržitá komplexná a vyskošpecializovaná  kardiovaskulárna neinvazívna starostlivosť;VD;5;;;;;P;;;;;90;;
 26;S26-02;False;Nepretržitá komplexná neinvazívna kardiovaskulárna starostlivosť;VD;4;;;;;P;P;;;;90;;
-26;S26-03;False;Komplexná neinvazívna kardiovaskulárna starostlivosť;VD;3;;;;;P;P;P;;;90;;
+26;S26-03;False;Komplexná neinvazívna kardiovaskulárna starostlivosť;VD;3;;;;;P;P;P;;;;;
 26;S26-18;False;Bolesť na hrudníku;D;2;;;;;P;P;P;P;;;;
 26;S26-17;False;Synkopa a kolaps;D;2;;;;;P;P;P;P;;;;
 26;S26-16;False;Žilová trombóza;D;2;;;;;P;P;P;P;;;;
@@ -1471,7 +1471,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 27;S27-05;False;Použitie bronchopulmonálneho elektromagnetického navigačného systému;V;4;;;;;N;N;;;;;;
 27;S27-04;False;Vysoko komplexné výkony na respiračnom systéme II.;V;4;;;;;P;N;;;;;;
 27;S27-03;False;Vysoko komplexné výkony na respiračnom systéme;V;4;;;;;N;N;;;;;;
-27;S27-02;False;Cystická fibróza;D;4;;;;;P;P;;;;7;;
+27;S27-02;False;Cystická fibróza;D;4;;;;;P;P;;;;;;
 27;S07-02;True;Vysoko komplexné výkony na priedušnici;V;4;;;;;P;P;;;;;20;
 27;S27-16;False;Perkutánná biopsia;V;3;;;;;P;P;N;;;;;
 27;S27-15;False;Komplexné výkony na trachey a bronchoch III.;V;3;;;;;N;N;N;;;;;
@@ -1480,7 +1480,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 27;S27-12;False;Tuberkulóza;D;3;;;;;P;P;P;;;;;
 27;S27-11;False;Pleurálny výpotok II.;D;3;;;;;P;P;P;;;;;
 27;S27-10;False;Extrémna obezita s alveolovou hypoventiláciou;D;3;;;;;P;P;P;;;;;
-27;S27-09;False;Intersticiálna choroba pľúc II.;D;3;;;;;P;P;P;;;90;;
+27;S27-09;False;Intersticiálna choroba pľúc II.;D;3;;;;;P;P;P;;;;;
 27;S27-08;False;Iné ochorenie dýchacích orgánov II.;D;3;;;;;P;P;P;;;;;
 27;S27-07;False;Iné infekcie a zápaly dýchacích orgánov II.;D;3;;;;;P;P;P;;;;;
 27;S39-03;True;Polysomnografia a ďalšie diagnostické a terapeutické metódy v spánkovej medicíne;V;3;;;;;P;N;N;;;;;
@@ -1492,15 +1492,15 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 27;S27-26;False;Zápal pľúc;D;2;;;;;P;P;P;P;;;;
 27;S27-25;False;Pneumotorax;D;2;;;;;P;P;P;P;;;;
 27;S27-24;False;Pleurálny výpotok;D;2;;;;;P;P;P;P;;;;
-27;S27-23;False;Kašeľ, dyspnoe a iné poruchy dýchania;D;2;;;;;P;P;P;P;;30;;
-27;S27-22;False;Intersticiálna choroba pľúc;D;2;;;;;P;P;P;P;;30;;
-27;S27-21;False;Iné ochorenie dýchacích orgánov;D;2;;;;;P;P;P;P;;90;;
-27;S27-20;False;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;30;;
-27;S27-19;False;CHOCHP a bronchiektázie;D;2;;;;;P;P;P;P;;30;;
+27;S27-23;False;Kašeľ, dyspnoe a iné poruchy dýchania;D;2;;;;;P;P;P;P;;;;
+27;S27-22;False;Intersticiálna choroba pľúc;D;2;;;;;P;P;P;P;;;;
+27;S27-21;False;Iné ochorenie dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
+27;S27-20;False;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
+27;S27-19;False;CHOCHP a bronchiektázie;D;2;;;;;P;P;P;P;;;;
 27;S27-18;False;Bronchitída a iné akútne infekcie DDC;D;2;;;;;P;P;P;P;;;;
-27;S27-17;False;Astma bronchiale;D;2;;;;;P;P;P;P;;30;;
+27;S27-17;False;Astma bronchiale;D;2;;;;;P;P;P;P;;;;
 27;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-27;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
+27;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
 27;S33-09;True;Iné infekčné ochorenia;D;2;;;;;P;P;P;P;;;;
 27;S26-17;True;Synkopa a kolaps;D;2;;;;;P;P;P;P;;;;
 27;S26-12;True;Respiračná insuficiencia alebo pľúcna embólia;D;2;;;;;P;P;P;P;;;;
@@ -1520,7 +1520,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 28;S28-07;False;Komplexné ochorenia pažeráka, 2+ línia diagnostiky a liečby;VD;4;;;;;P;P;;;;;;
 28;S28-05;False;Vysoko komplexné ochorenia GIT;D;4;;;;;P;P;;;;;;
 28;S32-18;True;Akútna choroba štepu proti hostiteľovi;D;4;;;;;P;P;;;;;;
-28;S29-02;True;Raritné endokrinopatie;D;4;;;;;P;P;;;;30;;
+28;S29-02;True;Raritné endokrinopatie;D;4;;;;;P;P;;;;;;
 28;S17-19;True;Zlyhanie a odvrhnutie transplantátu obličky;D;4;;;;;P;P;;;;;;
 28;S28-37;False;Závažné infekčné ochorenia GIT;D;3;;;;;P;P;P;;;;;
 28;S28-35;False;Endoskopické výkony na žlčových cestách;V;3;;;;;P;P;N;;;60;;
@@ -1579,42 +1579,42 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 28;S40-07;True;Zhubný nádor hepatobiliárneho systému a pankreasu;D;2;;;;;P;P;P;P;;;;
 28;S40-06;True;Zhubný nádor GIT;D;2;;;;;P;P;P;P;;;;
 28;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-28;S35-06;True;Ochorenia imunitného systému;D;2;;;;;P;P;P;P;;90;;
+28;S35-06;True;Ochorenia imunitného systému;D;2;;;;;P;P;P;P;;;;
 28;S33-10;True;Iné vírusové ochorenia;D;2;;;;;P;P;P;P;;;;
-28;S29-12;True;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;30;;
-28;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;30;;
-28;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;30;;
-28;S29-07;True;Vrodené metabolické poruchy;D;2;;;;;P;P;P;P;;30;;
-28;S29-06;True;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;30;;
+28;S29-12;True;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;;;
+28;S29-09;True;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;;;
+28;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;;;
+28;S29-07;True;Vrodené metabolické poruchy;D;2;;;;;P;P;P;P;;;;
+28;S29-06;True;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;;;
 28;S28-68;False;Endoskopické výkony na čreve I.;V;1;;;;;P;P;P;P;P;60;;
 28;S28-67;False;Endoskopické výkony na žalúdku I.;V;1;;;;;P;P;P;P;P;60;;
 28;S28-66;False;Endoskopické výkony na ezofágu I.;V;1;;;;;P;P;P;P;P;60;;
 28;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-29;S29-03;False;Vrodené chromozómové ochorenia;D;4;;;;;P;P;;;;30;;
-29;S29-02;False;Raritné endokrinopatie;D;4;;;;;P;P;;;;30;;
+29;S29-03;False;Vrodené chromozómové ochorenia;D;4;;;;;P;P;;;;;;
+29;S29-02;False;Raritné endokrinopatie;D;4;;;;;P;P;;;;;;
 29;S29-01;False;Vysoko komplexné endokrinopatie - komplexný management, zhoršenie ochorenia;VD;4;;;;;P;P;;;;30;;
 29;S29-05;False;Komplexné endokrinopatie - definitívne riešenie;VD;3;;;;;P;P;P;;;30;;
 29;S29-04;False;Diabetes mellitus s komplikáciami - komplexný management;VD;3;;;;;P;P;P;;;30;;
 29;S12-34;True;Iné ochorenia chrbtice;D;3;;;;;P;P;N;;;;;
-29;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;30;;
+29;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
 29;S11-18;True;Hospitalizácia po pôrode;D;2;;;2;2;P;P;P;P;;;;
 29;S11-07;True;Predpôrodná starostlivosť pre menej závažne komplikácie gravidity;D;2;;;2;2;P;P;P;P;;;;
-29;S29-13;False;Osteoporóza a osteomalácia;D;2;;;;;P;P;P;P;;30;;
-29;S29-12;False;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;30;;
-29;S29-11;False;Komplexné endokrinopatie;D;2;;;;;P;P;P;P;;30;;
-29;S29-10;False;Endokrinopatie;D;2;;;;;P;P;P;P;;30;;
-29;S29-09;False;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;30;;
-29;S29-08;False;Diabetes mellitus;D;2;;;;;P;P;P;P;;30;;
-29;S29-07;False;Vrodené metabolické poruchy;D;2;;;;;P;P;P;P;;30;;
-29;S29-06;False;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;30;;
+29;S29-13;False;Osteoporóza a osteomalácia;D;2;;;;;P;P;P;P;;;;
+29;S29-12;False;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;;;
+29;S29-11;False;Komplexné endokrinopatie;D;2;;;;;P;P;P;P;;;;
+29;S29-10;False;Endokrinopatie;D;2;;;;;P;P;P;P;;;;
+29;S29-09;False;Diabetes mellitus s komplikáciami;D;2;;;;;P;P;P;P;;;;
+29;S29-08;False;Diabetes mellitus;D;2;;;;;P;P;P;P;;;;
+29;S29-07;False;Vrodené metabolické poruchy;D;2;;;;;P;P;P;P;;;;
+29;S29-06;False;Poruchy metabolizmu;D;2;;;;;P;P;P;N;;;;
 29;S40-20;True;Zhubný nádor endokrinného systému;D;2;;;;;P;P;P;P;;;;
 29;S40-19;True;Nádory nervového systému;D;2;;;;;P;P;P;P;;;;
 29;S40-10;True;Zhubný nádor štítnej žľazy;D;2;;;;;P;P;P;P;;;;
 29;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-29;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
-29;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;14;;
-29;S10-24;True;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;60;;
-29;S10-23;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;60;;
+29;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
+29;S31-07;True;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;;;
+29;S10-24;True;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;;;
+29;S10-23;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
 29;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 30;S30-02;False;Nefrologická starostlivosť – eliminačné metódy (aferetické metódy);VD;4;;;;;P;P;;;;;5;
 30;S30-01;False;Komplikácie pri transplantácii obličky;D;4;;;;;P;P;;;;;;
@@ -1644,10 +1644,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 31;S31-10;False;Dna zapríčinená liekmi;D;2;;;;;P;P;P;N;;;;
 31;S31-09;False;Artritída pri Lymskej chorobe;D;2;;;;;P;P;P;N;;;;
 31;S31-08;False;Ochorenia spojivového tkaniva;D;2;;;;;P;P;P;N;;;;
-31;S31-07;False;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;14;;
+31;S31-07;False;Ochorenia kostí a určité artropatie;D;2;;;;;P;P;P;N;;;;
 31;S31-06;False;Infekčné artritídy;D;2;;;;;P;P;P;N;;;;
 31;S31-05;False;Reumatizmus, bližšie neurený;D;2;;;;;P;P;P;N;;;;
-31;S31-04;False;Deformujúca dorzopatia a iné komplexné spondylopatie;D;2;;;;;P;P;P;N;;14;;
+31;S31-04;False;Deformujúca dorzopatia a iné komplexné spondylopatie;D;2;;;;;P;P;P;N;;;;
 31;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 31;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 32;S32-40;False;Bunková terapia;V;5;;;;;N;;;;;;;
@@ -1700,10 +1700,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 33;S28-37;True;Závažné infekčné ochorenia GIT;D;3;;;;;P;P;P;;;;;
 33;S27-12;True;Tuberkulóza;D;3;;;;;P;P;P;;;;;
 33;S27-07;True;Iné infekcie a zápaly dýchacích orgánov II.;D;3;;;;;P;P;P;;;;;
-33;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
+33;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;;70;10
 33;S05-31;True;Iné ochorenia ucha, nosa, úst a krku;D;3;;;;;P;P;P;;;;;
 33;S05-29;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;3;;;;;P;P;P;;;;;
-33;S04-18;True;Infekcie a zápaly oka a očných adnexov;D;3;;;;;P;P;P;;;10;;
+33;S04-18;True;Infekcie a zápaly oka a očných adnexov;D;3;;;;;P;P;P;;;;;
 33;S33-14;False;Infekcie nervového systému;D;2;;;;;P;P;P;P;;;;
 33;S33-13;False;Iné faktory, ktoré ovplyvňujú zdravotný stav a následná starostlivosť po ukončenej liečbe;D;2;;;;;P;P;P;P;;;;
 33;S33-12;False;Hemoragická horúčka s renálnym syndrómom;D;2;;;;;P;P;P;P;;;;
@@ -1712,55 +1712,55 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 33;S33-09;False;Iné infekčné ochorenia;D;2;;;;;P;P;P;P;;;;
 33;S33-08;False;Sepsa;D;2;;;;;P;P;P;P;;;;
 33;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-33;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
-33;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;30;;
+33;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
+33;S37-10;True;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;;;
 33;S31-09;True;Artritída pri Lymskej chorobe;D;2;;;;;P;P;P;N;;;;
 33;S28-65;True;Infekčná gastroenteritída;D;2;;;;;P;P;P;P;;;;
 33;S28-64;True;Iné infečné ochorenia GIT;D;2;;;;;P;P;P;P;;;;
 33;S28-62;True;Enterokolitída zapríčinená Clostridium difficile;D;2;;;;;P;P;P;P;;;;
 33;S28-61;True;Echinokokóza;D;2;;;;;P;P;P;P;;;;
 33;S27-26;True;Zápal pľúc;D;2;;;;;P;P;P;P;;;;
-33;S27-20;True;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;30;;
+33;S27-20;True;Iné infekcie a zápaly dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
 33;S27-18;True;Bronchitída a iné akútne infekcie DDC;D;2;;;;;P;P;P;P;;;;
 33;S26-04;True;Iné ochorenia obehového systému;D;2;;;;;P;P;P;P;;;;
 33;S25-21;True;Infekcia/zápal kože a podkožia;D;2;;;;;P;P;P;N;;;500*3;
 33;S09-26;True;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov;D;2;;;;;P;P;P;P;;;;
 33;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-34;S34-05;False;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
-34;S34-03;False;Kožný vred;D;3;;;;;P;P;P;;;14;500*3;
+34;S34-05;False;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;;500*3;
+34;S34-03;False;Kožný vred;D;3;;;;;P;P;P;;;;500*3;
 34;S34-01;False;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
-34;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
-34;S34-04;False;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
+34;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;;70;10
+34;S34-04;False;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;;500*3;
 34;S40-12;True;Nádory kože;D;2;;;;;P;P;P;P;;;;
 34;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 34;S25-21;True;Infekcia/zápal kože a podkožia;D;2;;;;;P;P;P;N;;;500*3;
-34;S10-24;True;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;60;;
-34;S10-23;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;60;;
-34;S10-22;True;Infekcia a zápal ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;60;;
+34;S10-24;True;Ochorenia prsníka (benígne);D;2;;;;;P;P;N;N;;;;
+34;S10-23;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
+34;S10-22;True;Infekcia a zápal ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
 34;S09-26;True;Iné ochorenia mužských pohlavných orgánov a sterilizácia u mužov;D;2;;;;;P;P;P;P;;;;
 34;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
-35;S35-03;False;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;4;;;;;P;P;;;;30;;
-35;S35-02;False;Vysoko komplexné ochorenia imunitného systému;D;4;;;;;P;P;;;;30;;
+35;S35-03;False;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;4;;;;;P;P;;;;;;
+35;S35-02;False;Vysoko komplexné ochorenia imunitného systému;D;4;;;;;P;P;;;;;;
 35;S35-01;False;Vysoko komplexné ochorenia imunitného systému – transplantácia kmeňových buniek;VD;4;;;;;N;N;;;;;;
-35;S35-05;False;Desenzibilizácia na alergény;D;3;;;;;P;P;P;;;180;;
-35;S35-04;False;Závažná protilátková porucha imunity;D;3;;;;;P;P;N;;;30;;
-35;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;14;500*3;
+35;S35-05;False;Desenzibilizácia na alergény;D;3;;;;;P;P;P;;;;;
+35;S35-04;False;Závažná protilátková porucha imunity;D;3;;;;;P;P;N;;;;;
+35;S34-05;True;Iné ochorenia kože, podkožia a slizníc II;D;3;;;;;P;P;P;;;;500*3;
 35;S34-01;True;Závažné ochorenia kože;D;3;;;;;P;P;P;;;;500*3;
-35;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;30;70;10
-35;S06-05;True;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;60;70;10
+35;S06-06;True;Ochorenia zubov a dutiny ústnej;D;3;;;;;P;P;P;;;;70;10
+35;S06-05;True;Ochorenia zubov a dutiny ústnej II.;D;3;;;;;P;P;P;;;;70;10
 35;S05-29;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;3;;;;;P;P;P;;;;;
-35;S04-27;True;Zápalové a infekčné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;10;;
+35;S04-27;True;Zápalové a infekčné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
 35;S35-08;False;Anafylaktický šok na potraviny;D;2;;;;;P;P;P;P;;;;
 35;S35-07;False;Kontakt so sršnami, osami a včelami a iné komplikácie;D;2;;;;;P;P;P;P;;;;
-35;S35-06;False;Ochorenia imunitného systému;D;2;;;;;P;P;P;P;;90;;
+35;S35-06;False;Ochorenia imunitného systému;D;2;;;;;P;P;P;P;;;;
 35;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-35;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;14;500*3;
+35;S34-04;True;Iné ochorenia kože, podkožia a slizníc;D;2;;;;;P;P;P;P;;;500*3;
 35;S33-11;True;Horúčka neznámeho pôvodu;D;2;;;;;P;P;P;P;;;;
 35;S28-49;True;Iné neinfekčné gastroenteritídy a kolitídy;D;2;;;;;P;P;P;P;;;;
 35;S28-42;True;Iné ochorenia GIT II.;D;2;;;;;P;P;P;P;;;;
-35;S27-17;True;Astma bronchiale;D;2;;;;;P;P;P;P;;30;;
+35;S27-17;True;Astma bronchiale;D;2;;;;;P;P;P;P;;;;
 35;S25-16;True;Opuch;D;2;;;;;P;P;P;P;;;;
-35;S10-22;True;Infekcia a zápal ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;60;;
+35;S10-22;True;Infekcia a zápal ženských pohlavných orgánov;D;2;;;;;P;P;P;P;;;;
 35;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 36;S36-07;False;Diferenciálna diagnostika, liečba a komplexný manažment ochorení z fyzikálnych, chemických, biologických a iných faktorov pracovného prostredia v pracovnom lekárstve;VD;4;;;;;P;P;;;;60;;
 36;S36-06;False;Diferenciálna diagnostika, liečba a komplexný manažment intoxikácií v pracovnom lekárstve;VD;4;;;;;P;P;;;;60;;
@@ -1776,27 +1776,27 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 37;S39-02;True;Syndróm spánkového apnoe;D;3;;;;;P;P;P;;;;;
 37;S39-01;True;Poruchy spánku;D;3;;;;;P;P;P;;;;;
 37;S33-06;True;Závažné infekcie nervového systému;D;3;;;;;P;P;P;;;;;
-37;S25-02;True;Amyloidóza;D;3;;;;;P;P;P;;;30;;
+37;S25-02;True;Amyloidóza;D;3;;;;;P;P;P;;;;;
 37;S09-15;True;Neurologické disfunkcie močových ciest;D;3;;;;;P;P;P;;;;;
 37;S05-30;True;Poruchy rovnováhy, strata sluchu alebo tinnitus;D;3;;;;;P;P;P;;;;;
-37;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;30;;
-37;S04-20;True;Iné ochorenia oka a očných adnexov vyžadujúce komplexný prístup;D;3;;;;;P;P;P;;;15;;
-37;S04-19;True;Zápalové ochorenia očného nervu a paralytické škúlenie;D;3;;;;;P;P;P;;;30;;
+37;S04-29;True;Iné ochorenia oka a očných adnexov;D;3;;;;;P;P;P;;;;;
+37;S04-20;True;Iné ochorenia oka a očných adnexov vyžadujúce komplexný prístup;D;3;;;;;P;P;P;;;;;
+37;S04-19;True;Zápalové ochorenia očného nervu a paralytické škúlenie;D;3;;;;;P;P;P;;;;;
 37;S37-20;False;Vertigo;D;2;;;;;P;P;P;P;;;;
 37;S37-19;False;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
 37;S37-18;False;Komplexná neurologická liečba akútnej CMP;V;2;;;;;P;P;P;P;;;;
-37;S37-17;False;Následky NCMP;D;2;;;;;P;P;P;P;;30;;
+37;S37-17;False;Následky NCMP;D;2;;;;;P;P;P;P;;;;
 37;S37-16;False;Iná cievna choroba mozgu;D;2;;;;;P;P;P;P;;;;
 37;S37-15;False;Prechodný ischemický záchvat a extrakraniálne cievne uzávery;D;2;;;;;P;P;P;P;;;60;
 37;S37-14;False;Náhla cievna mozgová príhoda;D;2;;;;;P;P;P;P;;;60;
-37;S37-13;False;Dorzopatia a poruchy nervových koreňov;D;2;;;;;P;P;P;P;;30;;
-37;S37-12;False;Deformujúca dorzopatia a iné spondylopatie;D;2;;;;;P;P;P;P;;30;;
-37;S37-11;False;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
-37;S37-10;False;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;30;;
+37;S37-13;False;Dorzopatia a poruchy nervových koreňov;D;2;;;;;P;P;P;P;;;;
+37;S37-12;False;Deformujúca dorzopatia a iné spondylopatie;D;2;;;;;P;P;P;P;;;;
+37;S37-11;False;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
+37;S37-10;False;Ochorenia mozgových a periférnych nervov;D;2;;;;;P;P;P;P;;;;
 37;S37-09;False;Bolesti hlavy;D;2;;;;;P;P;P;P;;;;
-37;S37-08;False;Demencia a iné chronické poruchy mozgovej funkcie;D;2;;;;;P;P;P;P;;30;;
+37;S37-08;False;Demencia a iné chronické poruchy mozgovej funkcie;D;2;;;;;P;P;P;P;;;;
 37;S37-07;False;Paralytické syndrómy;D;2;;;;;P;P;P;P;;;;
-37;S37-06;False;Degeneratívne ochorenia nervového systému;D;2;;;;;P;P;P;P;;30;;
+37;S37-06;False;Degeneratívne ochorenia nervového systému;D;2;;;;;P;P;P;P;;;;
 37;S37-05;False;Epilepsia a iné záchvaty;D;2;;;;;P;P;P;P;;;;
 37;S37-04;False;Febrilné kŕče;D;2;;;;;P;P;P;P;;;;
 37;S37-03;False;Stupor a kóma netraumatického pôvodu;D;2;;;;;P;P;P;N;;;;
@@ -1805,8 +1805,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 37;S38-03;True;Psychické poruchy zapríčinené užívaním alkoholu;D;2;;;;;P;P;P;P;;;;
 37;S33-14;True;Infekcie nervového systému;D;2;;;;;P;P;P;P;;;;
 37;S31-08;True;Ochorenia spojivového tkaniva;D;2;;;;;P;P;P;N;;;;
-37;S29-12;True;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;30;;
-37;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;30;;
+37;S29-12;True;Vysoko komplexné endokrinopatie;D;2;;;;;P;P;P;P;;;;
+37;S29-08;True;Diabetes mellitus;D;2;;;;;P;P;P;P;;;;
 37;S25-14;True;Rôzne poruchy metabolizmu;D;2;;;;;P;P;P;P;;;;
 37;S25-10;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi;D;2;;;;;P;P;P;P;;;;
 37;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
@@ -1825,14 +1825,14 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 38;S38-04;False;Psychické poruchy zapríčinené závislosťou mimo alkoholu;D;2;;;;;P;P;P;P;;;;
 38;S38-03;False;Psychické poruchy zapríčinené užívaním alkoholu;D;2;;;;;P;P;P;P;;;;
 38;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
-38;S37-08;True;Demencia a iné chronické poruchy mozgovej funkcie;D;2;;;;;P;P;P;P;;30;;
+38;S37-08;True;Demencia a iné chronické poruchy mozgovej funkcie;D;2;;;;;P;P;P;P;;;;
 38;S37-05;True;Epilepsia a iné záchvaty;D;2;;;;;P;P;P;P;;;;
 38;S25-13;True;Akútna intoxikácia alkoholom alebo drogami;D;2;;;;;P;P;P;P;;;;
 38;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 39;S39-03;False;Polysomnografia a ďalšie diagnostické a terapeutické metódy v spánkovej medicíne;V;3;;;;;P;N;N;;;;;
 39;S39-02;False;Syndróm spánkového apnoe;D;3;;;;;P;P;P;;;;;
 39;S39-01;False;Poruchy spánku;D;3;;;;;P;P;P;;;;;
-39;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;30;;
+39;S37-11;True;Iné ochorenia NS;D;2;;;;;P;P;P;P;;;;
 40;S40-02;False;Hypertermická chemoterapia;V;5;;;;;N;;;;;;;
 40;S40-01;False;Zhubný nádor placenty;D;5;;;;;P;;;;;;;
 40;S40-03;False;Kuratívna liečba očných malignít;D;4;;;;;P;P;;;;;;
@@ -1870,7 +1870,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 40;S27-27;True;Zhubné nádory dýchacích orgánov;D;2;;;;;P;P;P;P;;;;
 40;S25-19;True;Dehydratácia, hypokaliémia, iná porucha rovnováhy elektrolytov;D;2;;;;;P;P;P;P;;;;
 40;S25-14;True;Rôzne poruchy metabolizmu;D;2;;;;;P;P;P;P;;;;
-40;S25-06;True;Anémia a iné hematologické ochorenia;D;2;;;;;P;P;P;P;;30;;
+40;S25-06;True;Anémia a iné hematologické ochorenia;D;2;;;;;P;P;P;P;;;;
 40;S14-21;True;Revízia operačnej rany;V;1;;;;;P;P;N;N;N;90;;
 41;S41-01;False;Rádioterapia - špeciálne techniky (aspoň jedna technika);V;4;;;;;P;P;;;;;;
 41;S41-02;False;Rádioterapia;V;3;;;;;P;P;P;;;;;
@@ -1950,7 +1950,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 45;S03-66;True;Implantácia alebo výmena intratekálneho a/alebo epidurálneho katétra: dočasný katéter za účelom diagnostiky;V;4;;;;;P;P;;;;;;
 45;S45-15;False;Kaudálna anestézia/analgézia;V;;3;3;3;3;P;P;P;;;60;;
 45;S45-14;False;Perkutánna blokáda periférneho nervu, alebo nervového plexu;V;;3;3;3;3;P;P;P;;;60;;
-45;S45-07;False;Kaudálna anestézia/analgézia;V;3;;;;;P;P;P;;;60;400;200
+45;S45-07;False;Kaudálna anestézia/analgézia;V;3;;;;;P;P;P;;;;400;200
 45;S45-06;False;Perkutánna blokáda periférneho nervu, alebo nervového plexu;V;3;;;;;P;P;P;;;60;30;15
 45;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 45;S37-19;True;Manažment bolesti;D;2;;;;;P;P;N;N;;;;
@@ -1979,7 +1979,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 49;S49-08;False;Novorodenec, hmotnosť pri prijatí od 1000g, s UPV > 95 hodín, bez viacerých ťažkých problémov;NOV;;3;;;;P;P;P;;;;20 ;
 50;S50-01;False;Úzko špecializované postupy cirkulačnej a respiračnej podpory v PIM;V;;5;5;5;5;P;;;;;;;
 50;S71-01;True;Vysokonákazlivé ochorenia BSL03-04;D;;5;5;5;5;P;;;;;;;
-50;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;30;;
+50;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;;;
 50;S64-04;True;Intervenčné výkony - intraaortálna balóniková kontrapulzácia;V;;5;5;5;5;P;;;;;;;
 50;S59-03;True;Exstrofia močového mechúra a epispádia;D;;5;5;5;5;P;;;;;;;
 50;S58-07;True;Hospitalizácia pred transplantáciou srdca, pľúc, pečene, pankreasu alebo čreva;V;;5;5;5;5;P;;;;;;;
@@ -1997,66 +1997,66 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 50;S50-04;False;Komplexná intenzívna a resuscitačná starostlivosť v detskom veku (PIM);V;;4;4;4;4;P;P;;;;;;
 50;S50-03;False;Komplexná neurointenzívna starostlivosť u detí ;V;;4;4;4;4;P;P;;;;;;
 50;S50-02;False;Komplexná intenzívna starostlivosť o deti s ťažkými infekciami ;V;;4;4;4;4;P;P;;;;;;
-50;S72-03;True;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;7;;
-50;S72-02;True;Vysoko komplexné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;7;;
-50;S70-41;True;Trombocytopénie a trombocytopatie I;D;;4;4;4;4;P;P;;;;30;;
-50;S70-38;True;Indolentné lymfómy (NHL) a bližšie neurčené lymfómy;D;;4;4;4;4;P;P;;;;14;;
+50;S72-03;True;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;;;
+50;S72-02;True;Vysoko komplexné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;;;
+50;S70-41;True;Trombocytopénie a trombocytopatie I;D;;4;4;4;4;P;P;;;;;;
+50;S70-38;True;Indolentné lymfómy (NHL) a bližšie neurčené lymfómy;D;;4;4;4;4;P;P;;;;;;
 50;S70-37;True;Vysoko komplexné hematologické ochorenia;D;;4;4;4;4;P;P;;;;;;
 50;S70-36;True;Agresívne lymfómy (NHL) Hodgkinov lymfóm a iné vybrané ;D;;4;4;4;4;P;P;;;;;;
 50;S70-35;True;Akútna leukémia ;D;;4;4;4;4;P;P;;;;;;
-50;S70-30;True;Hematologické a solídné nádory;D;;4;4;4;4;P;P;;;;7;;
-50;S70-29;True;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;7;;
-50;S70-28;True;Zhubné nádory prsníka;D;;4;4;4;4;P;P;;;;7;;
-50;S70-26;True;Zhubné nádory dýchacích orgánov;D;;4;4;4;4;P;P;;;;7;;
-50;S70-24;True;Nádory nervového systému;D;;4;4;4;4;P;P;;;;7;;
-50;S70-23;True;Zhubný nádor spojivového tkaniva;D;;4;4;4;4;P;P;;;;7;;
-50;S70-22;True;Zhubný nádor hepatobiliárneho systému a pankreasu;D;;4;4;4;4;P;P;;;;7;;
-50;S70-21;True;Zhubné nádory mužských pohlavných orgánov;D;;4;4;4;4;P;P;;;;7;;
-50;S70-20;True;Zhubný nádor ženských pohlavných orgánov;D;;4;4;4;4;P;P;;;;7;;
-50;S70-18;True;Zhubný nádor endokrinného systému;D;;4;4;4;4;P;P;;;;7;;
+50;S70-30;True;Hematologické a solídné nádory;D;;4;4;4;4;P;P;;;;;;
+50;S70-29;True;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;;;
+50;S70-28;True;Zhubné nádory prsníka;D;;4;4;4;4;P;P;;;;;;
+50;S70-26;True;Zhubné nádory dýchacích orgánov;D;;4;4;4;4;P;P;;;;;;
+50;S70-24;True;Nádory nervového systému;D;;4;4;4;4;P;P;;;;;;
+50;S70-23;True;Zhubný nádor spojivového tkaniva;D;;4;4;4;4;P;P;;;;;;
+50;S70-22;True;Zhubný nádor hepatobiliárneho systému a pankreasu;D;;4;4;4;4;P;P;;;;;;
+50;S70-21;True;Zhubné nádory mužských pohlavných orgánov;D;;4;4;4;4;P;P;;;;;;
+50;S70-20;True;Zhubný nádor ženských pohlavných orgánov;D;;4;4;4;4;P;P;;;;;;
+50;S70-18;True;Zhubný nádor endokrinného systému;D;;4;4;4;4;P;P;;;;;;
 50;S70-15;True;Centrálne žilové vstupy ;V;;4;4;4;4;P;P;;;;30;;
-50;S70-14;True;Intratekálna diagnostika a liečba;V;;4;4;4;4;P;P;;;;7;;
-50;S70-13;True;Aferetické výkony;V;;4;4;4;4;P;P;;;;14;;
-50;S68-06;True;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;30;;
+50;S70-14;True;Intratekálna diagnostika a liečba;V;;4;4;4;4;P;P;;;;30;;
+50;S70-13;True;Aferetické výkony;V;;4;4;4;4;P;P;;;;30;;
+50;S68-06;True;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;;;
 50;S68-02;True;Akútna insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;;;
 50;S67-06;True;Komplexná liečba diabetes mellitus a iných ochorení;V;;4;4;4;4;P;P;;;;;;
 50;S67-04;True;Závažné poruchy metabolizmu;D;;4;4;4;4;P;P;;;;;;
 50;S67-03;True;Vysoko komplexné endokrinopatie;D;;4;4;4;4;P;P;;;;;;
 50;S67-02;True;Diabetes mellitus s kómou / s komplikáciami;D;;4;4;4;4;P;P;;;;;;
-50;S66-15;True;Obštrukcia GIT III;D;;4;4;4;4;P;P;;;;30;;
-50;S66-12;True;Ochorenia žlčníka a žlčovodov III;D;;4;4;4;4;P;P;;;;30;;
-50;S66-11;True;Ochorenia pečene III;D;;4;4;4;4;P;N;;;;30;;
-50;S66-10;True;Ochorenia pankreasu III;D;;4;4;4;4;P;P;;;;30;;
-50;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;30;;
-50;S66-07;True;Gastrointestinálne krvácanie III;D;;4;4;4;4;P;P;;;;30;;
+50;S66-15;True;Obštrukcia GIT III;D;;4;4;4;4;P;P;;;;;;
+50;S66-12;True;Ochorenia žlčníka a žlčovodov III;D;;4;4;4;4;P;P;;;;;;
+50;S66-11;True;Ochorenia pečene III;D;;4;4;4;4;P;N;;;;;;
+50;S66-10;True;Ochorenia pankreasu III;D;;4;4;4;4;P;P;;;;;;
+50;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;;;
+50;S66-07;True;Gastrointestinálne krvácanie III;D;;4;4;4;4;P;P;;;;;;
 50;S65-17;True;Ventilácia;V;;4;4;4;4;N;P;;;;30;;
 50;S65-15;True;Terapeutická a perkutánna drenáž;V;;4;4;4;4;P;P;;;;30;;
 50;S65-14;True;Endoskopické výkony na trachey a bronchoch;V;;4;4;4;4;P;P;;;;30;;
 50;S65-12;True;Diagnostické vyšetrenie pri pneumologickom ochorení (biopsie);V;;4;4;4;4;P;P;;;;30;;
-50;S65-10;True;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;30;;
-50;S65-09;True;Pleurálny výpotok II;D;;4;4;4;4;P;P;;;;30;;
-50;S65-08;True;Pneumotorax;D;;4;4;4;4;P;P;;;;30;;
-50;S65-06;True;Iné infekcie a zápaly dýchacích orgánov III;D;;4;4;4;4;P;P;;;;30;;
-50;S65-04;True;Cystická fibróza;D;;4;4;4;4;P;P;;;;30;;
-50;S65-03;True;CHOCHP a bronchiektázie;D;;4;4;4;4;P;P;;;;30;;
-50;S65-02;True;Respiračná insuficiencia alebo pľúcna embólia;D;;4;4;4;4;P;P;;;;30;;
+50;S65-10;True;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;;;
+50;S65-09;True;Pleurálny výpotok II;D;;4;4;4;4;P;P;;;;;;
+50;S65-08;True;Pneumotorax;D;;4;4;4;4;P;P;;;;;;
+50;S65-06;True;Iné infekcie a zápaly dýchacích orgánov III;D;;4;4;4;4;P;P;;;;;;
+50;S65-04;True;Cystická fibróza;D;;4;4;4;4;P;P;;;;;;
+50;S65-03;True;CHOCHP a bronchiektázie;D;;4;4;4;4;P;P;;;;;;
+50;S65-02;True;Respiračná insuficiencia alebo pľúcna embólia;D;;4;4;4;4;P;P;;;;;;
 50;S63-06;True;Otravy alebo toxické účinky z vonkajších príčin III;D;;4;4;4;4;P;P;;;;;;
 50;S63-05;True;Ochorenia kostí a pohybového systému III;D;;4;4;4;4;P;P;;;;;;
 50;S63-04;True;Iné gastrointestinálne ochorenia II;D;;4;4;4;4;P;P;;;;;;
 50;S63-03;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi III;D;;4;4;4;4;P;P;;;;;;
-50;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;14;400*7;
+50;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;;400*7;
 50;S61-02;True;Infekcia/zápal kože a podkožia;D;;4;4;4;4;P;P;;;;;400*7;
 50;S59-12;True;Vybrané vrodené ochorenia močových orgánov;D;;4;4;4;4;P;P;;;;;;
 50;S58-12;True;Odber orgánu pre transplantáciu od mŕtveho darcu;V;;4;4;4;4;P;P;;;;;5;
-50;S54-02;True;Rázštepy;D;;4;4;4;4;P;P;;;;60;10;1
+50;S54-02;True;Rázštepy;D;;4;4;4;4;P;P;;;;;10;1
 50;S03-31;True;Absces mozgu;D;;4;4;4;4;P;P;;;;;;
-50;S66-18;True;Vredová choroba II;D;;4;4;4;3;P;P;N;;;30;;
-50;S66-17;True;Gastrointestinálne krvácanie II;D;;4;4;4;3;P;P;N;;;30;;
-50;S66-31;True;Obštrukcia GIT II;D;;4;4;3;3;P;P;P;;;30;;
-50;S66-27;True;Vredová choroba I;D;;4;4;3;3;P;P;N;;;30;;
-50;S66-26;True;Ochorenia pečene IV;D;;4;4;3;3;P;N;N;;;30;;
-50;S66-24;True;Iné ochorenia GIT IV;D;;4;4;3;3;P;P;P;;;30;;
-50;S66-23;True;Gastrointestinálne krvácanie I;D;;4;4;3;3;P;P;N;;;30;;
+50;S66-18;True;Vredová choroba II;D;;4;4;4;3;P;P;N;;;;;
+50;S66-17;True;Gastrointestinálne krvácanie II;D;;4;4;4;3;P;P;N;;;;;
+50;S66-31;True;Obštrukcia GIT II;D;;4;4;3;3;P;P;P;;;;;
+50;S66-27;True;Vredová choroba I;D;;4;4;3;3;P;P;N;;;;;
+50;S66-26;True;Ochorenia pečene IV;D;;4;4;3;3;P;N;N;;;;;
+50;S66-24;True;Iné ochorenia GIT IV;D;;4;4;3;3;P;P;P;;;;;
+50;S66-23;True;Gastrointestinálne krvácanie I;D;;4;4;3;3;P;P;N;;;;;
 50;S66-20;True;Endoskopické odstránenie cudzieho telesa;V;;4;4;3;3;P;P;N;;;30;;
 50;S62-43;True;Infekcie a zápaly oka a očných adnexov;D;;4;4;3;3;P;N;N;;;;5;5
 50;S52-51;True;Intrakraniálne poranenia a zlomeniny kránia;D;;4;4;3;3;P;P;N;;;;;
@@ -2064,7 +2064,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 50;S52-54;True;Poranenie orgánu;D;;4;4;3;2;P;P;N;N;;;;
 50;S52-53;True;Ťažký úraz hrudníka;D;;4;4;3;2;P;P;N;N;;;;
 50;S51-80;True;Akútna apendicitída;D;;4;4;2;2;P;P;N;N;;;;
-50;S72-05;True;Komplexné ochorenia imunitného systému;D;;4;3;3;3;P;P;P;;;21;;
+50;S72-05;True;Komplexné ochorenia imunitného systému;D;;4;3;3;3;P;P;P;;;;;
 50;S59-27;True;Iné ochorenia močových orgánov;D;;4;3;3;3;P;P;P;;;;;
 50;S55-43;True;Iné ochorenia chrbtice;D;;4;3;3;3;P;P;P;;;;;
 50;S53-30;True;Iné ochorenia ucha, nosa, úst a krku;D;;4;3;3;3;P;P;P;;;;;
@@ -2078,27 +2078,27 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 50;S76-02;True;Špecializovaná konziliárna paliatívna starostlivosť;V;;3;3;3;3;N;N;P;;;;;
 50;S71-04;True;Raritné vírusové ochorenia;D;;3;3;3;3;P;P;P;;;;;
 50;S71-02;True;Infekčné ochorenia;D;;3;3;3;3;P;P;P;;;;;
-50;S70-55;True;Iné anémie;D;;3;3;3;3;P;P;P;;;30;;
-50;S70-54;True;Poruchy leukocytov a iné  hematologické ochorenia I;D;;3;3;3;3;P;P;P;;;30;;
-50;S70-53;True;Trombofilný stav (vrodený, získaný) ;D;;3;3;3;3;P;P;P;;;30;;
-50;S70-52;True;Iné choroby krvi a krvotvorných orgánov;D;;3;3;3;3;P;P;P;;;30;;
+50;S70-55;True;Iné anémie;D;;3;3;3;3;P;P;P;;;;;
+50;S70-54;True;Poruchy leukocytov a iné  hematologické ochorenia I;D;;3;3;3;3;P;P;P;;;;;
+50;S70-53;True;Trombofilný stav (vrodený, získaný) ;D;;3;3;3;3;P;P;P;;;;;
+50;S70-52;True;Iné choroby krvi a krvotvorných orgánov;D;;3;3;3;3;P;P;P;;;;;
 50;S70-50;True;Hemolytická anémia;D;;3;3;3;3;P;P;P;;;;;
-50;S70-47;True;Trombocytopénie a trombocytopatie II;D;;3;3;3;3;P;P;P;;;30;;
+50;S70-47;True;Trombocytopénie a trombocytopatie II;D;;3;3;3;3;P;P;P;;;;;
 50;S68-32;True;Infekcie močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
-50;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;30;;
-50;S68-15;True;Insuficiencia obličiek III;D;;3;3;3;3;P;P;P;;;30;;
+50;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
+50;S68-15;True;Insuficiencia obličiek III;D;;3;3;3;3;P;P;P;;;;;
 50;S68-12;True;Akútna insuficiencia obličiek III;D;;3;3;3;3;P;P;P;;;;;
 50;S67-09;True;Stredne závažné poruchy metabolizmu;D;;3;3;3;3;P;P;P;;;;;
 50;S67-08;True;Endokrinopatie;D;;3;3;3;3;P;P;P;;;;;
 50;S67-07;True;Diabetes mellitus;D;;3;3;3;3;P;P;N;;;;;
-50;S66-39;True;Obštrukcia GIT I;D;;3;3;3;3;P;P;P;;;30;;
-50;S66-36;True;Ochorenia pečene II;D;;3;3;3;3;P;P;P;;;30;;
-50;S66-35;True;Ochorenia pankreasu II;D;;3;3;3;3;P;P;P;;;30;;
-50;S66-33;True;Ochorenia pažeráka II;D;;3;3;3;3;P;P;P;;;30;;
-50;S65-22;True;Iné ochorenie dýchacích orgánov II;D;;3;3;3;3;P;P;P;;;30;;
-50;S65-21;True;Pleurálny výpotok I ;D;;3;3;3;3;P;P;P;;;30;;
-50;S65-20;True;Iné infekcie a zápaly dýchacích orgánov II ;D;;3;3;3;3;P;P;P;;;30;;
-50;S65-19;True;Zápal pľúc - komplikovaný;D;;3;3;3;3;P;P;P;;;30;;
+50;S66-39;True;Obštrukcia GIT I;D;;3;3;3;3;P;P;P;;;;;
+50;S66-36;True;Ochorenia pečene II;D;;3;3;3;3;P;P;P;;;;;
+50;S66-35;True;Ochorenia pankreasu II;D;;3;3;3;3;P;P;P;;;;;
+50;S66-33;True;Ochorenia pažeráka II;D;;3;3;3;3;P;P;P;;;;;
+50;S65-22;True;Iné ochorenie dýchacích orgánov II;D;;3;3;3;3;P;P;P;;;;;
+50;S65-21;True;Pleurálny výpotok I ;D;;3;3;3;3;P;P;P;;;;;
+50;S65-20;True;Iné infekcie a zápaly dýchacích orgánov II ;D;;3;3;3;3;P;P;P;;;;;
+50;S65-19;True;Zápal pľúc - komplikovaný;D;;3;3;3;3;P;P;P;;;;;
 50;S64-18;True;Ťažká arytmia;D;;3;3;3;3;P;P;P;;;;;
 50;S63-20;True;Hemolytické a aplastické anémie a iné komplexné ochorenia erytrocytov II;D;;3;3;3;3;P;P;P;;;;;
 50;S63-19;True;Otravy alebo toxické účinky z vonkajších príčin II;D;;3;3;3;3;P;P;P;;;;;
@@ -2106,7 +2106,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 50;S63-09;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi II;D;;3;3;3;3;P;P;P;;;;;
 50;S62-50;True;Vybrané poranenia oka a očných adnexov - primárne ošetrenie;D;;3;3;3;3;P;P;P;;;;;
 50;S62-49;True;Poranenia oka a očných adnexov;D;;3;3;3;3;P;P;P;;;;;
-50;S54-05;True;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;60;70;10
+50;S54-05;True;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;;70;10
 50;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 50;S63-40;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;;3;2;2;2;P;P;P;N;;;;
 50;S50-16;False;HIFLOW umelá ventilácia pľúc;V;;2;2;2;2;N;P;P;P;;;;
@@ -2129,22 +2129,22 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 50;S73-29;True;Febrilné kŕče;D;;2;2;2;2;P;P;P;P;;;;
 50;S73-28;True;Stupor a kóma netraumatického pôvodu;D;;2;2;2;2;P;P;P;P;;;;
 50;S73-27;True;Deformujúca dorzopatia a iné komplexné spondylopatie;D;;2;2;2;2;P;P;P;P;;;;
-50;S72-07;True;Ochorenia imunitného systému;D;;2;2;2;2;P;P;P;P;;30;;
+50;S72-07;True;Ochorenia imunitného systému;D;;2;2;2;2;P;P;P;P;;;;
 50;S71-10;True;Iné faktory, ktoré ovplyvňujú zdravotný stav a následná starostlivosť po ukončenej liečbe;D;;2;2;2;2;P;P;P;P;;;;
 50;S71-09;True;Iné vírusové ochorenia;D;;2;2;2;2;P;P;P;P;;;;
 50;S71-08;True;Iné infekčné ochorenia;D;;2;2;2;2;P;P;P;P;;;;
 50;S71-07;True;Sepsa;D;;2;2;2;2;P;P;P;P;;;;
-50;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;30;;
-50;S70-58;True;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;30;;
-50;S70-57;True;Trombocytopénie a trombocytopatie III;D;;2;2;2;2;P;P;P;P;;30;;
+50;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;;;
+50;S70-58;True;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;;;
+50;S70-57;True;Trombocytopénie a trombocytopatie III;D;;2;2;2;2;P;P;P;P;;;;
 50;S68-33;True;Infekcie močových orgánov I;D;;2;2;2;2;P;P;P;P;;;;
-50;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;30;;
-50;S66-48;True;Ochorenia pečene I;D;;2;2;2;2;P;P;P;P;;30;;
-50;S66-46;True;Iné ochorenia GIT I;D;;2;2;2;2;P;P;P;P;;30;;
-50;S65-30;True;Iné ochorenie dýchacích orgánov I;D;;2;2;2;2;P;P;P;P;;30;;
-50;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;30;;
-50;S65-28;True;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;30;;
-50;S65-27;True;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;30;;
+50;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
+50;S66-48;True;Ochorenia pečene I;D;;2;2;2;2;P;P;P;P;;;;
+50;S66-46;True;Iné ochorenia GIT I;D;;2;2;2;2;P;P;P;P;;;;
+50;S65-30;True;Iné ochorenie dýchacích orgánov I;D;;2;2;2;2;P;P;P;P;;;;
+50;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;;;
+50;S65-28;True;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;;;
+50;S65-27;True;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;;;
 50;S64-28;True;Iné ochorenia obehového systému;D;;2;2;2;2;P;P;P;P;;;;
 50;S64-27;True;Žilová trombóza;D;;2;2;2;2;P;P;P;P;;;;
 50;S64-26;True;Periférne ochorenia ciev;D;;2;2;2;2;P;P;P;P;;;;
@@ -2228,13 +2228,13 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 51;S51-03;False;Resekcia ezofágu;V;;4;4;4;4;P;N;;;;90;;
 51;S51-02;False;Špecializované výkony na pľúcach;V;;4;4;4;4;P;N;;;;90;;
 51;S51-01;False;Vysoko komplexné výkony na priedušnici;V;;4;4;4;4;P;N;;;;90;;
-51;S70-11;True;Diagnostické vyšetrenie pri onkologickom ochorení;V;;4;4;4;4;P;P;;;;7;;
-51;S68-06;True;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;30;;
-51;S68-05;True;Insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;30;;
+51;S70-11;True;Diagnostické vyšetrenie pri onkologickom ochorení;V;;4;4;4;4;P;P;;;;30;;
+51;S68-06;True;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;;;
+51;S68-05;True;Insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;;;
 51;S68-01;True;Biopsia obličky;V;;4;4;4;4;P;P;;;;60;15;
-51;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;30;;
+51;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;;;
 51;S60-04;True;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) - komplexná;VD;;4;4;4;4;P;N;;;;180;;
-51;S60-02;True;Onkologické výkony - ováriá;V;;4;4;4;4;P;P;;;;21;;
+51;S60-02;True;Onkologické výkony - ováriá;V;;4;4;4;4;P;P;;;;30;;
 51;S60-01;True;Výkony na vaječníkoch a vajíčkovodoch - komplexné;V;;4;4;4;4;P;P;;;;60;;
 51;S59-12;True;Vybrané vrodené ochorenia močových orgánov;D;;4;4;4;4;P;P;;;;;;
 51;S59-11;True;Vybrané komplexné výkony na močovom mechúri a mužských pohlavných orgánoch u detí;V;;4;4;4;4;P;P;;;;;;
@@ -2249,7 +2249,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 51;S51-65;False;Voľná transplantácia kože;V;;4;4;4;3;P;N;N;;;30;;
 51;S51-64;False;Operačné revízie prsníka;V;;4;4;4;3;P;N;N;;;60;;
 51;S51-63;False;Rekonštrukčné výkony na prsníku;V;;4;4;4;3;P;N;N;;;120;;
-51;S51-62;False;Regionálne lymfadenektómie;V;;4;4;4;3;P;N;N;;;15;;
+51;S51-62;False;Regionálne lymfadenektómie;V;;4;4;4;3;P;N;N;;;30;;
 51;S51-61;False;Operačné výkony na lymfatickom systéme;V;;4;4;4;3;P;N;N;;;30;;
 51;S51-46;False;Základné operačné výkony na čreve;V;;4;4;4;3;P;P;N;;;;;
 51;S51-45;False;Jednoduchá resekcia čreva;V;;4;4;4;3;P;P;N;;;90;;
@@ -2266,9 +2266,9 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 51;S60-11;True;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9);VD;;4;4;3;3;P;N;N;;;180;;
 51;S52-63;True;Zlyhanie a odvrhnutie transplantátu kože;D;;4;4;3;3;P;P;N;;;;;
 51;S52-51;True;Intrakraniálne poranenia a zlomeniny kránia;D;;4;4;3;3;P;P;N;;;;;
-51;S51-69;False;Radikálna excízia patologického tkaniva na koži a podkoží;V;;4;4;3;2;P;P;N;N;;30;;
+51;S51-69;False;Radikálna excízia patologického tkaniva na koži a podkoží;V;;4;4;3;2;P;P;N;N;;;;
 51;S51-68;False;Malé výkony na prsníku;V;;4;4;3;2;P;P;N;N;;30;;
-51;S51-67;False;Exstirpácia lymfatických uzlín;V;;4;4;3;2;P;P;N;N;;15;;
+51;S51-67;False;Exstirpácia lymfatických uzlín;V;;4;4;3;2;P;P;N;N;;30;;
 51;S51-51;False;Jednoduché výkony na anuse;V;;4;4;3;2;P;P;N;N;;90;;
 51;S51-50;False;Operačné ošetrenie hemoroidov;V;;4;4;3;2;P;P;N;N;;180;;
 51;S52-60;True;Ťažké poranenia pohybového systému;D;;4;4;3;2;P;P;N;N;;;;
@@ -2280,7 +2280,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 51;S51-52;False;Operácia hernie;V;;4;4;2;2;P;P;N;N;;90;;
 51;S51-49;False;Apendektómia;V;;4;4;2;2;P;P;N;P;;;;
 51;S60-20;True;Rekonštrukčné operácie genitálu - jednoduché;V;;4;4;2;2;P;P;P;N;;180;;
-51;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
+51;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
 51;S60-16;True;Výkony na pošve a vulve;V;;4;4;2;2;P;P;P;P;;60;;
 51;S60-30;True;Výkony na endometriu (frakcionovaná kyretáž, HSK, termoablácia);V;;4;4;1;1;P;P;P;P;P;60;;
 51;S60-29;True;Výkony na krčku uteru - jednoduché;V;;4;4;1;1;P;P;P;P;P;60;;
@@ -2319,21 +2319,21 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 51;S52-32;True;Osteosyntéza jednoduchej zlomeniny;V;;4;2;2;2;P;P;N;N;;;;
 51;S52-30;True;Odstránenie osteosyntézy;V;;4;2;2;2;P;P;P;N;;;;
 51;S59-13;True;Implantácia protézy semenníka;V;;;;;4;P;P;;;;;;
-51;S68-25;True;Obštrukcia močových ciest a močové kamene III;D;;3;3;3;3;P;P;P;;;30;;
-51;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;30;;
+51;S68-25;True;Obštrukcia močových ciest a močové kamene III;D;;3;3;3;3;P;P;P;;;;;
+51;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
 51;S59-38;True;Vybrané komplexné výkony močovom mechúri u detí;V;;3;3;3;3;P;P;P;;;;;
 51;S59-34;True;Komplexné výkony na močovom mechúri;V;;3;3;3;3;P;P;P;;;;;
 51;S16-08;True;Komplexné výkony na koži a podkoží pri popáleninách a poleptaniach;V;;3;3;3;3;P;P;P;;;;;
 51;S03-60;True;Operácia hydrocefalu;V;;3;3;3;3;P;P;P;;;;10;
 51;S56-45;True;Iné ochorenia pohybového systému;D;;3;3;2;2;P;P;P;P;;;;
-51;S68-26;True;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;30;;
+51;S68-26;True;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;;;
 51;S59-57;True;Jednoduché výkony na mužských pohlavných orgánoch;V;;3;2;2;2;P;P;P;P;;;;
 51;S59-55;True;Iné ochorenia mužských pohlavných orgánov;D;;3;2;2;2;P;P;P;P;;;;
 51;S59-54;True;Vybrané komplexné výkony na močovej rúre a mužských pohlavných orgánoch u detí;V;;3;2;2;2;P;P;P;P;;;;
 51;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
-51;S68-36;True;Hematúria;D;;2;2;2;2;P;P;P;P;;30;;
+51;S68-36;True;Hematúria;D;;2;2;2;2;P;P;P;P;;;;
 51;S68-34;True;Infekcie močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
-51;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;30;;
+51;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
 51;S63-37;True;Následky lekárskej starostlivosti;D;;2;2;2;2;P;P;P;P;;;;
 51;S52-59;True;Stredne ťažké poranenia pohybového systému;D;;2;2;2;2;P;P;N;N;;;;
 51;S52-58;True;Ľahké poranenia pohybového systému;D;;2;2;2;2;P;P;N;N;;;;
@@ -2495,7 +2495,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 52;S53-39;True;Malé výkony na nose a nosovej dutine;V;;1;1;1;1;P;P;P;P;N;;;
 52;S53-37;True;Malé výkony na tvárovom skelete;V;;1;1;1;1;P;P;P;N;N;;;
 52;S53-35;True;Malé výkony v ORL;V;;1;1;1;1;P;P;P;P;N;;;
-53;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;30;;
+53;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;;;
 53;S62-05;True;Vysoko komplexné výkony na orbite alebo bulbe (c);V;;5;5;5;5;P;;;;;;;
 53;S62-11;True;Komplexné výkony na orbite alebo bulbe (b);V;;5;5;5;4;P;N;;;;;;
 53;S62-10;True;Komplexné výkony na očných viečkach;V;;5;5;5;4;p;N;;;;60;;
@@ -2518,8 +2518,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 53;S53-03;False;Vysoko špecializované endoskopické ORL operácie;V;;4;4;4;4;P;N;;;;;;
 53;S53-02;False;Zložité operácie na krku;V;;4;4;4;4;P;P;;;;;;
 53;S53-01;False;Zložité operačné výkony na prištítnych telieskach;V;;4;4;4;4;P;P;;;;;;
-53;S70-25;True;Zhubné nádory ucha, nosa, úst a krku;D;;4;4;4;4;P;P;;;;7;;
-53;S54-02;True;Rázštepy;D;;4;4;4;4;P;P;;;;60;10;1
+53;S70-25;True;Zhubné nádory ucha, nosa, úst a krku;D;;4;4;4;4;P;P;;;;;;
+53;S54-02;True;Rázštepy;D;;4;4;4;4;P;P;;;;;10;1
 53;S54-01;True;Ostatné maxilofaciálne výkony;V;;4;4;4;4;P;P;;;;60;10;1
 53;S51-60;True;Operačné výkony na tvári;V;;4;4;4;4;P;N;;;;90;;
 53;S51-59;True;Operačné výkony pri rázštepe;V;;4;4;4;4;P;N;;;;90;;
@@ -2545,9 +2545,9 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 53;S53-17;False;Operácia pre hlbokú krčnú infekciu;V;;4;3;3;3;P;P;N;;;;;
 53;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 53;S62-52;True;Menej komplexné výkony na očných viečkach (b);V;;3;3;3;3;P;N;N;;;;;
-53;S54-06;True;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;30;70;10
-53;S54-05;True;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;60;70;10
-53;S54-04;True;Submandibulárny absces;D;;3;3;3;3;P;P;P;;;30;;
+53;S54-06;True;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;;70;10
+53;S54-05;True;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;;70;10
+53;S54-04;True;Submandibulárny absces;D;;3;3;3;3;P;P;P;;;;;
 53;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 53;S63-40;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;;3;2;2;2;P;P;P;N;;;;
 53;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
@@ -2564,20 +2564,20 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 54;S62-25;True;Menej komplexné výkony na orbite a bulbe;V;;5;5;4;4;P;N;;;;60;;
 54;S62-18;True;Komplexné výkony na orbite alebo bulbe (a);V;;5;5;4;4;p;N;;;;60;;
 54;S62-15;True;Vysoko komplexné výkony na orbite alebo bulbe (a);V;;5;5;4;4;P;N;;;;60;5;5
-54;S54-02;False;Rázštepy;D;;4;4;4;4;P;P;;;;60;10;1
+54;S54-02;False;Rázštepy;D;;4;4;4;4;P;P;;;;;10;1
 54;S54-01;False;Ostatné maxilofaciálne výkony;V;;4;4;4;4;P;P;;;;60;10;1
 54;S70-36;True;Agresívne lymfómy (NHL) Hodgkinov lymfóm a iné vybrané ;D;;4;4;4;4;P;P;;;;;;
-54;S70-31;True;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;7;;
-54;S70-30;True;Hematologické a solídné nádory;D;;4;4;4;4;P;P;;;;7;;
-54;S70-25;True;Zhubné nádory ucha, nosa, úst a krku;D;;4;4;4;4;P;P;;;;7;;
-54;S70-24;True;Nádory nervového systému;D;;4;4;4;4;P;P;;;;7;;
-54;S70-23;True;Zhubný nádor spojivového tkaniva;D;;4;4;4;4;P;P;;;;7;;
-54;S70-19;True;Zhubné nádory kože;D;;4;4;4;4;P;P;;;;7;;
-54;S70-17;True;Zhubné nádory oka;D;;4;4;4;4;P;P;;;;7;30;
+54;S70-31;True;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;;;
+54;S70-30;True;Hematologické a solídné nádory;D;;4;4;4;4;P;P;;;;;;
+54;S70-25;True;Zhubné nádory ucha, nosa, úst a krku;D;;4;4;4;4;P;P;;;;;;
+54;S70-24;True;Nádory nervového systému;D;;4;4;4;4;P;P;;;;;;
+54;S70-23;True;Zhubný nádor spojivového tkaniva;D;;4;4;4;4;P;P;;;;;;
+54;S70-19;True;Zhubné nádory kože;D;;4;4;4;4;P;P;;;;;;
+54;S70-17;True;Zhubné nádory oka;D;;4;4;4;4;P;P;;;;;30;
 54;S69-03;True;Závažné systémové vaskulitídy a CNS vaskulitídy ;D;;4;4;4;4;P;P;;;;;5;2
-54;S69-02;True;Závažné ochorenia kostí a určité artropatie;D;;4;4;4;4;P;P;;;;30;5;2
+54;S69-02;True;Závažné ochorenia kostí a určité artropatie;D;;4;4;4;4;P;P;;;;;5;2
 54;S63-05;True;Ochorenia kostí a pohybového systému III;D;;4;4;4;4;P;P;;;;;;
-54;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;14;400*7;
+54;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;;400*7;
 54;S61-02;True;Infekcia/zápal kože a podkožia;D;;4;4;4;4;P;P;;;;;400*7;
 54;S61-01;True;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 54;S56-21;True;Infekcie v oblasti chrbtice;D;;4;4;4;4;P;P;;;;;;
@@ -2593,11 +2593,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 54;S51-56;True;Radikálne lymfadenektómie;V;;4;4;4;4;P;N;;;;30;;
 54;S03-14;True;Iné vysoko komplexné kraniálne výkony;V;;4;4;4;4;P;P;;;;;;
 54;S51-77;True;Komplexné operačné výkony na svaloch, šľachách, fasciách a burzách;V;;4;4;4;3;P;N;N;;;;;
-54;S51-62;True;Regionálne lymfadenektómie;V;;4;4;4;3;P;N;N;;;15;;
+54;S51-62;True;Regionálne lymfadenektómie;V;;4;4;4;3;P;N;N;;;30;;
 54;S51-61;True;Operačné výkony na lymfatickom systéme;V;;4;4;4;3;P;N;N;;;30;;
 54;S52-51;True;Intrakraniálne poranenia a zlomeniny kránia;D;;4;4;3;3;P;P;N;;;;;
 54;S52-60;True;Ťažké poranenia pohybového systému;D;;4;4;3;2;P;P;N;N;;;;
-54;S51-67;True;Exstirpácia lymfatických uzlín;V;;4;4;3;2;P;P;N;N;;15;;
+54;S51-67;True;Exstirpácia lymfatických uzlín;V;;4;4;3;2;P;P;N;N;;30;;
 54;S55-43;True;Iné ochorenia chrbtice;D;;4;3;3;3;P;P;P;;;;;
 54;S53-30;True;Iné ochorenia ucha, nosa, úst a krku;D;;4;3;3;3;P;P;P;;;;;
 54;S53-26;True;Komplexné operácie na krku;V;;4;3;3;3;P;P;N;;;;;
@@ -2606,17 +2606,17 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 54;S53-21;True;Operačné výkony v dutine ústnej alebo na perách;V;;4;3;3;3;P;P;N;;;;;
 54;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 54;S54-07;False;Ošetrenie nespolupracujúceho a zdravotne znevýhodneného pacienta ;V;;;4;3;3;P;N;P;;;;;
-54;S54-06;False;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;30;70;10
-54;S54-05;False;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;60;70;10
-54;S54-04;False;Submandibulárny absces;D;;3;3;3;3;P;P;P;;;30;;
+54;S54-06;False;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;;70;10
+54;S54-05;False;Ochorenia zubov a dutiny ústnej II.;D;;3;3;3;3;P;P;P;;;;70;10
+54;S54-04;False;Submandibulárny absces;D;;3;3;3;3;P;P;P;;;;;
 54;S54-03;False;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 54;S69-14;True;Iné ochorenia pohybového systému II.;D;;3;3;3;3;P;P;P;;;;;
-54;S69-05;True;Ochorenia kostí a určité artropatie;D;;3;3;3;3;P;P;P;;;30;5;2
+54;S69-05;True;Ochorenia kostí a určité artropatie;D;;3;3;3;3;P;P;P;;;;5;2
 54;S63-17;True;Ochorenia kostí a pohybového systému II;D;;3;3;3;3;P;P;P;;;;;
 54;S63-14;True;Ťažkosti, symptómy a iné anomálie II;D;;3;3;3;3;P;P;P;;;;;
 54;S63-09;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi II;D;;3;3;3;3;P;P;P;;;;;
 54;S62-49;True;Poranenia oka a očných adnexov;D;;3;3;3;3;P;P;P;;;;;
-54;S62-48;True;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;60;5;5
+54;S62-48;True;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;;5;5
 54;S03-63;True;Iné kraniálne výkony;V;;3;3;3;3;P;P;P;;;;10;
 54;S56-45;True;Iné ochorenia pohybového systému;D;;3;3;2;2;P;P;P;P;;;;
 54;S56-44;True;Ochorenia kostí a artropatie;D;;3;3;2;2;P;P;P;P;;;;
@@ -2772,7 +2772,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 57;S62-10;True;Komplexné výkony na očných viečkach;V;;5;5;5;4;p;N;;;;60;;
 57;S57-03;False;Vysoko komplexné operačné výkony na svaloch, šľachách, fasciách a burzách u detí;V;;4;4;4;4;P;N;;;;;;
 57;S57-02;False;Vysoko komplexné operačné výkony na kostiach a kĺboch ruky alebo nohy u detí;V;;4;4;4;4;P;N;;;;;;
-57;S54-02;True;Rázštepy;D;;4;4;4;4;P;P;;;;60;10;1
+57;S54-02;True;Rázštepy;D;;4;4;4;4;P;P;;;;;10;1
 57;S51-76;True;Porázštepové rekonštrukčné operácie;V;;4;4;4;4;P;N;;;;;;
 57;S51-60;True;Operačné výkony na tvári;V;;4;4;4;4;P;N;;;;90;;
 57;S51-59;True;Operačné výkony pri rázštepe;V;;4;4;4;4;P;N;;;;90;;
@@ -2788,7 +2788,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 57;S51-71;True;Malé výkony na koži a podkoží;V;;4;3;2;1;P;P;P;N;N;;;
 57;S57-09;False;Jednoduché výkony na pere u detí;V;;4;1;1;1;P;P;P;P;N;;;
 57;S57-08;False;Základné výkony v dutine ústnej alebo na perách u detí;V;;4;1;1;1;P;P;P;P;N;;;
-57;S69-05;True;Ochorenia kostí a určité artropatie;D;;3;3;3;3;P;P;P;;;30;5;2
+57;S69-05;True;Ochorenia kostí a určité artropatie;D;;3;3;3;3;P;P;P;;;;5;2
 57;S62-49;True;Poranenia oka a očných adnexov;D;;3;3;3;3;P;P;P;;;;;
 57;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 58;S58-10;False;Zlyhanie a odvrhnutie transplantátu srdca, pľúc, pečene, pankreasu alebo čreva;D;;5;5;5;5;P;;;;;;;
@@ -2822,18 +2822,18 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 59;S59-12;False;Vybrané vrodené ochorenia močových orgánov;D;;4;4;4;4;P;P;;;;;;
 59;S59-11;False;Vybrané komplexné výkony na močovom mechúri a mužských pohlavných orgánoch u detí;V;;4;4;4;4;P;P;;;;;;
 59;S59-10;False;Autotransplantácia obličky;V;;4;4;4;4;N;N;;;;;;
-59;S70-29;True;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;7;;
-59;S70-21;True;Zhubné nádory mužských pohlavných orgánov;D;;4;4;4;4;P;P;;;;7;;
-59;S68-06;True;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;30;;
-59;S68-05;True;Insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;30;;
+59;S70-29;True;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;;;
+59;S70-21;True;Zhubné nádory mužských pohlavných orgánov;D;;4;4;4;4;P;P;;;;;;
+59;S68-06;True;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;;;
+59;S68-05;True;Insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;;;
 59;S68-01;True;Biopsia obličky;V;;4;4;4;4;P;P;;;;60;15;
 59;S67-03;True;Vysoko komplexné endokrinopatie;D;;4;4;4;4;P;P;;;;;;
-59;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;30;;
+59;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;;;
 59;S61-01;True;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 59;S59-14;False;Komplexné výkony na močovej rúre;V;;4;4;3;3;P;P;P;;;;;
 59;S60-11;True;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9);VD;;4;4;3;3;P;N;N;;;180;;
 59;S60-20;True;Rekonštrukčné operácie genitálu - jednoduché;V;;4;4;2;2;P;P;P;N;;180;;
-59;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
+59;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
 59;S60-27;True;Výkony na pošve a vulve - jednoduché;V;;4;4;1;1;P;P;P;P;P;60;;
 59;S59-30;False;Implantácia stentu do močových ciest;V;;4;3;3;3;P;P;P;;;;;
 59;S59-29;False;Implantácia double pigtailu do močových ciest;V;;4;3;3;3;P;P;P;;;;;
@@ -2871,9 +2871,9 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 59;S59-32;False;Komplexné výkony na močovode;V;;3;3;3;3;P;P;P;;;;;
 59;S59-31;False;Komplexné výkony pri ureterolitiáze;V;;3;3;3;3;P;P;P;;;;;
 59;S68-32;True;Infekcie močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
-59;S68-25;True;Obštrukcia močových ciest a močové kamene III;D;;3;3;3;3;P;P;P;;;30;;
-59;S68-20;True;Polycystické obličky;D;;3;3;3;3;P;P;P;;;30;;
-59;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;30;;
+59;S68-25;True;Obštrukcia močových ciest a močové kamene III;D;;3;3;3;3;P;P;P;;;;;
+59;S68-20;True;Polycystické obličky;D;;3;3;3;3;P;P;P;;;;;
+59;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
 59;S63-16;True;Vrodené ochorenia a poruchy močových orgánov;D;;3;3;3;3;P;P;P;;;;;
 59;S59-57;False;Jednoduché výkony na mužských pohlavných orgánoch;V;;3;2;2;2;P;P;P;P;;;;
 59;S59-56;False;Jednoduché výkony na močovej rúre;V;;3;2;2;2;P;P;P;P;;;;
@@ -2886,11 +2886,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 59;S59-49;False;Menej komplexné výkony pri ureterolitiáze;V;;3;2;2;2;P;P;P;P;;;;
 59;S59-48;False;Menej komplexné výkony na obličke;V;;3;2;2;2;P;P;P;P;;;;
 59;S59-47;False;Základné výkony na odstránenie konkrementu z obličky;V;;3;2;2;2;P;P;P;P;;;;
-59;S68-26;True;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;30;;
+59;S68-26;True;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;;;
 59;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
-59;S68-36;True;Hematúria;D;;2;2;2;2;P;P;P;P;;30;;
+59;S68-36;True;Hematúria;D;;2;2;2;2;P;P;P;P;;;;
 59;S68-34;True;Infekcie močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
-59;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;30;;
+59;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
 59;S63-30;True;Ťažkosti, symptómy a iné anomálie I;D;;2;2;2;2;P;P;P;P;;;;
 59;S59-58;False;Jednoduché výkony na vonkajšom genitále;V;;1;1;1;1;P;P;P;N;N;;;
 60;S60-10;False;Výkony pri endometrióze IV;V;;4;4;4;4;P;P;;;;;;
@@ -2900,11 +2900,11 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 60;S60-06;False;Hysterektómia IV;V;;4;4;4;4;P;P;;;;;;
 60;S60-05;False;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I.;VD;;4;4;4;4;P;N;;;;180;;
 60;S60-04;False;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) - komplexná;VD;;4;4;4;4;P;N;;;;180;;
-60;S60-03;False;Onkologické výkony - uterus;V;;4;4;4;4;P;P;;;;21;;
-60;S60-02;False;Onkologické výkony - ováriá;V;;4;4;4;4;P;P;;;;21;;
+60;S60-03;False;Onkologické výkony - uterus;V;;4;4;4;4;P;P;;;;30;;
+60;S60-02;False;Onkologické výkony - ováriá;V;;4;4;4;4;P;P;;;;30;;
 60;S60-01;False;Výkony na vaječníkoch a vajíčkovodoch - komplexné;V;;4;4;4;4;P;P;;;;60;;
-60;S70-28;True;Zhubné nádory prsníka;D;;4;4;4;4;P;P;;;;7;;
-60;S70-20;True;Zhubný nádor ženských pohlavných orgánov;D;;4;4;4;4;P;P;;;;7;;
+60;S70-28;True;Zhubné nádory prsníka;D;;4;4;4;4;P;P;;;;;;
+60;S70-20;True;Zhubný nádor ženských pohlavných orgánov;D;;4;4;4;4;P;P;;;;;;
 60;S51-63;True;Rekonštrukčné výkony na prsníku;V;;4;4;4;3;P;N;N;;;120;;
 60;S60-13;False;Výkony na krčku uteru - komplexné;V;;4;4;3;3;P;P;N;;;60;;
 60;S60-12;False;Výkony pri endometrióze - komplexné ;V;;4;4;3;3;P;P;N;;;60;;
@@ -2917,9 +2917,9 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 60;S60-22;False;Iné výkony na maternici II;V;;4;4;2;2;P;P;P;N;;;;
 60;S60-21;False;Hysterektómia II;V;;4;4;2;2;P;P;P;N;;;;
 60;S60-20;False;Rekonštrukčné operácie genitálu - jednoduché;V;;4;4;2;2;P;P;P;N;;180;;
-60;S60-19;False;Ochorenia prsníka (benígne);D;;4;4;2;2;P;P;N;N;;60;;
-60;S60-18;False;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
-60;S60-17;False;Infekcia a zápal ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
+60;S60-19;False;Ochorenia prsníka (benígne);D;;4;4;2;2;P;P;N;N;;;;
+60;S60-18;False;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
+60;S60-17;False;Infekcia a zápal ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
 60;S60-16;False;Výkony na pošve a vulve;V;;4;4;2;2;P;P;P;P;;60;;
 60;S60-36;False;Výkony pri endometrióze I;V;;4;4;1;1;P;P;P;P;N;60;;
 60;S60-35;False;Výkony na vaječníkoch a vajíčkovodoch - jednoduché I;V;;4;4;1;1;P;P;P;P;N;60;;
@@ -2933,8 +2933,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 60;S60-27;False;Výkony na pošve a vulve - jednoduché;V;;4;4;1;1;P;P;P;P;P;60;;
 60;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 60;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
-61;S61-04;False;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;14;400*7;
-61;S61-03;False;Kožný vred;D;;4;4;4;4;P;P;;;;14;400*7;
+61;S61-04;False;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;;400*7;
+61;S61-03;False;Kožný vred;D;;4;4;4;4;P;P;;;;;400*7;
 61;S61-02;False;Infekcia/zápal kože a podkožia;D;;4;4;4;4;P;P;;;;;400*7;
 61;S61-01;False;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 61;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
@@ -2945,7 +2945,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 62;S62-03;False;Vysoko komplexné výkony v zadnom segmente oka;V;;5;5;5;5;P;;;;;60;;
 62;S62-02;False;Vysoko komplexné výkony v prednom segmente oka (c);V;;5;5;5;5;P;;;;;;;
 62;S62-01;False;Brachyterapia v oftalmológii;V;;5;5;5;5;P;;;;;30;;
-62;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;30;;
+62;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;;;
 62;S62-12;False;Operačné výkony pri glaukóme (b);V;;5;5;5;4;P;N;;;;;;
 62;S62-11;False;Komplexné výkony na orbite alebo bulbe (b);V;;5;5;5;4;P;N;;;;;;
 62;S62-10;False;Komplexné výkony na očných viečkach;V;;5;5;5;4;p;N;;;;60;;
@@ -2956,14 +2956,14 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 62;S62-24;False;Iné menej komplexné výkony v zadnom segmente oka;V;;5;5;4;4;P;N;;;;60;;
 62;S62-23;False;Pars-plana a iné vitrektómie;V;;5;5;4;4;P;N;;;;30;;
 62;S62-22;False;Operačné výkony pri glaukóme (a);V;;5;5;4;4;P;N;;;;60;5;5
-62;S62-20;False;Glaukóm;D;;5;5;4;4;P;N;;;;30;10;10
+62;S62-20;False;Glaukóm;D;;5;5;4;4;P;N;;;;;10;10
 62;S62-19;False;Retinopatia;D;;5;5;4;4;P;N;;;;;20;20
 62;S62-18;False;Komplexné výkony na orbite alebo bulbe (a);V;;5;5;4;4;p;N;;;;60;;
 62;S62-17;False;Komplexné výkony v zadnom segmente oka (a);V;;5;5;4;4;p;N;;;;60;5;5
 62;S62-16;False;Komplexné výkony na slznej žľaze alebo slzných cestách (a);V;;5;5;4;4;p;N;;;;60;;
 62;S62-15;False;Vysoko komplexné výkony na orbite alebo bulbe (a);V;;5;5;4;4;P;N;;;;60;5;5
 62;S62-14;False;Vysoko komplexné výkony v prednom segmente oka (a);V;;5;5;4;4;P;N;;;;60;;
-62;S62-13;False;Vrodené chyby oka a očných adnexov;D;;5;5;4;4;P;N;;;;30;4;4
+62;S62-13;False;Vrodené chyby oka a očných adnexov;D;;5;5;4;4;P;N;;;;;4;4
 62;S62-28;False;Terapeutické podanie látok do oka (c);V;;5;4;4;4;P;N;;;;;;
 62;S62-27;False;Iné menej komplexné výkony v prednom segmente oka (c);V;;5;4;4;4;P;N;;;;;;
 62;S62-31;False;Terapeutické podanie látok do oka (b);V;;5;4;4;3;P;N;N;;;;;
@@ -2974,7 +2974,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 62;S62-38;False;Iné menej komplexné výkony v prednom segmente oka (b);V;;4;4;4;4;P;N;;;;;;
 62;S62-37;False;Menej komplexné výkony na očných viečkach (d);V;;4;4;4;4;P;N;;;;;;
 62;S62-35;False;Neuro-oftalmologické ochorenie oka;D;;4;4;4;4;P;N;;;;;5;5
-62;S62-34;False;Katarakta;D;;4;4;4;4;P;N;;;;30;;
+62;S62-34;False;Katarakta;D;;4;4;4;4;P;N;;;;;;
 62;S62-33;False;Komplexné výkony na očných svaloch (b);V;;4;4;4;4;p;N;;;;;;
 62;S62-42;False;Iné menej komplexné výkony v prednom segmente oka (a);V;;4;4;4;3;P;N;N;;;60;5;5
 62;S62-41;False;Menej komplexné výkony na očných viečkach (c);V;;4;4;4;3;P;N;N;;;;;
@@ -2992,8 +2992,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 62;S62-51;False;Menej komplexné výkony na slzných cestách (a);V;;3;3;3;3;P;N;N;;;30;;
 62;S62-50;False;Vybrané poranenia oka a očných adnexov - primárne ošetrenie;D;;3;3;3;3;P;P;P;;;;;
 62;S62-49;False;Poranenia oka a očných adnexov;D;;3;3;3;3;P;P;P;;;;;
-62;S62-48;False;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;60;5;5
-62;S62-47;False;Endokrinne podmienené ochorenia očí;D;;3;3;3;3;P;N;N;;;30;;
+62;S62-48;False;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;;5;5
+62;S62-47;False;Endokrinne podmienené ochorenia očí;D;;3;3;3;3;P;N;N;;;;;
 62;S62-59;False;Výkony s  Neodym-YAG laserom;V;;3;3;1;1;P;N;N;N;N;;;
 62;S62-54;False;Menej komplexné výkony na očných viečkach (a);V;;3;1;1;1;P;P;P;P;P;60;10;10
 62;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
@@ -3006,10 +3006,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 63;S63-03;False;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi III;D;;4;4;4;4;P;P;;;;;;
 63;S63-02;False;Vrodené metabolické poruchy II;D;;4;4;4;4;P;P;;;;;;
 63;S63-01;False;Plynová gangréna;D;;4;4;4;4;P;P;;;;;;
-63;S66-32;True;Iné ochorenia GIT V;D;;4;4;2;2;P;P;P;P;;30;;
-63;S60-19;True;Ochorenia prsníka (benígne);D;;4;4;2;2;P;P;N;N;;60;;
-63;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
-63;S60-17;True;Infekcia a zápal ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
+63;S66-32;True;Iné ochorenia GIT V;D;;4;4;2;2;P;P;P;P;;;;
+63;S60-19;True;Ochorenia prsníka (benígne);D;;4;4;2;2;P;P;N;N;;;;
+63;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
+63;S60-17;True;Infekcia a zápal ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
 63;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 63;S63-07;False;Hospitalizacia novorodenca pre závažné ochorenia alebo skríning vrodených porúch metabolizmu;D;;4;;;;P;P;;;;;;
 63;S63-21;False;Iné faktory, ktoré ovplyvňujú zdravotný stav a následná starostlivosť po ukončenej liečbe II.;D;;3;3;3;3;P;P;P;;;;;
@@ -3028,7 +3028,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 63;S56-45;True;Iné ochorenia pohybového systému;D;;3;3;2;2;P;P;P;P;;;;
 63;S56-44;True;Ochorenia kostí a artropatie;D;;3;3;2;2;P;P;P;P;;;;
 63;S63-40;False;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;;3;2;2;2;P;P;P;N;;;;
-63;S68-26;True;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;30;;
+63;S68-26;True;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;;;
 63;S59-55;True;Iné ochorenia mužských pohlavných orgánov;D;;3;2;2;2;P;P;P;P;;;;
 63;S63-22;False;Hospitalizácia novorodenca;D;;3;;;;P;P;P;;;;;
 63;S63-08;False;Hospitalizacia novorodenca II;D;;3;;;;P;P;P;;;;;
@@ -3076,41 +3076,41 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 63;S73-28;True;Stupor a kóma netraumatického pôvodu;D;;2;2;2;2;P;P;P;P;;;;
 63;S73-27;True;Deformujúca dorzopatia a iné komplexné spondylopatie;D;;2;2;2;2;P;P;P;P;;;;
 63;S72-08;True;Kontakt so sršnami, osami a včelami a iné komplikácie;D;;2;2;2;2;P;P;P;P;;;;
-63;S72-07;True;Ochorenia imunitného systému;D;;2;2;2;2;P;P;P;P;;30;;
+63;S72-07;True;Ochorenia imunitného systému;D;;2;2;2;2;P;P;P;P;;;;
 63;S71-10;True;Iné faktory, ktoré ovplyvňujú zdravotný stav a následná starostlivosť po ukončenej liečbe;D;;2;2;2;2;P;P;P;P;;;;
 63;S71-09;True;Iné vírusové ochorenia;D;;2;2;2;2;P;P;P;P;;;;
 63;S71-08;True;Iné infekčné ochorenia;D;;2;2;2;2;P;P;P;P;;;;
 63;S71-07;True;Sepsa;D;;2;2;2;2;P;P;P;P;;;;
 63;S70-60;True;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou;D;;2;2;2;2;P;P;P;P;;;;
-63;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;30;;
-63;S70-58;True;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;30;;
-63;S70-57;True;Trombocytopénie a trombocytopatie III;D;;2;2;2;2;P;P;P;P;;30;;
-63;S70-56;True;Nutričné anémie;D;;2;2;2;2;P;P;P;P;;30;;
-63;S68-36;True;Hematúria;D;;2;2;2;2;P;P;P;P;;30;;
-63;S68-35;True;Tubulopatie II;D;;2;2;2;2;P;P;P;P;;30;;
+63;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;;;
+63;S70-58;True;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;;;
+63;S70-57;True;Trombocytopénie a trombocytopatie III;D;;2;2;2;2;P;P;P;P;;;;
+63;S70-56;True;Nutričné anémie;D;;2;2;2;2;P;P;P;P;;;;
+63;S68-36;True;Hematúria;D;;2;2;2;2;P;P;P;P;;;;
+63;S68-35;True;Tubulopatie II;D;;2;2;2;2;P;P;P;P;;;;
 63;S68-34;True;Infekcie močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
 63;S68-33;True;Infekcie močových orgánov I;D;;2;2;2;2;P;P;P;P;;;;
-63;S68-31;True;Sekundárna hypertenzia II ;D;;2;2;2;2;P;P;P;P;;30;;
-63;S68-30;True;Hereditárna nefropatia II;D;;2;2;2;2;P;P;P;P;;90;;
+63;S68-31;True;Sekundárna hypertenzia II ;D;;2;2;2;2;P;P;P;P;;;;
+63;S68-30;True;Hereditárna nefropatia II;D;;2;2;2;2;P;P;P;P;;;;
 63;S68-29;True;Ochorenia glomerulov II;D;;2;2;2;2;P;P;P;P;;;;
-63;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;30;;
-63;S68-27;True;Insuficiencia obličiek II;D;;2;2;2;2;P;P;P;P;;30;;
+63;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
+63;S68-27;True;Insuficiencia obličiek II;D;;2;2;2;2;P;P;P;P;;;;
 63;S67-12;True;Poruchy metabolizmu;D;;2;2;2;2;P;P;P;N;;;;
-63;S66-53;True;Dyspepsia;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-52;True;Bolesť brucha a apendicitída;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-51;True;Gastritída a duodenitída I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-50;True;Funkčná porucha čreva I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-49;True;Ochorenia žlčníka a žlčovodov I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-48;True;Ochorenia pečene I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-47;True;Ochorenia pankreasu I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-46;True;Iné ochorenia GIT I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S66-45;True;Ochorenia pažeráka I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S65-30;True;Iné ochorenie dýchacích orgánov I;D;;2;2;2;2;P;P;P;P;;30;;
-63;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;30;;
-63;S65-28;True;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;30;;
-63;S65-27;True;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;30;;
-63;S65-26;True;Astma bronchiale;D;;2;2;2;2;P;P;P;P;;30;;
-63;S65-25;True;Kašeľ, dyspnoe a iné poruchy dýchania;D;;2;2;2;2;P;P;P;P;;30;;
+63;S66-53;True;Dyspepsia;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-52;True;Bolesť brucha a apendicitída;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-51;True;Gastritída a duodenitída I;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-50;True;Funkčná porucha čreva I;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-49;True;Ochorenia žlčníka a žlčovodov I;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-48;True;Ochorenia pečene I;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-47;True;Ochorenia pankreasu I;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-46;True;Iné ochorenia GIT I;D;;2;2;2;2;P;P;P;P;;;;
+63;S66-45;True;Ochorenia pažeráka I;D;;2;2;2;2;P;P;P;P;;;;
+63;S65-30;True;Iné ochorenie dýchacích orgánov I;D;;2;2;2;2;P;P;P;P;;;;
+63;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;;;
+63;S65-28;True;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;;;
+63;S65-27;True;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;;;
+63;S65-26;True;Astma bronchiale;D;;2;2;2;2;P;P;P;P;;;;
+63;S65-25;True;Kašeľ, dyspnoe a iné poruchy dýchania;D;;2;2;2;2;P;P;P;P;;;;
 63;S64-28;True;Iné ochorenia obehového systému;D;;2;2;2;2;P;P;P;P;;;;
 63;S64-27;True;Žilová trombóza;D;;2;2;2;2;P;P;P;P;;;;
 63;S64-26;True;Periférne ochorenia ciev;D;;2;2;2;2;P;P;P;P;;;;
@@ -3153,7 +3153,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 64;S64-20;False;Synkopa a kolaps;D;;2;2;2;2;P;P;P;P;;;;
 64;S64-19;False;Zastavenie srdca;D;;2;2;2;2;P;P;P;P;;;;
 64;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
-65;S65-01;False;Tuberkulóza;D;;5;5;5;5;P;;;;;30;;
+65;S65-01;False;Tuberkulóza;D;;5;5;5;5;P;;;;;;;
 65;S58-08;True;Rozhodnutie o indikácii a príprava pacienta na transpantáciu pľúc;V;;5;5;5;5;P;;;;;;;
 65;S58-07;True;Hospitalizácia pred transplantáciou srdca, pľúc, pečene, pankreasu alebo čreva;V;;5;5;5;5;P;;;;;;;
 65;S65-24;False;CT v oblasti hrudníka a HRCT pľúc u dieťaťa do 6 rokov;V;;4;4;4;4;N;P;;;;30;;
@@ -3163,19 +3163,19 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 65;S65-16;False;Terapeutická laváž;V;;4;4;4;4;P;P;;;;30;;
 65;S65-15;False;Terapeutická a perkutánna drenáž;V;;4;4;4;4;P;P;;;;30;;
 65;S65-14;False;Endoskopické výkony na trachey a bronchoch;V;;4;4;4;4;P;P;;;;30;;
-65;S65-13;False;Komplexná diagnostika pri podozrení na ochorenie pľúc a ďalšie vyšetrenia;V;;4;4;4;4;P;P;;;;30;;
+65;S65-13;False;Komplexná diagnostika pri podozrení na ochorenie pľúc a ďalšie vyšetrenia;V;;4;4;4;4;P;P;;;;60;;
 65;S65-12;False;Diagnostické vyšetrenie pri pneumologickom ochorení (biopsie);V;;4;4;4;4;P;P;;;;30;;
-65;S65-11;False;Iné ochorenie dýchacích orgánov IV;D;;4;4;4;4;P;P;;;;30;;
-65;S65-10;False;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;30;;
-65;S65-09;False;Pleurálny výpotok II;D;;4;4;4;4;P;P;;;;30;;
-65;S65-08;False;Pneumotorax;D;;4;4;4;4;P;P;;;;30;;
-65;S65-07;False;Iné infekcie a zápaly dýchacích orgánov IIIa;D;;4;4;4;4;P;P;;;;30;;
-65;S65-06;False;Iné infekcie a zápaly dýchacích orgánov III;D;;4;4;4;4;P;P;;;;30;;
-65;S65-05;False;Intersticiálna choroba pľúc;D;;4;4;4;4;P;P;;;;30;;
-65;S65-04;False;Cystická fibróza;D;;4;4;4;4;P;P;;;;30;;
-65;S65-03;False;CHOCHP a bronchiektázie;D;;4;4;4;4;P;P;;;;30;;
-65;S65-02;False;Respiračná insuficiencia alebo pľúcna embólia;D;;4;4;4;4;P;P;;;;30;;
-65;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;30;;
+65;S65-11;False;Iné ochorenie dýchacích orgánov IV;D;;4;4;4;4;P;P;;;;;;
+65;S65-10;False;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;;;
+65;S65-09;False;Pleurálny výpotok II;D;;4;4;4;4;P;P;;;;;;
+65;S65-08;False;Pneumotorax;D;;4;4;4;4;P;P;;;;;;
+65;S65-07;False;Iné infekcie a zápaly dýchacích orgánov IIIa;D;;4;4;4;4;P;P;;;;;;
+65;S65-06;False;Iné infekcie a zápaly dýchacích orgánov III;D;;4;4;4;4;P;P;;;;;;
+65;S65-05;False;Intersticiálna choroba pľúc;D;;4;4;4;4;P;P;;;;;;
+65;S65-04;False;Cystická fibróza;D;;4;4;4;4;P;P;;;;;;
+65;S65-03;False;CHOCHP a bronchiektázie;D;;4;4;4;4;P;P;;;;;;
+65;S65-02;False;Respiračná insuficiencia alebo pľúcna embólia;D;;4;4;4;4;P;P;;;;;;
+65;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;;;
 65;S61-01;True;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 65;S51-11;True;Operačné výkony na hrudnej stene, pleure a bránici;V;;4;4;4;4;P;N;;;;90;;
 65;S51-10;True;Operačné výkony na mediastine;V;;4;4;4;4;P;N;;;;90;;
@@ -3185,18 +3185,18 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 65;S51-02;True;Špecializované výkony na pľúcach;V;;4;4;4;4;P;N;;;;90;;
 65;S53-30;True;Iné ochorenia ucha, nosa, úst a krku;D;;4;3;3;3;P;P;P;;;;;
 65;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
-65;S65-22;False;Iné ochorenie dýchacích orgánov II;D;;3;3;3;3;P;P;P;;;30;;
-65;S65-21;False;Pleurálny výpotok I ;D;;3;3;3;3;P;P;P;;;30;;
-65;S65-20;False;Iné infekcie a zápaly dýchacích orgánov II ;D;;3;3;3;3;P;P;P;;;30;;
-65;S65-19;False;Zápal pľúc - komplikovaný;D;;3;3;3;3;P;P;P;;;30;;
+65;S65-22;False;Iné ochorenie dýchacích orgánov II;D;;3;3;3;3;P;P;P;;;;;
+65;S65-21;False;Pleurálny výpotok I ;D;;3;3;3;3;P;P;P;;;;;
+65;S65-20;False;Iné infekcie a zápaly dýchacích orgánov II ;D;;3;3;3;3;P;P;P;;;;;
+65;S65-19;False;Zápal pľúc - komplikovaný;D;;3;3;3;3;P;P;P;;;;;
 65;S71-02;True;Infekčné ochorenia;D;;3;3;3;3;P;P;P;;;;;
 65;S63-40;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;;3;2;2;2;P;P;P;N;;;;
-65;S65-30;False;Iné ochorenie dýchacích orgánov I;D;;2;2;2;2;P;P;P;P;;30;;
-65;S65-29;False;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;30;;
-65;S65-28;False;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;30;;
-65;S65-27;False;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;30;;
-65;S65-26;False;Astma bronchiale;D;;2;2;2;2;P;P;P;P;;30;;
-65;S65-25;False;Kašeľ, dyspnoe a iné poruchy dýchania;D;;2;2;2;2;P;P;P;P;;30;;
+65;S65-30;False;Iné ochorenie dýchacích orgánov I;D;;2;2;2;2;P;P;P;P;;;;
+65;S65-29;False;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;;;
+65;S65-28;False;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;;;
+65;S65-27;False;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;;;
+65;S65-26;False;Astma bronchiale;D;;2;2;2;2;P;P;P;P;;;;
+65;S65-25;False;Kašeľ, dyspnoe a iné poruchy dýchania;D;;2;2;2;2;P;P;P;P;;;;
 65;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 65;S73-50;True;Syndróm spánkového apnoe;D;;2;2;2;2;P;P;P;P;;;;
 65;S71-09;True;Iné vírusové ochorenia;D;;2;2;2;2;P;P;P;P;;;;
@@ -3207,15 +3207,15 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 65;S52-59;True;Stredne ťažké poranenia pohybového systému;D;;2;2;2;2;P;P;N;N;;;;
 65;S50-16;True;HIFLOW umelá ventilácia pľúc;V;;2;2;2;2;N;P;P;P;;;;
 66;S66-16;False;Terapeutická a perkutánna drenáž orgánov v dutine brušnej;V;;4;4;4;4;P;P;;;;30;;
-66;S66-15;False;Obštrukcia GIT III;D;;4;4;4;4;P;P;;;;30;;
-66;S66-14;False;Cirhóza pečene II;D;;4;4;4;4;P;P;;;;30;;
-66;S66-13;False;Funkčná porucha čreva II;D;;4;4;4;4;P;P;;;;30;;
-66;S66-12;False;Ochorenia žlčníka a žlčovodov III;D;;4;4;4;4;P;P;;;;30;;
-66;S66-11;False;Ochorenia pečene III;D;;4;4;4;4;P;N;;;;30;;
-66;S66-10;False;Ochorenia pankreasu III;D;;4;4;4;4;P;P;;;;30;;
-66;S66-09;False;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;30;;
-66;S66-08;False;Ochorenia pažeráka III;D;;4;4;4;4;P;P;;;;30;;
-66;S66-07;False;Gastrointestinálne krvácanie III;D;;4;4;4;4;P;P;;;;30;;
+66;S66-15;False;Obštrukcia GIT III;D;;4;4;4;4;P;P;;;;;;
+66;S66-14;False;Cirhóza pečene II;D;;4;4;4;4;P;P;;;;;;
+66;S66-13;False;Funkčná porucha čreva II;D;;4;4;4;4;P;P;;;;;;
+66;S66-12;False;Ochorenia žlčníka a žlčovodov III;D;;4;4;4;4;P;P;;;;;;
+66;S66-11;False;Ochorenia pečene III;D;;4;4;4;4;P;N;;;;;;
+66;S66-10;False;Ochorenia pankreasu III;D;;4;4;4;4;P;P;;;;;;
+66;S66-09;False;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;;;
+66;S66-08;False;Ochorenia pažeráka III;D;;4;4;4;4;P;P;;;;;;
+66;S66-07;False;Gastrointestinálne krvácanie III;D;;4;4;4;4;P;P;;;;;;
 66;S66-06;False;Endoskopické výkony na pankreatických cestách;V;;4;4;4;4;P;N;;;;30;;
 66;S66-05;False;Endoskopické výkony na žlčových cestách;V;;4;4;4;4;P;N;;;;30;;
 66;S66-04;False;Diagnostická endoskopia žlčových ciest a pankreasu;V;;4;4;4;4;P;N;;;;30;;
@@ -3224,48 +3224,48 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 66;S66-01;False;Endoskopické výkony na ezofágu;V;;4;4;4;4;P;P;;;;30;;
 66;S61-01;True;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 66;S51-35;True;Komplexné peranálne operácie;V;;4;4;4;4;P;P;;;;180;;
-66;S66-18;False;Vredová choroba II;D;;4;4;4;3;P;P;N;;;30;;
-66;S66-17;False;Gastrointestinálne krvácanie II;D;;4;4;4;3;P;P;N;;;30;;
+66;S66-18;False;Vredová choroba II;D;;4;4;4;3;P;P;N;;;;;
+66;S66-17;False;Gastrointestinálne krvácanie II;D;;4;4;4;3;P;P;N;;;;;
 66;S51-46;True;Základné operačné výkony na čreve;V;;4;4;4;3;P;P;N;;;;;
 66;S51-44;True;Základné operačné výkony na žalúdku;V;;4;4;4;3;P;P;N;;;90;;
-66;S66-31;False;Obštrukcia GIT II;D;;4;4;3;3;P;P;P;;;30;;
-66;S66-30;False;Iné neinfekčné gastroenteritídy a kolitídy;D;;4;4;3;3;P;P;N;;;30;;
-66;S66-29;False;Zápalové ochorenia čriev;D;;4;4;3;3;P;P;N;;;30;;
-66;S66-28;False;Gastritída a duodenitída III;D;;4;4;3;3;P;P;P;;;30;;
-66;S66-27;False;Vredová choroba I;D;;4;4;3;3;P;P;N;;;30;;
-66;S66-26;False;Ochorenia pečene IV;D;;4;4;3;3;P;N;N;;;30;;
-66;S66-25;False;Ochorenia pankreasu IV;D;;4;4;3;3;P;P;N;;;30;;
-66;S66-24;False;Iné ochorenia GIT IV;D;;4;4;3;3;P;P;P;;;30;;
-66;S66-23;False;Gastrointestinálne krvácanie I;D;;4;4;3;3;P;P;N;;;30;;
+66;S66-31;False;Obštrukcia GIT II;D;;4;4;3;3;P;P;P;;;;;
+66;S66-30;False;Iné neinfekčné gastroenteritídy a kolitídy;D;;4;4;3;3;P;P;N;;;;;
+66;S66-29;False;Zápalové ochorenia čriev;D;;4;4;3;3;P;P;N;;;;;
+66;S66-28;False;Gastritída a duodenitída III;D;;4;4;3;3;P;P;P;;;;;
+66;S66-27;False;Vredová choroba I;D;;4;4;3;3;P;P;N;;;;;
+66;S66-26;False;Ochorenia pečene IV;D;;4;4;3;3;P;N;N;;;;;
+66;S66-25;False;Ochorenia pankreasu IV;D;;4;4;3;3;P;P;N;;;;;
+66;S66-24;False;Iné ochorenia GIT IV;D;;4;4;3;3;P;P;P;;;;;
+66;S66-23;False;Gastrointestinálne krvácanie I;D;;4;4;3;3;P;P;N;;;;;
 66;S66-22;False;Zavedenie sondy cez jejunostómiu;V;;4;4;3;3;P;P;N;;;30;;
 66;S66-21;False;Manometria pažeráka;V;;4;4;3;3;P;N;N;;;60;;
 66;S66-20;False;Endoskopické odstránenie cudzieho telesa;V;;4;4;3;3;P;P;N;;;30;;
 66;S66-19;False;Endoskopické výkony na žalúdku;V;;4;4;3;3;P;P;N;;;30;;
-66;S66-32;False;Iné ochorenia GIT V;D;;4;4;2;2;P;P;P;P;;30;;
-66;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
+66;S66-32;False;Iné ochorenia GIT V;D;;4;4;2;2;P;P;P;P;;;;
+66;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
 66;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
-66;S66-44;False;Infekčná gastroenteritída II;D;;3;3;3;3;P;P;P;;;30;;
+66;S66-44;False;Infekčná gastroenteritída II;D;;3;3;3;3;P;P;P;;;;;
 66;S66-43;False;Diagnostické vyšetrenie pri gastroenterologickom ochorení (biopsie);V;;3;3;3;3;P;P;N;;;30;;
-66;S66-42;False;Gastritída a duodenitída II;D;;3;3;3;3;P;P;P;;;30;;
+66;S66-42;False;Gastritída a duodenitída II;D;;3;3;3;3;P;P;P;;;;;
 66;S66-41;False;Ezofágová Ph-metria / impedancia;V;;3;3;3;3;P;N;N;;;60;;
-66;S66-40;False;Divertikulóza;D;;3;3;3;3;P;P;P;;;30;;
-66;S66-39;False;Obštrukcia GIT I;D;;3;3;3;3;P;P;P;;;30;;
-66;S66-38;False;Cirhóza pečene I;D;;3;3;3;3;P;P;P;;;30;;
-66;S66-37;False;Ochorenia žlčníka a žlčovodov II;D;;3;3;3;3;P;P;P;;;30;;
-66;S66-36;False;Ochorenia pečene II;D;;3;3;3;3;P;P;P;;;30;;
-66;S66-35;False;Ochorenia pankreasu II;D;;3;3;3;3;P;P;P;;;30;;
-66;S66-34;False;Iné ochorenia GIT II;D;;3;3;3;3;P;P;P;;;30;;
-66;S66-33;False;Ochorenia pažeráka II;D;;3;3;3;3;P;P;P;;;30;;
+66;S66-40;False;Divertikulóza;D;;3;3;3;3;P;P;P;;;;;
+66;S66-39;False;Obštrukcia GIT I;D;;3;3;3;3;P;P;P;;;;;
+66;S66-38;False;Cirhóza pečene I;D;;3;3;3;3;P;P;P;;;;;
+66;S66-37;False;Ochorenia žlčníka a žlčovodov II;D;;3;3;3;3;P;P;P;;;;;
+66;S66-36;False;Ochorenia pečene II;D;;3;3;3;3;P;P;P;;;;;
+66;S66-35;False;Ochorenia pankreasu II;D;;3;3;3;3;P;P;P;;;;;
+66;S66-34;False;Iné ochorenia GIT II;D;;3;3;3;3;P;P;P;;;;;
+66;S66-33;False;Ochorenia pažeráka II;D;;3;3;3;3;P;P;P;;;;;
 66;S63-13;True;Iné gastrointestinálne ochorenia I ;D;;3;3;3;3;P;P;P;;;;;
-66;S66-53;False;Dyspepsia;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-52;False;Bolesť brucha a apendicitída;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-51;False;Gastritída a duodenitída I;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-50;False;Funkčná porucha čreva I;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-49;False;Ochorenia žlčníka a žlčovodov I;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-48;False;Ochorenia pečene I;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-47;False;Ochorenia pankreasu I;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-46;False;Iné ochorenia GIT I;D;;2;2;2;2;P;P;P;P;;30;;
-66;S66-45;False;Ochorenia pažeráka I;D;;2;2;2;2;P;P;P;P;;30;;
+66;S66-53;False;Dyspepsia;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-52;False;Bolesť brucha a apendicitída;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-51;False;Gastritída a duodenitída I;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-50;False;Funkčná porucha čreva I;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-49;False;Ochorenia žlčníka a žlčovodov I;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-48;False;Ochorenia pečene I;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-47;False;Ochorenia pankreasu I;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-46;False;Iné ochorenia GIT I;D;;2;2;2;2;P;P;P;P;;;;
+66;S66-45;False;Ochorenia pažeráka I;D;;2;2;2;2;P;P;P;P;;;;
 66;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 66;S63-30;True;Ťažkosti, symptómy a iné anomálie I;D;;2;2;2;2;P;P;P;P;;;;
 67;S67-01;False;Vybrané poruchy sexuálnej diferenciácie;D;;5;5;5;5;P;;;;;;;
@@ -3274,9 +3274,9 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 67;S67-04;False;Závažné poruchy metabolizmu;D;;4;4;4;4;P;P;;;;;;
 67;S67-03;False;Vysoko komplexné endokrinopatie;D;;4;4;4;4;P;P;;;;;;
 67;S67-02;False;Diabetes mellitus s kómou / s komplikáciami;D;;4;4;4;4;P;P;;;;;;
-67;S70-18;True;Zhubný nádor endokrinného systému;D;;4;4;4;4;P;P;;;;7;;
-67;S66-07;True;Gastrointestinálne krvácanie III;D;;4;4;4;4;P;P;;;;30;;
-67;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;60;;
+67;S70-18;True;Zhubný nádor endokrinného systému;D;;4;4;4;4;P;P;;;;;;
+67;S66-07;True;Gastrointestinálne krvácanie III;D;;4;4;4;4;P;P;;;;;;
+67;S60-18;True;Poruchy menštruačného cyklu a iné ochorenia ženských pohlavných orgánov;D;;4;4;2;2;P;P;P;P;;;;
 67;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 67;S67-11;False;Diagnostické vyšetrenie pri endokrinologickom ochorení (biopsie);V;;3;3;3;3;P;P;N;;;;;
 67;S67-10;False;Komplexné endokrinologické funkčné testy;V;;3;3;3;3;P;P;N;;;;;
@@ -3285,96 +3285,96 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 67;S67-07;False;Diabetes mellitus;D;;3;3;3;3;P;P;N;;;;;
 67;S69-14;True;Iné ochorenia pohybového systému II.;D;;3;3;3;3;P;P;P;;;;;
 67;S63-17;True;Ochorenia kostí a pohybového systému II;D;;3;3;3;3;P;P;P;;;;;
-67;S62-47;True;Endokrinne podmienené ochorenia očí;D;;3;3;3;3;P;N;N;;;30;;
+67;S62-47;True;Endokrinne podmienené ochorenia očí;D;;3;3;3;3;P;N;N;;;;;
 67;S67-12;False;Poruchy metabolizmu;D;;2;2;2;2;P;P;P;N;;;;
 67;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 67;S73-50;True;Syndróm spánkového apnoe;D;;2;2;2;2;P;P;P;P;;;;
 67;S73-28;True;Stupor a kóma netraumatického pôvodu;D;;2;2;2;2;P;P;P;P;;;;
 67;S64-26;True;Periférne ochorenia ciev;D;;2;2;2;2;P;P;P;P;;;;
-68;S68-11;False;Tubulopatie IV;D;;4;4;4;4;P;P;;;;30;;
+68;S68-11;False;Tubulopatie IV;D;;4;4;4;4;P;P;;;;;;
 68;S68-10;False;Infekcie močových orgánov IV;D;;4;4;4;4;P;P;;;;;;
-68;S68-09;False;Sekundárna hypertenzia IV;D;;4;4;4;4;P;P;;;;30;;
-68;S68-08;False;Hereditárna nefropatia IV;D;;4;4;4;4;P;P;;;;90;;
+68;S68-09;False;Sekundárna hypertenzia IV;D;;4;4;4;4;P;P;;;;;;
+68;S68-08;False;Hereditárna nefropatia IV;D;;4;4;4;4;P;P;;;;;;
 68;S68-07;False;Ochorenia glomerulov IV;D;;4;4;4;4;P;P;;;;;;
-68;S68-06;False;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;30;;
-68;S68-05;False;Insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;30;;
-68;S68-04;False;Chronický nefritický syndróm IV;D;;4;4;4;4;P;P;;;;30;;
+68;S68-06;False;Ochorenia a poruchy močových orgánov IV;D;;4;4;4;4;P;P;;;;;;
+68;S68-05;False;Insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;;;
+68;S68-04;False;Chronický nefritický syndróm IV;D;;4;4;4;4;P;P;;;;;;
 68;S68-03;False;Nefrotický syndróm IV;D;;4;4;4;4;P;P;;;;;;
 68;S68-02;False;Akútna insuficiencia obličiek IV;D;;4;4;4;4;P;P;;;;;;
 68;S68-01;False;Biopsia obličky;V;;4;4;4;4;P;P;;;;60;15;
 68;S70-32;True;Získaná trombotická trombocytopenická purpura;D;;4;4;4;4;P;P;;;;;;
-68;S70-29;True;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;7;;
+68;S70-29;True;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;;;
 68;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 68;S68-32;False;Infekcie močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
-68;S68-25;False;Obštrukcia močových ciest a močové kamene III;D;;3;3;3;3;P;P;P;;;30;;
+68;S68-25;False;Obštrukcia močových ciest a močové kamene III;D;;3;3;3;3;P;P;P;;;;;
 68;S68-21;False;CT angiografia;V;;3;3;3;3;P;P;N;;;30;;
-68;S68-20;False;Polycystické obličky;D;;3;3;3;3;P;P;P;;;30;;
-68;S68-19;False;Sekundárna hypertenzia III;D;;3;3;3;3;P;P;P;;;30;;
-68;S68-18;False;Hereditárna nefropatia III;D;;3;3;3;3;P;P;P;;;90;;
+68;S68-20;False;Polycystické obličky;D;;3;3;3;3;P;P;P;;;;;
+68;S68-19;False;Sekundárna hypertenzia III;D;;3;3;3;3;P;P;P;;;;;
+68;S68-18;False;Hereditárna nefropatia III;D;;3;3;3;3;P;P;P;;;;;
 68;S68-17;False;Ochorenia glomerulov III;D;;3;3;3;3;P;P;P;;;;;
-68;S68-16;False;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;30;;
-68;S68-15;False;Insuficiencia obličiek III;D;;3;3;3;3;P;P;P;;;30;;
-68;S68-14;False;Chronický nefritický syndróm III;D;;3;3;3;3;P;P;P;;;30;;
+68;S68-16;False;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
+68;S68-15;False;Insuficiencia obličiek III;D;;3;3;3;3;P;P;P;;;;;
+68;S68-14;False;Chronický nefritický syndróm III;D;;3;3;3;3;P;P;P;;;;;
 68;S68-13;False;Nefrotický syndróm III;D;;3;3;3;3;P;P;P;;;;;
 68;S68-12;False;Akútna insuficiencia obličiek III;D;;3;3;3;3;P;P;P;;;;;
-68;S69-08;True;Benígne systémové vaskulitídy (IgA vaskulitída);D;;3;3;3;3;P;P;P;;;7;10;3
+68;S69-08;True;Benígne systémové vaskulitídy (IgA vaskulitída);D;;3;3;3;3;P;P;P;;;;10;3
 68;S68-24;False;MR v oblasti brucha a panvy;V;;3;3;;;P;P;N;;;180;;
 68;S68-23;False;CT urografia;V;;3;3;;;P;P;N;;;60;;
 68;S68-22;False;Scintigrafia;V;;3;3;;;P;P;N;;;180;;
-68;S68-26;False;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;30;;
+68;S68-26;False;Obštrukcia močových ciest a močové kamene II;D;;3;2;2;2;P;P;P;P;;;;
 68;S74-03;True;Eliminačné poruchy;D;;;3;3;3;P;P;P;;;;;
-68;S68-36;False;Hematúria;D;;2;2;2;2;P;P;P;P;;30;;
-68;S68-35;False;Tubulopatie II;D;;2;2;2;2;P;P;P;P;;30;;
+68;S68-36;False;Hematúria;D;;2;2;2;2;P;P;P;P;;;;
+68;S68-35;False;Tubulopatie II;D;;2;2;2;2;P;P;P;P;;;;
 68;S68-34;False;Infekcie močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
 68;S68-33;False;Infekcie močových orgánov I;D;;2;2;2;2;P;P;P;P;;;;
-68;S68-31;False;Sekundárna hypertenzia II ;D;;2;2;2;2;P;P;P;P;;30;;
-68;S68-30;False;Hereditárna nefropatia II;D;;2;2;2;2;P;P;P;P;;90;;
+68;S68-31;False;Sekundárna hypertenzia II ;D;;2;2;2;2;P;P;P;P;;;;
+68;S68-30;False;Hereditárna nefropatia II;D;;2;2;2;2;P;P;P;P;;;;
 68;S68-29;False;Ochorenia glomerulov II;D;;2;2;2;2;P;P;P;P;;;;
-68;S68-28;False;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;30;;
-68;S68-27;False;Insuficiencia obličiek II;D;;2;2;2;2;P;P;P;P;;30;;
+68;S68-28;False;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
+68;S68-27;False;Insuficiencia obličiek II;D;;2;2;2;2;P;P;P;P;;;;
 68;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 68;S68-37;False;Cystografia;V;;2;2;;;P;P;P;N;;60;;
-69;S69-04;False;Autoinflamčné ochorenia - geneticky podmienené a zriedkavé získané;D;;4;4;4;4;P;P;;;;7;3;1
+69;S69-04;False;Autoinflamčné ochorenia - geneticky podmienené a zriedkavé získané;D;;4;4;4;4;P;P;;;;;3;1
 69;S69-03;False;Závažné systémové vaskulitídy a CNS vaskulitídy ;D;;4;4;4;4;P;P;;;;;5;2
-69;S69-02;False;Závažné ochorenia kostí a určité artropatie;D;;4;4;4;4;P;P;;;;30;5;2
-69;S69-01;False;Systémové imunitné sprostredkované ochorenia;D;;4;4;4;4;P;P;;;;7;10;3
-69;S72-02;True;Vysoko komplexné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;7;;
+69;S69-02;False;Závažné ochorenia kostí a určité artropatie;D;;4;4;4;4;P;P;;;;;5;2
+69;S69-01;False;Systémové imunitné sprostredkované ochorenia;D;;4;4;4;4;P;P;;;;;10;3
+69;S72-02;True;Vysoko komplexné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;;;
 69;S70-36;True;Agresívne lymfómy (NHL) Hodgkinov lymfóm a iné vybrané ;D;;4;4;4;4;P;P;;;;;;
 69;S70-32;True;Získaná trombotická trombocytopenická purpura;D;;4;4;4;4;P;P;;;;;;
-69;S70-31;True;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;7;;
+69;S70-31;True;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;;;
 69;S67-04;True;Závažné poruchy metabolizmu;D;;4;4;4;4;P;P;;;;;;
-69;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;30;;
-69;S65-05;True;Intersticiálna choroba pľúc;D;;4;4;4;4;P;P;;;;30;;
-69;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;14;400*7;
+69;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;;;
+69;S65-05;True;Intersticiálna choroba pľúc;D;;4;4;4;4;P;P;;;;;;
+69;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;;400*7;
 69;S61-02;True;Infekcia/zápal kože a podkožia;D;;4;4;4;4;P;P;;;;;400*7;
 69;S61-01;True;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 69;S56-21;True;Infekcie v oblasti chrbtice;D;;4;4;4;4;P;P;;;;;;
 69;S62-43;True;Infekcie a zápaly oka a očných adnexov;D;;4;4;3;3;P;N;N;;;;5;5
-69;S72-05;True;Komplexné ochorenia imunitného systému;D;;4;3;3;3;P;P;P;;;21;;
+69;S72-05;True;Komplexné ochorenia imunitného systému;D;;4;3;3;3;P;P;P;;;;;
 69;S55-43;True;Iné ochorenia chrbtice;D;;4;3;3;3;P;P;P;;;;;
 69;S53-30;True;Iné ochorenia ucha, nosa, úst a krku;D;;4;3;3;3;P;P;P;;;;;
 69;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
-69;S69-15;False;Diagnostické vyšetrenie a terapeutický výkon pri reumatickom ochorení ;V;;3;3;3;3;P;P;P;;;14;25;10
+69;S69-15;False;Diagnostické vyšetrenie a terapeutický výkon pri reumatickom ochorení ;V;;3;3;3;3;P;P;P;;;30;25;10
 69;S69-14;False;Iné ochorenia pohybového systému II.;D;;3;3;3;3;P;P;P;;;;;
-69;S69-13;False;Reumatizmus, bližšie neurčený;D;;3;3;3;3;P;P;P;;;30;5;2
-69;S69-12;False;Raynaudov syndróm;D;;3;3;3;3;P;P;P;;;30;5;2
-69;S69-11;False;Nezápalové ochorenia spojivového tkaniva;D;;3;3;3;3;P;P;P;;;60;5;2
+69;S69-13;False;Reumatizmus, bližšie neurčený;D;;3;3;3;3;P;P;P;;;;5;2
+69;S69-12;False;Raynaudov syndróm;D;;3;3;3;3;P;P;P;;;;5;2
+69;S69-11;False;Nezápalové ochorenia spojivového tkaniva;D;;3;3;3;3;P;P;P;;;;5;2
 69;S69-10;False;Infekčné ochorenia kĺbov a kostí ;D;;3;3;3;3;P;P;P;;;;5;2
-69;S69-09;False;Iné artritídy;D;;3;3;3;3;P;P;P;;;14;10;3
-69;S69-08;False;Benígne systémové vaskulitídy (IgA vaskulitída);D;;3;3;3;3;P;P;P;;;7;10;3
-69;S69-07;False;Autoinflamčné ochorenia -  bežné/získané (PFAPA syndróm);D;;3;3;3;3;P;P;P;;;30;20;5
-69;S69-06;False;Autoimunitne podmienené artritídy;D;;3;3;3;3;P;P;P;;;14;30;10
-69;S69-05;False;Ochorenia kostí a určité artropatie;D;;3;3;3;3;P;P;P;;;30;5;2
+69;S69-09;False;Iné artritídy;D;;3;3;3;3;P;P;P;;;;10;3
+69;S69-08;False;Benígne systémové vaskulitídy (IgA vaskulitída);D;;3;3;3;3;P;P;P;;;;10;3
+69;S69-07;False;Autoinflamčné ochorenia -  bežné/získané (PFAPA syndróm);D;;3;3;3;3;P;P;P;;;;20;5
+69;S69-06;False;Autoimunitne podmienené artritídy;D;;3;3;3;3;P;P;P;;;;30;10
+69;S69-05;False;Ochorenia kostí a určité artropatie;D;;3;3;3;3;P;P;P;;;;5;2
 69;S63-19;True;Otravy alebo toxické účinky z vonkajších príčin II;D;;3;3;3;3;P;P;P;;;;;
 69;S63-18;True;Horúčka neznámeho pôvodu;D;;3;3;3;3;P;P;P;;;;;
 69;S63-17;True;Ochorenia kostí a pohybového systému II;D;;3;3;3;3;P;P;P;;;;;
 69;S63-14;True;Ťažkosti, symptómy a iné anomálie II;D;;3;3;3;3;P;P;P;;;;;
 69;S63-11;True;Ochorenia spojivového tkaniva;D;;3;3;3;3;P;P;P;;;;;
 69;S63-10;True;Vrodené metabolické poruchy I;D;;3;3;3;3;P;P;P;;;;;
-69;S62-48;True;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;60;5;5
+69;S62-48;True;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;;5;5
 69;S56-43;True;Tuberkulózna artritída;D;;3;3;3;3;P;P;P;;;;;
 69;S56-40;True;Infekcie na pohybovom aparáte;D;;3;3;3;3;P;P;P;;;;;
-69;S54-06;True;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;30;70;10
+69;S54-06;True;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;;70;10
 69;S56-45;True;Iné ochorenia pohybového systému;D;;3;3;2;2;P;P;P;P;;;;
 69;S56-44;True;Ochorenia kostí a artropatie;D;;3;3;2;2;P;P;P;P;;;;
 69;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
@@ -3385,8 +3385,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 69;S73-27;True;Deformujúca dorzopatia a iné komplexné spondylopatie;D;;2;2;2;2;P;P;P;P;;;;
 69;S71-08;True;Iné infekčné ochorenia;D;;2;2;2;2;P;P;P;P;;;;
 69;S71-07;True;Sepsa;D;;2;2;2;2;P;P;P;P;;;;
-69;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;30;;
-69;S70-58;True;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;30;;
+69;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;;;
+69;S70-58;True;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;;;
 69;S64-28;True;Iné ochorenia obehového systému;D;;2;2;2;2;P;P;P;P;;;;
 69;S64-26;True;Periférne ochorenia ciev;D;;2;2;2;2;P;P;P;P;;;;
 69;S64-24;True;Ochorenia srdcových chlopní;D;;2;2;2;2;P;P;P;P;;;;
@@ -3394,46 +3394,46 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 69;S63-25;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi I;D;;2;2;2;2;P;P;P;P;;;;
 70;S70-09;False;Darca kostnej drene a kmeňových buniek;D;;5;5;5;5;P;;;;;;;
 70;S70-08;False;Vysoko komplexné hematologické ochorenia s potrebou centralizácie;D;;5;5;5;5;P;;;;;;;
-70;S70-07;False;Vysokošpecializovaná imunoterapia ;V;;5;5;5;5;P;;;;;10;;
-70;S70-06;False;Odber kmeňových krvotvorných buniek;V;;5;5;5;5;P;;;;;10;30;
+70;S70-07;False;Vysokošpecializovaná imunoterapia ;V;;5;5;5;5;P;;;;;30;;
+70;S70-06;False;Odber kmeňových krvotvorných buniek;V;;5;5;5;5;P;;;;;30;30;
 70;S70-05;False;Perkutánna termálna ablácia nádoru;V;;5;5;5;5;P;;;;;;;
-70;S70-04;False;Rádioterapia - špeciálne techniky;V;;5;5;5;5;P;;;;;14;;
+70;S70-04;False;Rádioterapia - špeciálne techniky;V;;5;5;5;5;P;;;;;30;;
 70;S70-03;False;Autológna transplantácia krvotvotvorných buniek;V;;5;5;5;5;P;;;;;30;10;
 70;S70-02;False;Alogénna transplantácia krvotvotvorných buniek;V;;5;5;5;5;P;;;;;30;20;
-70;S70-01;False;Bunková terapia;V;;5;5;5;5;P;;;;;20;;
+70;S70-01;False;Bunková terapia;V;;5;5;5;5;P;;;;;30;;
 70;S70-42;False;Profylaktická chemoterapia;D;;4;4;4;4;P;P;;;;;;
-70;S70-41;False;Trombocytopénie a trombocytopatie I;D;;4;4;4;4;P;P;;;;30;;
-70;S70-40;False;Myelodysplastické syndrómy;D;;4;4;4;4;P;P;;;;30;;
+70;S70-41;False;Trombocytopénie a trombocytopatie I;D;;4;4;4;4;P;P;;;;;;
+70;S70-40;False;Myelodysplastické syndrómy;D;;4;4;4;4;P;P;;;;;;
 70;S70-39;False;Myeloproliferatívne neoplázie (Ph negatívne a pozitívne  MPN, CML, MDS/MPN, );D;;4;4;4;4;P;P;;;;;;
-70;S70-38;False;Indolentné lymfómy (NHL) a bližšie neurčené lymfómy;D;;4;4;4;4;P;P;;;;14;;
+70;S70-38;False;Indolentné lymfómy (NHL) a bližšie neurčené lymfómy;D;;4;4;4;4;P;P;;;;;;
 70;S70-37;False;Vysoko komplexné hematologické ochorenia;D;;4;4;4;4;P;P;;;;;;
 70;S70-36;False;Agresívne lymfómy (NHL) Hodgkinov lymfóm a iné vybrané ;D;;4;4;4;4;P;P;;;;;;
 70;S70-35;False;Akútna leukémia ;D;;4;4;4;4;P;P;;;;;;
 70;S70-34;False;Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba;VD;;4;4;4;4;P;P;;;;;;
 70;S70-33;False;Získaná hemofília;D;;4;4;4;4;P;P;;;;;;
 70;S70-32;False;Získaná trombotická trombocytopenická purpura;D;;4;4;4;4;P;P;;;;;;
-70;S70-31;False;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;7;;
-70;S70-30;False;Hematologické a solídné nádory;D;;4;4;4;4;P;P;;;;7;;
-70;S70-29;False;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;7;;
-70;S70-28;False;Zhubné nádory prsníka;D;;4;4;4;4;P;P;;;;7;;
-70;S70-27;False;Zhubný nádor GIT;D;;4;4;4;4;P;P;;;;7;;
-70;S70-26;False;Zhubné nádory dýchacích orgánov;D;;4;4;4;4;P;P;;;;7;;
-70;S70-25;False;Zhubné nádory ucha, nosa, úst a krku;D;;4;4;4;4;P;P;;;;7;;
-70;S70-24;False;Nádory nervového systému;D;;4;4;4;4;P;P;;;;7;;
-70;S70-23;False;Zhubný nádor spojivového tkaniva;D;;4;4;4;4;P;P;;;;7;;
-70;S70-22;False;Zhubný nádor hepatobiliárneho systému a pankreasu;D;;4;4;4;4;P;P;;;;7;;
-70;S70-21;False;Zhubné nádory mužských pohlavných orgánov;D;;4;4;4;4;P;P;;;;7;;
-70;S70-20;False;Zhubný nádor ženských pohlavných orgánov;D;;4;4;4;4;P;P;;;;7;;
-70;S70-19;False;Zhubné nádory kože;D;;4;4;4;4;P;P;;;;7;;
-70;S70-18;False;Zhubný nádor endokrinného systému;D;;4;4;4;4;P;P;;;;7;;
-70;S70-17;False;Zhubné nádory oka;D;;4;4;4;4;P;P;;;;7;30;
+70;S70-31;False;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;;;
+70;S70-30;False;Hematologické a solídné nádory;D;;4;4;4;4;P;P;;;;;;
+70;S70-29;False;Zhubné nádory močových orgánov;D;;4;4;4;4;P;P;;;;;;
+70;S70-28;False;Zhubné nádory prsníka;D;;4;4;4;4;P;P;;;;;;
+70;S70-27;False;Zhubný nádor GIT;D;;4;4;4;4;P;P;;;;;;
+70;S70-26;False;Zhubné nádory dýchacích orgánov;D;;4;4;4;4;P;P;;;;;;
+70;S70-25;False;Zhubné nádory ucha, nosa, úst a krku;D;;4;4;4;4;P;P;;;;;;
+70;S70-24;False;Nádory nervového systému;D;;4;4;4;4;P;P;;;;;;
+70;S70-23;False;Zhubný nádor spojivového tkaniva;D;;4;4;4;4;P;P;;;;;;
+70;S70-22;False;Zhubný nádor hepatobiliárneho systému a pankreasu;D;;4;4;4;4;P;P;;;;;;
+70;S70-21;False;Zhubné nádory mužských pohlavných orgánov;D;;4;4;4;4;P;P;;;;;;
+70;S70-20;False;Zhubný nádor ženských pohlavných orgánov;D;;4;4;4;4;P;P;;;;;;
+70;S70-19;False;Zhubné nádory kože;D;;4;4;4;4;P;P;;;;;;
+70;S70-18;False;Zhubný nádor endokrinného systému;D;;4;4;4;4;P;P;;;;;;
+70;S70-17;False;Zhubné nádory oka;D;;4;4;4;4;P;P;;;;;30;
 70;S70-16;False;Terapia onkohematologického ochorenia ;V;;4;4;4;4;P;P;;;;30;;
 70;S70-15;False;Centrálne žilové vstupy ;V;;4;4;4;4;P;P;;;;30;;
-70;S70-14;False;Intratekálna diagnostika a liečba;V;;4;4;4;4;P;P;;;;7;;
-70;S70-13;False;Aferetické výkony;V;;4;4;4;4;P;P;;;;14;;
-70;S70-12;False;Špecializovaná imunoterapia ;V;;4;4;4;4;P;P;;;;10;;
-70;S70-11;False;Diagnostické vyšetrenie pri onkologickom ochorení;V;;4;4;4;4;P;P;;;;7;;
-70;S70-10;False;Rádioterapia;V;;4;4;4;4;P;P;;;;14;;
+70;S70-14;False;Intratekálna diagnostika a liečba;V;;4;4;4;4;P;P;;;;30;;
+70;S70-13;False;Aferetické výkony;V;;4;4;4;4;P;P;;;;30;;
+70;S70-12;False;Špecializovaná imunoterapia ;V;;4;4;4;4;P;P;;;;30;;
+70;S70-11;False;Diagnostické vyšetrenie pri onkologickom ochorení;V;;4;4;4;4;P;P;;;;30;;
+70;S70-10;False;Rádioterapia;V;;4;4;4;4;P;P;;;;30;;
 70;S76-01;True;Komplexná paliatívna špecializovaná ústavná starostlivosť;V;;4;4;4;4;P;P;;;;;;
 70;S68-01;True;Biopsia obličky;V;;4;4;4;4;P;P;;;;60;15;
 70;S65-12;True;Diagnostické vyšetrenie pri pneumologickom ochorení (biopsie);V;;4;4;4;4;P;P;;;;30;;
@@ -3442,36 +3442,36 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 70;S03-30;True;Biopsia (perkutánna, stereotaktická);V;;4;4;4;4;P;P;;;;60;10;
 70;S59-15;True;Diagnostické vyšetrenie pri urologickom ochorení (biopsie);V;;4;3;3;3;P;P;P;;;;;
 70;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
-70;S70-55;False;Iné anémie;D;;3;3;3;3;P;P;P;;;30;;
-70;S70-54;False;Poruchy leukocytov a iné  hematologické ochorenia I;D;;3;3;3;3;P;P;P;;;30;;
-70;S70-53;False;Trombofilný stav (vrodený, získaný) ;D;;3;3;3;3;P;P;P;;;30;;
-70;S70-52;False;Iné choroby krvi a krvotvorných orgánov;D;;3;3;3;3;P;P;P;;;30;;
-70;S70-51;False;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné);D;;3;3;3;3;P;P;P;;;30;;
+70;S70-55;False;Iné anémie;D;;3;3;3;3;P;P;P;;;;;
+70;S70-54;False;Poruchy leukocytov a iné  hematologické ochorenia I;D;;3;3;3;3;P;P;P;;;;;
+70;S70-53;False;Trombofilný stav (vrodený, získaný) ;D;;3;3;3;3;P;P;P;;;;;
+70;S70-52;False;Iné choroby krvi a krvotvorných orgánov;D;;3;3;3;3;P;P;P;;;;;
+70;S70-51;False;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné);D;;3;3;3;3;P;P;P;;;;;
 70;S70-50;False;Hemolytická anémia;D;;3;3;3;3;P;P;P;;;;;
-70;S70-49;False;Vrodené trombocytopatie klinicky závažné ;D;;3;3;3;3;P;P;P;;;180;;
+70;S70-49;False;Vrodené trombocytopatie klinicky závažné ;D;;3;3;3;3;P;P;P;;;;;
 70;S70-48;False;Idiopatická aplastická anémia, ťažká a veľmi ťažká forma;D;;3;3;3;3;P;P;P;;;;;
-70;S70-47;False;Trombocytopénie a trombocytopatie II;D;;3;3;3;3;P;P;P;;;30;;
+70;S70-47;False;Trombocytopénie a trombocytopatie II;D;;3;3;3;3;P;P;P;;;;;
 70;S70-46;False;Biopsia a aspirácia kostnej drene;V;;3;3;3;3;P;P;P;;;30;;
 70;S70-43;False;Terapia onkohematologického ochorenia po konzultácii vyššieho centra*;V;;3;3;3;3;P;P;N;;;30;;
 70;S76-02;True;Špecializovaná konziliárna paliatívna starostlivosť;V;;3;3;3;3;N;N;P;;;;;
-70;S69-15;True;Diagnostické vyšetrenie a terapeutický výkon pri reumatickom ochorení ;V;;3;3;3;3;P;P;P;;;14;25;10
+70;S69-15;True;Diagnostické vyšetrenie a terapeutický výkon pri reumatickom ochorení ;V;;3;3;3;3;P;P;P;;;30;25;10
 70;S67-11;True;Diagnostické vyšetrenie pri endokrinologickom ochorení (biopsie);V;;3;3;3;3;P;P;N;;;;;
 70;S66-43;True;Diagnostické vyšetrenie pri gastroenterologickom ochorení (biopsie);V;;3;3;3;3;P;P;N;;;30;;
 70;S54-03;True;Ostatné maxilofaciálne výkony II.;V;;3;3;3;3;P;P;N;;;60;70;10
 70;S03-63;True;Iné kraniálne výkony;V;;3;3;3;3;P;P;P;;;;10;
 70;S70-60;False;Vrodené koagulopatie - základná hemostatická liečba, komplexná liečba pri operácii s vitálnou indikáciou;D;;2;2;2;2;P;P;P;P;;;;
-70;S70-59;False;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;30;;
-70;S70-58;False;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;30;;
-70;S70-57;False;Trombocytopénie a trombocytopatie III;D;;2;2;2;2;P;P;P;P;;30;;
-70;S70-56;False;Nutričné anémie;D;;2;2;2;2;P;P;P;P;;30;;
+70;S70-59;False;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;;;
+70;S70-58;False;Získané poruchy hemostázy;D;;2;2;2;2;P;P;P;P;;;;
+70;S70-57;False;Trombocytopénie a trombocytopatie III;D;;2;2;2;2;P;P;P;P;;;;
+70;S70-56;False;Nutričné anémie;D;;2;2;2;2;P;P;P;P;;;;
 70;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 71;S71-01;False;Vysokonákazlivé ochorenia BSL03-04;D;;5;5;5;5;P;;;;;;;
-71;S66-11;True;Ochorenia pečene III;D;;4;4;4;4;P;N;;;;30;;
-71;S66-10;True;Ochorenia pankreasu III;D;;4;4;4;4;P;P;;;;30;;
-71;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;30;;
-71;S65-10;True;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;30;;
-71;S65-07;True;Iné infekcie a zápaly dýchacích orgánov IIIa;D;;4;4;4;4;P;P;;;;30;;
-71;S65-06;True;Iné infekcie a zápaly dýchacích orgánov III;D;;4;4;4;4;P;P;;;;30;;
+71;S66-11;True;Ochorenia pečene III;D;;4;4;4;4;P;N;;;;;;
+71;S66-10;True;Ochorenia pankreasu III;D;;4;4;4;4;P;P;;;;;;
+71;S66-09;True;Iné ochorenia GIT III;D;;4;4;4;4;P;P;;;;;;
+71;S65-10;True;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;;;
+71;S65-07;True;Iné infekcie a zápaly dýchacích orgánov IIIa;D;;4;4;4;4;P;P;;;;;;
+71;S65-06;True;Iné infekcie a zápaly dýchacích orgánov III;D;;4;4;4;4;P;P;;;;;;
 71;S61-02;True;Infekcia/zápal kože a podkožia;D;;4;4;4;4;P;P;;;;;400*7;
 71;S61-01;True;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 71;S62-43;True;Infekcie a zápaly oka a očných adnexov;D;;4;4;3;3;P;N;N;;;;5;5
@@ -3483,13 +3483,13 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 71;S71-03;False;Sepsa II;D;;3;3;3;3;N;N;N;;;;;
 71;S71-02;False;Infekčné ochorenia;D;;3;3;3;3;P;P;P;;;;;
 71;S69-10;True;Infekčné ochorenia kĺbov a kostí ;D;;3;3;3;3;P;P;P;;;;5;2
-71;S69-07;True;Autoinflamčné ochorenia -  bežné/získané (PFAPA syndróm);D;;3;3;3;3;P;P;P;;;30;20;5
+71;S69-07;True;Autoinflamčné ochorenia -  bežné/získané (PFAPA syndróm);D;;3;3;3;3;P;P;P;;;;20;5
 71;S68-32;True;Infekcie močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
-71;S66-36;True;Ochorenia pečene II;D;;3;3;3;3;P;P;P;;;30;;
-71;S65-20;True;Iné infekcie a zápaly dýchacích orgánov II ;D;;3;3;3;3;P;P;P;;;30;;
-71;S65-19;True;Zápal pľúc - komplikovaný;D;;3;3;3;3;P;P;P;;;30;;
+71;S66-36;True;Ochorenia pečene II;D;;3;3;3;3;P;P;P;;;;;
+71;S65-20;True;Iné infekcie a zápaly dýchacích orgánov II ;D;;3;3;3;3;P;P;P;;;;;
+71;S65-19;True;Zápal pľúc - komplikovaný;D;;3;3;3;3;P;P;P;;;;;
 71;S63-18;True;Horúčka neznámeho pôvodu;D;;3;3;3;3;P;P;P;;;;;
-71;S54-06;True;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;30;70;10
+71;S54-06;True;Ochorenia zubov a dutiny ústnej;D;;3;3;3;3;P;P;P;;;;70;10
 71;S63-40;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;;3;2;2;2;P;P;P;N;;;;
 71;S59-55;True;Iné ochorenia mužských pohlavných orgánov;D;;3;2;2;2;P;P;P;P;;;;
 71;S71-10;False;Iné faktory, ktoré ovplyvňujú zdravotný stav a následná starostlivosť po ukončenej liečbe;D;;2;2;2;2;P;P;P;P;;;;
@@ -3500,45 +3500,45 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 71;S73-37;True;Ochorenia mozgových a periférnych nervov;D;;2;2;2;2;P;P;P;P;;;;
 71;S73-32;True;Infekcia nervového systému;D;;2;2;2;2;P;P;P;P;;;;
 71;S73-30;True;Vertigo;D;;2;2;2;2;P;P;P;P;;;;
-71;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;30;;
-71;S65-28;True;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;30;;
-71;S65-27;True;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;30;;
+71;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;;;
+71;S65-28;True;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;;;
+71;S65-27;True;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;;;
 71;S64-28;True;Iné ochorenia obehového systému;D;;2;2;2;2;P;P;P;P;;;;
 71;S63-24;True;Infekčná gastroenteritída I;D;;2;2;2;2;P;P;P;P;;;;
 71;S63-23;True;Iné infekčné ochorenia GIT;D;;2;2;2;2;P;P;P;P;;;;
-72;S72-04;False;Závažná protilátková porucha imunity;D;;4;4;4;4;P;P;;;;7;;
-72;S72-03;False;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;7;;
-72;S72-02;False;Vysoko komplexné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;7;;
-72;S72-01;False;Hospitalizácia pred transplantáciou krvotvorných buniek pre ťažké kombinované imunodeficiencie (skupina D81) ;VD;;4;4;4;4;P;N;;;;7;;
+72;S72-04;False;Závažná protilátková porucha imunity;D;;4;4;4;4;P;P;;;;;;
+72;S72-03;False;Kombinovaný imunodeficit a závažné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;;;
+72;S72-02;False;Vysoko komplexné ochorenia imunitného systému;D;;4;4;4;4;P;P;;;;;;
+72;S72-01;False;Hospitalizácia pred transplantáciou krvotvorných buniek pre ťažké kombinované imunodeficiencie (skupina D81) ;VD;;4;4;4;4;P;N;;;;30;;
 72;S70-37;True;Vysoko komplexné hematologické ochorenia;D;;4;4;4;4;P;P;;;;;;
 72;S70-36;True;Agresívne lymfómy (NHL) Hodgkinov lymfóm a iné vybrané ;D;;4;4;4;4;P;P;;;;;;
-72;S70-31;True;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;7;;
-72;S69-04;True;Autoinflamčné ochorenia - geneticky podmienené a zriedkavé získané;D;;4;4;4;4;P;P;;;;7;3;1
+72;S70-31;True;Lymfóm a neakútna leukémia;D;;4;4;4;4;P;P;;;;;;
+72;S69-04;True;Autoinflamčné ochorenia - geneticky podmienené a zriedkavé získané;D;;4;4;4;4;P;P;;;;;3;1
 72;S67-04;True;Závažné poruchy metabolizmu;D;;4;4;4;4;P;P;;;;;;
 72;S67-03;True;Vysoko komplexné endokrinopatie;D;;4;4;4;4;P;P;;;;;;
-72;S65-10;True;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;30;;
-72;S65-05;True;Intersticiálna choroba pľúc;D;;4;4;4;4;P;P;;;;30;;
+72;S65-10;True;Iné ochorenie dýchacích orgánov III;D;;4;4;4;4;P;P;;;;;;
+72;S65-05;True;Intersticiálna choroba pľúc;D;;4;4;4;4;P;P;;;;;;
 72;S63-03;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi III;D;;4;4;4;4;P;P;;;;;;
 72;S63-02;True;Vrodené metabolické poruchy II;D;;4;4;4;4;P;P;;;;;;
-72;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;14;400*7;
+72;S61-04;True;Iné ochorenia kože, podkožia a slizníc;D;;4;4;4;4;P;P;;;;;400*7;
 72;S61-01;True;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
-72;S72-05;False;Komplexné ochorenia imunitného systému;D;;4;3;3;3;P;P;P;;;21;;
+72;S72-05;False;Komplexné ochorenia imunitného systému;D;;4;3;3;3;P;P;P;;;;;
 72;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
-72;S72-06;False;Desenzibilizácia na alergény;D;;3;3;3;3;P;P;P;;;21;;
-72;S70-54;True;Poruchy leukocytov a iné  hematologické ochorenia I;D;;3;3;3;3;P;P;P;;;30;;
-72;S70-52;True;Iné choroby krvi a krvotvorných orgánov;D;;3;3;3;3;P;P;P;;;30;;
-72;S70-51;True;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné);D;;3;3;3;3;P;P;P;;;30;;
+72;S72-06;False;Desenzibilizácia na alergény;D;;3;3;3;3;P;P;P;;;;;
+72;S70-54;True;Poruchy leukocytov a iné  hematologické ochorenia I;D;;3;3;3;3;P;P;P;;;;;
+72;S70-52;True;Iné choroby krvi a krvotvorných orgánov;D;;3;3;3;3;P;P;P;;;;;
+72;S70-51;True;Podporná liečba pri hematologickom a hematoonkologickom ochorení (febrilná neutropénia, paliatívna chemoterapia a iné);D;;3;3;3;3;P;P;P;;;;;
 72;S63-10;True;Vrodené metabolické poruchy I;D;;3;3;3;3;P;P;P;;;;;
 72;S63-09;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi II;D;;3;3;3;3;P;P;P;;;;;
 72;S63-40;True;Zápal stredného ucha alebo infekcia horných dýchacích ciest;D;;3;2;2;2;P;P;P;N;;;;
 72;S72-08;False;Kontakt so sršnami, osami a včelami a iné komplikácie;D;;2;2;2;2;P;P;P;P;;;;
-72;S72-07;False;Ochorenia imunitného systému;D;;2;2;2;2;P;P;P;P;;30;;
+72;S72-07;False;Ochorenia imunitného systému;D;;2;2;2;2;P;P;P;P;;;;
 72;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
 72;S73-42;True;Cerebelárna ataxia;D;;2;2;2;2;P;P;P;P;;;;
-72;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;30;;
-72;S65-26;True;Astma bronchiale;D;;2;2;2;2;P;P;P;P;;30;;
+72;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;;;
+72;S65-26;True;Astma bronchiale;D;;2;2;2;2;P;P;P;P;;;;
 72;S63-36;True;Anafylaktický šok;D;;2;2;2;2;P;P;P;P;;;;
-73;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;30;;
+73;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;;;
 73;S73-10;False;Iné ochorenia NS III;VD;;4;4;4;4;P;P;;;;;;
 73;S73-09;False;Ochorenia mozgových a periférnych nervov III;VD;;4;4;4;4;P;P;;;;;;
 73;S73-08;False;Iné chronické poruchy mozgovej funkcie a demencie III;VD;;4;4;4;4;P;P;;;;;;
@@ -3549,8 +3549,8 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 73;S73-03;False;Skleróza multiplex s potrebou špecializovaných vyšetrení;VD;;4;4;4;4;P;P;;;;;;
 73;S73-02;False;EEG monitor;V;;4;4;4;4;P;P;;;;;;
 73;S73-01;False;Syndróm spánkového apnoe s potrebou špecializovaných vyšetrení;VD;;4;4;4;4;P;P;;;;;;
-73;S70-24;True;Nádory nervového systému;D;;4;4;4;4;P;P;;;;7;;
-73;S69-04;True;Autoinflamčné ochorenia - geneticky podmienené a zriedkavé získané;D;;4;4;4;4;P;P;;;;7;3;1
+73;S70-24;True;Nádory nervového systému;D;;4;4;4;4;P;P;;;;;;
+73;S69-04;True;Autoinflamčné ochorenia - geneticky podmienené a zriedkavé získané;D;;4;4;4;4;P;P;;;;;3;1
 73;S67-04;True;Závažné poruchy metabolizmu;D;;4;4;4;4;P;P;;;;;;
 73;S67-03;True;Vysoko komplexné endokrinopatie;D;;4;4;4;4;P;P;;;;;;
 73;S67-02;True;Diabetes mellitus s kómou / s komplikáciami;D;;4;4;4;4;P;P;;;;;;
@@ -3577,10 +3577,10 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 73;S73-13;False;Svalove a nervosvalové ochorenia  II;VD;;3;3;3;3;P;P;P;;;;;
 73;S73-12;False;Degeneratívne ochorenia nervového systému II;VD;;3;3;3;3;P;P;P;;;;;
 73;S73-11;False;Infekcia nervového systému II;VD;;3;3;3;3;P;P;P;;;;;
-73;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;30;;
+73;S68-16;True;Ochorenia a poruchy močových orgánov III;D;;3;3;3;3;P;P;P;;;;;
 73;S67-09;True;Stredne závažné poruchy metabolizmu;D;;3;3;3;3;P;P;P;;;;;
-73;S66-34;True;Iné ochorenia GIT II;D;;3;3;3;3;P;P;P;;;30;;
-73;S62-48;True;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;60;5;5
+73;S66-34;True;Iné ochorenia GIT II;D;;3;3;3;3;P;P;P;;;;;
+73;S62-48;True;Iné ochorenia oka a očných adnexov;D;;3;3;3;3;P;N;N;;;;5;5
 73;S59-37;True;Neurologické disfunkcie močových ciest;D;;3;3;3;3;P;P;P;;;;;
 73;S74-24;True;Iné psychické poruchy;D;;;3;3;3;P;P;P;;;;;
 73;S74-23;True;Vývinová porucha intelektu;D;;;3;3;3;P;P;P;;;;;
@@ -3624,7 +3624,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 73;S73-28;False;Stupor a kóma netraumatického pôvodu;D;;2;2;2;2;P;P;P;P;;;;
 73;S73-27;False;Deformujúca dorzopatia a iné komplexné spondylopatie;D;;2;2;2;2;P;P;P;P;;;;
 73;S67-12;True;Poruchy metabolizmu;D;;2;2;2;2;P;P;P;N;;;;
-73;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;30;;
+73;S65-29;True;Iné infekcie a zápaly dýchacích orgánov I ;D;;2;2;2;2;P;P;P;P;;;;
 73;S64-20;True;Synkopa a kolaps;D;;2;2;2;2;P;P;P;P;;;;
 73;S63-35;True;Rôzne poruchy metabolizmu;D;;2;2;2;2;P;P;P;P;;;;
 73;S63-30;True;Ťažkosti, symptómy a iné anomálie I;D;;2;2;2;2;P;P;P;P;;;;
