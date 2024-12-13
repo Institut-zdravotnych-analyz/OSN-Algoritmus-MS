@@ -7524,30 +7524,30 @@ l8998;Dekubitus, stupeň bližšie neurčený: Iná oblasť dolnej končatiny;S3
 l8999;Dekubitus, stupeň bližšie neurčený: Bližšie neurčené miesto;S34-03;Kožný vred
 l97;Vred predkolenia, nezatriedený inde;S34-03;Kožný vred
 l984;Chronický vred kože, nezatriedený inde;S34-03;Kožný vred
-a660;Primárna lézia pri frambézii;S34-04;Iné ochorenia kože, podkožia a slizníc
-a661;Mnohopočetné papilómy a vlhká plazivá frambézia;S34-04;Iné ochorenia kože, podkožia a slizníc
-a670;Pinta, primárne lézie;S34-04;Iné ochorenia kože, podkožia a slizníc
-a671;Pinta, stredne pokročilé lézie;S34-04;Iné ochorenia kože, podkožia a slizníc
-a672;Pinta, neskoré lézie;S34-04;Iné ochorenia kože, podkožia a slizníc
-a673;Pinta, zmiešané lézie;S34-04;Iné ochorenia kože, podkožia a slizníc
-a679;Pinta, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+a660;Primárna lézia pri frambézii;S34-05;Iné ochorenia kože, podkožia a slizníc II
+a661;Mnohopočetné papilómy a vlhká plazivá frambézia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+a670;Pinta, primárne lézie;S34-05;Iné ochorenia kože, podkožia a slizníc II
+a671;Pinta, stredne pokročilé lézie;S34-05;Iné ochorenia kože, podkožia a slizníc II
+a672;Pinta, neskoré lézie;S34-05;Iné ochorenia kože, podkožia a slizníc II
+a673;Pinta, zmiešané lézie;S34-05;Iné ochorenia kože, podkožia a slizníc II
+a679;Pinta, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 b07;Vírusové bradavice [Verrucae];S34-04;Iné ochorenia kože, podkožia a slizníc
 b081;Kontagiózne bradavice [Molluscum contagiosum];S34-04;Iné ochorenia kože, podkožia a slizníc
-b350;Tinea barbae a tinea capitis;S34-04;Iné ochorenia kože, podkožia a slizníc
-b351;Tinea unguium;S34-04;Iné ochorenia kože, podkožia a slizníc
-b352;Tinea manuum;S34-04;Iné ochorenia kože, podkožia a slizníc
-b353;Tinea pedis;S34-04;Iné ochorenia kože, podkožia a slizníc
-b354;Tinea corporis;S34-04;Iné ochorenia kože, podkožia a slizníc
-b355;Tinea imbricata;S34-04;Iné ochorenia kože, podkožia a slizníc
-b356;Tinea cruris;S34-04;Iné ochorenia kože, podkožia a slizníc
-b358;Iná dermatofytóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-b359;Dermatofytóza, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+b350;Tinea barbae a tinea capitis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b351;Tinea unguium;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b352;Tinea manuum;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b353;Tinea pedis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b354;Tinea corporis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b355;Tinea imbricata;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b356;Tinea cruris;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b358;Iná dermatofytóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b359;Dermatofytóza, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 b360;Pityriasis versicolor;S34-04;Iné ochorenia kože, podkožia a slizníc
-b361;Tinea nigra;S34-04;Iné ochorenia kože, podkožia a slizníc
-b362;Piedra alba;S34-04;Iné ochorenia kože, podkožia a slizníc
-b363;Piedra nigra;S34-04;Iné ochorenia kože, podkožia a slizníc
-b368;Iná povrchová mykóza, bližšie určená;S34-04;Iné ochorenia kože, podkožia a slizníc
-b369;Povrchová mykóza, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+b361;Tinea nigra;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b362;Piedra alba;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b363;Piedra nigra;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b368;Iná povrchová mykóza, bližšie určená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b369;Povrchová mykóza, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 b372;Kandidóza kože a nechtov;S34-04;Iné ochorenia kože, podkožia a slizníc
 b850;Pedikulóza zapríčinená Pediculus humanus capitis;S34-04;Iné ochorenia kože, podkožia a slizníc
 b851;Pedikulóza zapríčinená Pediculus humanus corporis;S34-04;Iné ochorenia kože, podkožia a slizníc
@@ -7555,88 +7555,88 @@ b852;Pedikulóza, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a 
 b853;Ftirióza;S34-04;Iné ochorenia kože, podkožia a slizníc
 b854;Zmiešaná pedikulóza a ftirióza;S34-04;Iné ochorenia kože, podkožia a slizníc
 b86;Scabies;S34-04;Iné ochorenia kože, podkožia a slizníc
-b870;Myióza kože;S34-04;Iné ochorenia kože, podkožia a slizníc
-b880;Iná akarióza;S34-04;Iné ochorenia kože, podkožia a slizníc
-b881;Tungióza;S34-04;Iné ochorenia kože, podkožia a slizníc
-b882;Iné zamorenie článkonožcami;S34-04;Iné ochorenia kože, podkožia a slizníc
-b883;Vonkajšia hirudinóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-b889;Zamorenie bližšie neurčenými ektoparazitmi;S34-04;Iné ochorenia kože, podkožia a slizníc
-d040;Karcinóm in situ kože pery;S34-04;Iné ochorenia kože, podkožia a slizníc
-d042;Karcinóm in situ kože ucha a vonkajšieho zvukovodu;S34-04;Iné ochorenia kože, podkožia a slizníc
-d043;Karcinóm in situ kože iných a bližšie neurčených častí tváre;S34-04;Iné ochorenia kože, podkožia a slizníc
-d044;Karcinóm in situ kože vlasatej časti hlavy a krku;S34-04;Iné ochorenia kože, podkožia a slizníc
-d045;Karcinóm in situ kože trupu;S34-04;Iné ochorenia kože, podkožia a slizníc
-d046;Karcinóm in situ kože hornej končatiny vrátane pleca;S34-04;Iné ochorenia kože, podkožia a slizníc
-d047;Karcinóm in situ kože dolnej končatiny vrátane bedra;S34-04;Iné ochorenia kože, podkožia a slizníc
-d048;Karcinóm in situ kože na iných miestach;S34-04;Iné ochorenia kože, podkožia a slizníc
-d049;Karcinóm in situ kože, bližšie neurčený;S34-04;Iné ochorenia kože, podkožia a slizníc
-d170;Nezhubný lipomatózny nádor kože a podkožného tkaniva hlavy, tváre a krku;S34-04;Iné ochorenia kože, podkožia a slizníc
-d171;Nezhubný lipomatózny nádor kože a podkožného tkaniva trupu;S34-04;Iné ochorenia kože, podkožia a slizníc
-d172;Nezhubný lipomatózny nádor kože a podkožného tkaniva končatín;S34-04;Iné ochorenia kože, podkožia a slizníc
-d173;Nezhubný lipomatózny nádor kože a podkožného tkaniva na iných a bližšie neurčených miestach;S34-04;Iné ochorenia kože, podkožia a slizníc
-d177;Nezhubný lipomatózny nádor na inom mieste;S34-04;Iné ochorenia kože, podkožia a slizníc
-d179;Nezhubný lipomatózny nádor, bližšie neurčený;S34-04;Iné ochorenia kože, podkožia a slizníc
-d1800;Hemangióm bez bližšieho určenia miesta;S34-04;Iné ochorenia kože, podkožia a slizníc
-d1801;Hemangióm kože a podkožia;S34-04;Iné ochorenia kože, podkožia a slizníc
-d1808;Hemangióm na inom mieste;S34-04;Iné ochorenia kože, podkožia a slizníc
-d220;Melanocytový névus pery;S34-04;Iné ochorenia kože, podkožia a slizníc
-d222;Melanocytový névus ucha a vonkajšieho zvukovodu;S34-04;Iné ochorenia kože, podkožia a slizníc
-d223;Melanocytový névus iných a bližšie neurčených častí tváre;S34-04;Iné ochorenia kože, podkožia a slizníc
-d224;Melanocytový névus vlasovej časti hlavy a krku;S34-04;Iné ochorenia kože, podkožia a slizníc
-d225;Melanocytový névus trupu;S34-04;Iné ochorenia kože, podkožia a slizníc
-d226;Melanocytový névus hornej končatiny vrátane pleca;S34-04;Iné ochorenia kože, podkožia a slizníc
-d227;Melanocytový névus dolnej končatiny vrátane bedra;S34-04;Iné ochorenia kože, podkožia a slizníc
-d229;Melanocytový névus, bližšie neurčený;S34-04;Iné ochorenia kože, podkožia a slizníc
-d230;Iný nezhubný nádor kože pery;S34-04;Iné ochorenia kože, podkožia a slizníc
-d232;Iný nezhubný nádor kože ucha a vonkajšieho zvukovodu;S34-04;Iné ochorenia kože, podkožia a slizníc
-d233;Iný nezhubný nádor kože iných a bližšie neurčených častí tváre;S34-04;Iné ochorenia kože, podkožia a slizníc
-d234;Iný nezhubný nádor kože vlasovej časti hlavy a krku;S34-04;Iné ochorenia kože, podkožia a slizníc
-d235;Iný nezhubný nádor kože trupu;S34-04;Iné ochorenia kože, podkožia a slizníc
-d236;Iný nezhubný nádor kože hornej končatiny vrátane pleca;S34-04;Iné ochorenia kože, podkožia a slizníc
-d237;Iný nezhubný nádor kože dolnej končatiny vrátane bedra;S34-04;Iné ochorenia kože, podkožia a slizníc
-d239;Iný nezhubný nádor kože, bližšie neurčený;S34-04;Iné ochorenia kože, podkožia a slizníc
-d485;Nádor s neurčitým alebo neznámym správaním: koža;S34-04;Iné ochorenia kože, podkožia a slizníc
+b870;Myióza kože;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b880;Iná akarióza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b881;Tungióza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b882;Iné zamorenie článkonožcami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b883;Vonkajšia hirudinóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+b889;Zamorenie bližšie neurčenými ektoparazitmi;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d040;Karcinóm in situ kože pery;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d042;Karcinóm in situ kože ucha a vonkajšieho zvukovodu;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d043;Karcinóm in situ kože iných a bližšie neurčených častí tváre;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d044;Karcinóm in situ kože vlasatej časti hlavy a krku;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d045;Karcinóm in situ kože trupu;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d046;Karcinóm in situ kože hornej končatiny vrátane pleca;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d047;Karcinóm in situ kože dolnej končatiny vrátane bedra;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d048;Karcinóm in situ kože na iných miestach;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d049;Karcinóm in situ kože, bližšie neurčený;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d170;Nezhubný lipomatózny nádor kože a podkožného tkaniva hlavy, tváre a krku;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d171;Nezhubný lipomatózny nádor kože a podkožného tkaniva trupu;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d172;Nezhubný lipomatózny nádor kože a podkožného tkaniva končatín;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d173;Nezhubný lipomatózny nádor kože a podkožného tkaniva na iných a bližšie neurčených miestach;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d177;Nezhubný lipomatózny nádor na inom mieste;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d179;Nezhubný lipomatózny nádor, bližšie neurčený;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d1800;Hemangióm bez bližšieho určenia miesta;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d1801;Hemangióm kože a podkožia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d1808;Hemangióm na inom mieste;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d220;Melanocytový névus pery;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d222;Melanocytový névus ucha a vonkajšieho zvukovodu;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d223;Melanocytový névus iných a bližšie neurčených častí tváre;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d224;Melanocytový névus vlasovej časti hlavy a krku;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d225;Melanocytový névus trupu;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d226;Melanocytový névus hornej končatiny vrátane pleca;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d227;Melanocytový névus dolnej končatiny vrátane bedra;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d229;Melanocytový névus, bližšie neurčený;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d230;Iný nezhubný nádor kože pery;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d232;Iný nezhubný nádor kože ucha a vonkajšieho zvukovodu;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d233;Iný nezhubný nádor kože iných a bližšie neurčených častí tváre;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d234;Iný nezhubný nádor kože vlasovej časti hlavy a krku;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d235;Iný nezhubný nádor kože trupu;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d236;Iný nezhubný nádor kože hornej končatiny vrátane pleca;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d237;Iný nezhubný nádor kože dolnej končatiny vrátane bedra;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d239;Iný nezhubný nádor kože, bližšie neurčený;S34-05;Iné ochorenia kože, podkožia a slizníc II
+d485;Nádor s neurčitým alebo neznámym správaním: koža;S34-05;Iné ochorenia kože, podkožia a slizníc II
 h026;Xantelazma mihalnice;S34-04;Iné ochorenia kože, podkožia a slizníc
 i781;Nenádorový névus;S34-04;Iné ochorenia kože, podkožia a slizníc
 i890;Lymfedém, nezatriedený inde;S34-04;Iné ochorenia kože, podkožia a slizníc
 i972;Postmastektomický lymfedém;S34-04;Iné ochorenia kože, podkožia a slizníc
-l110;Získaná folikulová keratóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l111;Prechodná akantolytická dermatóza (Groverova);S34-04;Iné ochorenia kože, podkožia a slizníc
+l110;Získaná folikulová keratóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l111;Prechodná akantolytická dermatóza (Groverova);S34-05;Iné ochorenia kože, podkožia a slizníc II
 l210;Seborea hlavy;S34-04;Iné ochorenia kože, podkožia a slizníc
-l218;Iná seboroická dermatitída;S34-04;Iné ochorenia kože, podkožia a slizníc
-l219;Seboroická dermatitída, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l22;Plienková dermatitída;S34-04;Iné ochorenia kože, podkožia a slizníc
-l230;Alergická kontaktná dermatitída zapríčinená kovmi;S34-04;Iné ochorenia kože, podkožia a slizníc
-l231;Alergická kontaktná dermatitída zapríčinená náplasťami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l232;Alergická kontaktná dermatitída zapríčinená kozmetickými prípravkami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l233;Alergická kontaktná dermatitída zapríčinená kontaktom kože s liekmi;S34-04;Iné ochorenia kože, podkožia a slizníc
-l235;Alergická kontaktná dermatitída zapríčinená inými chemickými látkami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l236;Alergická kontaktná dermatitída zapríčinená kontaktom kože s potravinami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l237;Alergická kontaktná dermatitída zapríčinená rastlinami okrem rastlinných potravín;S34-04;Iné ochorenia kože, podkožia a slizníc
-l240;Kontaktná dermatitída z podráždenia zapríčinená čistiacimi prostriedkami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l241;Kontaktná dermatitída z podráždenia zapríčinená olejmi a tukmi;S34-04;Iné ochorenia kože, podkožia a slizníc
-l242;Kontaktná dermatitída z podráždenia zapríčinená rozpúšťadlami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l243;Kontaktná dermatitída z podráždenia zapríčinená kozmetickými prípravkami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l244;Kontaktná dermatitída z podráždenia zapríčinená kontaktom liekov s kožou;S34-04;Iné ochorenia kože, podkožia a slizníc
-l245;Kontaktná dermatitída z podráždenia zapríčinená inými chemickými látkami;S34-04;Iné ochorenia kože, podkožia a slizníc
-l246;Kontaktná dermatitída z podráždenia zapríčinená kontaktom potravy s kožou;S34-04;Iné ochorenia kože, podkožia a slizníc
-l247;Kontaktná dermatitída z podráždenia zapríčinená rastlinami okrem rastlinných potravín;S34-04;Iné ochorenia kože, podkožia a slizníc
-l250;Kontaktná dermatitída zapríčinená kozmetickými prípravkami, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l251;Kontaktná dermatitída zapríčinená kontaktom liekov s kožou, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l253;Kontaktná dermatitída zapríčinená inými chemickými látkami, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l254;Kontaktná dermatitída zapríčinená kontaktom potravy s kožou, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l255;Kontaktná dermatitída zapríčinená rastlinami okrem rastlinných potravín, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l272;Dermatitída zapríčinená požitou potravou;S34-04;Iné ochorenia kože, podkožia a slizníc
-l278;Dermatitída zapríčinená inou látkou užitou orálne, enterálne alebo parenterálne;S34-04;Iné ochorenia kože, podkožia a slizníc
-l279;Dermatitída zapríčinená bližšie neurčenou látkou užitou orálne, enterálne alebo parenterálne;S34-04;Iné ochorenia kože, podkožia a slizníc
+l218;Iná seboroická dermatitída;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l219;Seboroická dermatitída, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l22;Plienková dermatitída;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l230;Alergická kontaktná dermatitída zapríčinená kovmi;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l231;Alergická kontaktná dermatitída zapríčinená náplasťami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l232;Alergická kontaktná dermatitída zapríčinená kozmetickými prípravkami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l233;Alergická kontaktná dermatitída zapríčinená kontaktom kože s liekmi;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l235;Alergická kontaktná dermatitída zapríčinená inými chemickými látkami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l236;Alergická kontaktná dermatitída zapríčinená kontaktom kože s potravinami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l237;Alergická kontaktná dermatitída zapríčinená rastlinami okrem rastlinných potravín;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l240;Kontaktná dermatitída z podráždenia zapríčinená čistiacimi prostriedkami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l241;Kontaktná dermatitída z podráždenia zapríčinená olejmi a tukmi;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l242;Kontaktná dermatitída z podráždenia zapríčinená rozpúšťadlami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l243;Kontaktná dermatitída z podráždenia zapríčinená kozmetickými prípravkami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l244;Kontaktná dermatitída z podráždenia zapríčinená kontaktom liekov s kožou;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l245;Kontaktná dermatitída z podráždenia zapríčinená inými chemickými látkami;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l246;Kontaktná dermatitída z podráždenia zapríčinená kontaktom potravy s kožou;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l247;Kontaktná dermatitída z podráždenia zapríčinená rastlinami okrem rastlinných potravín;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l250;Kontaktná dermatitída zapríčinená kozmetickými prípravkami, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l251;Kontaktná dermatitída zapríčinená kontaktom liekov s kožou, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l253;Kontaktná dermatitída zapríčinená inými chemickými látkami, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l254;Kontaktná dermatitída zapríčinená kontaktom potravy s kožou, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l255;Kontaktná dermatitída zapríčinená rastlinami okrem rastlinných potravín, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l272;Dermatitída zapríčinená požitou potravou;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l278;Dermatitída zapríčinená inou látkou užitou orálne, enterálne alebo parenterálne;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l279;Dermatitída zapríčinená bližšie neurčenou látkou užitou orálne, enterálne alebo parenterálne;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l290;Svrbenie anusu;S34-04;Iné ochorenia kože, podkožia a slizníc
 l298;Iné svrbenie;S34-04;Iné ochorenia kože, podkožia a slizníc
 l299;Svrbenie, bližšie neurčené;S34-04;Iné ochorenia kože, podkožia a slizníc
 l305;Pityriasis alba;S34-04;Iné ochorenia kože, podkožia a slizníc
-l42;Pityriasis rosea;S34-04;Iné ochorenia kože, podkožia a slizníc
-l441;Lichen nitidus;S34-04;Iné ochorenia kože, podkožia a slizníc
-l442;Lichen striatus;S34-04;Iné ochorenia kože, podkožia a slizníc
-l443;Lichen ruber moniliformis;S34-04;Iné ochorenia kože, podkožia a slizníc
+l42;Pityriasis rosea;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l441;Lichen nitidus;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l442;Lichen striatus;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l443;Lichen ruber moniliformis;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l500;Alergická žihľavka;S34-04;Iné ochorenia kože, podkožia a slizníc
 l501;Idiopatická žihľavka;S34-04;Iné ochorenia kože, podkožia a slizníc
 l502;Žihľavka zapríčinená chladom alebo teplom;S34-04;Iné ochorenia kože, podkožia a slizníc
@@ -7647,160 +7647,160 @@ l506;Kontaktná žihľavka;S34-04;Iné ochorenia kože, podkožia a slizníc
 l508;Iná žihľavka;S34-04;Iné ochorenia kože, podkožia a slizníc
 l509;Žihľavka, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
 l550;Akútna solárna dermatitída 1. stupňa;S34-04;Iné ochorenia kože, podkožia a slizníc
-l551;Akútna solárna dermatitída 2. stupňa;S34-04;Iné ochorenia kože, podkožia a slizníc
-l552;Akútna solárna dermatitída 3. stupňa;S34-04;Iné ochorenia kože, podkožia a slizníc
-l558;Iná akútna solárna dermatitída;S34-04;Iné ochorenia kože, podkožia a slizníc
-l559;Akútna solárna dermatitída, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l560;Fototoxická lieková reakcia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l561;Fotoalergická lieková reakcia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l562;Fotokontaktná dermatitída;S34-04;Iné ochorenia kože, podkožia a slizníc
+l551;Akútna solárna dermatitída 2. stupňa;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l552;Akútna solárna dermatitída 3. stupňa;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l558;Iná akútna solárna dermatitída;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l559;Akútna solárna dermatitída, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l560;Fototoxická lieková reakcia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l561;Fotoalergická lieková reakcia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l562;Fotokontaktná dermatitída;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l563;Solárna žihľavka;S34-04;Iné ochorenia kože, podkožia a slizníc
-l564;Polymorfná svetelná dermatóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l568;Iná akútna zmena kože zapríčinená ultrafialovým žiarením, bližšie určená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l569;Akútna zmena kože zapríčinená ultrafialovým žiarením, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l570;Aktinická keratóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l572;Cutis rhomboidalis nuchae;S34-04;Iné ochorenia kože, podkožia a slizníc
-l573;Poikiloderma [Civatte];S34-04;Iné ochorenia kože, podkožia a slizníc
-l574;Cutis laxa senilis;S34-04;Iné ochorenia kože, podkožia a slizníc
-l575;Aktinický granulóm;S34-04;Iné ochorenia kože, podkožia a slizníc
-l578;Iné kožné zmeny zapríčinené chronickým vystavením účinku neionizujúceho žiarenia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l579;Kožné zmeny zapríčinené chronickým vystavením účinku neionizujúceho žiarenia, bližšie neurčené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l581;Chronická rádiodermatitída;S34-04;Iné ochorenia kože, podkožia a slizníc
+l564;Polymorfná svetelná dermatóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l568;Iná akútna zmena kože zapríčinená ultrafialovým žiarením, bližšie určená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l569;Akútna zmena kože zapríčinená ultrafialovým žiarením, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l570;Aktinická keratóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l572;Cutis rhomboidalis nuchae;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l573;Poikiloderma [Civatte];S34-05;Iné ochorenia kože, podkožia a slizníc II
+l574;Cutis laxa senilis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l575;Aktinický granulóm;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l578;Iné kožné zmeny zapríčinené chronickým vystavením účinku neionizujúceho žiarenia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l579;Kožné zmeny zapríčinené chronickým vystavením účinku neionizujúceho žiarenia, bližšie neurčené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l581;Chronická rádiodermatitída;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l590;Erytém a dermatitída zapríčinená ohňom (erythema et dermatitis ab igne);S34-04;Iné ochorenia kože, podkožia a slizníc
-l598;Iné poškodenie kože a podkožného tkaniva zapríčinené žiarením, bližšie určené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l599;Poškodenie kože a podkožného tkaniva zapríčinené žiarením, bližšie neurčené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l600;Zarastajúci necht;S34-04;Iné ochorenia kože, podkožia a slizníc
-l601;Onycholýza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l602;Onychogryfóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l603;Dystrofia nechtov;S34-04;Iné ochorenia kože, podkožia a slizníc
-l604;Beauove čiary;S34-04;Iné ochorenia kože, podkožia a slizníc
-l605;Syndróm žltých nechtov;S34-04;Iné ochorenia kože, podkožia a slizníc
-l608;Iná choroba nechtov;S34-04;Iné ochorenia kože, podkožia a slizníc
-l609;Choroba nechtov, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l630;Alopecia (capitis) totalis;S34-04;Iné ochorenia kože, podkožia a slizníc
-l631;Alopecia universalis;S34-04;Iné ochorenia kože, podkožia a slizníc
-l632;Ophiasis;S34-04;Iné ochorenia kože, podkožia a slizníc
-l638;Iná alopecia areata;S34-04;Iné ochorenia kože, podkožia a slizníc
-l639;Alopecia areata, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l640;Androgénna alopécia, zapríčinená liekmi;S34-04;Iné ochorenia kože, podkožia a slizníc
-l648;Iná androgénna alopécia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l649;Androgénna alopécia, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l650;Telogénne efluvium;S34-04;Iné ochorenia kože, podkožia a slizníc
-l651;Anagénne efluvium;S34-04;Iné ochorenia kože, podkožia a slizníc
-l652;Alopecia mucinosa;S34-04;Iné ochorenia kože, podkožia a slizníc
-l658;Iná nejazvová strata vlasov, bližšie určená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l659;Nejazvová strata vlasov, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l670;Trichorrhexis nodosa;S34-04;Iné ochorenia kože, podkožia a slizníc
-l671;Zmeny farby vlasov;S34-04;Iné ochorenia kože, podkožia a slizníc
-l678;Iná abnormalita farby vlasov a vlasového kmeňa;S34-04;Iné ochorenia kože, podkožia a slizníc
-l679;Abnormalita farby vlasov a vlasového kmeňa, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+l598;Iné poškodenie kože a podkožného tkaniva zapríčinené žiarením, bližšie určené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l599;Poškodenie kože a podkožného tkaniva zapríčinené žiarením, bližšie neurčené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l600;Zarastajúci necht;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l601;Onycholýza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l602;Onychogryfóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l603;Dystrofia nechtov;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l604;Beauove čiary;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l605;Syndróm žltých nechtov;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l608;Iná choroba nechtov;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l609;Choroba nechtov, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l630;Alopecia (capitis) totalis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l631;Alopecia universalis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l632;Ophiasis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l638;Iná alopecia areata;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l639;Alopecia areata, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l640;Androgénna alopécia, zapríčinená liekmi;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l648;Iná androgénna alopécia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l649;Androgénna alopécia, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l650;Telogénne efluvium;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l651;Anagénne efluvium;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l652;Alopecia mucinosa;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l658;Iná nejazvová strata vlasov, bližšie určená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l659;Nejazvová strata vlasov, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l670;Trichorrhexis nodosa;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l671;Zmeny farby vlasov;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l678;Iná abnormalita farby vlasov a vlasového kmeňa;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l679;Abnormalita farby vlasov a vlasového kmeňa, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l680;Hirzutizmus;S34-04;Iné ochorenia kože, podkožia a slizníc
-l681;Získaná lanugová hypertrichóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l682;Lokálna hypertrichóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l683;Polytrichia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l688;Iná hypertrichóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l689;Hypertrichóza, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+l681;Získaná lanugová hypertrichóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l682;Lokálna hypertrichóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l683;Polytrichia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l688;Iná hypertrichóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l689;Hypertrichóza, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l700;Acne vulgaris;S34-04;Iné ochorenia kože, podkožia a slizníc
-l704;Acne infantilis;S34-04;Iné ochorenia kože, podkožia a slizníc
-l705;Acne excoriée des jeunes filles;S34-04;Iné ochorenia kože, podkožia a slizníc
-l708;Iné akné;S34-04;Iné ochorenia kože, podkožia a slizníc
-l709;Akné, bližšie neurčené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l710;Periorálna dermatitída;S34-04;Iné ochorenia kože, podkožia a slizníc
-l711;Rhinophyma;S34-04;Iné ochorenia kože, podkožia a slizníc
-l718;Iná rosacea;S34-04;Iné ochorenia kože, podkožia a slizníc
-l719;Rosacea, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l720;Epidermová cysta;S34-04;Iné ochorenia kože, podkožia a slizníc
-l721;Trichilémová cysta;S34-04;Iné ochorenia kože, podkožia a slizníc
-l722;Steatocystoma multiplex;S34-04;Iné ochorenia kože, podkožia a slizníc
-l728;Iná folikulová cysta kože a podkožného tkaniva;S34-04;Iné ochorenia kože, podkožia a slizníc
-l729;Folikulová cysta kože a podkožného tkaniva, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l730;Acne keloid [folliculitis sclerotisans nuchae];S34-04;Iné ochorenia kože, podkožia a slizníc
-l731;Pseudofolliculitis barbae;S34-04;Iné ochorenia kože, podkožia a slizníc
-l738;Iná choroba vlasových folikulov, bližšie určená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l739;Choroba vlasových folikulov, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l740;Miliaria rubra;S34-04;Iné ochorenia kože, podkožia a slizníc
+l704;Acne infantilis;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l705;Acne excoriée des jeunes filles;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l708;Iné akné;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l709;Akné, bližšie neurčené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l710;Periorálna dermatitída;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l711;Rhinophyma;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l718;Iná rosacea;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l719;Rosacea, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l720;Epidermová cysta;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l721;Trichilémová cysta;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l722;Steatocystoma multiplex;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l728;Iná folikulová cysta kože a podkožného tkaniva;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l729;Folikulová cysta kože a podkožného tkaniva, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l730;Acne keloid [folliculitis sclerotisans nuchae];S34-05;Iné ochorenia kože, podkožia a slizníc II
+l731;Pseudofolliculitis barbae;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l738;Iná choroba vlasových folikulov, bližšie určená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l739;Choroba vlasových folikulov, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l740;Miliaria rubra;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l741;Miliaria crystallina;S34-04;Iné ochorenia kože, podkožia a slizníc
-l742;Miliaria profunda;S34-04;Iné ochorenia kože, podkožia a slizníc
-l743;Miliaria, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l744;Anhidróza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l748;Iná choroba ekrinných potných žliaz;S34-04;Iné ochorenia kože, podkožia a slizníc
-l749;Choroba ekrinných potných žliaz, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l750;Brómhidróza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l751;Chrómhidróza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l752;Apokrinná miliaria;S34-04;Iné ochorenia kože, podkožia a slizníc
-l758;Iné choroby apokrinných potných žliaz;S34-04;Iné ochorenia kože, podkožia a slizníc
-l759;Choroba apokrinných potných žliaz, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l80;Vitiligo;S34-04;Iné ochorenia kože, podkožia a slizníc
-l810;Pozápalová hyperpigmentácia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l811;Chloazma;S34-04;Iné ochorenia kože, podkožia a slizníc
+l742;Miliaria profunda;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l743;Miliaria, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l744;Anhidróza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l748;Iná choroba ekrinných potných žliaz;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l749;Choroba ekrinných potných žliaz, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l750;Brómhidróza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l751;Chrómhidróza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l752;Apokrinná miliaria;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l758;Iné choroby apokrinných potných žliaz;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l759;Choroba apokrinných potných žliaz, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l80;Vitiligo;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l810;Pozápalová hyperpigmentácia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l811;Chloazma;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l812;Pehy;S34-04;Iné ochorenia kože, podkožia a slizníc
 l813;Škvrny farby bielej kávy [café au lait];S34-04;Iné ochorenia kože, podkožia a slizníc
-l814;Iná melanínová hyperpigmentácia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l815;Leukoderma, nezatriedená inde;S34-04;Iné ochorenia kože, podkožia a slizníc
-l816;Iná porucha zo zníženej tvorby melanínu;S34-04;Iné ochorenia kože, podkožia a slizníc
+l814;Iná melanínová hyperpigmentácia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l815;Leukoderma, nezatriedená inde;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l816;Iná porucha zo zníženej tvorby melanínu;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l817;Pigmentová purpura;S34-04;Iné ochorenia kože, podkožia a slizníc
-l818;Iné poruchy pigmentácie, bližšie určené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l819;Porucha pigmentácie, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+l818;Iné poruchy pigmentácie, bližšie určené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l819;Porucha pigmentácie, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l82;Seboroická keratóza;S34-04;Iné ochorenia kože, podkožia a slizníc
 l84;Kurie oko a mozoľ;S34-04;Iné ochorenia kože, podkožia a slizníc
-l850;Získaná ichtyóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-l851;Získaná keratóza (keratoderma) dlaní a chodidiel;S34-04;Iné ochorenia kože, podkožia a slizníc
-l852;Keratosis punctata dlaní a chodidiel;S34-04;Iné ochorenia kože, podkožia a slizníc
+l850;Získaná ichtyóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l851;Získaná keratóza (keratoderma) dlaní a chodidiel;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l852;Keratosis punctata dlaní a chodidiel;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l853;Xerosis cutis;S34-04;Iné ochorenia kože, podkožia a slizníc
-l858;Iné zhrubnutie epidermy, bližšie určené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l859;Zhrubnutie epidermy, bližšie neurčené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l870;Folikulová a parafolikulová keratóza prenikajúca do kože [Kyrleova];S34-04;Iné ochorenia kože, podkožia a slizníc
-l872;Elastosis perforans serpiginosa;S34-04;Iné ochorenia kože, podkožia a slizníc
-l878;Iné poruchy transepidermálnej eliminácie;S34-04;Iné ochorenia kože, podkožia a slizníc
-l879;Choroba transepidermálnej eliminácie, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l900;Lichen sclerosus et atrophicus;S34-04;Iné ochorenia kože, podkožia a slizníc
-l901;Anetodermia, Schweningerov-Buzziho typ;S34-04;Iné ochorenia kože, podkožia a slizníc
-l902;Anetodermia, Jadassohnov-Pellizzariho typ;S34-04;Iné ochorenia kože, podkožia a slizníc
-l903;Idiopatická atrophodermia, Pasiniho-Pieriniho typ;S34-04;Iné ochorenia kože, podkožia a slizníc
-l904;Acrodermatitis chronica atrophicans;S34-04;Iné ochorenia kože, podkožia a slizníc
+l858;Iné zhrubnutie epidermy, bližšie určené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l859;Zhrubnutie epidermy, bližšie neurčené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l870;Folikulová a parafolikulová keratóza prenikajúca do kože [Kyrleova];S34-05;Iné ochorenia kože, podkožia a slizníc II
+l872;Elastosis perforans serpiginosa;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l878;Iné poruchy transepidermálnej eliminácie;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l879;Choroba transepidermálnej eliminácie, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l900;Lichen sclerosus et atrophicus;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l901;Anetodermia, Schweningerov-Buzziho typ;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l902;Anetodermia, Jadassohnov-Pellizzariho typ;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l903;Idiopatická atrophodermia, Pasiniho-Pieriniho typ;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l904;Acrodermatitis chronica atrophicans;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l905;Jazvové stavy a fibróza kože;S34-04;Iné ochorenia kože, podkožia a slizníc
 l906;Striae cutis atrophicae;S34-04;Iné ochorenia kože, podkožia a slizníc
-l908;Iná atrofická choroba kože;S34-04;Iné ochorenia kože, podkožia a slizníc
-l909;Atrofická choroba kože, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+l908;Iná atrofická choroba kože;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l909;Atrofická choroba kože, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 l910;Hypertrofická jazva (keloid);S34-04;Iné ochorenia kože, podkožia a slizníc
-l918;Iná hypertrofická choroba kože;S34-04;Iné ochorenia kože, podkožia a slizníc
-l919;Hypertrofická choroba kože, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l921;Necrobiosis lipoidica, nezatriedená inde;S34-04;Iné ochorenia kože, podkožia a slizníc
-l922;Granuloma faciale (eozinofilný granulóm kože);S34-04;Iné ochorenia kože, podkožia a slizníc
-l923;Kožný a podkožný granulóm okolo cudzích telies;S34-04;Iné ochorenia kože, podkožia a slizníc
-l928;Iná granulomatózna choroba kože a podkožného tkaniva;S34-04;Iné ochorenia kože, podkožia a slizníc
-l929;Granulomatózna choroba kože a podkožného tkaniva, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l943;Sklerodaktýlia;S34-04;Iné ochorenia kože, podkožia a slizníc
-l948;Iné lokalizované choroby spojivového tkaniva, bližšie určené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l949;Lokalizovaná choroba spojivového tkaniva, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-l985;Mucinóza kože;S34-04;Iné ochorenia kože, podkožia a slizníc
-l986;Iné infiltratívne choroby kože a podkožného tkaniva;S34-04;Iné ochorenia kože, podkožia a slizníc
-l988;Iná choroby kože a podkožného tkaniva, bližšie určené;S34-04;Iné ochorenia kože, podkožia a slizníc
-l989;Choroba kože a podkožného tkaniva, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-p831;Novorodenecký toxický erytém;S34-04;Iné ochorenia kože, podkožia a slizníc
-p836;Pupkový polyp u novorodenca;S34-04;Iné ochorenia kože, podkožia a slizníc
-p838;Iná bližšie určená choroba kože špecifická pre plod a novorodenca;S34-04;Iné ochorenia kože, podkožia a slizníc
-p839;Porucha kože špecifická pre plod a novorodenca, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+l918;Iná hypertrofická choroba kože;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l919;Hypertrofická choroba kože, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l921;Necrobiosis lipoidica, nezatriedená inde;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l922;Granuloma faciale (eozinofilný granulóm kože);S34-05;Iné ochorenia kože, podkožia a slizníc II
+l923;Kožný a podkožný granulóm okolo cudzích telies;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l928;Iná granulomatózna choroba kože a podkožného tkaniva;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l929;Granulomatózna choroba kože a podkožného tkaniva, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l943;Sklerodaktýlia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l948;Iné lokalizované choroby spojivového tkaniva, bližšie určené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l949;Lokalizovaná choroba spojivového tkaniva, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l985;Mucinóza kože;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l986;Iné infiltratívne choroby kože a podkožného tkaniva;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l988;Iná choroby kože a podkožného tkaniva, bližšie určené;S34-05;Iné ochorenia kože, podkožia a slizníc II
+l989;Choroba kože a podkožného tkaniva, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+p831;Novorodenecký toxický erytém;S34-05;Iné ochorenia kože, podkožia a slizníc II
+p836;Pupkový polyp u novorodenca;S34-05;Iné ochorenia kože, podkožia a slizníc II
+p838;Iná bližšie určená choroba kože špecifická pre plod a novorodenca;S34-05;Iné ochorenia kože, podkožia a slizníc II
+p839;Porucha kože špecifická pre plod a novorodenca, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 q183;Kožná riasa šije [Pterygium colli];S34-04;Iné ochorenia kože, podkožia a slizníc
-q810;Jednoduchá bulózna epidermolýza;S34-04;Iné ochorenia kože, podkožia a slizníc
-q818;Iná bulózna epidermolýza;S34-04;Iné ochorenia kože, podkožia a slizníc
-q819;Bulózna epidermolýza, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+q810;Jednoduchá bulózna epidermolýza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q818;Iná bulózna epidermolýza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q819;Bulózna epidermolýza, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 q820;Dedičný lymfedém;S34-04;Iné ochorenia kože, podkožia a slizníc
-q822;Mastocytóza;S34-04;Iné ochorenia kože, podkožia a slizníc
-q823;Incontinentia pigmenti;S34-04;Iné ochorenia kože, podkožia a slizníc
-q824;Ektodermálna dysplázia (anhidrotická);S34-04;Iné ochorenia kože, podkožia a slizníc
+q822;Mastocytóza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q823;Incontinentia pigmenti;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q824;Ektodermálna dysplázia (anhidrotická);S34-05;Iné ochorenia kože, podkožia a slizníc II
 q825;Vrodený nenádorový névus;S34-04;Iné ochorenia kože, podkožia a slizníc
-q828;Iná vrodená chyba kože, bližšie určená;S34-04;Iné ochorenia kože, podkožia a slizníc
-q829;Vrodená chyba kože, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-q840;Vrodená alopécia;S34-04;Iné ochorenia kože, podkožia a slizníc
-q841;Vrodené morfologické zmeny vlasov, nezatriedené inde;S34-04;Iné ochorenia kože, podkožia a slizníc
-q842;Iná vrodená chyba vlasov;S34-04;Iné ochorenia kože, podkožia a slizníc
-q843;Anonychia;S34-04;Iné ochorenia kože, podkožia a slizníc
-q844;Vrodená leukonychia;S34-04;Iné ochorenia kože, podkožia a slizníc
-q845;Zväčšené a hypertrofické nechty;S34-04;Iné ochorenia kože, podkožia a slizníc
-q846;Iná vrodená chyba nechtov;S34-04;Iné ochorenia kože, podkožia a slizníc
-q848;Iná vrodená chyba spoločnej (kožnej) pokrývky,bližšie určená;S34-04;Iné ochorenia kože, podkožia a slizníc
-q849;Vrodená chyba spoločnej (kožnej) pokrývky, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+q828;Iná vrodená chyba kože, bližšie určená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q829;Vrodená chyba kože, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q840;Vrodená alopécia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q841;Vrodené morfologické zmeny vlasov, nezatriedené inde;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q842;Iná vrodená chyba vlasov;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q843;Anonychia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q844;Vrodená leukonychia;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q845;Zväčšené a hypertrofické nechty;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q846;Iná vrodená chyba nechtov;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q848;Iná vrodená chyba spoločnej (kožnej) pokrývky,bližšie určená;S34-05;Iné ochorenia kože, podkožia a slizníc II
+q849;Vrodená chyba spoločnej (kožnej) pokrývky, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 r21;Raš a iné nešpecifické kožné vyrážky;S34-04;Iné ochorenia kože, podkožia a slizníc
 r220;Lokalizované zdurenie, útvar, hrča na hlave;S34-04;Iné ochorenia kože, podkožia a slizníc
 r221;Lokalizované zdurenie, útvar, hrča na krku;S34-04;Iné ochorenia kože, podkožia a slizníc
@@ -7809,11 +7809,11 @@ r223;Lokalizované zdurenie, útvar, hrča na hornej končatine;S34-04;Iné ocho
 r224;Lokalizované zdurenie, útvar, hrča na dolnej končatine;S34-04;Iné ochorenia kože, podkožia a slizníc
 r227;Lokalizované zdurenie, útvar, hrča na viacerých miestach;S34-04;Iné ochorenia kože, podkožia a slizníc
 r229;Lokalizované zdurenie, útvar, hrča, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
-r234;Zmeny štruktúry kože;S34-04;Iné ochorenia kože, podkožia a slizníc
-r238;Iné a bližšie neurčené zmeny kože;S34-04;Iné ochorenia kože, podkožia a slizníc
-r610;Lokalizovaná hyperhidróza;S34-04;Iné ochorenia kože, podkožia a slizníc
-r611;Generalizovaná hyperhidróza;S34-04;Iné ochorenia kože, podkožia a slizníc
-r619;Hyperhidróza, bližšie neurčená;S34-04;Iné ochorenia kože, podkožia a slizníc
+r234;Zmeny štruktúry kože;S34-05;Iné ochorenia kože, podkožia a slizníc II
+r238;Iné a bližšie neurčené zmeny kože;S34-05;Iné ochorenia kože, podkožia a slizníc II
+r610;Lokalizovaná hyperhidróza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+r611;Generalizovaná hyperhidróza;S34-05;Iné ochorenia kože, podkožia a slizníc II
+r619;Hyperhidróza, bližšie neurčená;S34-05;Iné ochorenia kože, podkožia a slizníc II
 s0002;Povrchové poranenie vlasatej kože hlavy: tvorba pľuzgierov (netermických);S34-04;Iné ochorenia kože, podkožia a slizníc
 s0003;Povrchové poranenie vlasatej kože hlavy: uštipnutie hmyzom alebo vpich (nejedovatý);S34-04;Iné ochorenia kože, podkožia a slizníc
 s0032;Povrchové poranenie nosa: tvorba pľuzgierov (netermických);S34-04;Iné ochorenia kože, podkožia a slizníc
