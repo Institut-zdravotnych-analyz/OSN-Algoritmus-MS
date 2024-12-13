@@ -1,9 +1,9 @@
 Príloha č. 3
 k vyhláške č. 531/2023 Z. z.
-Špeciálne personálne zabezpečenie, špeciálne materiálno-technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb
+Špeciálne personálne zabezpečenie, špeciálne materiálno-technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb
 Špeciálne personálne zabezpečenie, špeciálne materiálno-technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb - všeobecne
 
-Špeciálne materiálno-technické vybavenie pre nemocnicu zaradenú do siete kategorizovaných nemocníc je  
+Špeciálne materiálno-technické vybavenie pre nemocnicu zaradenú do siete kategorizovaných nemocníc je  
 resuscitačný vozík obsahujúci automatický externý defibrilátor, špeciálny zdravotnícky materiál a lieky pre potreby rozšírenej neodkladnej resuscitácie, ktorý je k dispozícii na rýchly prístup na každej funkčnej jednotke; za funkčnú jednotku sa považuje poschodie alebo operačný trakt, 
 transportný ventilátor.
 
@@ -838,9 +838,7 @@ vysokoenergeticý elektrokoagulačný prístroj,
 mechanické akcesóriá,
 peroperačné RTG.
 
-Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
-dostupné endoskopické služby do 24 hodín,
-peroperačná histológia v mieste výkonu.
+Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú dostupné endoskopické služby. 
 
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore gastroenterologická chirurgia.
@@ -852,10 +850,10 @@ peroperačné RTG.
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
 dostupné endoskopické služby do 24 hodín,
-peroperačná histológia v mieste výkonu.
+peroperačná histológia.
 
 Program III. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odboregastroenterologická chirurgia.
+Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore gastroenterologická chirurgia.
 
 Špeciálne materiálno-technické vybavenie je
 vysokoenergeticý elektrokoagulačný prístroj,
@@ -876,7 +874,7 @@ vysokoenergeticý elektrokoagulačný prístroj,
 mechanické akcesóriá,
 peroperačné RTG,
 peroperačné USG,
-robotická chirurgia.
+robotická chirurgia, lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2030.
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
 nepretržitá dostupnosť endoskopických služieb, 
@@ -3159,7 +3157,7 @@ gastroenterológia alebo  hepatológia,
 Špeciálne materiálno-technické vybavenie pre úsek hepatológie je USG prístroj strednej triedy.
 
 Špeciálne materiálno-technické vybavenie pre úsek gastroenterológie je 
-dve endoskopické veže,
+jedna endoskopická veža,
 dva prístroje na hornú a dolnú endoskopiu,
 dve koagulačné jednotky, 
 akcesóriá na zastavenie krvácania (ihly, klipy, prášok, koagulačné sondy), 
@@ -5495,9 +5493,10 @@ optika.
 54	Program stomato-maxilo-faciálnej chirurgie pre deti 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je
-lekár so špecializáciou v špecializačnom odbore maxilofaciálna chirurgia, 
 lekár so špecializáciou v špecializačnom odbore pediatria,
 zubný lekár.
+
+Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby lekára so špecializáciou v špecializačnom odbore maxilofaciálna chirurgia v nemocnici.
 
 Špeciálne materiálno-technické vybavenie je
 sety na dentoalveolárnu chirurgiu, 
@@ -6833,7 +6832,7 @@ glukomer.
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
 pediatrická endokrinológia a diabetológia, poruchy látkovej premeny a výživy, 
-rádiológia.
+rádiológia v nemocnici.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Diabetes Mellitus s aspoň čiastočným úväzkom je lekár so špecializáciou v špecializačnom odbore
  pediatrická endokrinológia a diabetológia, poruchy látkovej premeny a výživy, 
