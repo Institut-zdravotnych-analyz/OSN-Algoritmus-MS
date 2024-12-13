@@ -20396,3 +20396,40 @@ ka9732;Terapeutická injekcia do okohybného svalu;S62-32;Terapeutické podanie 
 8f60624;Perkutánna liečba herniácie medzistavcovej platničky pomocou mechanickej ablácie pod CT kontrolou;S24-07;Nevaskulárna intervenčná rádiológia VI (iné nevaskulárne intervenčné výkony)
 8f60625;Perkutánna liečba herniácie medzistavcovej platničky pomocou mechanickej ablácie pod skiaskopickou kontrolou;S24-07;Nevaskulárna intervenčná rádiológia VI (iné nevaskulárne intervenčné výkony)
 5t414h;Artroskopická elektrotermická denervácia synovie a tkaniva kĺbneho púzdra kolenného kĺbu;S56-56;Iné artroskopické výkony
+5t0911;Dočasná epifyzeodéza proximálneho humeru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0913;Dočasná epifyzeodéza distálneho humeru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0914;Dočasná epifyzeodéza proximálneho radia;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0916;Dočasná epifyzeodéza distálneho radia;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0917;Dočasná epifyzeodéza  proximálnej ulny;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0919;Dočasná epifyzeodéza distálnej ulny;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091b;Dočasná epifyzeodéza metakarpálnych kostí;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091c;Dočasná epifyzeodéza falangov prstov ruky;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091f;Dočasná epifyzeodéza proximálneho femuru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091h;Dočasná epifyzeodéza distálneho femuru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091k;Dočasná epifyzeodéza proximálnej tibie;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091n;Dočasná epifyzeodéza distálnej tibie;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091p;Dočasná epifyzeodéza  proximálnej fibuly;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091r;Dočasná epifyzeodéza distálnej fibuly;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091s;Dočasná epifyzeodéza talu;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091t;Dočasná epifyzeodéza kalkanea;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091v;Dočasná epifyzeodéza metatarzálnych kostí;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t091w;Dočasná epifyzeodéza falangov prstov nohy;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0921;Stála epifyzeodéza proximálneho humeru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0923;Stála epifyzeodéza distálneho humeru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0924;Stála epifyzeodéza proximálneho radia;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0926;Stála epifyzeodéza distálneho radia;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0927;Stála epifyzeodéza  proximálnej ulny;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t0929;Stála epifyzeodéza distálnej ulny;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092b;Stála epifyzeodéza metakarpálnych kostí;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092c;Stála epifyzeodéza falangov prstov ruky;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092f;Stála epifyzeodéza proximálneho femuru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092h;Stála epifyzeodéza distálneho femuru;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092k;Stála epifyzeodéza proximálnej tibie;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092n;Stála epifyzeodéza distálnej tibie;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092p;Stála epifyzeodéza  proximálnej fibuly;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092r;Stála epifyzeodéza distálnej fibuly;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092s;Stála epifyzeodéza talu;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092t;Stála epifyzeodéza kalkanea;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092u;Stála epifyzeodéza tarzálnych kostí;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092v;Stála epifyzeodéza metatarzálnych kostí;S56-55;Operačné výkony na kostiach a kĺboch ruky
+5t092w;Stála epifyzeodéza falangov prstov nohy;S56-55;Operačné výkony na kostiach a kĺboch ruky
