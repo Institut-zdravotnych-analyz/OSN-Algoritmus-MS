@@ -2154,6 +2154,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 50;S64-21;True;Arytmia a poruchy vedenia vzruchov;D;;2;2;2;2;P;P;P;P;;;;
 50;S64-20;True;Synkopa a kolaps;D;;2;2;2;2;P;P;P;P;;;;
 50;S64-19;True;Zastavenie srdca;D;;2;2;2;2;P;P;P;P;;;;
+50;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 50;S63-37;True;Následky lekárskej starostlivosti;D;;2;2;2;2;P;P;P;P;;;;
 50;S63-36;True;Anafylaktický šok;D;;2;2;2;2;P;P;P;P;;;;
 50;S63-34;True;Šok;D;;2;2;2;2;P;P;P;P;;;;
@@ -2627,6 +2628,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 54;S73-37;True;Ochorenia mozgových a periférnych nervov;D;;2;2;2;2;P;P;P;P;;;;
 54;S73-32;True;Infekcia nervového systému;D;;2;2;2;2;P;P;P;P;;;;
 54;S64-28;True;Iné ochorenia obehového systému;D;;2;2;2;2;P;P;P;P;;;;
+54;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 54;S63-38;True;Pozorovanie pri podozrení na chorobu alebo po výkone;D;;2;2;2;2;P;P;P;P;;;;
 54;S63-25;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi I;D;;2;2;2;2;P;P;P;P;;;;
 54;S52-59;True;Stredne ťažké poranenia pohybového systému;D;;2;2;2;2;P;P;N;N;;;;
@@ -2891,6 +2893,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 59;S68-36;True;Hematúria;D;;2;2;2;2;P;P;P;P;;;;
 59;S68-34;True;Infekcie močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
 59;S68-28;True;Ochorenia a poruchy močových orgánov II;D;;2;2;2;2;P;P;P;P;;;;
+59;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 59;S63-30;True;Ťažkosti, symptómy a iné anomálie I;D;;2;2;2;2;P;P;P;P;;;;
 59;S59-58;False;Jednoduché výkony na vonkajšom genitále;V;;1;1;1;1;P;P;P;N;N;;;
 60;S60-10;False;Výkony pri endometrióze IV;V;;4;4;4;4;P;P;;;;;;
@@ -2939,6 +2942,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 61;S61-01;False;Závažné ochorenia kože;D;;4;4;4;4;P;P;;;;;400*7;
 61;S51-74;True;Revízia operačnej rany;V;;4;3;2;1;P;P;N;N;N;;;
 61;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
+61;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 62;S62-06;False;Komplexné výkony na slznej žľaze alebo slzných cestách (c);V;;5;5;5;5;P;;;;;;;
 62;S62-05;False;Vysoko komplexné výkony na orbite alebo bulbe (c);V;;5;5;5;5;P;;;;;;;
 62;S62-04;False;Komplexné výkony v zadnom segmente oka (b) ;V;;5;5;5;5;P;;;;;;;
@@ -3033,6 +3037,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 63;S63-22;False;Hospitalizácia novorodenca;D;;3;;;;P;P;P;;;;;
 63;S63-08;False;Hospitalizacia novorodenca II;D;;3;;;;P;P;P;;;;;
 63;S74-19;True;Poruchy príjmu potravy;D;;;3;3;3;P;P;P;;;;;
+63;S63-41;False;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 63;S63-38;False;Pozorovanie pri podozrení na chorobu alebo po výkone;D;;2;2;2;2;P;P;P;P;;;;
 63;S63-37;False;Následky lekárskej starostlivosti;D;;2;2;2;2;P;P;P;P;;;;
 63;S63-36;False;Anafylaktický šok;D;;2;2;2;2;P;P;P;P;;;;
@@ -3203,6 +3208,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 65;S71-08;True;Iné infekčné ochorenia;D;;2;2;2;2;P;P;P;P;;;;
 65;S64-25;True;Bolesť na hrudníku;D;;2;2;2;2;P;P;P;P;;;;
 65;S64-22;True;Insuficiencia srdca a šok;D;;2;2;2;2;P;P;P;P;;;;
+65;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 65;S63-32;True;Ťažkosti, symptómy a iné anomálie I ;D;;2;2;2;2;P;P;P;P;;;;
 65;S52-59;True;Stredne ťažké poranenia pohybového systému;D;;2;2;2;2;P;P;N;N;;;;
 65;S50-16;True;HIFLOW umelá ventilácia pľúc;V;;2;2;2;2;N;P;P;P;;;;
@@ -3267,6 +3273,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 66;S66-46;False;Iné ochorenia GIT I;D;;2;2;2;2;P;P;P;P;;;;
 66;S66-45;False;Ochorenia pažeráka I;D;;2;2;2;2;P;P;P;P;;;;
 66;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
+66;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 66;S63-30;True;Ťažkosti, symptómy a iné anomálie I;D;;2;2;2;2;P;P;P;P;;;;
 67;S67-01;False;Vybrané poruchy sexuálnej diferenciácie;D;;5;5;5;5;P;;;;;;;
 67;S67-06;False;Komplexná liečba diabetes mellitus a iných ochorení;V;;4;4;4;4;P;P;;;;;;
@@ -3390,6 +3397,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 69;S64-28;True;Iné ochorenia obehového systému;D;;2;2;2;2;P;P;P;P;;;;
 69;S64-26;True;Periférne ochorenia ciev;D;;2;2;2;2;P;P;P;P;;;;
 69;S64-24;True;Ochorenia srdcových chlopní;D;;2;2;2;2;P;P;P;P;;;;
+69;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 69;S63-26;True;Ochorenia kostí a pohybového systému I;D;;2;2;2;2;P;P;P;P;;;;
 69;S63-25;True;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi I;D;;2;2;2;2;P;P;P;P;;;;
 70;S70-09;False;Darca kostnej drene a kmeňových buniek;D;;5;5;5;5;P;;;;;;;
@@ -3504,6 +3512,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 71;S65-28;True;Bronchitída a iné akútne infekcie DDC;D;;2;2;2;2;P;P;P;P;;;;
 71;S65-27;True;Zápal pľúc;D;;2;2;2;2;P;P;P;P;;;;
 71;S64-28;True;Iné ochorenia obehového systému;D;;2;2;2;2;P;P;P;P;;;;
+71;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 71;S63-24;True;Infekčná gastroenteritída I;D;;2;2;2;2;P;P;P;P;;;;
 71;S63-23;True;Iné infekčné ochorenia GIT;D;;2;2;2;2;P;P;P;P;;;;
 72;S72-04;False;Závažná protilátková porucha imunity;D;;4;4;4;4;P;P;;;;;;
@@ -3537,6 +3546,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 72;S73-42;True;Cerebelárna ataxia;D;;2;2;2;2;P;P;P;P;;;;
 72;S70-59;True;Poruchy leukocytov a iné  hematologické ochorenia II;D;;2;2;2;2;P;P;P;P;;;;
 72;S65-26;True;Astma bronchiale;D;;2;2;2;2;P;P;P;P;;;;
+72;S63-41;True;Ochorenia kože, podkožia a slizníc;D;;2;2;2;2;P;P;P;N;;;;
 72;S63-36;True;Anafylaktický šok;D;;2;2;2;2;P;P;P;P;;;;
 73;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;;;
 73;S73-10;False;Iné ochorenia NS III;VD;;4;4;4;4;P;P;;;;;;
