@@ -412,8 +412,8 @@ a984;Choroba zapríčinená vírusom Ebola;S71-01;Vysokonákazlivé ochorenia BS
 a985;Hemoragická horúčka s renálnym syndrómom;S68-32;Infekcie močových orgánov III
 a988;Iná vírusová hemoragická horúčka, bližšie určená;S71-01;Vysokonákazlivé ochorenia BSL03-04
 a99;Vírusová hemoragická horúčka, bližšie neurčená;S71-01;Vysokonákazlivé ochorenia BSL03-04
-b000;Herpetický ekzém;S61-01;Závažné ochorenia kože
-b001;Herpetická vezikulárna dermatitída;S61-02;Infekcia/zápal kože a podkožia
+b000;Herpetický ekzém;S63-41;Ochorenia kože, podkožia a slizníc
+b001;Herpetická vezikulárna dermatitída;S63-41;Ochorenia kože, podkožia a slizníc
 b002;Herpetická gingivostomatitída a tonzilofaryngitída;S54-06;Ochorenia zubov a dutiny ústnej
 b003;Herpetická meningitída (G02.0*);S73-32;Infekcia nervového systému
 b004;Herpetická encefalitída (G05.1*);S73-32;Infekcia nervového systému
@@ -432,7 +432,7 @@ b022;Zoster s postihnutím iných častí nervovej sústavy;S73-32;Infekcia nerv
 b023;Zosterová choroba oka;S62-43;Infekcie a zápaly oka a očných adnexov
 b027;Diseminovaný zoster;S71-09;Iné vírusové ochorenia
 b028;Zoster s inými komplikáciami;S61-02;Infekcia/zápal kože a podkožia
-b029;Zoster bez komplikácií;S61-02;Infekcia/zápal kože a podkožia
+b029;Zoster bez komplikácií;S63-41;Ochorenia kože, podkožia a slizníc
 b03;Kiahne [Variola];S71-09;Iné vírusové ochorenia
 b04;Opičie kiahne;S71-09;Iné vírusové ochorenia
 b050;Osýpky komplikované encefalitídou (G05.1*);S73-32;Infekcia nervového systému
@@ -452,8 +452,8 @@ b082;Exanthema subitum [Šiesta choroba];S71-09;Iné vírusové ochorenia
 b083;Erythema infectiosum [Piata choroba];S71-09;Iné vírusové ochorenia
 b084;Enterovírusová vezikulárna stomatitída s exantémom;S61-02;Infekcia/zápal kože a podkožia
 b085;Enterovírusová vezikulárna faryngitída;S63-40;Zápal stredného ucha alebo infekcia horných dýchacích ciest
-b088;Iná vírusová infekcia charakterizovaná postihnutím kože a slizníc, bližšie určená;S61-02;Infekcia/zápal kože a podkožia
-b09;Vírusová infekcia charakterizovaná postihnutím kože a slizníc, bližšie neurčená;S61-02;Infekcia/zápal kože a podkožia
+b088;Iná vírusová infekcia charakterizovaná postihnutím kože a slizníc, bližšie určená;S63-41;Ochorenia kože, podkožia a slizníc
+b09;Vírusová infekcia charakterizovaná postihnutím kože a slizníc, bližšie neurčená;S63-41;Ochorenia kože, podkožia a slizníc
 b150;Akútna hepatitída A s pečeňovou kómou;S66-11;Ochorenia pečene III
 b159;Akútna hepatitída A bez pečeňovej kómy;S66-36;Ochorenia pečene II
 b160;Akútna hepatitída B s Delta vírusom (koinfekcia), s pečeňovou kómou;S66-11;Ochorenia pečene III
@@ -742,7 +742,7 @@ b851;Pedikulóza zapríčinená Pediculus humanus corporis;S61-04;Iné ochorenia
 b852;Pedikulóza, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
 b853;Ftirióza;S61-04;Iné ochorenia kože, podkožia a slizníc
 b854;Zmiešaná pedikulóza a ftirióza;S61-04;Iné ochorenia kože, podkožia a slizníc
-b86;Scabies;S61-04;Iné ochorenia kože, podkožia a slizníc
+b86;Scabies;S63-41;Ochorenia kože, podkožia a slizníc
 b870;Myióza kože;S61-04;Iné ochorenia kože, podkožia a slizníc
 b872;Myióza oka;S62-48;Iné ochorenia oka a očných adnexov
 b880;Iná akarióza;S61-04;Iné ochorenia kože, podkožia a slizníc
@@ -1383,7 +1383,7 @@ d176;Nezhubný lipomatózny nádor semenného povrazca;S59-55;Iné ochorenia mu�
 d177;Nezhubný lipomatózny nádor na inom mieste;S61-04;Iné ochorenia kože, podkožia a slizníc
 d179;Nezhubný lipomatózny nádor, bližšie neurčený;S61-04;Iné ochorenia kože, podkožia a slizníc
 d1800;Hemangióm bez bližšieho určenia miesta;S61-04;Iné ochorenia kože, podkožia a slizníc
-d1801;Hemangióm kože a podkožia;S61-04;Iné ochorenia kože, podkožia a slizníc
+d1801;Hemangióm kože a podkožia;S63-41;Ochorenia kože, podkožia a slizníc
 d1802;Hemangióm intrakraniálny;S73-34;Iné ochorenia NS
 d1803;Hemangióm hepatobiliárneho systému a pankreasu;S66-26;Ochorenia pečene IV
 d1804;Hemangióm tráviacej sústavy;S66-24;Iné ochorenia GIT IV
@@ -4332,25 +4332,25 @@ k921;Meléna;S66-23;Gastrointestinálne krvácanie I
 k922;Gastrointestinálne krvácanie, bližšie neurčené;S66-23;Gastrointestinálne krvácanie I
 k928;Iné choroby tráviacej sústavy, bližšie určené;S66-34;Iné ochorenia GIT II
 k929;Choroba tráviacej sústavy, bližšie neurčená;S66-34;Iné ochorenia GIT II
-l000;Syndróm obarenej kože zapríčinený stafylokokmi, s postihnutím menej ako 30 % povrchu tela;S61-01;Závažné ochorenia kože
+l000;Syndróm obarenej kože zapríčinený stafylokokmi, s postihnutím menej ako 30 % povrchu tela;S63-41;Ochorenia kože, podkožia a slizníc
 l001;Syndróm obarenej kože zapríčinený stafylokokmi, s postihnutím 30 % povrchu tela a viac;S61-01;Závažné ochorenia kože
-l010;Kontaktné impetigo akejkoľvek lokalizácie zapríčinené ktorýmkoľvek organizmom;S61-02;Infekcia/zápal kože a podkožia
-l011;Sekundárna impetiginizácia inej choroby kože;S61-02;Infekcia/zápal kože a podkožia
-l020;Kožný absces, furunkul a karbunkul tváre;S61-02;Infekcia/zápal kože a podkožia
-l021;Kožný absces, furunkul a karbunkul krku;S61-02;Infekcia/zápal kože a podkožia
-l022;Kožný absces, furunkul a karbunkul trupu;S61-02;Infekcia/zápal kože a podkožia
-l023;Kožný absces, furunkul a karbunkul zadku;S61-02;Infekcia/zápal kože a podkožia
-l024;Kožný absces, furunkul a karbunkul končatiny;S61-02;Infekcia/zápal kože a podkožia
-l028;Kožný absces, furunkul a karbunkul na inom mieste;S61-02;Infekcia/zápal kože a podkožia
-l029;Kožný absces, furunkul a karbunkul, bližšie neurčený;S61-02;Infekcia/zápal kože a podkožia
-l0301;Flegmóna prstov ruky;S61-02;Infekcia/zápal kože a podkožia
-l0302;Flegmóna prstov nohy;S61-02;Infekcia/zápal kože a podkožia
-l0310;Flegmóna hornej končatiny;S61-02;Infekcia/zápal kože a podkožia
-l0311;Flegmóna dolnej končatiny;S61-02;Infekcia/zápal kože a podkožia
-l032;Flegmóna tváre;S61-02;Infekcia/zápal kože a podkožia
-l033;Flegmóna trupu;S61-02;Infekcia/zápal kože a podkožia
-l038;Flegmóna na inom mieste;S61-02;Infekcia/zápal kože a podkožia
-l039;Flegmóna, bližšie neurčená;S61-02;Infekcia/zápal kože a podkožia
+l010;Kontaktné impetigo akejkoľvek lokalizácie zapríčinené ktorýmkoľvek organizmom;S63-41;Ochorenia kože, podkožia a slizníc
+l011;Sekundárna impetiginizácia inej choroby kože;S63-41;Ochorenia kože, podkožia a slizníc
+l020;Kožný absces, furunkul a karbunkul tváre;S63-41;Ochorenia kože, podkožia a slizníc
+l021;Kožný absces, furunkul a karbunkul krku;S63-41;Ochorenia kože, podkožia a slizníc
+l022;Kožný absces, furunkul a karbunkul trupu;S63-41;Ochorenia kože, podkožia a slizníc
+l023;Kožný absces, furunkul a karbunkul zadku;S63-41;Ochorenia kože, podkožia a slizníc
+l024;Kožný absces, furunkul a karbunkul končatiny;S63-41;Ochorenia kože, podkožia a slizníc
+l028;Kožný absces, furunkul a karbunkul na inom mieste;S63-41;Ochorenia kože, podkožia a slizníc
+l029;Kožný absces, furunkul a karbunkul, bližšie neurčený;S63-41;Ochorenia kože, podkožia a slizníc
+l0301;Flegmóna prstov ruky;S63-41;Ochorenia kože, podkožia a slizníc
+l0302;Flegmóna prstov nohy;S63-41;Ochorenia kože, podkožia a slizníc
+l0310;Flegmóna hornej končatiny;S63-41;Ochorenia kože, podkožia a slizníc
+l0311;Flegmóna dolnej končatiny;S63-41;Ochorenia kože, podkožia a slizníc
+l032;Flegmóna tváre;S63-41;Ochorenia kože, podkožia a slizníc
+l033;Flegmóna trupu;S63-41;Ochorenia kože, podkožia a slizníc
+l038;Flegmóna na inom mieste;S63-41;Ochorenia kože, podkožia a slizníc
+l039;Flegmóna, bližšie neurčená;S63-41;Ochorenia kože, podkožia a slizníc
 l040;Akútny zápal lymfatických uzlín tváre, hlavy a krku;S63-25;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi I
 l041;Akútny zápal lymfatických uzlín hrudníka;S63-25;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi I
 l042;Akútny zápal lymfatických uzlín hornej končatiny;S63-25;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi I
@@ -4359,7 +4359,7 @@ l048;Akútny zápal lymfatických uzlín na inom mieste;S63-25;Ochorenia retikul
 l049;Akútny zápal lymfatických uzlín, bližšie neurčený;S63-25;Ochorenia retikuloendoteliálneho systému, imunitného systému a poruchy zrážania krvi I
 l050;Pilonidálna cysta s abscesom;S61-02;Infekcia/zápal kože a podkožia
 l059;Pilonidálna cysta bez abscesu;S61-02;Infekcia/zápal kože a podkožia
-l080;Pyoderma;S61-02;Infekcia/zápal kože a podkožia
+l080;Pyoderma;S63-41;Ochorenia kože, podkožia a slizníc
 l081;Erythrasma;S61-01;Závažné ochorenia kože
 l088;Iná lokálna infekcia kože a podkožného tkaniva, bližšie určená;S61-02;Infekcia/zápal kože a podkožia
 l089;Lokálna infekcia kože a podkožného tkaniva, bližšie neurčená;S61-02;Infekcia/zápal kože a podkožia
@@ -4386,13 +4386,13 @@ l131;Dermatitis pustulosa subcornealis;S61-01;Závažné ochorenia kože
 l138;Iné pľuzgierové (bulózne) dermatózy, bližšie určené;S61-01;Závažné ochorenia kože
 l139;Pľuzgierová (bulózna) dermatóza, bližšie neurčená;S61-01;Závažné ochorenia kože
 l200;Besnierovo prurigo;S61-01;Závažné ochorenia kože
-l208;Iná atopická dermatitída;S61-01;Závažné ochorenia kože
+l208;Iná atopická dermatitída;S63-41;Ochorenia kože, podkožia a slizníc
 l209;Atopická dermatitída, bližšie neurčená;S61-01;Závažné ochorenia kože
-l210;Seborea hlavy;S61-04;Iné ochorenia kože, podkožia a slizníc
-l211;Seboroická dermatitída detského veku;S61-01;Závažné ochorenia kože
+l210;Seborea hlavy;S63-41;Ochorenia kože, podkožia a slizníc
+l211;Seboroická dermatitída detského veku;S63-41;Ochorenia kože, podkožia a slizníc
 l218;Iná seboroická dermatitída;S61-04;Iné ochorenia kože, podkožia a slizníc
 l219;Seboroická dermatitída, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
-l22;Plienková dermatitída;S61-04;Iné ochorenia kože, podkožia a slizníc
+l22;Plienková dermatitída;S63-41;Ochorenia kože, podkožia a slizníc
 l230;Alergická kontaktná dermatitída zapríčinená kovmi;S61-04;Iné ochorenia kože, podkožia a slizníc
 l231;Alergická kontaktná dermatitída zapríčinená náplasťami;S61-04;Iné ochorenia kože, podkožia a slizníc
 l232;Alergická kontaktná dermatitída zapríčinená kozmetickými prípravkami;S61-04;Iné ochorenia kože, podkožia a slizníc
@@ -4402,7 +4402,7 @@ l235;Alergická kontaktná dermatitída zapríčinená inými chemickými látka
 l236;Alergická kontaktná dermatitída zapríčinená kontaktom kože s potravinami;S61-04;Iné ochorenia kože, podkožia a slizníc
 l237;Alergická kontaktná dermatitída zapríčinená rastlinami okrem rastlinných potravín;S61-04;Iné ochorenia kože, podkožia a slizníc
 l238;Alergická kontaktná dermatitída zapríčinená inými agensmi;S61-01;Závažné ochorenia kože
-l239;Alergická kontaktná dermatitída s neurčenou príčinou;S61-01;Závažné ochorenia kože
+l239;Alergická kontaktná dermatitída s neurčenou príčinou;S63-41;Ochorenia kože, podkožia a slizníc
 l240;Kontaktná dermatitída z podráždenia zapríčinená čistiacimi prostriedkami;S61-04;Iné ochorenia kože, podkožia a slizníc
 l241;Kontaktná dermatitída z podráždenia zapríčinená olejmi a tukmi;S61-04;Iné ochorenia kože, podkožia a slizníc
 l242;Kontaktná dermatitída z podráždenia zapríčinená rozpúšťadlami;S61-04;Iné ochorenia kože, podkožia a slizníc
@@ -4412,7 +4412,7 @@ l245;Kontaktná dermatitída z podráždenia zapríčinená inými chemickými l
 l246;Kontaktná dermatitída z podráždenia zapríčinená kontaktom potravy s kožou;S61-04;Iné ochorenia kože, podkožia a slizníc
 l247;Kontaktná dermatitída z podráždenia zapríčinená rastlinami okrem rastlinných potravín;S61-04;Iné ochorenia kože, podkožia a slizníc
 l248;Kontaktná dermatitída z podráždenia zapríčinená inými agensmi;S61-01;Závažné ochorenia kože
-l249;Kontaktná dermatitída z podráždenia s neurčenou príčinou;S61-01;Závažné ochorenia kože
+l249;Kontaktná dermatitída z podráždenia s neurčenou príčinou;S63-41;Ochorenia kože, podkožia a slizníc
 l250;Kontaktná dermatitída zapríčinená kozmetickými prípravkami, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
 l251;Kontaktná dermatitída zapríčinená kontaktom liekov s kožou, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
 l252;Kontaktná dermatitída zapríčinená farbivami, bližšie neurčená;S61-01;Závažné ochorenia kože
@@ -4420,13 +4420,13 @@ l253;Kontaktná dermatitída zapríčinená inými chemickými látkami, bližš
 l254;Kontaktná dermatitída zapríčinená kontaktom potravy s kožou, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
 l255;Kontaktná dermatitída zapríčinená rastlinami okrem rastlinných potravín, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
 l258;Kontaktná dermatitída zapríčinená inými agensmi, bližšie neurčená;S61-01;Závažné ochorenia kože
-l259;Kontaktná dermatitída bez určenia príčiny, bližšie neurčená;S61-01;Závažné ochorenia kože
+l259;Kontaktná dermatitída bez určenia príčiny, bližšie neurčená;S63-41;Ochorenia kože, podkožia a slizníc
 l26;Exfoliatívna dermatitída;S61-01;Závažné ochorenia kože
-l270;Generalizovaná kožná vyrážka zapríčinená liečivami a liekmi;S61-01;Závažné ochorenia kože
-l271;Lokalizovaná kožná vyrážka zapríčinená liečivami a liekmi;S61-01;Závažné ochorenia kože
-l272;Dermatitída zapríčinená požitou potravou;S61-04;Iné ochorenia kože, podkožia a slizníc
-l278;Dermatitída zapríčinená inou látkou užitou orálne, enterálne alebo parenterálne;S61-04;Iné ochorenia kože, podkožia a slizníc
-l279;Dermatitída zapríčinená bližšie neurčenou látkou užitou orálne, enterálne alebo parenterálne;S61-04;Iné ochorenia kože, podkožia a slizníc
+l270;Generalizovaná kožná vyrážka zapríčinená liečivami a liekmi;S63-41;Ochorenia kože, podkožia a slizníc
+l271;Lokalizovaná kožná vyrážka zapríčinená liečivami a liekmi;S63-41;Ochorenia kože, podkožia a slizníc
+l272;Dermatitída zapríčinená požitou potravou;S63-41;Ochorenia kože, podkožia a slizníc
+l278;Dermatitída zapríčinená inou látkou užitou orálne, enterálne alebo parenterálne;S63-41;Ochorenia kože, podkožia a slizníc
+l279;Dermatitída zapríčinená bližšie neurčenou látkou užitou orálne, enterálne alebo parenterálne;S63-41;Ochorenia kože, podkožia a slizníc
 l280;Lichen simplex chronicus;S61-01;Závažné ochorenia kože
 l281;Prurigo nodularis;S61-01;Závažné ochorenia kože
 l282;Iné prurigo;S61-01;Závažné ochorenia kože
@@ -4439,11 +4439,11 @@ l299;Svrbenie, bližšie neurčené;S61-04;Iné ochorenia kože, podkožia a sli
 l300;Numulárna dermatitída;S61-01;Závažné ochorenia kože
 l301;Dyshidróza (pompholyx);S61-01;Závažné ochorenia kože
 l302;Kožná autosenzibilizácia;S61-01;Závažné ochorenia kože
-l303;Infekčná dermatitída (ekzematoidná);S61-01;Závažné ochorenia kože
-l304;Intertrigo (zaparenina) s erytémom;S61-01;Závažné ochorenia kože
+l303;Infekčná dermatitída (ekzematoidná);S63-41;Ochorenia kože, podkožia a slizníc
+l304;Intertrigo (zaparenina) s erytémom;S63-41;Ochorenia kože, podkožia a slizníc
 l305;Pityriasis alba;S61-04;Iné ochorenia kože, podkožia a slizníc
 l308;Iná dermatitída, bližšie určená;S61-01;Závažné ochorenia kože
-l309;Dermatitída, bližšie neurčená;S61-01;Závažné ochorenia kože
+l309;Dermatitída, bližšie neurčená;S63-41;Ochorenia kože, podkožia a slizníc
 l400;Psoriasis vulgaris;S61-01;Závažné ochorenia kože
 l401;Generalizovaná pustulová psoriáza;S61-01;Závažné ochorenia kože
 l402;Acrodermatitis continua suppurativa;S61-01;Závažné ochorenia kože
@@ -4474,7 +4474,7 @@ l443;Lichen ruber moniliformis;S61-04;Iné ochorenia kože, podkožia a slizníc
 l444;Detská papulárna akrodermatitída [Giannottiho-Crostiho syndróm];S61-01;Závažné ochorenia kože
 l448;Iná papuloskvamózna choroba kože, bližšie určená;S61-01;Závažné ochorenia kože
 l449;Papuloskvamózna choroba kože, bližšie neurčená;S61-01;Závažné ochorenia kože
-l500;Alergická žihľavka;S61-04;Iné ochorenia kože, podkožia a slizníc
+l500;Alergická žihľavka;S63-41;Ochorenia kože, podkožia a slizníc
 l501;Idiopatická žihľavka;S61-04;Iné ochorenia kože, podkožia a slizníc
 l502;Žihľavka zapríčinená chladom alebo teplom;S61-04;Iné ochorenia kože, podkožia a slizníc
 l503;Dermografická žihľavka [urticaria factitia];S61-04;Iné ochorenia kože, podkožia a slizníc
@@ -4482,14 +4482,14 @@ l504;Vibračná žihľavka;S61-04;Iné ochorenia kože, podkožia a slizníc
 l505;Cholínergická žihľavka;S61-04;Iné ochorenia kože, podkožia a slizníc
 l506;Kontaktná žihľavka;S61-04;Iné ochorenia kože, podkožia a slizníc
 l508;Iná žihľavka;S61-04;Iné ochorenia kože, podkožia a slizníc
-l509;Žihľavka, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
-l510;Nepľuzgierový multiformný erytém;S61-01;Závažné ochorenia kože
+l509;Žihľavka, bližšie neurčená;S63-41;Ochorenia kože, podkožia a slizníc
+l510;Nepľuzgierový multiformný erytém;S63-41;Ochorenia kože, podkožia a slizníc
 l511;Pľuzgierový multiformný erytém;S61-01;Závažné ochorenia kože
 l5120;Toxická nekrolýza epidermy [Lyellov syndrom] s postihnutím menej ako 30 % povrchu tela;S61-01;Závažné ochorenia kože
 l5121;Toxická nekrolýza epidermy [Lyellov syndrom] s postihnutím 30 % povrchu tela a viac;S61-01;Závažné ochorenia kože
 l518;Iný multiformný erytém;S61-01;Závažné ochorenia kože
-l519;Multiformný erytém, bližšie neurčený;S61-01;Závažné ochorenia kože
-l52;Erythema nodosum;S61-01;Závažné ochorenia kože
+l519;Multiformný erytém, bližšie neurčený;S63-41;Ochorenia kože, podkožia a slizníc
+l52;Erythema nodosum;S63-41;Ochorenia kože, podkožia a slizníc
 l530;Toxický erytém;S61-01;Závažné ochorenia kože
 l531;Erythema annulare centrifugum;S61-01;Závažné ochorenia kože
 l532;Erythema marginatum;S61-01;Závažné ochorenia kože
@@ -4619,7 +4619,7 @@ l871;Reaktívna perforujúca kolagenóza;S69-01;Systémové imunitné sprostredk
 l872;Elastosis perforans serpiginosa;S61-04;Iné ochorenia kože, podkožia a slizníc
 l878;Iné poruchy transepidermálnej eliminácie;S61-04;Iné ochorenia kože, podkožia a slizníc
 l879;Choroba transepidermálnej eliminácie, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
-l88;Pyoderma gangrenosum;S61-01;Závažné ochorenia kože
+l88;Pyoderma gangrenosum;S63-41;Ochorenia kože, podkožia a slizníc
 l8900;Dekubitus 1. stupňa: Hlava;S61-03;Kožný vred
 l8901;Dekubitus 1. stupňa: Horná končatina;S61-03;Kožný vred
 l8902;Dekubitus 1. stupňa: Tŕňový výbežok;S61-03;Kožný vred
@@ -4688,11 +4688,11 @@ l922;Granuloma faciale (eozinofilný granulóm kože);S61-04;Iné ochorenia kož
 l923;Kožný a podkožný granulóm okolo cudzích telies;S61-04;Iné ochorenia kože, podkožia a slizníc
 l928;Iná granulomatózna choroba kože a podkožného tkaniva;S61-04;Iné ochorenia kože, podkožia a slizníc
 l929;Granulomatózna choroba kože a podkožného tkaniva, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
-l930;Diskoidný lupus erythematosus;S61-01;Závažné ochorenia kože
-l931;Subakútny kožný lupus erythematosus;S61-01;Závažné ochorenia kože
+l930;Diskoidný lupus erythematosus;S63-41;Ochorenia kože, podkožia a slizníc
+l931;Subakútny kožný lupus erythematosus;S63-41;Ochorenia kože, podkožia a slizníc
 l932;Iný lokálny lupus erythematosus;S61-01;Závažné ochorenia kože
-l940;Sclerodermia circumscripta [Morphaea];S61-01;Závažné ochorenia kože
-l941;Lineárna a pásovitá sklerodermia;S61-01;Závažné ochorenia kože
+l940;Sclerodermia circumscripta [Morphaea];S63-41;Ochorenia kože, podkožia a slizníc
+l941;Lineárna a pásovitá sklerodermia;S63-41;Ochorenia kože, podkožia a slizníc
 l942;Kalcinóza kože;S61-01;Závažné ochorenia kože
 l943;Sklerodaktýlia;S61-04;Iné ochorenia kože, podkožia a slizníc
 l944;Gottronov syndróm;S69-01;Systémové imunitné sprostredkované ochorenia
@@ -4702,13 +4702,13 @@ l949;Lokalizovaná choroba spojivového tkaniva, bližšie neurčená;S61-04;In�
 l950;Livedoidná vaskulitída;S61-01;Závažné ochorenia kože
 l951;Erythema elevatum et diutinum;S61-01;Závažné ochorenia kože
 l958;Iná vaskulitída ohraničená na kožu;S61-01;Závažné ochorenia kože
-l959;Vaskulitída ohraničená na kožu, bližšie neurčená;S61-01;Závažné ochorenia kože
+l959;Vaskulitída ohraničená na kožu, bližšie neurčená;S63-41;Ochorenia kože, podkožia a slizníc
 l97;Vred predkolenia, nezatriedený inde;S61-03;Kožný vred
 l980;Pyogénny (hnisový) granulóm;S61-02;Infekcia/zápal kože a podkožia
 l981;Dermatitis factitia (artefacta);S61-01;Závažné ochorenia kože
 l982;Febrilná neutrofilná dermatóza (Sweetov syndróm);S61-01;Závažné ochorenia kože
 l983;Eozinofilná celulitída (Wellsov syndróm);S61-02;Infekcia/zápal kože a podkožia
-l984;Chronický vred kože, nezatriedený inde;S61-03;Kožný vred
+l984;Chronický vred kože, nezatriedený inde;S63-41;Ochorenia kože, podkožia a slizníc
 l985;Mucinóza kože;S61-04;Iné ochorenia kože, podkožia a slizníc
 l986;Iné infiltratívne choroby kože a podkožného tkaniva;S61-04;Iné ochorenia kože, podkožia a slizníc
 l988;Iná choroby kože a podkožného tkaniva, bližšie určené;S61-04;Iné ochorenia kože, podkožia a slizníc
@@ -8698,7 +8698,7 @@ q818;Iná bulózna epidermolýza;S61-04;Iné ochorenia kože, podkožia a slizn�
 q819;Bulózna epidermolýza, bližšie neurčená;S61-04;Iné ochorenia kože, podkožia a slizníc
 q820;Dedičný lymfedém;S61-04;Iné ochorenia kože, podkožia a slizníc
 q821;Xeroderma pigmentosum;S61-01;Závažné ochorenia kože
-q822;Mastocytóza;S61-04;Iné ochorenia kože, podkožia a slizníc
+q822;Mastocytóza;S63-41;Ochorenia kože, podkožia a slizníc
 q823;Incontinentia pigmenti;S61-04;Iné ochorenia kože, podkožia a slizníc
 q824;Ektodermálna dysplázia (anhidrotická);S61-04;Iné ochorenia kože, podkožia a slizníc
 q825;Vrodený nenádorový névus;S61-04;Iné ochorenia kože, podkožia a slizníc
@@ -10750,7 +10750,7 @@ t758;Iný účinok z vonkajších príčin, bližšie určený;S63-31;Otravy ale
 t780;Anafylaktický šok ako nežiaduci účinok potraviny;S63-36;Anafylaktický šok
 t781;Iný nežiaduci účinok potraviny, nezatriedený inde;S63-36;Anafylaktický šok
 t782;Anafylaktický šok, bližšie neurčený;S63-36;Anafylaktický šok
-t783;Angioneurotický edém;S61-04;Iné ochorenia kože, podkožia a slizníc
+t783;Angioneurotický edém;S63-41;Ochorenia kože, podkožia a slizníc
 t784;Alergia, bližšie neurčená;S63-36;Anafylaktický šok
 t788;Iný nežiaduci účinok, nezatriedený inde;S63-31;Otravy alebo toxické účinky z vonkajších príčin I
 t789;Nežiaduci účinok, bližšie neurčený;S63-31;Otravy alebo toxické účinky z vonkajších príčin I
