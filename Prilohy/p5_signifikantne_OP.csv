@@ -2361,7 +2361,6 @@ kod_vykonu;nazov_vykonu
 5j4960;Operácia pľúcnej sekvestrácie, torakotomicky
 5j4962;Operácia pľúcnej sekvestrácie, torakoskopicky
 5j4965;Operácia pľúcnej sekvestrácie, torakoskopicky - roboticky
-5j4965;Implantácia alebo výmena endobronchiálneho ventilového systému, endoskopicky
 5j49650;Implantácia alebo výmena endobronchiálneho ventilového systému, endoskopicky 1 ventil
 5j49651;Implantácia alebo výmena endobronchiálneho ventilového systému, endoskopicky 2 ventily
 5j49652;Implantácia alebo výmena endobronchiálneho ventilového systému, endoskopicky 3 ventily
@@ -4266,7 +4265,6 @@ kod_vykonu;nazov_vykonu
 5n1842;Fundoplikácia žalúdka, laparoskopicky
 5n1844;Fundoplikácia žalúdka, konverzia z laparoskopie na laparotómiu
 5n1845;Fundoplikácia žalúdka, laparoskopicky - roboticky
-5n1845;Fundoplikácia žalúdka s hiátovou sutúrou
 5n18450;Fundoplikácia žalúdka s hiátovou sutúrou, otvorene chirurgicky abdominálne
 5n18451;Fundoplikácia žalúdka s hiátovou sutúrou,  otvorene chirurgicky torakálne
 5n18452;Fundoplikácia žalúdka s hiátovou sutúrou, laparoskopicky
@@ -5418,7 +5416,6 @@ kod_vykonu;nazov_vykonu
 5n9342;Plastická operácia diastázy priamych brušných svalov s operáciou umbilikálnej hernie [prietrže]
 5n93x;Plastická rekonštrukcia brušnej steny a peritonea, ostatné
 5n991;Revízia dutiny brušnej pre krvácanie
-5n991;Uzáver brušnej steny a peritonea
 5n9911;Sekundárne uzavretie brušnej steny
 5n9912;Definitívne uzavretie brušnej steny
 5n991x;Ostatné uzávery brušnej steny a peritonea
@@ -16804,7 +16801,6 @@ kod_vykonu;nazov_vykonu
 8m4011;Liečba rádioaktívnym jódom od 1,0 GBq do 5 GBq 131I s podaním rekombinantného thyreotropínu
 8m4020;Liečba rádioaktívnym jódom nad 5 GBq 131I bez podania rekombinantného thyreotropínu
 8m4021;Liečba rádioaktívnym jódom nad 5 GBq 131I s podaním rekombinantného thyreotropínu
-8m403;Iná liečba v nukleárnej medicíne
 8m403;Liečba hyperfunkcie štítnej žľazy rádiofarmakom frakcionovaná
 8m4040;Podanie rádioaktívneho jódu počas diagnostickej hospitalizácie do 1,0 Gbq 131I bez podania rekombinantného thyreotropínu
 8m4041;Podanie rádioaktívneho jódu počas diagnostickej hospitalizácie do 1,0 Gbq 131I s podaním rekombinantného thyreotropínu
