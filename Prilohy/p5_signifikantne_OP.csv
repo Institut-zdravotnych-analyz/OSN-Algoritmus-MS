@@ -64,7 +64,6 @@ kod_vykonu;nazov_vykonu
 12q120;Biopsia krčka maternice bez incízie, abrázia
 12q12x;Biopsia krčka maternice bez incízie, ostatné
 12q201;Biopsia bez incízie choriových klkov gravidnej maternice, transvaginálne s použitím zobrazovacích metód
-12q230;Perkutánna biopsia vaječníkov s použitím zobrazovacích metód
 12q231;Perkutánna biopsia tuba uterina s použitím zobrazovacích metód
 12q232;Perkutánna biopsia maternice s použitím zobrazovacích metód
 12q233;Perkutánna biopsia závesného aparátu maternice s použitím zobrazovacích metód
@@ -139,9 +138,6 @@ kod_vykonu;nazov_vykonu
 13d21;Biopsia s incíziou stredného ucha 
 13d22;Biopsia s incíziou vnútorného ucha  
 13d2x;Biopsia s incíziou ostatných častí ucha 
-13d40;Biopsia s incíziou slinnej žľazy a vývodov slinnej žľazy 
-13d41;Biopsia s incíziou alveoly dutiny ústnej  
-13d42;Biopsia s incíziou spodiny dutiny ústnej 
 13h100;Biopsia s incíziou supraglottis 
 13h101;Biopsia s incíziou glottis 
 13h102;Biopsia s incíziou subglottis  
@@ -1313,8 +1309,6 @@ kod_vykonu;nazov_vykonu
 5c43x;Uvoľnenie zrastov medzi spojovkou a viečkom, ostatné
 5c490;Incízia a drenáž spojovky
 5c491;Sutúra spojovky
-5c492;Odstránenie sutúry na spojovke
-5c49x;Iné operácie na spojovke, ostatné
 5c500;Operačné odstránenie cudzieho telesa z rohovky magnetom
 5c501;Operačné odstránenie cudzieho telesa z rohovky incíziou
 5c502;Vyčistenie lôžka rany po operačnom odstránení cudzieho telesa z rohovky
@@ -1337,7 +1331,6 @@ kod_vykonu;nazov_vykonu
 5c5321;Keratotómia chorého tkaniva rohovky s EDTA
 5c532x;Keratotómia chorého tkaniva rohovky, ostatné
 5c533;Fototerapeutická excízia a deštrukcia chorého tkaniva rohovky 
-5c534;Odstránenie rohovky alebo odstránenie oka k odobratiu rohovky na transplantáciu, postmortálne
 5c535;Abrázia rohovky chemická alebo nechemická
 5c53x;Excízia a deštrukcia chorého tkaniva rohovky, ostatné
 5c540;Lamelárna transplantácia rohovky
@@ -2028,7 +2021,6 @@ kod_vykonu;nazov_vykonu
 5f333;Obliterácia čelovej dutiny
 5f390;Wasmundova plastika pri oroantrálnej fistule
 5g106;Zavedenie implantátu
-5g10b;Sutúra extrakčnej rany
 5g200;Excízia mäkkých tkanív
 5g2011;Intraorálna incízia dentogénneho abscesu
 5g2012;Extraorálna incízia submandibulárneho a submentálneho abscesu
@@ -3583,9 +3575,6 @@ kod_vykonu;nazov_vykonu
 5l502a4;Cievna rekonštrukcia A-V fistuly, banding
 5l502a5;Cievna rekonštrukcia A-V fistuly, ligatúra vetiev
 5l502ax;Cievna rekonštrukcia arterio-venóznej fistuly, ostatné
-5l502b;Trombektómia A-V fistuly
-5l502c0;Zrušenie A-V fistuly bez rekonštrukcie tepny
-5l502c1;Zrušenie A-V fistuly s rekonštrukciou tepny
 5l502x;Vytvorenie arterio-venóznej fistuly,  ostatné
 5l5110;Bajpasové operácie tepny hlavy a krku pomocou žily, a. carotis 
 5l5111;Bajpasové operácie tepny hlavy a krku pomocou žily, a. carotis - a. carotis 
@@ -4959,7 +4948,6 @@ kod_vykonu;nazov_vykonu
 5n44a2;Hlboká excízia chorého tkaniva análneho kanála, čiastočná resekcia svalstva
 5n44ax;Excízia chorého tkaniva análneho kanála, ostatné
 5n44b;Lokálna deštrukcia chorého tkaniva análneho kanála
-5n44x;Iné excízie a deštrukcie chorého tkaniva análneho kanála
 5n450;Incízia análnej fistuly
 5n4510;Subkutánna excízia análnej fistuly 
 5n4511;Intersfinkterická excízia análnej fistuly
@@ -4973,14 +4961,12 @@ kod_vykonu;nazov_vykonu
 5n453;Uzavretie análnej fistuly pomocou plugovej techniky
 5n459;Operatívna liečba análnej fistuly, ostatné
 5n45a;Ligatúra hemoroidov
-5n45b;Sklerotizácia hemoroidov
 5n45c;Excízia hemoroidov
 5n45d;Deštrukcia hemoroidov
 5n45e;Operačné ošetrenie hemoroidov so staplerom
 5n45f;Excízia hemoroidov s plastickou rekonštrukciou
 5n45g0;Ligatúra jednej a. haemorrhoidalis bez rektoanálnej rekonštrukcie
 5n45g1;Ligatúra jednej a. haemorrhoidalis s rektoanálnou rekonštrukciou
-5n45x;Iné operačné ošetrenie hemoroidov
 5n461;Sfinkteroktómia laterálna  
 5n462;Sfinkterotómia mediálna 
 5n46x;Sfinkteroktómia, ostatné
@@ -5003,7 +4989,6 @@ kod_vykonu;nazov_vykonu
 5n47x1;Iná primárna plastická rekonštrukcia pri anorektálnych anomáliách, perineálna
 5n47xx;Iná primárna plastická rekonštrukcia pri anorektálnych anomáliách, ostatné
 5n49a;Ligatúra konečníka
-5n49x;Iné operačné výkony na konečníku, ostatné
 5n5100;Atypická resekcia chorého tkaniva pečene, lokálna excízia laparotomicky
 5n5102;Atypická resekcia chorého tkaniva pečene, lokálna excízia laparoskopicky
 5n5104;Atypická resekcia chorého tkaniva pečene, lokálna excízia konverzia z laparoskopie na laparotómiu
@@ -6497,7 +6482,6 @@ kod_vykonu;nazov_vykonu
 5q2310;Abdominálna serkláž, laparotomicky
 5q2314;Abdominálna serkláž, laparoskopicky
 5q291;Tracheloplastika
-5q293;Vaporizácia laserová
 5q4010;Odstránenie myómov maternice, abdominálne
 5q4011;Odstránenie myómov maternice, kombinovane
 5q4012;Odstránenie myómov maternice, hysteroskopicky
@@ -11116,7 +11100,6 @@ kod_vykonu;nazov_vykonu
 5t404r;Artroskopické odstránenie voľných telies z interfalangeálnych kĺbov nohy 
 5t404x;Artroskopické odstránenie voľných telies z ostatných kĺbov
 5t4050;Artroskopické odstránenie periartikulárnych kalcifikátov z humeroglenoidálneho kĺbu  
-5t4051;Artroskopické odstránenie periartikulárnych kalcifikátov z akromioklavikulárneho kĺbu 
 5t4054;Artroskopické odstránenie periartikulárnych kalcifikátov z lakťového kĺbu 
 5t4055;Artroskopické odstránenie periartikulárnych kalcifikátov z proximálneho radioulnárneho kĺbu 
 5t4056;Artroskopické odstránenie periartikulárnych kalcifikátov z distálneho radioulnárneho kĺbu 
@@ -11135,7 +11118,6 @@ kod_vykonu;nazov_vykonu
 5t405r;Artroskopické odstránenie periartikulárnych kalcifikátov z interfalangeálnych kĺbov nohy 
 5t405x;Artroskopické odstránenie periartikulárnych kalcifikátov z ostatných kĺbov 
 5t4060;Artroskopicky asistované ošetrenie zlomeniny humeroglenoidálneho kĺbu  
-5t4061;Artroskopicky asistované ošetrenie zlomeniny akromioklavikulárneho kĺbu 
 5t4064;Artroskopicky asistované ošetrenie zlomeniny lakťového kĺbu 
 5t4065;Artroskopicky asistované ošetrenie zlomeniny proximálneho radioulnárneho kĺbu 
 5t4066;Artroskopicky asistované ošetrenie zlomeniny distálneho radioulnárneho kĺbu 
@@ -12632,7 +12614,6 @@ kod_vykonu;nazov_vykonu
 5t76x;Ostatné artrodézy kĺbov ruky
 5t7700;Resekcioartroplastika zápästia rekonštrukciou s autológnym materiálom, jeden zákrok
 5t7701;Resekcioartroplastika zápästia rekonštrukciou s autológnym materiálom, viaceré zákroky
-5t7702;Resekcioartroplastika na karpometakarpálnom kĺbe palca rekonštrukciou s autológnym materiálom
 5t7703;Resekcioartroplastika na metakarpofalangeálnom kĺbe rekonštrukciou s autológnym materiálom, jeden zákrok 
 5t7704;Resekcioartroplastika na metakarpofalangeálnych kĺboch rekonštrukciou s autológnym materiálom, viaceré zákroky 
 5t7705;Resekcioartroplastika na interfalangeálnom kĺbe ruky rekonštrukciou s autológnym materiálom, jeden zákrok 
@@ -16904,8 +16885,6 @@ kod_vykonu;nazov_vykonu
 8r7174;Vedenie mimotelového obehu krvi v hlbokej hypotermii (menej než 20°C)
 8r717x;Vedenie mimotelového obehu krvi, ostatné
 8r7223;Zavedenie katétra pre intraaortálnu balónikovú kontrapulzáciu
-8r730;Trombolytická liečba akútneho infarktu myokardu
-8r732;Trombolytická liečba A - V shuntu
 8r7410;embolizácia intrakraniálnej durálnej fistuly
 8r7411;embolizácia spinálnej AVM
 8r7412;embolizácia spinálnej durálnej fistuly
