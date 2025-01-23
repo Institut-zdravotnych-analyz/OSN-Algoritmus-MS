@@ -2,9 +2,7 @@
 
 **[ENG]** Algorithm to assign hospital stays to specific medical services within the [hospital network optimization reform](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/540).
 
-**[SK]** Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky pre rok 2024. Jedná sa o technickú implementáciu [Príloh 5 - 17 vyhlášky 531/2023 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2023/531#prilohy) v rámci zákona [540/2021 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/540) o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov. Viac informácií o Vyhláška nájdete na [https://sietnemocnic.sk/kategorizacna-vyhlaska](https://sietnemocnic.sk/kategorizacna-vyhlaska).
-
-**Platnosť pre rok:** 2024
+**[SK]** Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky. Jedná sa o technickú implementáciu [Príloh 5 - 17 vyhlášky 531/2023 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2023/531#prilohy) v rámci zákona [540/2021 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/540) o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov. Viac informácií o Vyhláška nájdete na [https://sietnemocnic.sk/kategorizacna-vyhlaska](https://sietnemocnic.sk/kategorizacna-vyhlaska).
 
 ## Change log
 V prípade, že identifikujete chyby v rámci kódu, prosím zaznamenajte ich na GitHub cez Issues, navrhnite priamo cez Pull Request zmenu, alebo nám napíšte email na sietnemocnic@health.gov.sk.
@@ -13,6 +11,7 @@ V prípade, že identifikujete chyby v rámci kódu, prosím zaznamenajte ich na
 - **v2024.0** (*21.12.2023*): Prvá verzia technickej implementácie vyhlášok pre rok 2024 publikovaná
 - **v2024.1** (*28.5.2024*): Prepis technickej implementácie. Zmena názvov príloh. Zmena názvu hlavného súboru a spôsobu spúšťania.
 - **v2024.2** (*1.8.2024*): Implementácia novelizácie vyhlášky 531/2023 účinnej od 1.8.2024.
+- **v2025.1** (*1.1.2025*): Implementácia novelizácie vyhlášky 531/2023 účinnej od 1.1.2025
 
 # Technické readme
 
