@@ -1300,7 +1300,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 23;S23-10;False;Hybridné intervenčné výkony na periférnych tepnách;V;;3;3;3;3;P;P;N;;;;;
 23;S23-09;False;Aortálne intervencie (EVAR,TEVAR);V;;3;3;3;3;P;P;N;;;;;
 23;S23-08;False;Vaskulárne intervencie II (embolizácie myómy, prostata, onkológia TACE,TIPS/BRTO/CARTO);V;;3;3;3;3;N;N;P;;;;;
-23;S23-07;False;Vaskulárne intervencie I (EVL DK/HK, viscerálne intervencie, HŽT, kaválne filtre, pľúcna embólia, aneuryzmy periférnych tepien);V;;3;3;3;3;P;P;P;;;;;
+23;S23-07;False;Vaskulárne intervencie I (EVL DK/HK,CAS, viscerálne intervencie, HŽT, kaválne filtre, pľúcna embólia, aneuryzmy periférnych tepien);V;;3;3;3;3;P;P;P;;;;;
 23;S23-05;False;Hybridné intervenčné výkony na periférnych tepnách;V;3;;;;;P;P;N;;;90;15;5
 23;S23-04;False;Aortálne intervencie (EVAR,TEVAR);V;3;;;;;P;P;N;;;90;50;10
 23;S23-03;False;Vaskulárne intervencie II (embolizácie myómy, prostata, onkológia TACE,TIPS/BRTO/CARTO);V;3;;;;;N;N;P;;;90;20;5
@@ -1316,7 +1316,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 24;S24-05;False;Nevaskulárna intervenčná rádiológia II (náročnejšie biopsie, drenážne výkony a pod.);V;3;;;;;P;P;P;;;90;60;20
 24;S24-04;False;Nevaskulárna intervenčná rádiológia III (ablačné techniky pri nádorových postihnutiach, drenážne techniky a stentovanie žlčových ciest a pod.);V;3;;;;;P;P;P;;;90;30;10
 24;S24-03;False;Nevaskulárna intervenčná rádiológia IV (kostné výkony);V;3;;;;;P;P;P;;;90;20;10
-24;S24-02;False;Nevaskulárna intervenčná rádiológia V (výkony na obličke), ;V;3;;;;;N;N;N;;;90;30;15
+24;S24-02;False;Nevaskulárna intervenčná rádiológia V (výkony na obličke);V;3;;;;;N;N;N;;;90;30;15
 24;S24-01;False;Nevaskulárna intervenčná rádiológia VI (iné nevaskulárne intervenčné výkony);V;3;;;;;N;N;N;;;90;60;20
 24;S24-12;False;Nevaskulárna intervenčná rádiológia I (jednoduché biopsie, drenážne výkony a pod.);V;;2;2;2;2;P;P;P;P;;90;;
 24;S73-52;True;Manažment bolesti;D;;2;2;2;2;P;P;N;N;;;;
@@ -1976,7 +1976,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 49;S49-11;False;Potreba výmennej transfúzie;NOV;;3;;;;P;P;P;;;;;
 49;S49-10;False;Novorodenec, hmotnosť pri prijatí od 1500 g bez signifikantného OP výkonu, bez UPV > 95 hodín, s jedným ťažkým problémom;NOV;;3;;;;P;P;P;;;;20 ;
 49;S49-09;False;Novorodenec, hmotnosť pri prijatí 1000-1499 g bez signifikantného OP výkonu, bez UPV > 95 hodín;NOV;;3;;;;P;P;P;;;;20 ;
-49;S49-08;False;Novorodenec, hmotnosť pri prijatí od 1000g, s UPV > 95 hodín, bez viacerých ťažkých problémov;NOV;;3;;;;P;P;P;;;;20 ;
+49;S49-08;False;Novorodenec, hmotnosť pri prijatí od 1000g, bez UPV > 95 hodín, bez viacerých ťažkých problémov;NOV;;3;;;;P;P;P;;;;20 ;
 50;S50-01;False;Úzko špecializované postupy cirkulačnej a respiračnej podpory v PIM;V;;5;5;5;5;P;;;;;;;
 50;S71-01;True;Vysokonákazlivé ochorenia BSL03-04;D;;5;5;5;5;P;;;;;;;
 50;S65-01;True;Tuberkulóza;D;;5;5;5;5;P;;;;;;;
