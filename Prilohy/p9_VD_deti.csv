@@ -1,7 +1,7 @@
 kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 93020;Predpôrodná starostlivosť pri dekompenzovanom diabete a DM s komplikáciami;Diabetes mellitus v gravidite;S11-05;Predpôrodná starostlivosť pri dekompenzovanom diabete a DM s komplikáciami
-643161;Podanie lieku surfaktant, endotracheálne: od 120 mg do menej ako 240 mg ;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
-643162;Podanie lieku surfaktant, endotracheálne: od 240 mg do menej ako 360 mg ;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
+643161;Podanie lieku surfaktant, endotracheálne: od 120 mg do menej ako 240 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
+643162;Podanie lieku surfaktant, endotracheálne: od 240 mg do menej ako 360 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
 643163;Podanie lieku surfaktant, endotracheálne: od 360 mg do menej ako 480 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
 643164;Podanie lieku surfaktant, endotracheálne: 480 mg a viac;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
 5t06f0;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, nemotorizovaná;Trauma a poúrazové stavy;S52-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
@@ -21,161 +21,154 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5t914;Replantácia v oblasti stredu šlapy;Trauma a poúrazové stavy;S52-06;Replantácie
 5t915;Replantácia prstu nohy;Trauma a poúrazové stavy;S52-06;Replantácie
 5t91x;Replantácia v oblasti dolnej končatiny,ostatné;Trauma a poúrazové stavy;S52-06;Replantácie
-5a901a;Kraniocervikálny prechod, transorálne;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5a901b;Kraniocervikálny prechod, dorzálne;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5a901c;Kraniocervikálny prechod, laterálne;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5a901a;Prístup ku kraniocervikálnemu spojeniu, transorálne;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5a901b;Prístup ku kraniocervikálnemu spojeniu, dorzálne;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5a901c;Prístup ku kraniocervikálnemu spojeniu, laterálne;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
 5a90451;Transperitoneálny prístup k bedrovej chrbtici;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
 5a90452;Dorzolaterálny prístup k bedrovej chrbtici;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
 5a90453;Retroperitoneálny prístup k bedrovej chrbtici;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
 5a90461;Dorzálny prístup k Os sacrum a k Os coccygis;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
 5a90462;Ventrálny prístup k Os sacrum a Os coccygis;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5a9047;Kombinácia pararektal-retroperitoneálneho prístupu;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5a9048;Kombinácia torako-retroperitoneálne-retroperitoneálneho prístupu;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5a9049;Transapikálny prístup podľa Judet;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5t622;Totálna excízia tela stavca chrbtice;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5t698;Komplexná kombinovaná ventrálna a dorzálna rekonštrukcia chrbtice s fúziou (360 stupňov);Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
-5t6431;Dorzálna a ventrálna kombinovaná spondylodéza medzi stavcami, 1 segment;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6432;Dorzálna a ventrálna kombinovaná spondylodéza medzi stavcami, 2 segmenty;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6433;Dorzálna a ventrálna kombinovaná spondylodéza medzi stavcami, 3 segmenty;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6434;Dorzálna a ventrálna kombinovaná spondylodéza medzi stavcami, 4 segmenty;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6435;Dorzálna a ventrálna kombinovaná spondylodéza medzi stavcami, 5 segmentov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6436;Dorzálna a ventrálna kombinovaná spondylodéza medzi stavcami, 6 a viac segmentov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5a90454;Kombinácia pararektal-retroperitoneálneho prístupu;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5a90455;Kombinácia torako-retroperitoneálne-retroperitoneálneho prístupu;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t6221;Totálna excízia tela stavca chrbtice, 1 segment;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t6222;Totálna excízia tela stavca chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t6223;Totálna excízia tela stavca chrbtice, 3 segmenty;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t6224;Totálna excízia tela stavca chrbtice, 4 a viac segmentov;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t622a;Totálna resekcia hemivertebry, zadný prístup;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t622b;Totálna resekcia hemivertebry, kombinovaný prístup;Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t6744;Komplexná kombinovaná ventrálna a dorzálna rekonštrukcia na krčnej chrbtici s fúziou (360 stupňov);Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t6745;Komplexná kombinovaná ventrálna a dorzálna rekonštrukcia na hrudníkovo- driekovej chrbtici s fúziou (360 stupňov);Trauma a poúrazové stavy;S52-18;Komplexné výkony na chrbtici pre traumu a poúrazové stavy
+5t6431;Dorzálna a ventrálna kombinovaná spondylodéza, 1 segment;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6432;Dorzálna a ventrálna kombinovaná spondylodéza, 2 segmenty;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6433;Dorzálna a ventrálna kombinovaná spondylodéza, 3 segmenty;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6434;Dorzálna a ventrálna kombinovaná spondylodéza, 4 segmenty;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6435;Dorzálna a ventrálna kombinovaná spondylodéza, 5 segmentov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6436;Dorzálna a ventrálna kombinovaná spondylodéza, 6 a viac segmentov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
 5t64x;Spondylodéza, ostatné;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6501;Náhrada tela stavca implantátom a komplexná rekonštrukcia na chrbtici, 1 stavec;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6502;Náhrada tela stavca implantátom a komplexná rekonštrukcia na chrbtici, 2 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6503;Náhrada tela stavca implantátom a komplexná rekonštrukcia na chrbtici, 3 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6504;Náhrada tela stavca implantátom a komplexná rekonštrukcia na chrbtici, 4 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6505;Náhrada tela stavca implantátom a komplexná rekonštrukcia na chrbtici, 5 a viac stavcov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6511;Náhrada tela stavca osobitným materiálom a komplexná rekonštrukcia na chrbtici, 1 stavec;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6512;Náhrada tela stavca osobitným materiálom a komplexná rekonštrukcia na chrbtici, 2 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6513;Náhrada tela stavca osobitným materiálom a komplexná rekonštrukcia na chrbtici, 3 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6514;Náhrada tela stavca osobitným materiálom a komplexná rekonštrukcia na chrbtici, 4 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6515;Náhrada tela stavca osobitným materiálom a komplexná rekonštrukcia na chrbtici, 5 a viac stavcov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6516;Náhrada tela stavca a komplexná rekonštrukcia na chrbtici, predný podporný štep bez korekcie;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6517;Náhrada tela stavca a komplexná rekonštrukcia na chrbtici, predný podporný štep s korekcou;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
-5t6411;Dorzálna spondylodéza, 1 segment;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
-5t6412;Dorzálna spondylodéza, 2 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
-5t6413;Dorzálna spondylodéza, 3 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
-5t6414;Dorzálna spondylodéza, 4 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
-5t6415;Dorzálna spondylodéza, 5 segmentov;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
-5t6416;Dorzálna spondylodéza, 6 a viac segmentov;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
+5t6501;Náhrada tela stavca implantátom, 1 stavec;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6502;Náhrada tela stavca implantátom, 2 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6503;Náhrada tela stavca implantátom, 3 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6504;Náhrada tela stavca implantátom, 4 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6505;Náhrada tela stavca implantátom, 5 a viac stavcov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6511;Náhrada tela stavca osobitným materiálom, 1 stavec;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6512;Náhrada tela stavca osobitným materiálom, 2 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6513;Náhrada tela stavca osobitným materiálom, 3 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6514;Náhrada tela stavca osobitným materiálom, 4 stavce;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6515;Náhrada tela stavca osobitným materiálom, 5 a viac stavcov;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t65x1;Náhrada tela stavca, predný podporný štep bez korekcie;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t65x2;Náhrada tela stavca, predný podporný štep s korekcou;Trauma a poúrazové stavy;S52-19;Komplexná spondylodéza pre traumu a poúrazové stavy
+5t6401;Dorzálna spondylodéza, 1 segment;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
+5t6402;Dorzálna spondylodéza, 2 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
+5t6403;Dorzálna spondylodéza, 3 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
+5t6404;Dorzálna spondylodéza, 4 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
+5t6405;Dorzálna spondylodéza, 5 segmentov;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
+5t6406;Dorzálna spondylodéza, 6 a viac segmentov;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
 5t6421;Ventrálna spondylodéza, 1 segment;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
 5t6422;Ventrálna spondylodéza, 2 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
 5t6423;Ventrálna spondylodéza, 3 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
 5t6424;Ventrálna spondylodéza, 4 segmenty;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
 5t6425;Ventrálna spondylodéza, 5 segmentov;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
 5t6426;Ventrálna spondylodéza, 6 a viac segmentov;Trauma a poúrazové stavy;S52-20;Spondylodéza pre traumu a poúrazové stavy
-5t654;Kyfektómia;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t655;Dorzálna korekcia na chrbtici bez ventrálneho uvoľnenia;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t656;Dorzálna korekcia na chrbtici s ventrálnym uvoľnením;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t657;Dorzoventrálna korekcia  na chrbtici;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t658;Kolumnotómia a polysegmentálna dorzálna lordotizačná spondylodéza [DLS] podľa Zielkeho;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t659;Kolumnotómia a transpedikulárna subtrakčná osteotómia;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t65a;Kolumnotómia a monosegmentálna cervikotorakálna lordotizačná spondylodéza;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t65b;Dorzo-ventrálna epifyzeodéza na chrbtici;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t65c;Unilaterálna epifyzeodéza na chrbtici s dorzálnou fúziou stavca;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t65d;Bilaterálna epifyzeodéza na chrbtici s dorzálnou fúziou stavca;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6621;Otvorená repozícia chrbtice (dynamická stabilizácia) skobou, 1 segment;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6622;Otvorená repozícia chrbtice (dynamická stabilizácia) skobou, 2 segmenty;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6623;Otvorená repozícia chrbtice (dynamická stabilizácia) skobou, 3 segmenty;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6624;Otvorená repozícia chrbtice (dynamická stabilizácia) skobou, 4 a viac segmentov;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6661;Otvorená repozícia chrbtice (dynamická stabilizácia) háčkovými dlahami, 1 segment;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6662;Otvorená repozícia chrbtice (dynamická stabilizácia) háčkovými dlahami, 2 segmenty;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6663;Otvorená repozícia chrbtice (dynamická stabilizácia) háčkovými dlahami, 3 segmenty;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6664;Otvorená repozícia chrbtice (dynamická stabilizácia) háčkovými dlahami, 4 a viac segmentov;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
-5t6601;Otvorená repozícia chrbtice (dynamická stabilizácia) drôtovou serklážou, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6602;Otvorená repozícia chrbtice (dynamická stabilizácia) drôtovou serklážou, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6603;Otvorená repozícia chrbtice (dynamická stabilizácia) drôtovou serklážou, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6604;Otvorená repozícia chrbtice (dynamická stabilizácia) drôtovou serklážou, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6611;Otvorená repozícia chrbtice (dynamická stabilizácia) skrutkou, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6612;Otvorená repozícia chrbtice (dynamická stabilizácia) skrutkou, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6613;Otvorená repozícia chrbtice (dynamická stabilizácia) skrutkou, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6614;Otvorená repozícia chrbtice (dynamická stabilizácia) skrutkou, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6631;Otvorená repozícia chrbtice (dynamická stabilizácia) ventrálnym systémom skrutiek a dláh, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6632;Otvorená repozícia chrbtice (dynamická stabilizácia) ventrálnym systémom skrutiek a dláh, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6633;Otvorená repozícia chrbtice (dynamická stabilizácia) ventrálnym systémom skrutiek a dláh, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6634;Otvorená repozícia chrbtice (dynamická stabilizácia) ventrálnym systémom skrutiek a dláh, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6641;Otvorená repozícia chrbtice (dynamická stabilizácia) dorzálnym systémom skrutiek a dláh, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6642;Otvorená repozícia chrbtice (dynamická stabilizácia) dorzálnym systémom skrutiek a dláh, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6643;Otvorená repozícia chrbtice (dynamická stabilizácia) dorzálnym systémom skrutiek a dláh, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6644;Otvorená repozícia chrbtice (dynamická stabilizácia) dorzálnym systémom skrutiek a dláh, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6651;Otvorená repozícia chrbtice (dynamická stabilizácia) systémom skrutiek a tyčí, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6652;Otvorená repozícia chrbtice (dynamická stabilizácia) systémom skrutiek a tyčí, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6653;Otvorená repozícia chrbtice (dynamická stabilizácia) systémom skrutiek a tyčí, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6654;Otvorená repozícia chrbtice (dynamická stabilizácia) systémom skrutiek a tyčí, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6671;Otvorená repozícia chrbtice (dynamická stabilizácia) intervertebrálnym cage, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6672;Otvorená repozícia chrbtice (dynamická stabilizácia) intervertebrálnym cage, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6673;Otvorená repozícia chrbtice (dynamická stabilizácia) intervertebrálnym cage, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6674;Otvorená repozícia chrbtice (dynamická stabilizácia) intervertebrálnym cage, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6681;Otvorená repozícia chrbtice (dynamická stabilizácia) fixačným interným systémom, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6682;Otvorená repozícia chrbtice (dynamická stabilizácia) fixačným interným systémom, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6683;Otvorená repozícia chrbtice (dynamická stabilizácia) fixačným interným systémom, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t6684;Otvorená repozícia chrbtice (dynamická stabilizácia) fixačným interným systémom, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t66x1;Otvorená repozícia chrbtice (dynamická stabilizácia), ostatné: 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t66x2;Otvorená repozícia chrbtice (dynamická stabilizácia), ostatné: 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t66x3;Otvorená repozícia chrbtice (dynamická stabilizácia), ostatné: 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t66x4;Otvorená repozícia chrbtice (dynamická stabilizácia), ostatné: 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
-5t67x;Minimálne invazívne ošetrenie na chrbtici a dynamická stabilizácia na chrbtici, ostatné;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6743;Komplexná kombinovaná ventrálna a dorzálna rekonštrukcia na chrbtici bez fúzie;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
+5t6741;Komplexná rekonštrukcia  na chrbtici s dorzálnou fúziou stavca, jednostranná;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
+5t6742;Komplexná rekonštrukcia na chrbtici s dorzálnou fúziou stavca, obojstranná;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
+5t6621;Osteosyntéza chrbtice skobou, 1 segment;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
+5t6622;Osteosyntéza chrbtice skobou, 2 segmenty;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
+5t6623;Osteosyntéza chrbtice skobou, 3 segmenty;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
+5t6624;Osteosyntéza chrbtice skobou, 4 a viac segmentov;Trauma a poúrazové stavy;S52-21;Stabilizácie chrbtice pre traumu a poúrazové stavy
+5t6601;Osteosyntéza chrbtice drôtovou serklážou, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6602;Osteosyntéza chrbtice drôtovou serklážou, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6603;Osteosyntéza chrbtice drôtovou serklážou, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6604;Osteosyntéza chrbtice drôtovou serklážou, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6611;Osteosyntéza chrbtice skrutkou, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6612;Osteosyntéza chrbtice skrutkou, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6613;Osteosyntéza chrbtice skrutkou, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6614;Osteosyntéza chrbtice skrutkou, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6631;Osteosyntéza chrbtice ventrálnym systémom skrutiek a dláh, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6632;Osteosyntéza chrbtice ventrálnym systémom skrutiek a dláh, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6633;Osteosyntéza chrbtice ventrálnym systémom skrutiek a dláh, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6634;Osteosyntéza chrbtice ventrálnym systémom skrutiek a dláh, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6641;Osteosyntéza chrbtice dorzálnym systémom skrutiek a dláh, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6642;Osteosyntéza chrbtice dorzálnym systémom skrutiek a dláh, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6643;Osteosyntéza chrbtice dorzálnym systémom skrutiek a dláh, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6644;Osteosyntéza chrbtice dorzálnym systémom skrutiek a dláh, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6651;Osteosyntéza chrbtice systémom skrutiek a tyčí, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6652;Osteosyntéza chrbtice systémom skrutiek a tyčí, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6653;Osteosyntéza chrbtice systémom skrutiek a tyčí, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6654;Osteosyntéza chrbtice systémom skrutiek a tyčí, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6671;Osteosyntéza chrbtice intervertebrálnou klietkou, 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6672;Osteosyntéza chrbtice intervertebrálnou klietkou, 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6673;Osteosyntéza chrbtice intervertebrálnou klietkou, 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6674;Osteosyntéza chrbtice intervertebrálnou klietkou, 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t66x1;Osteosyntéza chrbtice, ostatné: 1 segment;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t66x2;Osteosyntéza chrbtice, ostatné: 2 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t66x3;Osteosyntéza chrbtice, ostatné: 3 segmenty;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t66x4;Osteosyntéza chrbtice, ostatné: 4 a viac segmentov;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
+5t6ax;Minimálne invazívne ošetrenie na chrbtici, ostatné;Trauma a poúrazové stavy;S52-22;Iné stabilizácie na chrbtici pre traumu a poúrazové stavy
 5a90201;Dorzálny prístup ku krčnej chrbtici, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90202;Dorzálny prístup ku krčnej chrbtici, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90203;Dorzálny prístup ku krčnej chrbtici, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90203;Dorzálny prístup ku krčnej chrbtici, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90211;Laminotómia krčnej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90212;Laminotómia krčnej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90213;Laminotómia krčnej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90213;Laminotómia krčnej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90221;Hemilaminektómia krčnej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90222;Hemilaminektómia krčnej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90223;Hemilaminektómia krčnej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90223;Hemilaminektómia krčnej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90231;Laminektómia krčnej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90232;Laminektómia krčnej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90233;Laminektómia krčnej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90233;Laminektómia krčnej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a902x;Iný prístup ku krčnej chrbtici;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90301;Dorzálny prístup k hrudnej chrbtici, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90302;Dorzálny prístup k hrudnej chrbtici, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90303;Dorzálny prístup k hrudnej chrbtici, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90303;Dorzálny prístup k hrudnej chrbtici, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90311;Laminotómia hrudnej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90312;Laminotómia hrudnej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90313;Laminotómia hrudnej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90313;Laminotómia hrudnej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90321;Hemilaminektómia hrudnej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90322;Hemilaminektómia hrudnej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90323;Hemilaminektómia hrudnej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90323;Hemilaminektómia hrudnej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90331;Laminektómia hrudnej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90332;Laminektómia hrudnej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90333;Laminektómia hrudnej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90333;Laminektómia hrudnej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a903x;Iný prístup k hrudnej chrbtici;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90401;Dorzálny prístup k bedrovej chrbtici, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90402;Dorzálny prístup k bedrovej chrbtici, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90403;Dorzálny prístup k bedrovej chrbtici, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90403;Dorzálny prístup k bedrovej chrbtici, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90411;Laminotómia bedrovej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90412;Laminotómia bedrovej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90413;Laminotómia bedrovej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90413;Laminotómia bedrovej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90421;Hemilaminektómia bedrovej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90422;Hemilaminektómia bedrovej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90423;Hemilaminektómia bedrovej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90423;Hemilaminektómia bedrovej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90431;Laminektómia bedrovej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90432;Laminektómia bedrovej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90433;Laminektómia bedrovej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90433;Laminektómia bedrovej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90441;Flavektómia bedrovej chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a90442;Flavektómia bedrovej chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5a90443;Flavektómia bedrovej chrbtice, viac ako 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t620;Excízia spondylofytu (osteofytu);Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t621;Parciálna excízia tela stavca chrbtice;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t6961;Dekompresia miešneho kanála uvoľnením kosti, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t6962;Dekompresia miešneho kanála uvoľnením kosti, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t6963;Dekompresia miešneho kanála uvoľnením kosti, 3 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t6964;Dekompresia miešneho kanála uvoľnením kosti, 4 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
-5t697;Uvoľnenie miešneho kanála po korekcii deformít v prvom sedení;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5a90443;Flavektómia bedrovej chrbtice, 3 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6201;Excízia spondylofytu (osteofytu), 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6202;Excízia spondylofytu (osteofytu), 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6203;Excízia spondylofytu (osteofytu), 3 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6204;Excízia spondylofytu (osteofytu), 4 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6211;Parciálna excízia tela stavca chrbtice, 1 segment;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6212;Parciálna excízia tela stavca chrbtice, 2 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6213;Parciálna excízia tela stavca chrbtice, 3 segmenty;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t6214;Parciálna excízia tela stavca chrbtice, 4 a viac segmentov;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t621a;Parciálna resekcia  hemivertebry;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
+5t621b;Excízia kostného a kĺbneho tkaniva chrbtice dentis epistrophei;Trauma a poúrazové stavy;S52-23;Dekompresia miešneho kanála pre traumu a poúrazové stavy
 5a904x;Iný prístup k bedrovej chrbtici;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t639;Transplantácie autológnej spongiózy (štepu) alebo kortikospongiózneho štepu na chrbtici;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t63a0;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t63a1;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t63b0;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t63b1;Kostná náhrada na chrbtici, použite keramického kostného materiálu s obohatením rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t63c;Kostná náhrada na chrbtici, použite humánnej demineralizovanej kostnej matrix;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t63d;Kostná náhrada na chrbtici, použitie alogénneho kostného transplantátu;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t63e;Kostná náhrada na chrbtici, použitie xenogénneho kostného transplantátu;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6321;Kostná náhrada na chrbtici, použite autológnej spongiózy (štepu) alebo kortikospongiózneho štepu;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6300;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6301;Kostná náhrada na chrbtici, použitie kostného materiálu z kolagénnych vlákien s obohatením rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6310;Kostná náhrada na chrbtici, použite keramického kostného materiálu bez obohatenia rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6311;Kostná náhrada na chrbtici, použite keramického kostného materiálu s obohatením rastovými bunkami kosti;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6320;Kostná náhrada na chrbtici, použite humánnej demineralizovanej kostnej matrix;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6322;Kostná náhrada na chrbtici, použitie alogénneho kostného transplantátu;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t6323;Kostná náhrada na chrbtici, použitie xenogénneho kostného transplantátu;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t63x;Kostná náhrada na chrbtici, ostatné;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t690;Odstránenie osteosyntetického materiálu z chrbtice;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t695;Revízia po operácii chrbtice;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t69x2;Odstránenie osteosyntetického materiálu z chrbtice;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t69x4;Revízia po operácii chrbtice;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6991;Vertebroplastika, 1 stavec;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6992;Vertebroplastika, 2 stavce;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t6993;Vertebroplastika, 3 stavce;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
@@ -184,7 +177,7 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5t69a2;Kyfoplastika, 2 stavce;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t69a3;Kyfoplastika, 3 stavce;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t69a4;Kyfoplastika, 4 a viac stavcov;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
-5t69x1;Iné operácie na chrbtici, HALO fixácia;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
+5t69x1;HALO fixácia chrbtice;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t69xx;Iné operácie na chrbtici, ostatné;Trauma a poúrazové stavy;S52-24;Iné výkony na chrbtici pre traumu a poúrazové stavy
 5t061;Osteosyntéza skrutkou;Trauma a poúrazové stavy;S52-31;Osteosyntéza pre poúrazové stavy a komplikácie
 5t063;Osteosyntéza dlahou;Trauma a poúrazové stavy;S52-31;Osteosyntéza pre poúrazové stavy a komplikácie

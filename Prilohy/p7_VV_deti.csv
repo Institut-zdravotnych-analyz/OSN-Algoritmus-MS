@@ -1,9 +1,9 @@
 kod_hlavneho_vykonu;nazov_vykonu;nazov_ms;kod_ms
 93084;Chirurgická liečba idiopatických deformít v detskom veku;Chirurgická liečba idiopatických deformít v detskom veku;S55-01
-93085;Chirurgická liečba kongenitálnych deformít v detskom veku  ;Chirurgická liečba kongenitálnych deformít v detskom veku ;S55-02
-93086;Chirurgická liečba neurogénnych deformít v detskom veku ;Chirurgická liečba neurogénnych deformít v detskom veku ;S55-03
+93085;Chirurgická liečba kongenitálnych deformít v detskom veku;Chirurgická liečba kongenitálnych deformít v detskom veku ;S55-02
+93086;Chirurgická liečba neurogénnych deformít v detskom veku;Chirurgická liečba neurogénnych deformít v detskom veku ;S55-03
 93087;Chirurgická liečba deformít v detskom veku pri syndrómových skoliózach;Chirurgická liečba deformít v detskom veku pri syndrómových skoliózach;S55-04
-93088;Chirurgická liečba poúrazových deformít v detskom veku ;Chirurgická liečba poúrazových deformít v detskom veku ;S55-05
+93088;Chirurgická liečba poúrazových deformít v detskom veku;Chirurgická liečba poúrazových deformít v detskom veku ;S55-05
 93042;Paliatívna chirurgická liečba nádorov chrbtice - C0-C7;Paliatívna chirurgická liečba nádorov chrbtice - C0-C7;S55-06
 93043;Paliatívna chirurgická liečba nádorov chrbtice - T1-L5;Paliatívna chirurgická liečba nádorov chrbtice - T1-L5;S55-07
 93044;Paliatívna perkutánna chirurgická liečba nádorov chrbtice - T1-S1;Paliatívna perkutánna chirurgická liečba nádorov chrbtice - T1-S1;S55-08
@@ -12,7 +12,7 @@ kod_hlavneho_vykonu;nazov_vykonu;nazov_ms;kod_ms
 93047;Radikálna chirurgická liečba nádorov chrbtice  - T1-L5;Radikálna chirurgická liečba nádorov chrbtice  - T1-L5;S55-11
 93048;Radikálna chirurgická liečba nádorov chrbtice - S1-Co;Radikálna chirurgická liečba nádorov chrbtice - S1-Co;S55-12
 93049;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - C0-C2;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - C0-C2;S55-13
-93050;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - C3-C7 ;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - C3-C7 ;S55-14
+93050;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - C3-C7;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - C3-C7 ;S55-14
 93051;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - T1-T11;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - T1-T11;S55-15
 93052;Chirurgická liečba úrazov chrbtice bez neurologického deficitu -T12-L2;Chirurgická liečba úrazov chrbtice bez neurologického deficitu -T12-L2;S55-16
 93053;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - L1-L5;Chirurgická liečba úrazov chrbtice bez neurologického deficitu - L1-L5;S55-17
@@ -29,7 +29,7 @@ kod_hlavneho_vykonu;nazov_vykonu;nazov_ms;kod_ms
 93064;Chirurgická liečba úrazov chrbtice s neurologickým deficitom - T12-L2;Chirurgická liečba úrazov chrbtice s neurologickým deficitom - T12-L2;S55-28
 93065;Chirurgická liečba úrazov chrbtice s neurologickým deficitom - L1-L5;Chirurgická liečba úrazov chrbtice s neurologickým deficitom - L1-L5;S55-29
 93066;Chirurgická liečba úrazov chrbtice s neurologickým deficitom - S-Co;Chirurgická liečba úrazov chrbtice s neurologickým deficitom - S-Co;S55-30
-93067;Chirurgická liečba degen. ochorení chrbtice - C0-C7 ;Chirurgická liečba degen. ochorení chrbtice - C0-C7 ;S55-31
+93067;Chirurgická liečba degen. ochorení chrbtice - C0-C7;Chirurgická liečba degen. ochorení chrbtice - C0-C7 ;S55-31
 93068;Chirurgická liečba degen. ochorení chrbtice - T1-S1;Chirurgická liečba degen. ochorení chrbtice - T1-S1;S55-32
 93069;Chirurgická liečba degen. ochorení chrbtice - S2-Co + SI kĺby;Chirurgická liečba degen. ochorení chrbtice - S2-Co + SI kĺby;S55-33
 93070;Chirurgická liečba instabilít chrbtice - C0-C2;Chirurgická liečba instabilít chrbtice - C0-C2;S55-34
