@@ -1,0 +1,1936 @@
+skupina_diagnoz;kod_hlavnej_diagnozy;nazov_hlavnej_diagnozy
+Akútna leukémia;c910-;Akútna lymfoblastová leukémia (ALL)
+Akútna leukémia;c9130;Prolymfocytová leukémia z B-buniek, bez kompletnej remisie
+Akútna leukémia;c915-;Leukémia /lymfóm z dospelých T-buniek spojený s infekciou HTLV-1
+Akútna leukémia;c916-;Prolymfocytová leukémia z T-buniek
+Akútna leukémia;c918-;Leukémia zo zrelých B-buniek Burkittovho typu
+Akútna leukémia;c919-;Lymfatická leukémia, bližšie neurčená
+Akútna leukémia;c920-;Akútna myeloblastová leukémia (AML)
+Akútna leukémia;c923-;Myelosarkóm
+Akútna leukémia;c924-;Akútna promyelocytová leukémia (PCL)
+Akútna leukémia;c925-;Akútna myelomonocytová leukémia
+Akútna leukémia;c926-;Akútna myeloická leukémia s 11q23 abnormalitou
+Akútna leukémia;c927-;Iná myeloická leukémia
+Akútna leukémia;c928-;Akútna myeloická leukémia s multilineárnou dyspláziou
+Akútna leukémia;c929-;Myeloická leukémia, bližšie neurčená
+Akútna leukémia;c930-;Akútna monoblastová/monocytová leukémia
+Akútna leukémia;c937-;Iná monocytová leukémia
+Akútna leukémia;c939-;Monocytová leukémia, bližšie neurčená
+Akútna leukémia;c940-;Akútna erytroleukémia
+Akútna leukémia;c942-;Akútna megakaryoblastová leukémia
+Akútna leukémia;c943-;Mastocytová leukémia
+Akútna leukémia;c944-;Akútna panmyelóza s myelofibrózou
+Akútna leukémia;c947-;Iná bližšie určená leukémia
+Akútna leukémia;c948;Blastová kríza pri chronickej myeloickej leukémii (CML)
+Akútna leukémia;c950-;Akútna leukémia bližšie neurčeného bunkového typu
+Akútna leukémia;c957-;Iná leukémia bližšie neurčeného bunkového typu
+Akútna leukémia;c959-;Leukémia, bližšie neurčená
+Akútna leukémia;d462;Refraktérna anémia s veľkým množstvom blastov
+Akútne zlyhanie pečene;k720;Akútne a subakútne pečeňové zlyhávanie
+Akútny peptický vred jejúna;k280;Peptický vred jejúna, akútny s krvácaním
+Ascites;r18;Ascites
+Barrettov pažerák;k227;Barrettov pažerák
+Bolesti hlavy - vybrané diagnózy;g432;Status migraenosus [migrénový stav]
+Bolesti hlavy - vybrané diagnózy;g433;Komplikovaná migréna
+Bolesti hlavy - vybrané diagnózy;g440;Syndróm klastrovej bolesti hlavy [Cluster headache syndrome]
+Bolesti hlavy - vybrané diagnózy;g932;Benígna intrakraniálna hypertenzia
+Bolesti hlavy - vybrané diagnózy;g971;Iná reakcia na spinálnu a lumbálnu punkciu
+Cerebelárna ataxia;g11-;Dedičná ataxia
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;f431;Posttraumatická stresová porucha
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g551;Kompresia nervových koreňov a spletí pri poškodení medzistavcových platničiek (M50-M51†)
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g552;Kompresia nervových koreňov a spletí pri spondylóze (M47.-†)
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g553;Kompresia nervových koreňov a spletí pri iných dorzopatiách (M45-M46†, M48.-†, M53-M54†)
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g558;Kompresia nervových koreňov a spletí pri iných chorobách zatriedených inde
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g560;Syndróm karpálneho tunela
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g561;Iné poškodenie n. medianus
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g562;Poškodenie n. ulnaris
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g563;Poškodenie n. radialis
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g568;Iná mononeuropatia hornej končatiny
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;g569;Mononeuropatia hornej končatiny, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h102;Iná akútna konjunktivitída
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h104;Chronická konjunktivitída
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h105;Blefarokonjunktivitída
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h268;Iná katarakta, bližšie určená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h55;Nystagmus a iné nepravidelné pohyby oka
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h728;Iná perforácia blany bubienka
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h833;Vplyv hluku na vnútorné ucho
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h90-;Prevodová a percepčná strata sluchu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h910;Ototoxická strata sluchu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h918;Iná strata sluchu, bližšie určená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;h931;Zvonenie v ušiach [tinnitus aurium]
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i10-;Primárna [esenciálna] artériová hypertenzia
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i158-;Iná sekundárna artériová hypertenzia
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i159-;Sekundárna artériová hypertenzia, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i516;Srdcovocievna choroba, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i730;Raynaudov syndróm
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i738;Iné choroby periférnych ciev, bližšie určené
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i739;Choroba periférnych ciev, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i792;Periférna angiopatia pri chorobách zatriedených inde
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;i798;Iná choroba tepien, tepničiek a vlásočníc pri chorobách zatriedených inde
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k700;Alkoholová tuková choroba pečene
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k701;Alkoholová hepatitída
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k703;Alkoholová cirhóza pečene
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k710;Toxická choroba pečene s cholestázou
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k711;Toxická choroba pečene s pečeňovou nekrózou
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k712;Toxická choroba pečene s akútnou hepatitídou
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k713;Toxická choroba pečene s chronickou perzistujúcou hepatitídou
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k715;Toxická choroba pečene s chronickou aktívnou hepatitídou
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k717;Toxická choroba pečene s fibrózou a cirhózou pečene
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k718;Toxická choroba pečene s inými poruchami pečene
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;k719;Toxická choroba pečene, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r000;Tachykardia, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r001;Bradykardia, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r008;Iná a bližšie neurčená porucha srdcovej činnosti
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r03-;Abnormálne hodnoty krvného tlaku bez určenia diagnózy
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r060;Dýchavičnosť (dyspnoe)
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r061;Stridor (hvizdot) pri dýchaní
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r062;Sipenie (pískanie) pri dýchaní
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r091;Zápal pohrudnice
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r101;Bolesť v hornej časti brucha
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r11;Pocit na vracanie (nauzea) a vracanie (vomitus)
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r16-;Hepatomegália a splenomegália, nezatriedené inde
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r17;Žltačka, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r230;Cyanóza
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r42;Závrat [vertigo]
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r43-;Poruchy čuchu a chuti
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r450;Nervozita
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r451;Nepokoj a vzrušenosť
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r457;Stav emočného šoku a stresu, bližšie neurčený
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r490;Dysfónia
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r491;Afónia
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r5080;Horúčka neznámeho pôvodu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r53;Malátnosť a únava
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r55;Synkopa a kolaps
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r590;Lokalizované zväčšenie lymfatických uzlín
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r600;Lokalizovaný opuch
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r601;Generalizovaný opuch
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r787;Nález abnormálnej koncentrácie ťažkého kovu v krvi
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r788;Nález inej bližšie určenej látky, ktorá sa normálne v krvi nenachádza
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r826;Abnormálna koncentrácia látky prevažne nemedicínskeho pôvodu v moči
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r829;Iné a bližšie neurčené abnormálne nálezy v moči
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r936;Abnormálny nález pri diagnostickom zobrazení končatín
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r937;Abnormálny nález pri diagnostickom zobrazení iných častí svalovej a kostrovej sústavy
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r938;Abnormálny nález pri diagnostickom zobrazení iných bližšie určených telových štruktúr
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;r94-;Abnormálne výsledky funkčných vyšetrení
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t66;Bližšie neurčené účinky žiarenia
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t67-;Účinky tepla a svetla
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t68;Podchladenie
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t691;Oziabliny
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t698;Iný účinok zníženej teploty, bližšie určený
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t699;Účinok zníženej teploty, bližšie neurčený
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t70-;Účinok tlaku vzduchu a tlaku vody
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t750;Účinok blesku
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t751;Utopenie a topenie (nie smrteľné)
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t752;Účinky vibrácie
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t754;Účinok elektrického prúdu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t758;Iný účinok z vonkajších príčin, bližšie určený
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t784;Alergia, bližšie neurčená
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t96;Neskoré následky otravy liekmi, liečivami a biologicky aktívnymi látkami
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;t97;Neskoré následky toxických účinkov látky používanej najmä mimo lekárstva
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w423;Poranenie účinkom hluku - MU: Športové a atletické priestranstvo
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w424;Poranenie účinkom hluku - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w425;Poranenie účinkom hluku - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w426;Poranenie účinkom hluku - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w427;Poranenie účinkom hluku - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w428;Poranenie účinkom hluku - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w429;Poranenie účinkom hluku - MU: Nešpecifikované miesto
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w434;Poškodenie účinkom vibrácií - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w435;Poškodenie účinkom vibrácií - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w436;Poškodenie účinkom vibrácií - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w437;Poškodenie účinkom vibrácií - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w438;Poškodenie účinkom vibrácií - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w439;Poškodenie účinkom vibrácií - MU: Nešpecifikované miesto
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w885;Poškodenie ionizujúcim žiarením - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w886;Poškodenie ionizujúcim žiarením - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w887;Poškodenie ionizujúcim žiarením - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w888;Poškodenie ionizujúcim žiarením - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w889;Poškodenie ionizujúcim žiarením - MU: Nešpecifikované miesto
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w894;Poškodenie umelým viditeľným a ultrafialovým svetlom - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w895;Poškodenie umelým viditeľným a ultrafialovým svetlom - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w896;Poškodenie umelým viditeľným a ultrafialovým svetlom - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w897;Poškodenie umelým viditeľným a ultrafialovým svetlom - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w898;Poškodenie umelým viditeľným a ultrafialovým svetlom - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w899;Poškodenie umelým viditeľným a ultrafialovým svetlom - MU: Nešpecifikované miesto
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w904;Poškodenie iným neionizujúcim žiarením - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w905;Poškodenie iným neionizujúcim žiarením - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w906;Poškodenie iným neionizujúcim žiarením - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w907;Poškodenie iným neionizujúcim žiarením - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w908;Poškodenie iným neionizujúcim žiarením - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w909;Poškodenie iným neionizujúcim žiarením - MU: Nešpecifikované miesto
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w913;Poškodenie bližšie neurčeným typom žiarenia - MU: Športové a atletické priestranstvo
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w914;Poškodenie bližšie neurčeným typom žiarenia - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w915;Poškodenie bližšie neurčeným typom žiarenia - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w916;Poškodenie bližšie neurčeným typom žiarenia - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w917;Poškodenie bližšie neurčeným typom žiarenia - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w918;Poškodenie bližšie neurčeným typom žiarenia - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w919;Nehoda s vystavením žiareniu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w924;Poškodenie nadmernou horúčavou umelého pôvodu - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w925;Poškodenie nadmernou horúčavou umelého pôvodu - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w926;Poškodenie nadmernou horúčavou umelého pôvodu - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w927;Poškodenie nadmernou horúčavou umelého pôvodu - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w928;Poškodenie nadmernou horúčavou umelého pôvodu - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w929;Nehoda s vystavením nadmernej horúčave umelého pôvodu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w934;Poškodenie nadmerným chladom umelého pôvodu - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w935;Poškodenie nadmerným chladom umelého pôvodu - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w936;Poškodenie nadmerným chladom umelého pôvodu - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w937;Poškodenie nadmerným chladom umelého pôvodu - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w938;Poškodenie nadmerným chladom umelého pôvodu - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w939;Nehoda s vystavením nadmernému chladu umelého pôvodu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w944;Poškodenie vysokým a nízkym tlakom vzduchu a zmenami tlaku vzduchu - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w945;Poškodenie vysokým a nízkym tlakom vzduchu a zmenami tlaku vzduchu - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w946;Poškodenie vysokým a nízkym tlakom vzduchu a zmenami tlaku vzduchu - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w947;Poškodenie vysokým a nízkym tlakom vzduchu a zmenami tlaku vzduchu - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w948;Poškodenie vysokým a nízkym tlakom vzduchu a zmenami tlaku vzduchu - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w949;Nehoda s vystavením zmenám tlaku vzduchu
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w994;Poškodenie inými a bližšie neurčenými umelými činiteľmi prostredia - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w995;Poškodenie inými a bližšie neurčenými umelými činiteľmi prostredia - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w996;Poškodenie inými a bližšie neurčenými umelými činiteľmi prostredia - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w997;Poškodenie inými a bližšie neurčenými umelými činiteľmi prostredia - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w998;Poškodenie inými a bližšie neurčenými umelými činiteľmi prostredia - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;w999;Poškodenie inými a bližšie neurčenými umelými činiteľmi prostredia - MU: Nešpecifikované miesto
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x304;Poškodenie nadmernou prirodzenou horúčavou - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x305;Poškodenie nadmernou prirodzenou horúčavou - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x306;Poškodenie nadmernou prirodzenou horúčavou - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x307;Poškodenie nadmernou prirodzenou horúčavou - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x308;Poškodenie nadmernou prirodzenou horúčavou - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x309;Poškodenie nadmernou prirodzenou horúčavou - MU: Nešpecifikované miesto
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x314;Poškodenie nadmerným prirodzeným chladom - MU: Ulica a cesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x315;Poškodenie nadmerným prirodzeným chladom - MU: Obchod a služby
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x316;Poškodenie nadmerným prirodzeným chladom - MU: Priemyselné objekty
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x317;Poškodenie nadmerným prirodzeným chladom - MU: Poľnohospodárske
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x318;Poškodenie nadmerným prirodzeným chladom - MU: Iné špecifikované miesta
+Chemické, biologické faktory ochorenia - pracovné lekárstvo;x319;Poškodenie nadmerným prirodzeným chladom - MU: Nešpecifikované miesto
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;f842;Rettov syndróm
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g14;Postpoliomyelitický syndróm
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g211;Iný sekundárny Parkinsonov syndróm zapríčinený liekmi
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g212;Sekundárny Parkinsonov syndróm zapríčinený inými vonkajšími faktormi
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g213;Parkinsonov syndróm po zápale mozgu
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g214;Vaskulárny Parkinsonov syndróm
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g218;Iný sekundárny Parkinsonov syndróm
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g219;Sekundárny Parkinsonov syndróm, bližšie neurčený
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g22;Parkinsonov syndróm pri chorobách zatriedených inde
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g240;Dystónia zapríčinená liekmi
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g244;Idiopatická orofaciálna dystónia
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g248;Iná dystónia
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g249;Dystónia, bližšie neurčená
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g258-;Iná bližšie určená extrapyramídová porucha a porucha hybnosti
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g259;Extrapyramídová porucha a porucha hybnosti, bližšie neurčená
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g26;Extrapyramídové poruchy a poruchy hybnosti pri chorobách zatriedených inde
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g903;Multisystémová degenerácia
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g91-;Hydrocefalus
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g931;Anoxické poškodenie mozgu, nezatriedené inde
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g937;Reyeov syndróm
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;g950;Syringomyelia a syringobulbia
+Degeneratívne ochorenia nervového systému - vybrané diagnózy I.;i673;Progresívna subkortikálna cievna encefalopatia
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;a81-;Pomalá vírusová infekcia centrálnej nervovej sústavy
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g10;Huntingtonova choroba
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g12-;Spinálna svalová atrofia a príbuzné syndrómy
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g13-;Systémová atrofia prvotne postihujúca centrálny nervový systém pri chorobách zatriedených inde
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g2090;Parkinsonova choroba, bližšie neurčená, bez motorickej fluktuácie
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g210;Malígny neuroleptický syndróm
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g23-;Iná degeneratívna choroba bazálnych ganglií
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g241;Idiopatická familiárna dystónia
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g242;Idiopatická nefamiliárna dystónia
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g255;Iná chorea
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g312;Degenerácia nervovej sústavy zapríčinená alkoholom
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g318-;Iná bližšie určená degeneratívna choroba nervovej sústavy
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g319;Degeneratívna choroba nervovej sústavy, bližšie neurčená
+Degeneratívne ochorenia nervového systému - vybrané diagnózy II.;g32-;Iná degeneratívna choroba nervovej sústavy pri chorobách zatriedených inde
+Diabetes mellitus s komplikáciami;e102-;Diabetes mellitus 1. typu: s obličkovými komplikáciami
+Diabetes mellitus s komplikáciami;e105-;Diabetes mellitus 1. typu: s periférnymi cievnymi komplikáciami
+Diabetes mellitus s komplikáciami;e1074;Diabetes mellitus 1. typu: s mnohopočetnými komplikáciami, so syndrómom diabetickej nohy, kompenzovaný
+Diabetes mellitus s komplikáciami;e1075;Diabetes mellitus 1. typu: s mnohopočetnými komplikáciami, so syndrómom diabetickej nohy, dekompenzovaný
+Diabetes mellitus s komplikáciami;e112-;Diabetes mellitus 2. typu: s obličkovými komplikáciami
+Diabetes mellitus s komplikáciami;e115-;Diabetes mellitus 2. typu: s periférnymi cievnymi komplikáciami
+Diabetes mellitus s komplikáciami;e1174;Diabetes mellitus 2. typu: s mnohopočetnými komplikáciami, so syndrómom diabetickej nohy, kompenzovaný
+Diabetes mellitus s komplikáciami;e1175;Diabetes mellitus 2. typu: s mnohopočetnými komplikáciami, so syndrómom diabetickej nohy, dekompenzovaný
+Diabetes mellitus s komplikáciami;e122-;Diabetes mellitus spojený s podvýživou: s obličkovými komplikáciami
+Diabetes mellitus s komplikáciami;e123-;Diabetes mellitus spojený s podvýživou: s očnými komplikáciami
+Diabetes mellitus s komplikáciami;e125-;Diabetes mellitus spojený s podvýživou: s periférnymi cievnymi komplikáciami
+Diabetes mellitus s komplikáciami;e132-;Iný diabetes mellitus, bližšie určený: s obličkovými komplikáciami
+Diabetes mellitus s komplikáciami;e133-;Iný diabetes mellitus, bližšie určený: s očnými komplikáciami
+Diabetes mellitus s komplikáciami;e135-;Iný diabetes mellitus, bližšie určený: s periférnymi cievnymi komplikáciami
+Diabetes mellitus s komplikáciami;e142-;Diabetes mellitus, bližšie neurčený: s obličkovými komplikáciami
+Diabetes mellitus s komplikáciami;e143-;Diabetes mellitus, bližšie neurčený: s očnými komplikáciami
+Diabetes mellitus s komplikáciami;e145-;Diabetes mellitus, bližšie neurčený: s periférnymi cievnymi komplikáciami
+Diabetes mellitus v gravidite;o239;Iná a bližšie neurčená infekcia močovopohlavných orgánov v gravidite
+Diabetes mellitus v gravidite;o24-;Diabetes mellitus v gravidite
+Dorzopatia a poruchy nervových koreňov - vybrané diagnózy;g545;Neuralgická amyotrofia
+Dorzopatia a poruchy nervových koreňov - vybrané diagnózy;m480-;Stenóza spinálneho kanála
+Dorzopatia a poruchy nervových koreňov - vybrané diagnózy;m500;Poškodenie krčnej medzistavcovej platničky s myelopatiou (G99.2*)
+Dorzopatia a poruchy nervových koreňov - vybrané diagnózy;m501;Poškodenie krčnej medzistavcovej platničky s radikulopatiou
+Dorzopatia a poruchy nervových koreňov - vybrané diagnózy;m532-;Instabilita chrbtice
+Echinokokóza;b670;Cystická echinokokóza pečene zapríčinená Echinococcus granulosus
+Echinokokóza;b675;Alveolová echinokokóza pečene zapríčinená Echinococcus multilocularis
+Echinokokóza;b678;Echinokokóza pečene, bližšie neurčená
+Epilepsia a iné záchvaty;g253;Myoklonus
+Epilepsia a iné záchvaty;g40-;Epilepsia
+Epilepsia a iné záchvaty;g41-;Epileptický stav [Status epilepticus]
+Gastrointestinálne krvácanie;k3182;Angiodysplázia žalúdka a dvanástnika s prejavmi krvácania
+Gastrointestinálne krvácanie;k5522;Angiodysplázia hrubého čreva, s krvácaním
+Gastrointestinálne krvácanie;k5582;Angiodysplázia tenkého čreva, s krvácaním
+Gastrointestinálne krvácanie;k920;Hemateméza
+Gastrointestinálne krvácanie;k921;Meléna
+Gastrointestinálne krvácanie;k922;Gastrointestinálne krvácanie, bližšie neurčené
+Genetické syndrómové ochorenia;q850;Neurofibromatóza (benígna)
+Genetické syndrómové ochorenia;q851;Tuberózna skleróza
+Genetické syndrómové ochorenia;q90-;Downov syndróm
+Genetické syndrómové ochorenia;q91-;Edwardsov syndróm a Patauov syndróm
+Genetické syndrómové ochorenia;q93-;Monozómia a delécia autozómov, nezatriedená inde
+Hematologické a hematoonkologické ochorenia;c81-;Hodgkinov lymfóm
+Hematologické a hematoonkologické ochorenia;c82-;Folikulový lymfóm
+Hematologické a hematoonkologické ochorenia;c83-;Nefolikulový lymfóm
+Hematologické a hematoonkologické ochorenia;c84-;Lymfóm zo zrelých T/NK-buniek
+Hematologické a hematoonkologické ochorenia;c85-;Iný a bližšie neurčený typ non-Hodgkinovho lymfómu
+Hematologické a hematoonkologické ochorenia;c86-;Iný lymfóm z T/NK-buniek, bližšie určený
+Hematologické a hematoonkologické ochorenia;c88-;Zhubná imunoproliferatívna choroba
+Hematologické a hematoonkologické ochorenia;c90-;Mnohopočetný myelóm a zhubné nádory z plazmatických buniek
+Hematologické a hematoonkologické ochorenia;c91-;Lymfocytová leukémia
+Hematologické a hematoonkologické ochorenia;c92-;Myeloická leukémia
+Hematologické a hematoonkologické ochorenia;c93-;Monocytová leukémia
+Hematologické a hematoonkologické ochorenia;c94-;Iná leukémia z bližšie určených buniek
+Hematologické a hematoonkologické ochorenia;c950-;Akútna leukémia bližšie neurčeného bunkového typu
+Hematologické a hematoonkologické ochorenia;c951-;Chronická leukémia bližšie neurčeného bunkového typu
+Hematologické a hematoonkologické ochorenia;c957-;Iná leukémia bližšie neurčeného bunkového typu
+Hematologické a hematoonkologické ochorenia;c959-;Leukémia, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;c96-;Iný a bližšie neurčený zhubný nádor lymfatického, krvotvorného a príbuzného tkaniva
+Hematologické a hematoonkologické ochorenia;d45;Polycythaemia vera
+Hematologické a hematoonkologické ochorenia;d46-;Myelodysplastický syndróm
+Hematologické a hematoonkologické ochorenia;d47-;Iný nádor lymfatického, krvotvorného a príbuzného tkaniva s neurčitým alebo neznámym správaním
+Hematologické a hematoonkologické ochorenia;d55-;Anémia zapríčinená poruchou enzýmov
+Hematologické a hematoonkologické ochorenia;d56-;Talasémia
+Hematologické a hematoonkologické ochorenia;d57-;Kosáčikovitá anémia
+Hematologické a hematoonkologické ochorenia;d58-;Iná dedičná hemolytická anémia
+Hematologické a hematoonkologické ochorenia;d590;Autoimunitná hemolytická anémia zapríčinená liekmi
+Hematologické a hematoonkologické ochorenia;d591;Iná autoimunitná hemolytická anémia
+Hematologické a hematoonkologické ochorenia;d592;Neautoimunitná hemolytická anémia zapríčinená liekmi
+Hematologické a hematoonkologické ochorenia;d594;Iná neautoimunitná hemolytická anémia
+Hematologické a hematoonkologické ochorenia;d595;Paroxyzmálna nočná hemoglobinúria
+Hematologické a hematoonkologické ochorenia;d596;Hemoglobinúria zapríčinená hemolýzou z iných vonkajších príčin
+Hematologické a hematoonkologické ochorenia;d598;Iná získaná hemolytická anémia
+Hematologické a hematoonkologické ochorenia;d599;Získaná hemolytická anémia, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d60-;Získaná čistá aplázia červených krviniek [erytroblastopénia] [pure red cell aplasia]
+Hematologické a hematoonkologické ochorenia;d610;Vrodená aplastická anémia
+Hematologické a hematoonkologické ochorenia;d6118;Iná aplastická anémia zapríčinená liekmi
+Hematologické a hematoonkologické ochorenia;d6119;Aplastická anémia zapríčinená liekmi, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d612;Aplastická anémia z iných vonkajších príčin
+Hematologické a hematoonkologické ochorenia;d613;Idiopatická aplastická anémia
+Hematologické a hematoonkologické ochorenia;d618;Iná aplastická anémia, bližšie určená
+Hematologické a hematoonkologické ochorenia;d619;Aplastická anémia, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d640;Dedičná sideroblastová [sideroachrestická] anémia
+Hematologické a hematoonkologické ochorenia;d641;Sekundárna sideroblastová [sideroachrestická] anémia zapríčinená ochorením
+Hematologické a hematoonkologické ochorenia;d643;Iná sideroblastová [sideroachrestická] anémia
+Hematologické a hematoonkologické ochorenia;d644;Vrodená dyserytropoetická anémia
+Hematologické a hematoonkologické ochorenia;d65-;Diseminovaná intravaskulárna koagulácia [Defibrinačný syndróm]
+Hematologické a hematoonkologické ochorenia;d66;Dedičný nedostatok faktora VIII
+Hematologické a hematoonkologické ochorenia;d67;Dedičný nedostatok faktora IX
+Hematologické a hematoonkologické ochorenia;d680;Von Willebrandova choroba
+Hematologické a hematoonkologické ochorenia;d681;Dedičný nedostatok faktora XI
+Hematologické a hematoonkologické ochorenia;d682;Dedičný nedostatok iných koagulačných faktorov
+Hematologické a hematoonkologické ochorenia;d6831;Stav krvácavosti zapríčinený zvýšením protilátok proti faktoru VIII
+Hematologické a hematoonkologické ochorenia;d6832;Stav krvácavosti zapríčinený zvýšením plazmatickej koncentrácie protilátok proti iným faktorom zrážania krvi
+Hematologické a hematoonkologické ochorenia;d6838;Iný stav krvácavosti zapríčinený inými a bližšie neurčenými protilátkami
+Hematologické a hematoonkologické ochorenia;d684;Získaný nedostatok koagulačného faktora
+Hematologické a hematoonkologické ochorenia;d688;Iná porucha zrážanlivosti krvi, bližšie určená
+Hematologické a hematoonkologické ochorenia;d689;Porucha zrážanlivosti krvi, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d691;Kvalitatívna porucha doštičiek
+Hematologické a hematoonkologické ochorenia;d692;Iná netrombocytopenická purpura
+Hematologické a hematoonkologické ochorenia;d693;Idiopatická trombocytopenická purpura
+Hematologické a hematoonkologické ochorenia;d6952;Trombocytopénia indukovaná heparínom, typ I
+Hematologické a hematoonkologické ochorenia;d6953;Trombocytopénia zapríčinená heparínom, typ II
+Hematologické a hematoonkologické ochorenia;d6959;Sekundárna trombocytopénia, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d6961;Trombocytopénia, bližšie neurčená, neoznačená ako refraktérna na transfúznu liečbu
+Hematologické a hematoonkologické ochorenia;d701-;Agranulocytóza a neutropénia zapríčinená liekmi
+Hematologické a hematoonkologické ochorenia;d706;Iná neutropénia
+Hematologické a hematoonkologické ochorenia;d707;Neutropénia, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d71;Funkčná porucha polymorfonukleárnych neutrofilov
+Hematologické a hematoonkologické ochorenia;d720;Genetická anomália leukocytov
+Hematologické a hematoonkologické ochorenia;d728;Iná bližšie určená porucha leukocytov
+Hematologické a hematoonkologické ochorenia;d729;Porucha leukocytov, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d739;Choroba sleziny, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d740;Vrodená methemoglobinémia
+Hematologické a hematoonkologické ochorenia;d748;Iná methemoglobinémia
+Hematologické a hematoonkologické ochorenia;d758;Iná bližšie určená choroba krvi a krvotvorných orgánov
+Hematologické a hematoonkologické ochorenia;d759;Choroba krvi a krvotvorných orgánov, bližšie neurčená
+Hematologické a hematoonkologické ochorenia;d761;Hemofagocytová lymfohistiocytóza
+Hematologické a hematoonkologické ochorenia;d763;Iný syndróm histiocytózy
+Hematologické a hematoonkologické ochorenia;k771-;Postihnutie pečene pri akútnej chorobe štepu proti hostiteľovi [GVHD]
+Hematologické a hematoonkologické ochorenia;k932-;Postihnutie tráviacej trubice pri akútnej chorobe štepu proti hostiteľovi [GVHD]
+Hematologické a hematoonkologické ochorenia;l991-;Postihnutie kože pri akútnej chorobe štepu proti hostiteľovi, [GVHD] (T86.01†, T86.02†)
+Hematologické a hematoonkologické ochorenia;m311;Trombotická mikroangiopatia
+Hematologické a hematoonkologické ochorenia;t860-;Zlyhanie transplantátu krvotvorných kmeňových buniek a choroba graft versus host
+Infekcia nervového systému - vybrané diagnózy I.;a848;Iná vírusová encefalitída prenášaná kliešťami
+Infekcia nervového systému - vybrané diagnózy I.;a849;Vírusová encefalitída prenášaná kliešťami, bližšie neurčená
+Infekcia nervového systému - vybrané diagnózy I.;a85-;Iná vírusová encefalitída, nezatriedená inde
+Infekcia nervového systému - vybrané diagnózy I.;a86;Vírusová encefalitída, bližšie neurčená
+Infekcia nervového systému - vybrané diagnózy I.;a870;Enterovírusová meningitída (G02.0*)
+Infekcia nervového systému - vybrané diagnózy I.;a871;Adenovírusová meningitída (G02.0*)
+Infekcia nervového systému - vybrané diagnózy I.;a872;Lymfocytová choriomeningitída
+Infekcia nervového systému - vybrané diagnózy I.;b004;Herpetická encefalitída (G05.1*)
+Infekcia nervového systému - vybrané diagnózy I.;b011;Varicelová encefalitída (G05.1*)
+Infekcia nervového systému - vybrané diagnózy I.;b020;Zosterová encefalitída (G05.1*)
+Infekcia nervového systému - vybrané diagnózy I.;b022;Zoster s postihnutím iných častí nervovej sústavy
+Infekcia nervového systému - vybrané diagnózy I.;b050;Osýpky komplikované encefalitídou (G05.1*)
+Infekcia nervového systému - vybrané diagnózy I.;b060;Ružienka s nervovými komplikáciami
+Infekcia nervového systému - vybrané diagnózy I.;b262;Parotitická encefalitída (G05.1*)
+Infekcia nervového systému - vybrané diagnózy I.;b582;Toxoplazmová meningoencefalitída (G05.2*)
+Infekcia nervového systému - vybrané diagnózy I.;g041;Tropická spastická paraplégia
+Infekcia nervového systému - vybrané diagnózy I.;g048;Iná encefalitída, myelitída a encefalomyelitída
+Infekcia nervového systému - vybrané diagnózy I.;g09;Následky zápalových chorôb centrálnej nervovej sústavy
+Infekcia nervového systému - vybrané diagnózy II.;a809;Akútna poliomyelitída, bližšie neurčená
+Infekcia nervového systému - vybrané diagnózy II.;a83-;Vírusová encefalitída, prenášaná komármi
+Infekcia nervového systému - vybrané diagnózy II.;a840;Kliešťová encefalitída Ďalekého východu [ruská jarno-letná encefalitída]
+Infekcia nervového systému - vybrané diagnózy II.;a841;Stredoeurópska kliešťová encefalitída
+Infekcia nervového systému - vybrané diagnózy II.;b451;Kryptokokóza mozgu
+Infekcia nervového systému - vybrané diagnózy II.;b461;Rinocerebrálna mukormykóza
+Infekcia nervového systému - vybrané diagnózy II.;b500;Malária zapríčinená Plasmodium falciparum s mozgovými komplikáciami
+Infekcia nervového systému - vybrané diagnózy II.;b690;Cysticerkóza centrálnej nervovej sústavy
+Infekcia nervového systému - vybrané diagnózy II.;g031;Chronická meningitída
+Infekcia nervového systému - vybrané diagnózy II.;g032;Benígna recidivujúca meningitída [Mollaretova]
+Infekcia nervového systému - vybrané diagnózy II.;g040;Akútna diseminovaná encefalitída
+Infekcia nervového systému - vybrané diagnózy II.;g049;Encefalitída, myelitída a encefalomyelitída, bližšie neurčená
+Infekcia nervového systému - vybrané diagnózy II.;g05-;Encefalitída, myelitída a encefalomyelitída pri chorobách zatriedených inde
+Infekcia nervového systému - vybrané diagnózy II.;g060;Intrakraniálny absces a granulóm
+Infekcia nervového systému - vybrané diagnózy II.;g061;Intraspinálny absces a granulóm
+Infekcia nervového systému - vybrané diagnózy II.;g07;Intrakraniálny a intraspinálny absces a granulóm pri chorobách zatriedených inde
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a020;Salmonelová enteritída
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a022;Lokalizovaná salmonelová infekcia
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a028;Iná salmonelová infekcia, bližšie určená
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a060;Akútna amébová dyzentéria
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a061;Chronická črevná amebóza
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a063;Črevný amebóm
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a064;Amébový absces pečene
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a15-;Tuberkulóza dýchacej sústavy bakteriologicky, molekulovobiologicky alebo histologicky potvrdená
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a16-;Tuberkulóza dýchacej sústavy nepotvrdená bakteriologicky, molekulovobiologicky alebo histologicky
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a179;Tuberkulóza nervovej sústavy, bližšie neurčená
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a180;Tuberkulóza kostí a kĺbov
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a181;Tuberkulóza močovopohlavnej sústavy
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a182;Tuberkulózna periférna lymfadenopatia
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a183;Tuberkulóza čriev, peritonea a mezentériových lymfatických uzlín
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a184;Tuberkulóza kože a podkožného tkaniva
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a185;Tuberkulóza oka
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a186;Tuberkulóza ucha
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a188;Tuberkulóza iných bližšie určených orgánov
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a19-;Miliárna tuberkulóza
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a210;Ulceroglandulárna tularémia
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a211;Okuloglandulárna tularémia
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a212;Pľúcna tularémia
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a213;Gastrointestinálna tularémia
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a217;Generalizovaná tularémia
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a219;Tularémia, bližšie neurčená
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a230;Brucelóza zapríčinená Brucella melitensis
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a231;Brucelóza zapríčinená Brucella abortus
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a232;Brucelóza zapríčinená Brucella suis
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a233;Brucelóza zapríčinená Brucella canis
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a238;Iná brucelóza
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a268;Iná forma eryzipeloidu
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a270;Leptospiróza zapríčinená Leptospira icterohaemorrhagiae [Weilova choroba]
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a278;Iná forma leptospirózy
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a282;Extraintestinálna yersinióza
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a288;Iná baktériová zoonóza, bližšie určená, nezatriedená inde
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a320;Kožná listerióza
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a328;Iná forma listeriózy
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a692-;Lymská choroba
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a841;Stredoeurópska kliešťová encefalitída
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a848;Iná vírusová encefalitída prenášaná kliešťami
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;a849;Vírusová encefalitída prenášaná kliešťami, bližšie neurčená
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b18-;Chronická vírusivá hepatitída
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b208;Choroba HIV s následnými inými infekčnými a parazitovými chorobami bližšie určenými
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b227;Choroba HIV s následnými rozličnými chorobami zatriedenými inde
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b342;Koronavírusová infekcia bez bližšieho určenia miesta
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b50-;Malária zapríčinená Plasmodium falciparum
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b51-;Malária zapríčinená Plasmodium vivax
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b52-;Malária zapríčinená Plasmodium malariae
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b53-;Iná parazitologicky potvrdená malária
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b54;Malária, bližšie neurčená
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b86;Scabies
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b948;Následky iných bližšie určených infekčných a parazitových chorôb
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;b949;Následky bližšie neurčených infekčných alebo parazitových chorôb
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;u071;Potvrdená infekcia COVID-19
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;u072;Podozrenie z infekcie COVID-19
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;u073;Potvrdená infekcia COVID-19 PCR testom
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;u074;Potvrdená infekcia COVID-19 Ag testom
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;u080;Osobná anamnéza COVID-19
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;u100;Multisystémový zápalový syndróm v časovom vzťahu ku COVID-19
+Infekčné a paracitárne ochorenie -pracovné lekárstvo;u109;Multisystémový zápalový syndróm v časovom vzťahu ku COVID-19, bližšie neurčený
+Intoxikácie - pracovné lekárstvo;g622;Polyneuropatia zapríčinená inými toxickými látkami
+Intoxikácie - pracovné lekárstvo;g701;Toxická nervovosvalová choroba
+Intoxikácie - pracovné lekárstvo;m1009;Idiopatická dna, miesto bližšie neurčené
+Intoxikácie - pracovné lekárstvo;n141;Nefropatia zapríčinená liečivami, liekmi alebo biologickými látkami
+Intoxikácie - pracovné lekárstvo;n142;Nefropatia zapríčinená bližšie neurčeným liečivom, liekom alebo biologickou látkou
+Intoxikácie - pracovné lekárstvo;n143;Nefropatia zapríčinená ťažkými kovmi
+Intoxikácie - pracovné lekárstvo;n144;Toxická nefropatia, nezatriedená inde
+Intoxikácie - pracovné lekárstvo;n158;Iná tubulointersticiálna choroba obličiek, bližšie určená
+Intoxikácie - pracovné lekárstvo;n189;Chronická choroba obličiek, bližšie neurčená
+Intoxikácie - pracovné lekárstvo;t36-;Otrava celkovo účinkujúcimi antibiotikami
+Intoxikácie - pracovné lekárstvo;t37-;Otrava inými systémovo účinkujúcimi protiinfekčnými a antiparazitovými prostriedkami
+Intoxikácie - pracovné lekárstvo;t38-;Otrava hormónmi, ich syntetickými náhradami a antagonistami, nezatriedená inde
+Intoxikácie - pracovné lekárstvo;t39-;Otrava neopioidovými analgetikami, antipyretikami a antireumatikami
+Intoxikácie - pracovné lekárstvo;t40-;Otrava opiátmi a psychodysleptikami [halucinogénmi]
+Intoxikácie - pracovné lekárstvo;t41-;Otrava anestetikami a liečebnými plynmi
+Intoxikácie - pracovné lekárstvo;t42-;Otrava antiepileptikami, sedatívami, hypnotikami a antiparkinsonikami
+Intoxikácie - pracovné lekárstvo;t43-;Otrava psychotropnými látkami, nezatriedenými inde
+Intoxikácie - pracovné lekárstvo;t44-;Otrava liečivami, účinkujúcimi najmä na autonómnu nervovú sústavu
+Intoxikácie - pracovné lekárstvo;t45-;Otrava prostriedkami, účinkujúcimi najmä celkovo a na zložky krvi, nezatriedenými inde
+Intoxikácie - pracovné lekárstvo;t46-;Otrava prostriedkami, účinkujúcimi najmä na obehovú sústavu
+Intoxikácie - pracovné lekárstvo;t47-;Otrava prostriedkami, účinkujúcimi najmä na tráviacu sústavu
+Intoxikácie - pracovné lekárstvo;t48-;Otrava prostriedkami, účinkujúcimi primárne na hladké a kostrové svaly a na dýchaciu sústavu
+Intoxikácie - pracovné lekárstvo;t490;Otrava protiplesňovými, protiinfekčnými a protizápalovými liekmi s miestnym účinokm, nezatriedenými inde
+Intoxikácie - pracovné lekárstvo;t491;Otrava antipruriginózami
+Intoxikácie - pracovné lekárstvo;t492;Otrava lokálnymi adstringenciami a detergenciami
+Intoxikácie - pracovné lekárstvo;t493;Otrava emolienciami, demulcenciami a ochrannými prostriedkami
+Intoxikácie - pracovné lekárstvo;t494;Otrava keratolytikami, keratoplastikami a inými liekmi a prípravkami na ošetrovanie vlasov
+Intoxikácie - pracovné lekárstvo;t496;Otrava liekmi a prípravkami používanými v otorinolaryngológii
+Intoxikácie - pracovné lekárstvo;t497;Otrava zubnými liekmi na miestne použitie
+Intoxikácie - pracovné lekárstvo;t498;Otrava inými prostriedkami na miestne použitie
+Intoxikácie - pracovné lekárstvo;t499;Otrava prostriedkami na miestne použitie, bližšie neurčenými
+Intoxikácie - pracovné lekárstvo;t50-;Otrava diuretikami a inými bližšie neurčenými liekmi, liečivami a biologickými látkami
+Intoxikácie - pracovné lekárstvo;t51-;Toxický účinok alkoholu
+Intoxikácie - pracovné lekárstvo;t52-;Toxický účinok organických rozpúšťadiel
+Intoxikácie - pracovné lekárstvo;t53-;Toxický účinok halogénových derivátov alifatických a aromatických uhľovodíkov
+Intoxikácie - pracovné lekárstvo;t54-;Toxický účinok leptavej látky
+Intoxikácie - pracovné lekárstvo;t55;Toxický účinok mydla a detergencia
+Intoxikácie - pracovné lekárstvo;t56-;Toxický účinok kovu
+Intoxikácie - pracovné lekárstvo;t57-;Toxický účinok inej anorganickej látky
+Intoxikácie - pracovné lekárstvo;t58;Toxický účinok oxidu uhoľnatého (CO)
+Intoxikácie - pracovné lekárstvo;t59-;Toxický účinok iného plynu, dymu a výparov
+Intoxikácie - pracovné lekárstvo;t60-;Toxický účinok pesticídu
+Intoxikácie - pracovné lekárstvo;t61-;Toxický účinok škodlivých látok požitých ako morská potrava
+Intoxikácie - pracovné lekárstvo;t62-;Toxický účinok iných škodlivých látok požitých ako potrava
+Intoxikácie - pracovné lekárstvo;t63-;Toxický účinok kontaktu s jedovatými zvieratami
+Intoxikácie - pracovné lekárstvo;t64;Toxický účinok aflatoxínu a iných mykotoxínov, znečisťujúcich potravu
+Intoxikácie - pracovné lekárstvo;t65-;Toxický účinok inej a bližšie neurčenej látky
+Intoxikácie - pracovné lekárstvo;x454;Náhodná otrava a priotrávenie alkoholom - MU: Ulica a cesta
+Intoxikácie - pracovné lekárstvo;x455;Náhodná otrava a priotrávenie alkoholom - MU: Obchod a služby
+Intoxikácie - pracovné lekárstvo;x456;Náhodná otrava a priotrávenie alkoholom - MU: Priemyselné objekty
+Intoxikácie - pracovné lekárstvo;x457;Náhodná otrava a priotrávenie alkoholom - MU: Poľnohospodárske
+Intoxikácie - pracovné lekárstvo;x458;Náhodná otrava a priotrávenie alkoholom - MU: Iné špecifikované miesta
+Intoxikácie - pracovné lekárstvo;x459;Náhodná otrava a priotrávenie alkoholom - MU: Nešpecifikované miesto
+Intoxikácie - pracovné lekárstvo;x464;Náhodná otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Ulica a cesta
+Intoxikácie - pracovné lekárstvo;x465;Náhodná otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Obchod a služby
+Intoxikácie - pracovné lekárstvo;x466;Náhodná otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Priemyselné objekty
+Intoxikácie - pracovné lekárstvo;x467;Náhodná otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Poľnohospodárske
+Intoxikácie - pracovné lekárstvo;x468;Náhodná otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Iné špecifikované miesta
+Intoxikácie - pracovné lekárstvo;x469;Náhodná otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Nešpecifikované miesto
+Intoxikácie - pracovné lekárstvo;x474;Náhodná otrava a priotrávenie inými plynmi a výparmi - MU: Ulica a cesta
+Intoxikácie - pracovné lekárstvo;x475;Náhodná otrava a priotrávenie inými plynmi a výparmi - MU: Obchod a služby
+Intoxikácie - pracovné lekárstvo;x476;Náhodná otrava a priotrávenie inými plynmi a výparmi - MU: Priemyselné objekty
+Intoxikácie - pracovné lekárstvo;x477;Náhodná otrava a priotrávenie inými plynmi a výparmi - MU: Poľnohospodárske
+Intoxikácie - pracovné lekárstvo;x478;Náhodná otrava a priotrávenie inými plynmi a výparmi - MU: Iné špecifikované miesta
+Intoxikácie - pracovné lekárstvo;x479;Náhodná otrava a priotrávenie inými plynmi a výparmi - MU: Nešpecifikované miesto
+Intoxikácie - pracovné lekárstvo;x484;Náhodná otrava a priotrávenie pesticídmi - miesto udalosti - MU: Ulica a cesta
+Intoxikácie - pracovné lekárstvo;x485;Náhodná otrava a priotrávenie pesticídmi - miesto udalosti - MU: Obchod a služby
+Intoxikácie - pracovné lekárstvo;x486;Náhodná otrava a priotrávenie pesticídmi - miesto udalosti - MU: Priemyselné objekty
+Intoxikácie - pracovné lekárstvo;x487;Náhodná otrava a priotrávenie pesticídmi - miesto udalosti - MU: Poľnohospodárske
+Intoxikácie - pracovné lekárstvo;x488;Náhodná otrava a priotrávenie pesticídmi - miesto udalosti - MU: Iné špecifikované miesta
+Intoxikácie - pracovné lekárstvo;x489;Náhodná otrava a priotrávenie pesticídmi - miesto udalosti - MU: Nešpecifikované miesto
+Intoxikácie - pracovné lekárstvo;x493;Náhodná otrava a priotr. inými a bližšie neurčenými chemikáliami a škodlivými látkami - MU: Športové a atletické priestranstvo
+Intoxikácie - pracovné lekárstvo;x494;Náhodná otrava a priotr. inými a bližšie neurčenými chemikáliami a škodlivými látkami - MU: Ulica a cesta
+Intoxikácie - pracovné lekárstvo;x495;Náhodná otrava a priotr. inými a bližšie neurčenými chemikáliami a škodlivými látkami - MU: Obchod a služby
+Intoxikácie - pracovné lekárstvo;x496;Náhodná otrava a priotr. inými a bližšie neurčenými chemikáliami a škodlivými látkami - MU: Priemyselné objekty
+Intoxikácie - pracovné lekárstvo;x497;Náhodná otrava a priotr. inými a bližšie neurčenými chemikáliami a škodlivými látkami - MU: Poľnohospodárske
+Intoxikácie - pracovné lekárstvo;x498;Náhodná otrava a priotr. inými a bližšie neurčenými chemikáliami a škodlivými látkami - MU: Iné špecifikované miesta
+Intoxikácie - pracovné lekárstvo;x499;Náhodná otrava
+Intoxikácie - pracovné lekárstvo;y155;Otrava a priotrávenie alkoholom s neurčeným úmyslom - MU: Obchod a služby
+Intoxikácie - pracovné lekárstvo;y156;Otrava a priotrávenie alkoholom s neurčeným úmyslom - MU: Priemyselné objekty
+Intoxikácie - pracovné lekárstvo;y157;Otrava a priotrávenie alkoholom s neurčeným úmyslom - MU: Poľnohospodárske
+Intoxikácie - pracovné lekárstvo;y158;Otrava a priotrávenie alkoholom s neurčeným úmyslom - MU: Iné špecifikované miesta
+Intoxikácie - pracovné lekárstvo;y159;Otrava a priotrávenie alkoholom s neurčeným úmyslom - MU: Nešpecifikované miesto
+Intoxikácie - pracovné lekárstvo;y165;Otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Obchod a služby
+Intoxikácie - pracovné lekárstvo;y166;Otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Priemyselné objekty
+Intoxikácie - pracovné lekárstvo;y167;Otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Poľnohospodárske
+Intoxikácie - pracovné lekárstvo;y168;Otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Iné špecifikované miesta
+Intoxikácie - pracovné lekárstvo;y169;Otrava a priotrávenie organickými rozpúšťadlami, halogenovanými uhľovodíkmi a ich výparmi - MU: Nešpecifikované miesto
+Intoxikácie - pracovné lekárstvo;y17-;Otrava inými plynmi a výparmi a vystavenie týmto látkam, s neurčeným úmyslom
+Intoxikácie - pracovné lekárstvo;y18-;Otrava pesticídmi a vystavenie týmto látkam, s neurčeným úmyslom
+Intoxikácie - pracovné lekárstvo;y19-;Otrava inými a bližšie neurčenými chemikáliami a škodlivými látkami a vystavenie týmto látkam, s neurčeným úmyslom
+Iná cievna choroba mozgu;i672;Mozgová ateroskleróza
+Iná cievna choroba mozgu;i675;Syndróm moyamoya
+Iná cievna choroba mozgu;i676;Nehnisová trombóza intrakraniálneho žilového systému
+Iná cievna choroba mozgu;i677;Mozgová arteritída, nezatriedená inde
+Iná cievna choroba mozgu;i6788;Iná cievna choroba mozgu, bližšie určená
+Iná cievna choroba mozgu;i679;Cievna choroba mozgu, bližšie neurčená
+Iná cievna choroba mozgu;i68-;Cievna choroba mozgu pri chorobách zatriedených inde
+Iná cievna choroba mozgu;i720;Aneuryzma a disekcia krčnej tepny
+Iná cievna choroba mozgu;i725;Aneuryzma a disekcia iných prívodných mozgových tepien
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;f03;Demencia, bližšie neurčená
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;f04;Organický amnestický syndróm nezapríčinený alkoholom alebo inými psychoaktívnymi látkami
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;f068;Iná psychická porucha zapríčinená poškodením a dysfunkciou mozgu a somatickou chorobou, bližšie určená
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;f069;Psychická porucha zapríčinená poškodením a dysfunkciou mozgu a somatickou chorobou, bližšie neurčená
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;f070;Porucha osobnosti na organickom podklade
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;f071;Postencefalitický syndróm
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;g940;Hydrocefalus pri infekčných a parazitových chorobách zatriedených inde (A00-B99†)
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;g941;Hydrocefalus pri nádorovej chorobe (C00-D48†)
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;g942;Hydrocefalus pri iných chorobách zatriedených inde
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;g969;Choroba centrálnej nervovej sústavy, bližšie neurčená
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;g990;Autonómna neuropatia pri endokrinných a metabolických chorobách
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;g991;Iná choroba autonómnej nervovej sústavy pri iných chorobách zatriedených inde
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy I.;g992;Myelopatia pri chorobách zatriedených inde
+Iné chronické poruchy mozgovej funkcie a demencia - vybrané diagnózy II.;g310;Ohraničená atrofia mozgu
+Iné ochorenia NS - vybrané diagnózy I.;d1802;Hemangióm intrakraniálny
+Iné ochorenia NS - vybrané diagnózy I.;f95-;Tiková porucha
+Iné ochorenia NS - vybrané diagnózy I.;g08;Intrakraniálna a intraspinálna flebitída a tromboflebitída
+Iné ochorenia NS - vybrané diagnózy I.;g901;Familiárna dysautonómia [Rileyho-Dayov syndróm]
+Iné ochorenia NS - vybrané diagnózy I.;g930;Mozgová cysta
+Iné ochorenia NS - vybrané diagnózy I.;g951;Cievna myelopatia
+Iné ochorenia NS - vybrané diagnózy I.;g952;Kompresia miechy, bližšie neurčená
+Iné ochorenia NS - vybrané diagnózy I.;g959;Choroba miechy, bližšie neurčená
+Iné ochorenia NS - vybrané diagnózy I.;g960;Presakovanie mozgovomiechového moku
+Iné ochorenia NS - vybrané diagnózy I.;g961;Choroba mozgových a miechových plien, nezatriedená inde
+Iné ochorenia NS - vybrané diagnózy I.;g968;Iná choroba centrálnej nervovej sústavy, bližšie určená
+Iné ochorenia NS - vybrané diagnózy I.;g970;Presakovanie mozgovomiechového moku po spinálnej punkcii
+Iné ochorenia NS - vybrané diagnózy I.;g972;Vnútrolebková hypotenzia po komorovom skrate
+Iné ochorenia NS - vybrané diagnózy I.;g9780;Pooperačná likvorea
+Iné ochorenia NS - vybrané diagnózy I.;g9781;Pooperačný (cerebelárny) mutizmus
+Iné ochorenia NS - vybrané diagnózy I.;h474;Choroba chiasma opticum
+Iné ochorenia NS - vybrané diagnózy I.;h475;Choroba iných častí zrakových dráh
+Iné ochorenia NS - vybrané diagnózy I.;h476;Choroba kôrového zrakového centra
+Iné ochorenia NS - vybrané diagnózy I.;h48-;Choroba zrakového nervu [n.opticus] a zrakových dráh pri chorobách zatriedených inde
+Iné ochorenia NS - vybrané diagnózy I.;h512;Internukleárna oftalmoplégia
+Iné ochorenia NS - vybrané diagnózy II.;g474;Narkolepsia a kataplexia
+Iné ochorenia NS - vybrané diagnózy II.;g601;Refsumova choroba
+Iné ochorenia NS - vybrané diagnózy II.;t850;Mechanická komplikácia zapríčinená vnútrolebkovou komorovou skratkou (šantom)
+Iné ochorenia NS - vybrané diagnózy II.;t851;Mechanická komplikácia zapríčinená implantovaným elektronickým stimulátorom nervovej sústavy
+Kardiovaskulárne ochorenia;i-;všetky diagnózy s kódom začínajúcim na „I“
+Komplexné endokrinopatie;e200;Idiopatická hypoparatyreóza
+Komplexné endokrinopatie;e208;Iná hypoparatyreóza
+Komplexné endokrinopatie;e209;Hypoparatyreóza, bližšie neurčená
+Komplexné endokrinopatie;e21-;Hyperparatyreóza a iné choroby prištítnych žliaz
+Komplexné endokrinopatie;e232;Diabetes insipidus
+Komplexné endokrinopatie;e272;Addisonova kríza
+Komplexné endokrinopatie;e275;Hyperfunkcia drene nadobličiek
+Komplexné endokrinopatie;e278;Iná choroba nadobličiek, bližšie určená
+Komplexné endokrinopatie;e279;Choroba nadobličiek, bližšie neurčená
+Komplexné endokrinopatie;e290;Hyperfunkcia semenníkov
+Komplexné endokrinopatie;e291;Hypofunkcia semenníkov
+Komplexné endokrinopatie;e298;Iná porucha funkcie semenníkov
+Komplexné endokrinopatie;e890;Hypotyreóza po lekárskom výkone
+Komplexné endokrinopatie;e891;Hypoinzulinémia po lekárskom výkone
+Komplexné endokrinopatie;e892;Hypoparatyreóza po lekárskom výkone
+Komplexné endokrinopatie;e893;Hypopituitarizmus po lekárskom výkone
+Komplexné endokrinopatie;e895;Hypofunkcia semenníkov po lekárskom výkone
+Komplexné endokrinopatie;e896;Hypofunkcia kôry nadobličiek alebo drene nadobličiek po lekárskom výkone
+Komplexné endokrinopatie;e898;Iná endokrinná a metabolická porucha po lekárskom výkone
+Komplexné endokrinopatie;e899;Endokrinná a metabolická porucha po lekárskom výkone, bližšie neurčená
+Komplexné endokrinopatie;e90;Nutričná a metabolická porucha pri chorobách zatriedených inde
+Komplexné ochorenia GIT;e740;Choroba z nahromadenia glykogénu (glykogenóza)
+Komplexné ochorenia GIT;i81;Trombóza v. portae
+Komplexné ochorenia GIT;i850;Varixy pažeráka s krvácaním
+Komplexné ochorenia GIT;k225;Získaný divertikul pažeráka
+Komplexné ochorenia GIT;k311;Hypertrofická pylorostenóza dospelých
+Komplexné ochorenia GIT;k701;Alkoholová hepatitída
+Komplexné ochorenia GIT;k703;Alkoholová cirhóza pečene
+Komplexné ochorenia GIT;k704;Alkoholové zlyhávanie pečene
+Komplexné ochorenia GIT;k710;Toxická choroba pečene s cholestázou
+Komplexné ochorenia GIT;k711;Toxická choroba pečene s pečeňovou nekrózou
+Komplexné ochorenia GIT;k717;Toxická choroba pečene s fibrózou a cirhózou pečene
+Komplexné ochorenia GIT;k721;Chronické pečeňové zlyhávanie
+Komplexné ochorenia GIT;k767;Hepatorenálny syndróm
+Komplexné ochorenia pažeráka;k220;Achalázia kardie
+Komplexné ochorenie pečene;k729;Pečeňové zlyhávanie, bližšie neurčené
+Komplexné ochorenie pečene;k744;Sekundárna biliárna cirhóza
+Komplexné ochorenie pečene;k745;Biliárna cirhóza, bližšie neurčená
+Komplexné ochorenie pečene;k754;Autoimunitná hepatitída
+Komplexné ochorenie pečene;k762;Centrálna hemoragická nekróza pečene
+Metabolické ochorenia v neurológii;e750;GM2-gangliozidóza
+Metabolické ochorenia v neurológii;e751;Iná gangliozidóza
+Metabolické ochorenia v neurológii;e752;Iná sfingolipidóza
+Metabolické ochorenia v neurológii;e754;Neurónová ceroidová lipofuscinóza
+Morbus Madelung;e888;Iná bližšie určená metabolická porucha
+Nezhubné nádory GIT;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Nezhubné nádory GIT;d130;Nezhubný nádor pažeráka
+Nezhubné nádory GIT;d131;Nezhubný nádor žalúdka
+Nezhubné nádory GIT;d132;Nezhubný nádor dvanástnika
+Nezhubné nádory GIT;d133;Nezhubný nádor iných a bližšie neurčených častí tenkého čreva
+Nádorové ochorenia pracovné lekárstvo;c223;Angiosarkóm pečene
+Nádorové ochorenia pracovné lekárstvo;c224;Iný sarkóm pečene
+Nádorové ochorenia pracovné lekárstvo;c227;Iný karcinóm pečene, bližšie určený
+Nádorové ochorenia pracovné lekárstvo;c300;Zhubný nádor nosovej dutiny
+Nádorové ochorenia pracovné lekárstvo;c310;Zhubný nádor čeľustnej dutiny
+Nádorové ochorenia pracovné lekárstvo;c311;Zhubný nádor čuchovej dutiny
+Nádorové ochorenia pracovné lekárstvo;c312;Zhubný nádor čelovej dutiny
+Nádorové ochorenia pracovné lekárstvo;c328;Zhubný nádor hrtana presahujúci viaceré oblasti
+Nádorové ochorenia pracovné lekárstvo;c45-;Mezotelióm
+Nádorové ochorenia pracovné lekárstvo;c670;Zhubný nádor trigonum močového mechúra
+Nádorové ochorenia pracovné lekárstvo;c671;Zhubný nádor klenby močového mechúra
+Nádorové ochorenia pracovné lekárstvo;c672;Zhubný nádor bočnej steny močového mechúra
+Nádorové ochorenia pracovné lekárstvo;c673;Zhubný nádor prednej steny močového mechúra
+Nádorové ochorenia pracovné lekárstvo;c674;Zhubný nádor zadnej steny močového mechúra
+Nádorové ochorenia pracovné lekárstvo;c675;Zhubný nádor krčka močového mechúra
+Nádorové ochorenia pracovné lekárstvo;c676;Zhubný nádor ústia močovodu
+Nádorové ochorenia pracovné lekárstvo;c678;Zhubný nádor močového mechúra presahujúci viaceré oblasti
+Nádorové ochorenia pracovné lekárstvo;c679;Zhubný nádor močového mechúra, bližšie neurčený
+Nádorové ochorenia pracovné lekárstvo;c921-;Chronická myeloická leukémia (CML), BCR/ABL-pozitívna
+Nádorové ochorenia pracovné lekárstvo;d03-;Melanóm in situ
+Nádorové ochorenia pracovné lekárstvo;d144;Nezhubný nádor dýchacej sústavy, bližšie neurčený
+Nádorové ochorenia pracovné lekárstvo;d596;Hemoglobinúria zapríčinená hemolýzou z iných vonkajších príčin
+Nádorové ochorenia pracovné lekárstvo;d598;Iná získaná hemolytická anémia
+Nádorové ochorenia pracovné lekárstvo;d612;Aplastická anémia z iných vonkajších príčin
+Nádorové ochorenia pracovné lekárstvo;d748;Iná methemoglobinémia
+Nádorové ochorenia pracovné lekárstvo;d749;Methemoglobinémia, bližšie neurčená
+Nádorové ochorenia pracovné lekárstvo;d77;Iné poruchy krvi a krvotvorných orgánov pri  chorobách zatriedených inde
+Náhla cievna mozgová príhoda;i60-;Subarachnoidálne krvácanie
+Náhla cievna mozgová príhoda;i61-;Vnútromozgové krvácanie
+Náhla cievna mozgová príhoda;i62-;Iné neúrazové intrakraniálne krvácanie
+Náhla cievna mozgová príhoda;i63-;Mozgový infarkt
+Náhla cievna mozgová príhoda;i64;Cievna mozgová príhoda bližšie neurčená ako krvácanie alebo infarkt
+Náhla cievna mozgová príhoda;i660;Uzáver a zúženie a.cerebri media
+Náhla cievna mozgová príhoda;i661;Uzáver a zúženie a.cerebri anterior
+Náhla cievna mozgová príhoda;i662;Uzáver a zúženie a.cerebri posterior
+Náhla cievna mozgová príhoda;i664;Uzáver a zúženie viacerých mozgových tepien, obojstranne
+Náhla cievna mozgová príhoda;i668;Uzáver a zúženie inej mozgovej tepny
+Náhla cievna mozgová príhoda;i669;Uzáver a zúženie bližšie neurčenej mozgovej tepny
+Náhla cievna mozgová príhoda;i670;Disekcia mozgovej tepny
+Náhla cievna mozgová príhoda;i671-;Mozgová aneuryzma a mozgová artériovenózna fistula bez ruptúry
+Náhla cievna mozgová príhoda;i6780;Vazospazmy pri subarachnoidálnom krvácaní
+Ochorenia GIT;k20;Ezofagitída
+Ochorenia GIT;k228;Iná choroba pažeráka, bližšie určená
+Ochorenia GIT;k3181;Angiodysplázia žalúdka a dvanástnika bez prejavov krvácania
+Ochorenia GIT;k5581;Angiodysplázia tenkého čreva, bez prejavov krvácania
+Ochorenia GIT;k590;Zápcha
+Ochorenia GIT;k621;Polyp konečníka
+Ochorenia kože a podkožia - pracovné lekárstvo;l23-;Alergická kontaktná dermatitída
+Ochorenia kože a podkožia - pracovné lekárstvo;l24-;Iritačná kontaktná dermatitída
+Ochorenia kože a podkožia - pracovné lekárstvo;l25-;Kontaktná dermatitída, bližšie neurčená
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g511;Ganglionitis geniculata
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g512;Melkerssonov-Rosenthalov syndróm
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g513;Klonický spazmus polovice tváre
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g514;Tvárová myokýmia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g518;Iná porucha tvárového nervu
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g520;Porucha čuchového nervu [n. olfactorius]
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g521;Porucha jazykovohltanového nervu [n. glossopharyngeus]
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g522;Porucha blúdivého nervu [n. vagus]
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g523;Porucha podjazykového nervu [n. hypoglossus]
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g527;Porucha viacerých hlavových nervov
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g53-;Poruchy hlavových nervov pri chorobách zatriedených inde
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g561;Iné poškodenie n. medianus
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g562;Poškodenie n. ulnaris
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g563;Poškodenie n. radialis
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g564;Kauzalgia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g568;Iná mononeuropatia hornej končatiny
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g569;Mononeuropatia hornej končatiny, bližšie neurčená
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g57-;Mononeuropatia dolnej končatiny
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g588;Iná bližšie určená mononeuropatia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g589;Mononeuropatia, bližšie neurčená
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g59-;Mononeuropatia pri chorobách zatriedených inde
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g61-;Zápalová polyneuropatia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g62-;Iná polyneuropatia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g63-;Polyneuropatia pri chorobách zatriedených inde
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g64;Iná porucha periférnej nervovej sústavy
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g701;Toxická nervovosvalová choroba
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g9008;Iná idiopatická periférna autonómna neuropatia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g9009;Idiopatická periférna autonómna neuropatia, bližšie neurčená
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g904-;Autonómna dysreflexia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy I.;g908;Iná choroba autonómnej nervovej sústavy
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g587;Mononeuritis multiplex
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g600;Dedičná senzomotorická neuropatia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g602;Neuropatia spojená s dedičnou ataxiou
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g603;Idiopatická progresívna neuropatia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g608;Iná dedičná a idiopatická neuropatia
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g609;Dedičná a idiopatická neuropatia, bližšie neurčená
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g708;Iná myoneurálna porucha, bližšie určená
+Ochorenia mozgových a periférnych nervov - vybrané diagnózy II.;g709;Myoneurálna porucha, bližšie neurčená
+Ochorenia spojivového tkaniva;i00;Reumatická horúčka bez postihnutia srdca
+Ochorenia spojivového tkaniva;i776;Arteritída, bližšie neurčená
+Ochorenia spojivového tkaniva;l405;Artropatická psoriáza (M07.0-M07.3*, M09.0-*)
+Ochorenia spojivového tkaniva;l871;Reaktívna perforujúca kolagenóza
+Ochorenia spojivového tkaniva;m023-;Reiterova choroba
+Ochorenia spojivového tkaniva;m050-;Feltyho syndróm
+Ochorenia spojivového tkaniva;m052-;Reumatoidná artritída s vaskulitídou
+Ochorenia spojivového tkaniva;m053-;Reumatoidná artritída s postihnutím iných orgánov a sústav
+Ochorenia spojivového tkaniva;m061-;Stillova choroba dospelých
+Ochorenia spojivového tkaniva;m063-;Reumatoidné uzlíky
+Ochorenia spojivového tkaniva;m08-;Juvenilná artritída
+Ochorenia spojivového tkaniva;m30-;Polyarteriitis nodosa a príbuzné choroby
+Ochorenia spojivového tkaniva;m310;Hypersenzitívna vaskulitída
+Ochorenia spojivového tkaniva;m313;Wegenerova granulomatóza
+Ochorenia spojivového tkaniva;m314;Syndróm aortálneho oblúka [Takayasu syndrom]
+Ochorenia spojivového tkaniva;m315;Obrovskobunková arteriitída s polymyalgia rheumatica
+Ochorenia spojivového tkaniva;m316;Iná obrovskobunková arteriitída
+Ochorenia spojivového tkaniva;m317;Mikroskopická polyangiitída
+Ochorenia spojivového tkaniva;m318;Iná nekrotizujúca vaskulopatia, bližšie určená
+Ochorenia spojivového tkaniva;m319;Nekrotizujúca vaskulopatia, bližšie neurčená
+Ochorenia spojivového tkaniva;m32-;Systémový lupus erythematosus
+Ochorenia spojivového tkaniva;m33-;Dermatopolymyozitída
+Ochorenia spojivového tkaniva;m34-;Systémová skleróza
+Ochorenia spojivového tkaniva;m350;Sicca syndróm [Sjögren syndrom]
+Ochorenia spojivového tkaniva;m351;Iné prekrývajúce sa syndrómy
+Ochorenia spojivového tkaniva;m352;Behçetova choroba
+Ochorenia spojivového tkaniva;m353;Polymyalgia rheumatica
+Ochorenia spojivového tkaniva;m354;Difúzna (eozinofilná) fasciitída
+Ochorenia spojivového tkaniva;m355;Multifokálna fibroskleróza
+Ochorenia spojivového tkaniva;m358;Iné systémové postihnutie spojiva, bližšie určené
+Ochorenia spojivového tkaniva;m359;Systémové postihnutie spojiva, bližšie neurčené
+Ochorenia spojivového tkaniva;m45-;Ankylozujúca spondylitída [spondylitis ankylosans]
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m18-;Artróza prvého karpometakarpového kĺbu
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m190-;Primárna artróza iných kĺbov
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m500;Poškodenie krčnej medzistavcovej platničky s myelopatiou (G99.2*)
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m501;Poškodenie krčnej medzistavcovej platničky s radikulopatiou
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m509;Poškodenie krčnej medzistavcovej platničky, bližšie neurčené
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m510;Poškodenie driekových a iných medzistavcových platničiek s myelopatiou (G99.2*)
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m511;Poškodenie driekových a iných medzistavcových platničiek s radikulopatiou (G55.1*)
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m512;Iná dislokácia medzistavcovej platničky, bližšie určená
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m513;Iná degenerácia medzistavcovej platničky, bližšie určená
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m518;Iné poškodenie medzistavcovej platničky, bližšie určené
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5410;Radikulopatia na viacerých miestach chrbtice
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5411;Radikulopatia v okcipito-atlanto-axiálnej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5412;Radikulopatia v krčnej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5413;Radikulopatia v krčnohrudníkovej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5414;Radikulopatia v hrudníkovej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5415;Radikulopatia v hrudníkovodriekovej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5416;Radikulopatia v driekovej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5417;Radikulopatia v driekovokrížovej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m5418;Radikulopatia v krížovej a krížovokostrčovej oblasti
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m548-;Iná bolesť chrbta
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m549-;Bolesť chrbta, bližšie neurčená
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m70-;Choroba mäkkého tkaniva v súvislosti so zaťažovaním, preťažovaním a tlakom
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m750;Adhezívna kapsulitída pleca
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m751;Syndróm manžety rotátorov
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m752;Tendinitída m. biceps brachii
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m753;Vápenatejúca tendinitída pleca
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m754;Syndróm narazeného ramena
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m755;Burzitída pleca
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m770;Mediálna epikondylitída
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m771;Laterálna epikondylitída
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m772;Periartritída zápästia
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m774;Metatarzalgia
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m775;Iná entezopatia nohy
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;m851-;Fluoróza kostry
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;x504;Preťaženie a namáhavé alebo opakované pohyby - MU: Ulica a cesta
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;x505;Preťaženie a namáhavé alebo opakované pohyby - MU: Obchod a služby
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;x506;Preťaženie a namáhavé alebo opakované pohyby - MU: Priemyselné objekty
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;x507;Preťaženie a namáhavé alebo opakované pohyby - MU: Poľnohospodárske
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;x508;Preťaženie a namáhavé alebo opakované pohyby - MU: Iné špecifikované miesta
+Ochorenia svalovej a kostrovej sústavy - pracovné lekárstvo;x509;Preťaženie a namáhavé alebo opakované pohyby - MU: Nešpecifikované miesto
+Paralytické syndrómy - vybrané diagnózy I.;g8200;Chabá paraparéza a paraplégia, akútne kompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8201;Chabá paraparéza a paraplégia, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8210;Spastická paraparéza a paraplégia, akútne kompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8211;Spastická paraparéza a paraplégia, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8220;Paraparéza a paraplégia, bližšie neurčená, akútne kompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8221;Paraparéza a paraplégia, bližšie neurčená, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8230;Chabá tetraparéza a tetraplégia, akútne kompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8231;Chabá tetraparéza a tetraplégia, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8240;Spastická tetraparéza a tetraplégia, akútne kompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8241;Spastická tetraparéza a tetraplégia, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8250;Tetraparéza a tetraplégia, bližšie neurčená, akútne kompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g8251;Tetraparéza a tetraplégia, bližšie neurčená, akútne nekompletné priečne poškodenie miechy neúrazového pôvodu
+Paralytické syndrómy - vybrané diagnózy I.;g834-;Syndróm cauda equina
+Paralytické syndrómy - vybrané diagnózy I.;g8380;Locked-in syndróm
+Pneumologické ochorenia - pracovné lekárstvo;j300;Vazomotorická rinitída
+Pneumologické ochorenia - pracovné lekárstvo;j302;Iná sezónna alergická rinitída
+Pneumologické ochorenia - pracovné lekárstvo;j303;Iná alergická rinitída
+Pneumologické ochorenia - pracovné lekárstvo;j380-;Obrna hlasiviek a hrtana
+Pneumologické ochorenia - pracovné lekárstvo;j381;Polyp hlasivky a hrtana
+Pneumologické ochorenia - pracovné lekárstvo;j382;Uzlíky hlasiviek
+Pneumologické ochorenia - pracovné lekárstvo;j440-;Chronická obštrukčná choroba pľúc s akútnou infekciou dolných dýchacích ciest
+Pneumologické ochorenia - pracovné lekárstvo;j441-;Chronická obštrukčná choroba pľúc s akútnou exacerbáciou choroby, bližšie neurčená
+Pneumologické ochorenia - pracovné lekárstvo;j448-;Iná chronická obštrukčná choroba pľúc, bližšie určená
+Pneumologické ochorenia - pracovné lekárstvo;j45-;Bronchiálna astma
+Pneumologické ochorenia - pracovné lekárstvo;j60;Pneumokonióza baníkov uhoľných baní
+Pneumologické ochorenia - pracovné lekárstvo;j61;Pneumokonióza zapríčinená azbestom a inými anorganickými vláknami
+Pneumologické ochorenia - pracovné lekárstvo;j62-;Pneumokonióza zapríčinená prachom obsahujúcim kremík
+Pneumologické ochorenia - pracovné lekárstvo;j63-;Pneumokonióza zapríčinená inými anorganickými prachmi
+Pneumologické ochorenia - pracovné lekárstvo;j64;Pneumokonióza, bližšie neurčená
+Pneumologické ochorenia - pracovné lekárstvo;j65;Pneumokonióza združená s tuberkulózou
+Pneumologické ochorenia - pracovné lekárstvo;j66-;Choroba dýchacích ciest zapríčinená špecifickým organickým prachom
+Pneumologické ochorenia - pracovné lekárstvo;j67-;Alergická alveolitída zapríčinená organickým prachom
+Pneumologické ochorenia - pracovné lekárstvo;j68-;Choroby dýchacej sústavy zapríčinené chemikáliami, plynmi, dymom a výparmi
+Pneumologické ochorenia - pracovné lekárstvo;j69-;Zápal pľúc, zapríčinený tuhými látkami a tekutinami
+Pneumologické ochorenia - pracovné lekárstvo;j70-;Choroba dýchacích orgánov zapríčinená inými vonkajšími faktormi
+Pneumologické ochorenia - pracovné lekárstvo;j84-;Iná choroba interstícia pľúc
+Pneumologické ochorenia - pracovné lekárstvo;j92-;Pohrudnicové zrasty
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;g450-;Vertebrobazilárny syndróm [syndróm vertebrobazilárnej artérie, ]
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;g451-;Syndróm krčnice [a.carotis] (hemisferický)
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;g452-;Syndrómy prívodných mozgových tepien, viacpočetné a obojstranné
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;g454-;Prechodná celková amnézia [amnestická epizóda]
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;g458-;Iná prechodné mozgové ischémie a príbuzné syndrómy
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;g459-;Prechodná mozgová ischémia, bližšie neurčená
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;g46-;Cievne mozgové syndrómy pri mozgových cievnych chorobách (I60-I67†)
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;i65-;Uzáver a zúženie prívodných mozgových tepien, ktoré neviedli k mozgovému infarktu
+Prechodný ischemický záchvat a extrakraniálne cievne uzávery;i663;Uzáver a zúženie mozočkových tepien
+Reumatologické ochorenia;i00;Reumatická horúčka bez postihnutia srdca
+Reumatologické ochorenia;i730;Raynaudov syndróm
+Reumatologické ochorenia;i776;Arteritída, bližšie neurčená
+Reumatologické ochorenia;l405;Artropatická psoriáza (M07.0-M07.3*, M09.0-*)
+Reumatologické ochorenia;l871;Reaktívna perforujúca kolagenóza
+Reumatologické ochorenia;m00-;Pyogénna artritída
+Reumatologické ochorenia;m011-;Tuberkulózna artritída (A18.0†)
+Reumatologické ochorenia;m012-;Artritída pri Lymskej chorobe (A69.2†)
+Reumatologické ochorenia;m02-;Reaktívne artropatie
+Reumatologické ochorenia;m050-;Feltyho syndróm
+Reumatologické ochorenia;m052-;Reumatoidná artritída s vaskulitídou
+Reumatologické ochorenia;m053-;Reumatoidná artritída s postihnutím iných orgánov a sústav
+Reumatologické ochorenia;m058-;Iná séropozitívna reumatoidná artritída
+Reumatologické ochorenia;m059-;Séropozitívna reumatoidná artritída, bližšie neurčená
+Reumatologické ochorenia;m06-;Iné reumatoidné artritídy
+Reumatologické ochorenia;m08-;Juvenilná artritída
+Reumatologické ochorenia;m100-;Idiopatická dna
+Reumatologické ochorenia;m102-;Dna zapríčinená liekmi
+Reumatologické ochorenia;m104-;Iná sekundárna dna
+Reumatologické ochorenia;m109-;Dna, bližšie neurčená
+Reumatologické ochorenia;m11-;Iné kryštálové artropatie
+Reumatologické ochorenia;m12-;Iné artropatie, bližšie určené
+Reumatologické ochorenia;m13-;Iná artritída
+Reumatologické ochorenia;m30-;Polyarteriitis nodosa a príbuzné choroby
+Reumatologické ochorenia;m310;Hypersenzitívna vaskulitída
+Reumatologické ochorenia;m313;Wegenerova granulomatóza
+Reumatologické ochorenia;m314;Syndróm aortálneho oblúka [Takayasu syndrom]
+Reumatologické ochorenia;m315;Obrovskobunková arteriitída s polymyalgia rheumatica
+Reumatologické ochorenia;m316;Iná obrovskobunková arteriitída
+Reumatologické ochorenia;m317;Mikroskopická polyangiitída
+Reumatologické ochorenia;m318;Iná nekrotizujúca vaskulopatia, bližšie určená
+Reumatologické ochorenia;m319;Nekrotizujúca vaskulopatia, bližšie neurčená
+Reumatologické ochorenia;m32-;Systémový lupus erythematosus
+Reumatologické ochorenia;m33-;Dermatopolymyozitída
+Reumatologické ochorenia;m34-;Systémová skleróza
+Reumatologické ochorenia;m350;Sicca syndróm [Sjögren syndrom]
+Reumatologické ochorenia;m351;Iné prekrývajúce sa syndrómy
+Reumatologické ochorenia;m352;Behçetova choroba
+Reumatologické ochorenia;m353;Polymyalgia rheumatica
+Reumatologické ochorenia;m354;Difúzna (eozinofilná) fasciitída
+Reumatologické ochorenia;m355;Multifokálna fibroskleróza
+Reumatologické ochorenia;m357;Syndróm hypermobility
+Reumatologické ochorenia;m358;Iné systémové postihnutie spojiva, bližšie určené
+Reumatologické ochorenia;m359;Systémové postihnutie spojiva, bližšie neurčené
+Reumatologické ochorenia;m45-;Ankylozujúca spondylitída [spondylitis ankylosans]
+Reumatologické ochorenia;m461;Sakroilitída, nezatriedená inde
+Reumatologické ochorenia;m468-;Iná zápalová spondylopatia, bližšie určená:
+Reumatologické ochorenia;m469-;Zápalová spondylopatia, bližšie neurčená:
+Reumatologické ochorenia;m790-;Reumatizmus, bližšie neurčený
+Reumatologické ochorenia;m803-;Pooperačná malabsorpčná osteoporóza s patologickou zlomeninou
+Rôzne ochorenia GIT;k222;Nepriechodnosť pažeráka
+Rôzne ochorenia GIT;k315;Nepriechodnosť dvanástnika
+Rôzne ochorenia GIT;k317;Polyp žalúdka a dvanástnika
+Rôzne ochorenia GIT;k627;Radiačná proktitída
+Skleróza multiplex;g35-;Roztrúsená skleróza [Sclerosis multiplex, Encephalomyelitis disseminata]
+Skleróza multiplex;g36-;Iná akútna roztrúsená [diseminovaná] demyelinizácia
+Skleróza multiplex;g37-;Iná demyelinizačná choroba centrálnej nervovej sústavy
+Skupina onkologických diagnóz 1;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 1;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 1;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 1;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 1;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 1;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 1;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 1;c22-;Zhubný nádor pečene a vnútropečeňových žlčových ciest
+Skupina onkologických diagnóz 1;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 1;c24-;Zhubný nádor iných a bližšie neurčených častí žlčových ciest
+Skupina onkologických diagnóz 1;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 1;c26-;Zhubný nádor iných a nepresne určených tráviacich orgánov
+Skupina onkologických diagnóz 1;c49-;Zhubný nádor iného spojivového a mäkkého tkaniva
+Skupina onkologických diagnóz 1;c56;Zhubný nádor vaječníka
+Skupina onkologických diagnóz 1;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 1;c772;Sekundárny a bližšie neurčený zhubný nádor vnútrobrušnej lymfatickej uzliny
+Skupina onkologických diagnóz 1;c773;Sekundárny a bližšie neurčený zhubný nádor lymfatických uzlín pazuchy a hornej končatiny
+Skupina onkologických diagnóz 1;c78-;Sekundárny zhubný nádor dýchacích a tráviacich orgánov
+Skupina onkologických diagnóz 1;c79-;Sekundárny zhubný nádor na iných a bližšie neurčených miestach
+Skupina onkologických diagnóz 10;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 10;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 10;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 10;c78-;Sekundárny zhubný nádor dýchacích a tráviacich orgánov
+Skupina onkologických diagnóz 100;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 100;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 100;d133;Nezhubný nádor iných a bližšie neurčených častí tenkého čreva
+Skupina onkologických diagnóz 101;c435;Malígny melanóm trupu
+Skupina onkologických diagnóz 101;c445;Iný zhubný nádor kože trupu
+Skupina onkologických diagnóz 101;c792;Sekundárny zhubný nádor kože
+Skupina onkologických diagnóz 102;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 102;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 102;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 103;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 103;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 103;d133;Nezhubný nádor iných a bližšie neurčených častí tenkého čreva
+Skupina onkologických diagnóz 104;c56;Zhubný nádor vaječníka
+Skupina onkologických diagnóz 104;d27;Nezhubný nádor vaječníka
+Skupina onkologických diagnóz 104;d282;Nezhubný nádor vajíčkovodov a väzov maternice
+Skupina onkologických diagnóz 105;c189;Zhubný nádor hrubého čreva, bližšie neurčený
+Skupina onkologických diagnóz 105;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 105;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 106;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 106;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 107;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 107;c680;Zhubný nádor močovej rúry
+Skupina onkologických diagnóz 108;c750;Zhubný nádor prištítnej žľazy
+Skupina onkologických diagnóz 108;d351;Nezhubný nádor prištítnej žľazy
+Skupina onkologických diagnóz 109;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 109;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 11;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 11;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 11;c48-;Zhubný nádor retroperitonea a peritonea
+Skupina onkologických diagnóz 11;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 11;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 11;c538;Zhubný nádor krčka maternice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 11;c54-;Zhubný nádor tela maternice
+Skupina onkologických diagnóz 11;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 11;c678;Zhubný nádor močového mechúra presahujúci viaceré oblasti
+Skupina onkologických diagnóz 11;c791;Sekundárny zhubný nádor močového mechúra a iných a bližšie neurčených močových orgánov
+Skupina onkologických diagnóz 110;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 110;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 111;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 111;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 112;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 112;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 113;c58;Zhubný nádor placenty
+Skupina onkologických diagnóz 113;d067;Karcinóm in situ inej časti krčka maternice
+Skupina onkologických diagnóz 114;c73;Zhubný nádor štítnej žľazy
+Skupina onkologických diagnóz 114;d34;Nezhubný nádor štítnej žľazy
+Skupina onkologických diagnóz 115;c780;Sekundárny zhubný nádor pľúc
+Skupina onkologických diagnóz 116;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 117;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 12;c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+Skupina onkologických diagnóz 12;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 12;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 12;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 12;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 12;c222;Hepatoblastóm
+Skupina onkologických diagnóz 12;c223;Angiosarkóm pečene
+Skupina onkologických diagnóz 12;c224;Iný sarkóm pečene
+Skupina onkologických diagnóz 12;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 12;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 12;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 12;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 12;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 12;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 12;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 12;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 12;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 12;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 13;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 13;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 13;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 13;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 13;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 13;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 13;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 13;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 14;c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+Skupina onkologických diagnóz 14;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 14;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 14;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 14;c222;Hepatoblastóm
+Skupina onkologických diagnóz 14;c223;Angiosarkóm pečene
+Skupina onkologických diagnóz 14;c224;Iný sarkóm pečene
+Skupina onkologických diagnóz 14;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 14;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 14;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 14;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 14;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 14;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 14;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 14;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 14;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 14;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 15;c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+Skupina onkologických diagnóz 15;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 15;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 15;c222;Hepatoblastóm
+Skupina onkologických diagnóz 15;c223;Angiosarkóm pečene
+Skupina onkologických diagnóz 15;c224;Iný sarkóm pečene
+Skupina onkologických diagnóz 15;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 15;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 15;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 15;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 15;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 15;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 15;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 15;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 15;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 15;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 16;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 16;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 16;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 16;c48-;Zhubný nádor retroperitonea a peritonea
+Skupina onkologických diagnóz 16;c493;Zhubný nádor spojivového a mäkkého tkaniva hrudníka
+Skupina onkologických diagnóz 16;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 16;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 16;c67-;Zhubný nádor močového mechúra
+Skupina onkologických diagnóz 16;d300;Nezhubný nádor obličky
+Skupina onkologických diagnóz 16;d301;Nezhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 16;d302;Nezhubný nádor močovodu
+Skupina onkologických diagnóz 16;d304;Nezhubný nádor močovej rúry
+Skupina onkologických diagnóz 17;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 17;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 17;c53-;Zhubný nádor krčka maternice
+Skupina onkologických diagnóz 17;c54-;Zhubný nádor tela maternice
+Skupina onkologických diagnóz 17;c55;Zhubný nádor bližšie neurčenej časti maternice
+Skupina onkologických diagnóz 17;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 17;c67-;Zhubný nádor močového mechúra
+Skupina onkologických diagnóz 18;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 18;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 18;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 19;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 19;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 19;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 19;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 19;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 2;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 2;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 2;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 2;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 2;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 2;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 2;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 2;c22-;Zhubný nádor pečene a vnútropečeňových žlčových ciest
+Skupina onkologických diagnóz 2;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 2;c24-;Zhubný nádor iných a bližšie neurčených častí žlčových ciest
+Skupina onkologických diagnóz 2;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 2;c26-;Zhubný nádor iných a nepresne určených tráviacich orgánov
+Skupina onkologických diagnóz 2;c49-;Zhubný nádor iného spojivového a mäkkého tkaniva
+Skupina onkologických diagnóz 2;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 2;c772;Sekundárny a bližšie neurčený zhubný nádor vnútrobrušnej lymfatickej uzliny
+Skupina onkologických diagnóz 2;c773;Sekundárny a bližšie neurčený zhubný nádor lymfatických uzlín pazuchy a hornej končatiny
+Skupina onkologických diagnóz 2;c78-;Sekundárny zhubný nádor dýchacích a tráviacich orgánov
+Skupina onkologických diagnóz 2;c79-;Sekundárny zhubný nádor na iných a bližšie neurčených miestach
+Skupina onkologických diagnóz 20;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 20;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 20;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 20;c48-;Zhubný nádor retroperitonea a peritonea
+Skupina onkologických diagnóz 20;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 20;c67-;Zhubný nádor močového mechúra
+Skupina onkologických diagnóz 20;d300;Nezhubný nádor obličky
+Skupina onkologických diagnóz 20;d301;Nezhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 20;d302;Nezhubný nádor močovodu
+Skupina onkologických diagnóz 20;d304;Nezhubný nádor močovej rúry
+Skupina onkologických diagnóz 21;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 21;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 21;c251;Zhubný nádor tela podžalúdkovej žľazy
+Skupina onkologických diagnóz 21;c252;Zhubný nádor chvosta podžalúdkovej žľazy
+Skupina onkologických diagnóz 22;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 22;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 22;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 23;c22-;Zhubný nádor pečene a vnútropečeňových žlčových ciest
+Skupina onkologických diagnóz 23;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 23;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 23;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 23;c62-;Zhubný nádor semenníka
+Skupina onkologických diagnóz 23;c762;Zhubný nádor na iných a nepresne určených miestach brucha
+Skupina onkologických diagnóz 24;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 24;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 25;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 25;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 25;c48-;Zhubný nádor retroperitonea a peritonea
+Skupina onkologických diagnóz 25;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 25;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 25;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 25;c678;Zhubný nádor močového mechúra presahujúci viaceré oblasti
+Skupina onkologických diagnóz 25;c791;Sekundárny zhubný nádor močového mechúra a iných a bližšie neurčených močových orgánov
+Skupina onkologických diagnóz 26;c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+Skupina onkologických diagnóz 26;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 26;c180;Zhubný nádor slepého čreva
+Skupina onkologických diagnóz 26;c181;Zhubný nádor červovitého prívesku slepého čreva
+Skupina onkologických diagnóz 26;c182;Zhubný nádor vzostupnej časti hrubého čreva
+Skupina onkologických diagnóz 26;c183;Zhubný nádor pečeňového ohybu hrubého čreva
+Skupina onkologických diagnóz 26;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 26;c222;Hepatoblastóm
+Skupina onkologických diagnóz 26;c223;Angiosarkóm pečene
+Skupina onkologických diagnóz 26;c224;Iný sarkóm pečene
+Skupina onkologických diagnóz 26;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 26;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 26;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 26;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 26;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 26;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 26;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 26;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 26;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 26;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 27;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 27;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 27;c48-;Zhubný nádor retroperitonea a peritonea
+Skupina onkologických diagnóz 27;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 27;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 27;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 27;c678;Zhubný nádor močového mechúra presahujúci viaceré oblasti
+Skupina onkologických diagnóz 28;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 28;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 28;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 28;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 29;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 29;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 29;c48-;Zhubný nádor retroperitonea a peritonea
+Skupina onkologických diagnóz 29;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 29;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 29;c678;Zhubný nádor močového mechúra presahujúci viaceré oblasti
+Skupina onkologických diagnóz 3;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 3;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 3;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 3;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 3;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 3;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 3;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 3;c22-;Zhubný nádor pečene a vnútropečeňových žlčových ciest
+Skupina onkologických diagnóz 3;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 3;c24-;Zhubný nádor iných a bližšie neurčených častí žlčových ciest
+Skupina onkologických diagnóz 3;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 3;c26-;Zhubný nádor iných a nepresne určených tráviacich orgánov
+Skupina onkologických diagnóz 3;c49-;Zhubný nádor iného spojivového a mäkkého tkaniva
+Skupina onkologických diagnóz 3;c772;Sekundárny a bližšie neurčený zhubný nádor vnútrobrušnej lymfatickej uzliny
+Skupina onkologických diagnóz 3;c773;Sekundárny a bližšie neurčený zhubný nádor lymfatických uzlín pazuchy a hornej končatiny
+Skupina onkologických diagnóz 3;c78-;Sekundárny zhubný nádor dýchacích a tráviacich orgánov
+Skupina onkologických diagnóz 3;c79-;Sekundárny zhubný nádor na iných a bližšie neurčených miestach
+Skupina onkologických diagnóz 30;c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+Skupina onkologických diagnóz 30;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 30;c180;Zhubný nádor slepého čreva
+Skupina onkologických diagnóz 30;c181;Zhubný nádor červovitého prívesku slepého čreva
+Skupina onkologických diagnóz 30;c182;Zhubný nádor vzostupnej časti hrubého čreva
+Skupina onkologických diagnóz 30;c183;Zhubný nádor pečeňového ohybu hrubého čreva
+Skupina onkologických diagnóz 30;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 30;c222;Hepatoblastóm
+Skupina onkologických diagnóz 30;c223;Angiosarkóm pečene
+Skupina onkologických diagnóz 30;c224;Iný sarkóm pečene
+Skupina onkologických diagnóz 30;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 30;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 30;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 30;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 30;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 30;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 30;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 30;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 31;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 31;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 32;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 32;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 32;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 33;c48-;Zhubný nádor retroperitonea a peritonea
+Skupina onkologických diagnóz 33;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 33;c67-;Zhubný nádor močového mechúra
+Skupina onkologických diagnóz 33;c688;Zhubný nádor močových orgánov presahujúci viaceré oblasti
+Skupina onkologických diagnóz 33;d302;Nezhubný nádor močovodu
+Skupina onkologických diagnóz 34;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 34;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 34;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 34;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 34;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 34;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 34;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 34;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 35;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 35;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 35;d131;Nezhubný nádor žalúdka
+Skupina onkologických diagnóz 36;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 36;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 37;c180;Zhubný nádor slepého čreva
+Skupina onkologických diagnóz 37;c181;Zhubný nádor červovitého prívesku slepého čreva
+Skupina onkologických diagnóz 37;c182;Zhubný nádor vzostupnej časti hrubého čreva
+Skupina onkologických diagnóz 37;c183;Zhubný nádor pečeňového ohybu hrubého čreva
+Skupina onkologických diagnóz 37;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 37;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 38;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 38;c185;Zhubný nádor slezinového ohybu hrubého čreva
+Skupina onkologických diagnóz 38;c186;Zhubný nádor zostupnej časti hrubého čreva
+Skupina onkologických diagnóz 38;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 38;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 38;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 39;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 39;c34-;Zhubný nádor priedušiek a pľúc
+Skupina onkologických diagnóz 39;c780;Sekundárny zhubný nádor pľúc
+Skupina onkologických diagnóz 4;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 4;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 4;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 4;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 4;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 4;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 4;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 4;c22-;Zhubný nádor pečene a vnútropečeňových žlčových ciest
+Skupina onkologických diagnóz 4;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 4;c24-;Zhubný nádor iných a bližšie neurčených častí žlčových ciest
+Skupina onkologických diagnóz 4;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 4;c26-;Zhubný nádor iných a nepresne určených tráviacich orgánov
+Skupina onkologických diagnóz 4;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 4;c496;Zhubný nádor spojivového a mäkkého tkaniva trupu, bližšie neurčený
+Skupina onkologických diagnóz 4;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 4;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 4;c78-;Sekundárny zhubný nádor dýchacích a tráviacich orgánov
+Skupina onkologických diagnóz 4;c79-;Sekundárny zhubný nádor na iných a bližšie neurčených miestach
+Skupina onkologických diagnóz 40;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 40;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 40;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 40;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 40;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 40;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 41;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 41;c67-;Zhubný nádor močového mechúra
+Skupina onkologických diagnóz 41;d300;Nezhubný nádor obličky
+Skupina onkologických diagnóz 41;d301;Nezhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 41;d302;Nezhubný nádor močovodu
+Skupina onkologických diagnóz 41;d304;Nezhubný nádor močovej rúry
+Skupina onkologických diagnóz 42;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 42;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 42;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 42;c62-;Zhubný nádor semenníka
+Skupina onkologických diagnóz 42;c762;Zhubný nádor na iných a nepresne určených miestach brucha
+Skupina onkologických diagnóz 43;c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+Skupina onkologických diagnóz 43;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 43;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 43;c185;Zhubný nádor slezinového ohybu hrubého čreva
+Skupina onkologických diagnóz 43;c186;Zhubný nádor zostupnej časti hrubého čreva
+Skupina onkologických diagnóz 43;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 43;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 43;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 43;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 43;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 43;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 43;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 43;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 43;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 44;c180;Zhubný nádor slepého čreva
+Skupina onkologických diagnóz 44;c181;Zhubný nádor červovitého prívesku slepého čreva
+Skupina onkologických diagnóz 44;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 44;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 45;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 45;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 45;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 45;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 46;c66;Zhubný nádor močovodu
+Skupina onkologických diagnóz 46;c67-;Zhubný nádor močového mechúra
+Skupina onkologických diagnóz 46;d091;Karcinóm in situ iných a bližšie neurčených močových orgánov
+Skupina onkologických diagnóz 46;d303;Nezhubný nádor močového mechúra
+Skupina onkologických diagnóz 47;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 47;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 47;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 48;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 48;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 48;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 48;d135;Nezhubný nádor extrahepatálnych žlčových ciest
+Skupina onkologických diagnóz 48;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 49;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 49;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 49;d12-;Nezhubný nádor hrubého čreva, konečníka, anusu a análneho kanála
+Skupina onkologických diagnóz 5;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 5;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 5;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 5;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 5;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 5;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 5;c22-;Zhubný nádor pečene a vnútropečeňových žlčových ciest
+Skupina onkologických diagnóz 5;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 5;c24-;Zhubný nádor iných a bližšie neurčených častí žlčových ciest
+Skupina onkologických diagnóz 5;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 5;c26-;Zhubný nádor iných a nepresne určených tráviacich orgánov
+Skupina onkologických diagnóz 5;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 5;c496;Zhubný nádor spojivového a mäkkého tkaniva trupu, bližšie neurčený
+Skupina onkologických diagnóz 5;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 5;c56;Zhubný nádor vaječníka
+Skupina onkologických diagnóz 5;c792;Sekundárny zhubný nádor kože
+Skupina onkologických diagnóz 50;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 50;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 50;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 51;c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+Skupina onkologických diagnóz 51;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 51;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 51;c185;Zhubný nádor slezinového ohybu hrubého čreva
+Skupina onkologických diagnóz 51;c186;Zhubný nádor zostupnej časti hrubého čreva
+Skupina onkologických diagnóz 51;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 51;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 51;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 51;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 51;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 51;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 51;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 52;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 52;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 52;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 53;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 53;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 53;c54-;Zhubný nádor tela maternice
+Skupina onkologických diagnóz 53;c55;Zhubný nádor bližšie neurčenej časti maternice
+Skupina onkologických diagnóz 53;c58;Zhubný nádor placenty
+Skupina onkologických diagnóz 53;d067;Karcinóm in situ inej časti krčka maternice
+Skupina onkologických diagnóz 53;d069;Karcinóm in situ krčka maternice, bližšie neurčený
+Skupina onkologických diagnóz 54;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 54;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 55;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 55;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 55;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 55;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 56;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 56;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 56;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 56;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 57;c22-;Zhubný nádor pečene a vnútropečeňových žlčových ciest
+Skupina onkologických diagnóz 57;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 57;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 57;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 57;d134;Nezhubný nádor pečene
+Skupina onkologických diagnóz 58;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 58;c240;Zhubný nádor mimopečeňových žlčových ciest
+Skupina onkologických diagnóz 58;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 58;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 58;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 59;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 59;c240;Zhubný nádor mimopečeňových žlčových ciest
+Skupina onkologických diagnóz 59;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 59;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 59;d135;Nezhubný nádor extrahepatálnych žlčových ciest
+Skupina onkologických diagnóz 6;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 6;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 6;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 6;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 6;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 6;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 6;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 6;c496;Zhubný nádor spojivového a mäkkého tkaniva trupu, bližšie neurčený
+Skupina onkologických diagnóz 6;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 60;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 60;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 60;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 61;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 61;d131;Nezhubný nádor žalúdka
+Skupina onkologických diagnóz 62;c251;Zhubný nádor tela podžalúdkovej žľazy
+Skupina onkologických diagnóz 62;c252;Zhubný nádor chvosta podžalúdkovej žľazy
+Skupina onkologických diagnóz 62;c253;Zhubný nádor vývodu podžalúdkovej žľazy
+Skupina onkologických diagnóz 62;c254;Zhubný nádor endokrinnej časti podžalúdkovej žľazy
+Skupina onkologických diagnóz 62;c257;Zhubný nádor iných častí podžalúdkovej žľazy
+Skupina onkologických diagnóz 62;c258;Zhubný nádor podžalúdkovej žľazy presahujúci viaceré oblasti
+Skupina onkologických diagnóz 62;c259;Zhubný nádor podžalúdkovej žľazy, bližšie neurčený
+Skupina onkologických diagnóz 62;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 62;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 62;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 63;c182;Zhubný nádor vzostupnej časti hrubého čreva
+Skupina onkologických diagnóz 63;c183;Zhubný nádor pečeňového ohybu hrubého čreva
+Skupina onkologických diagnóz 63;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 63;c185;Zhubný nádor slezinového ohybu hrubého čreva
+Skupina onkologických diagnóz 63;c186;Zhubný nádor zostupnej časti hrubého čreva
+Skupina onkologických diagnóz 63;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 63;c188;Zhubný nádor hrubého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 63;c189;Zhubný nádor hrubého čreva, bližšie neurčený
+Skupina onkologických diagnóz 63;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 63;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 64;c54-;Zhubný nádor tela maternice
+Skupina onkologických diagnóz 64;c55;Zhubný nádor bližšie neurčenej časti maternice
+Skupina onkologických diagnóz 64;c58;Zhubný nádor placenty
+Skupina onkologických diagnóz 64;d067;Karcinóm in situ inej časti krčka maternice
+Skupina onkologických diagnóz 64;d069;Karcinóm in situ krčka maternice, bližšie neurčený
+Skupina onkologických diagnóz 65;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 65;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 65;c54-;Zhubný nádor tela maternice
+Skupina onkologických diagnóz 65;c55;Zhubný nádor bližšie neurčenej časti maternice
+Skupina onkologických diagnóz 65;c58;Zhubný nádor placenty
+Skupina onkologických diagnóz 66;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 66;c240;Zhubný nádor mimopečeňových žlčových ciest
+Skupina onkologických diagnóz 66;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 66;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 67;c183;Zhubný nádor pečeňového ohybu hrubého čreva
+Skupina onkologických diagnóz 67;c184;Zhubný nádor priečnej časti hrubého čreva
+Skupina onkologických diagnóz 67;c185;Zhubný nádor slezinového ohybu hrubého čreva
+Skupina onkologických diagnóz 67;c186;Zhubný nádor zostupnej časti hrubého čreva
+Skupina onkologických diagnóz 67;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 67;c188;Zhubný nádor hrubého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 67;c189;Zhubný nádor hrubého čreva, bližšie neurčený
+Skupina onkologických diagnóz 67;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 67;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 68;c25-;Zhubný nádor podžalúdkovej žľazy
+Skupina onkologických diagnóz 69;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 7;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 7;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 7;c17-;Zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 7;c18-;Zhubný nádor hrubého čreva
+Skupina onkologických diagnóz 7;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 7;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 70;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 70;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 70;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 70;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 70;c62-;Zhubný nádor semenníka
+Skupina onkologických diagnóz 70;c762;Zhubný nádor na iných a nepresne určených miestach brucha
+Skupina onkologických diagnóz 71;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 71;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 71;c435;Malígny melanóm trupu
+Skupina onkologických diagnóz 71;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 71;d129;Nezhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 72;c178;Zhubný nádor tenkého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 72;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 72;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 72;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 72;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 72;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 72;c787;Sekundárny zhubný nádor pečene a vnútropečeňových žlčovodov
+Skupina onkologických diagnóz 72;c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+Skupina onkologických diagnóz 73;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 73;c251;Zhubný nádor tela podžalúdkovej žľazy
+Skupina onkologických diagnóz 73;c252;Zhubný nádor chvosta podžalúdkovej žľazy
+Skupina onkologických diagnóz 73;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 73;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 73;c74-;Zhubný nádor nadobličky
+Skupina onkologických diagnóz 74;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 74;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 74;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 74;c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+Skupina onkologických diagnóz 74;d130;Nezhubný nádor pažeráka
+Skupina onkologických diagnóz 74;d131;Nezhubný nádor žalúdka
+Skupina onkologických diagnóz 74;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 75;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 75;c435;Malígny melanóm trupu
+Skupina onkologických diagnóz 75;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 75;d129;Nezhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 76;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 76;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 76;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 76;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 76;d130;Nezhubný nádor pažeráka
+Skupina onkologických diagnóz 76;d131;Nezhubný nádor žalúdka
+Skupina onkologických diagnóz 76;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 77;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 77;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 77;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 77;c62-;Zhubný nádor semenníka
+Skupina onkologických diagnóz 77;c762;Zhubný nádor na iných a nepresne určených miestach brucha
+Skupina onkologických diagnóz 78;c185;Zhubný nádor slezinového ohybu hrubého čreva
+Skupina onkologických diagnóz 78;c186;Zhubný nádor zostupnej časti hrubého čreva
+Skupina onkologických diagnóz 78;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 78;c188;Zhubný nádor hrubého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 78;c189;Zhubný nádor hrubého čreva, bližšie neurčený
+Skupina onkologických diagnóz 78;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 78;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 79;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 79;c24-;Zhubný nádor iných a bližšie neurčených častí žlčových ciest
+Skupina onkologických diagnóz 79;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 8;c49-;Zhubný nádor iného spojivového a mäkkého tkaniva
+Skupina onkologických diagnóz 8;c772;Sekundárny a bližšie neurčený zhubný nádor vnútrobrušnej lymfatickej uzliny
+Skupina onkologických diagnóz 8;c78-;Sekundárny zhubný nádor dýchacích a tráviacich orgánov
+Skupina onkologických diagnóz 8;c79-;Sekundárny zhubný nádor na iných a bližšie neurčených miestach
+Skupina onkologických diagnóz 80;d215;Nezhubný nádor spojivového a iného mäkkého tkaniva panvy
+Skupina onkologických diagnóz 80;d219;Nezhubný nádor spojivového a iného mäkkého tkaniva, bližšie neurčený
+Skupina onkologických diagnóz 80;d300;Nezhubný nádor obličky
+Skupina onkologických diagnóz 80;d301;Nezhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 80;d302;Nezhubný nádor močovodu
+Skupina onkologických diagnóz 80;d350;Nezhubný nádor nadobličky
+Skupina onkologických diagnóz 81;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 81;c251;Zhubný nádor tela podžalúdkovej žľazy
+Skupina onkologických diagnóz 81;c252;Zhubný nádor chvosta podžalúdkovej žľazy
+Skupina onkologických diagnóz 81;c74-;Zhubný nádor nadobličky
+Skupina onkologických diagnóz 82;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 82;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 82;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 82;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 82;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 82;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 83;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 83;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 83;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 83;d130;Nezhubný nádor pažeráka
+Skupina onkologických diagnóz 83;d131;Nezhubný nádor žalúdka
+Skupina onkologických diagnóz 83;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 84;c21-;Zhubný nádor anusu a análneho kanála
+Skupina onkologických diagnóz 84;c435;Malígny melanóm trupu
+Skupina onkologických diagnóz 84;c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+Skupina onkologických diagnóz 85;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 85;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 85;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 85;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 85;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 85;d139;Nezhubný nádor na nepresne určenom mieste tráviacej sústavy
+Skupina onkologických diagnóz 86;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 86;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 86;c62-;Zhubný nádor semenníka
+Skupina onkologických diagnóz 86;c762;Zhubný nádor na iných a nepresne určených miestach brucha
+Skupina onkologických diagnóz 87;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 87;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 87;c74-;Zhubný nádor nadobličky
+Skupina onkologických diagnóz 87;c791;Sekundárny zhubný nádor močového mechúra a iných a bližšie neurčených močových orgánov
+Skupina onkologických diagnóz 88;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 88;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 88;c496;Zhubný nádor spojivového a mäkkého tkaniva trupu, bližšie neurčený
+Skupina onkologických diagnóz 88;c498;Zhubný nádor spojivového a mäkkého tkaniva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 88;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 89;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 89;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 89;c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+Skupina onkologických diagnóz 89;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 89;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 9;c15-;Zhubný nádor pažeráka
+Skupina onkologických diagnóz 9;c16-;Zhubný nádor žalúdka
+Skupina onkologických diagnóz 9;c381;Zhubný nádor predného mediastína
+Skupina onkologických diagnóz 9;c382;Zhubný nádor zadného mediastína
+Skupina onkologických diagnóz 9;c383;Zhubný nádor bližšie neurčenej časti mediastína
+Skupina onkologických diagnóz 9;c488;Zhubný nádor retroperitonea a pobrušnice presahujúci viaceré oblasti
+Skupina onkologických diagnóz 9;c78-;Sekundárny zhubný nádor dýchacích a tráviacich orgánov
+Skupina onkologických diagnóz 90;c187;Zhubný nádor esovitej časti hrubého čreva
+Skupina onkologických diagnóz 90;c188;Zhubný nádor hrubého čreva presahujúci viaceré oblasti
+Skupina onkologických diagnóz 90;c189;Zhubný nádor hrubého čreva, bližšie neurčený
+Skupina onkologických diagnóz 90;c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+Skupina onkologických diagnóz 90;c20;Zhubný nádor konečníka
+Skupina onkologických diagnóz 91;c55;Zhubný nádor bližšie neurčenej časti maternice
+Skupina onkologických diagnóz 91;c56;Zhubný nádor vaječníka
+Skupina onkologických diagnóz 91;d069;Karcinóm in situ krčka maternice, bližšie neurčený
+Skupina onkologických diagnóz 91;d27;Nezhubný nádor vaječníka
+Skupina onkologických diagnóz 91;d282;Nezhubný nádor vajíčkovodov a väzov maternice
+Skupina onkologických diagnóz 92;c241;Zhubný nádor ampulla Vateri
+Skupina onkologických diagnóz 92;c250;Zhubný nádor hlavy podžalúdkovej žľazy
+Skupina onkologických diagnóz 92;c788;Sekundárny zhubný nádor iných a bližšie neurčených tráviacich orgánov
+Skupina onkologických diagnóz 92;d137;Nezhubný nádor endokrinného pankreasu
+Skupina onkologických diagnóz 93;c252;Zhubný nádor chvosta podžalúdkovej žľazy
+Skupina onkologických diagnóz 93;c74-;Zhubný nádor nadobličky
+Skupina onkologických diagnóz 94;c23;Zhubný nádor žlčníka
+Skupina onkologických diagnóz 94;c240;Zhubný nádor mimopečeňových žlčových ciest
+Skupina onkologických diagnóz 94;c248;Zhubný nádor žlčových ciest presahujúci viaceré oblasti
+Skupina onkologických diagnóz 94;d135;Nezhubný nádor extrahepatálnych žlčových ciest
+Skupina onkologických diagnóz 95;c64;Zhubný nádor obličky okrem obličkovej panvičky
+Skupina onkologických diagnóz 95;c65;Zhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 95;d300;Nezhubný nádor obličky
+Skupina onkologických diagnóz 95;d301;Nezhubný nádor obličkovej panvičky
+Skupina onkologických diagnóz 96;c73;Zhubný nádor štítnej žľazy
+Skupina onkologických diagnóz 96;c750;Zhubný nádor prištítnej žľazy
+Skupina onkologických diagnóz 96;d34;Nezhubný nádor štítnej žľazy
+Skupina onkologických diagnóz 96;d351;Nezhubný nádor prištítnej žľazy
+Skupina onkologických diagnóz 97;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 97;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 97;d132;Nezhubný nádor dvanástnika
+Skupina onkologických diagnóz 98;c171;Zhubný nádor jejúna
+Skupina onkologických diagnóz 98;c172;Zhubný nádor ilea
+Skupina onkologických diagnóz 98;d133;Nezhubný nádor iných a bližšie neurčených častí tenkého čreva
+Skupina onkologických diagnóz 99;c170;Zhubný nádor dvanástnika
+Skupina onkologických diagnóz 99;c784;Sekundárny zhubný nádor tenkého čreva
+Skupina onkologických diagnóz 99;d132;Nezhubný nádor dvanástnika
+Stav po transplantácii pečene;z944;Stav po transplantácii pečene
+Svalové a nervosvalové ochorenia - vybrané diagnózy I.;g723;Periodická paralýza
+Svalové a nervosvalové ochorenia - vybrané diagnózy I.;g728-;Iná myopatie, bližšie určené
+Svalové a nervosvalové ochorenia - vybrané diagnózy I.;g729;Myopatia, bližšie neurčená
+Svalové a nervosvalové ochorenia - vybrané diagnózy I.;g73-;Choroba s poruchou nervovosvalovej platničky a svalu pri chorobách zatriedených inde
+Svalové a nervosvalové ochorenia - vybrané diagnózy I.;p940;Prechodná myasthenia gravis u novorodenca
+Svalové a nervosvalové ochorenia - vybrané diagnózy II.;g700;Myasthenia gravis
+Svalové a nervosvalové ochorenia - vybrané diagnózy II.;g702;Vrodená a vývinová myasténia
+Svalové a nervosvalové ochorenia - vybrané diagnózy II.;g71-;Primárna myopatia
+Syndróm respiračnej tiesne [ARDS];j80;Syndróm respiračnej tiesne  [ARDS]
+Syndróm spánkového apnoe;e662-;Extrémna obezita s alveolovou hypoventiláciou
+Syndróm spánkového apnoe;g473-;Spánkové apnoe
+Toxický účinok požitých húb;t620;Toxický účinok požitých húb
+Trauma a poúrazové stavy;l02-;Kožný absces, furunkul a karbunkul
+Trauma a poúrazové stavy;l031-;Flegmóna iných častí končatín
+Trauma a poúrazové stavy;l032;Flegmóna tváre
+Trauma a poúrazové stavy;l033;Flegmóna trupu
+Trauma a poúrazové stavy;l039;Flegmóna, bližšie neurčená
+Trauma a poúrazové stavy;l890-;Dekubitus 1. stupňa
+Trauma a poúrazové stavy;l891-;Dekubitus 2. stupňa
+Trauma a poúrazové stavy;l892-;Dekubitus 3. stupňa
+Trauma a poúrazové stavy;l893-;Dekubitus 4. stupňa
+Trauma a poúrazové stavy;m00-;Pyogénna artritída
+Trauma a poúrazové stavy;m125-;Úrazová artropatia
+Trauma a poúrazové stavy;m164;Poúrazová artróza bedrového kĺbu, obojstranná
+Trauma a poúrazové stavy;m165;Iná poúrazová koxartróza
+Trauma a poúrazové stavy;m166;Iná sekundárna artróza bedrového kĺbu, obojstranná
+Trauma a poúrazové stavy;m167;Iná sekundárna artróza bedrového kĺbu
+Trauma a poúrazové stavy;m172;Poúrazová artróza kolenného kĺbu, obojstranná
+Trauma a poúrazové stavy;m173;Iná poúrazová artróza kolenného kĺbu
+Trauma a poúrazové stavy;m174;Iná sekundárna artróza kolenného kĺbu, obojstranná
+Trauma a poúrazové stavy;m175;Iná sekundárna artróza kolenného kĺbu
+Trauma a poúrazové stavy;m179;Artróza kolenného kĺbu, bližšie neurčená
+Trauma a poúrazové stavy;m182;Poúrazová artróza prvého karpometakarpového kĺbu, obojstranná
+Trauma a poúrazové stavy;m183;Iná poúrazová artróza prvého karpometakarpového kĺbu
+Trauma a poúrazové stavy;m184;Iná sekundárna artróza prvého karpometakarpového kĺbu, obojstranná
+Trauma a poúrazové stavy;m185;Iná sekundárna artróza prvého karpometakarpového kĺbu
+Trauma a poúrazové stavy;m189;Artróza prvého karpometakarpového kĺbu, bližšie neurčená
+Trauma a poúrazové stavy;m191-;Poúrazová artróza iných kĺbov
+Trauma a poúrazové stavy;m192-;Iná sekundárna artróza
+Trauma a poúrazové stavy;m199-;Artróza, bližšie neurčená
+Trauma a poúrazové stavy;m20-;Získané deformity prstov rúk a nôh
+Trauma a poúrazové stavy;m21-;Iné získané deformity končatín
+Trauma a poúrazové stavy;m22-;Choroby pately
+Trauma a poúrazové stavy;m230-;Ganglion menisku
+Trauma a poúrazové stavy;m232-;Poškodenie menisku po starej trhline alebo poranení
+Trauma a poúrazové stavy;m233-;Iné poškodenie menisku
+Trauma a poúrazové stavy;m234-;Voľné teleso v kolennom kĺbe
+Trauma a poúrazové stavy;m235-;Chronická instabilita kolena
+Trauma a poúrazové stavy;m236-;Iné spontánne natrhnutie jedného alebo viacerých väzov kolenného kĺbu
+Trauma a poúrazové stavy;m238-;Iné vnútorné poškodenie kolenného kĺbu
+Trauma a poúrazové stavy;m239-;Vnútorné poškodenie kolenného kĺbu, bližšie neurčené
+Trauma a poúrazové stavy;m24-;Iné špecifické poruchy kĺbov
+Trauma a poúrazové stavy;m250-;Hemartros
+Trauma a poúrazové stavy;m252-;Labilný (uvoľnený) kĺb
+Trauma a poúrazové stavy;m253-;Iná instabilita kĺbu
+Trauma a poúrazové stavy;m255-;Bolesť kĺbu
+Trauma a poúrazové stavy;m256-;Stuhnutie kĺbu, nezatriedené inde
+Trauma a poúrazové stavy;m257-;Osteofyt
+Trauma a poúrazové stavy;m258-;Iná choroba kĺbov, bližšie určená
+Trauma a poúrazové stavy;m259-;Choroba kĺbu, bližšie neurčená
+Trauma a poúrazové stavy;m483-;Úrazová spondylopatia
+Trauma a poúrazové stavy;m602-;Granulóm z cudzieho telesa v mäkkom tkanive, nezatriedený inde
+Trauma a poúrazové stavy;m610-;Myositis ossificans traumatica
+Trauma a poúrazové stavy;m620-;Diastáza svalu
+Trauma a poúrazové stavy;m624-;Kontraktúra svalu
+Trauma a poúrazové stavy;m625-;Zmenšenie a atrofia svalu, nezatriedená inde
+Trauma a poúrazové stavy;m626-;Poškodenie svalu z preťaženia
+Trauma a poúrazové stavy;m65-;Zápal synoviálnej blany a šľachovej pošvy [synovitída a tendosynovitída]
+Trauma a poúrazové stavy;m670;Krátka Achillova šľacha (získaná)
+Trauma a poúrazové stavy;m671-;Iná kontraktúra šľachy (šľachovej pošvy)
+Trauma a poúrazové stavy;m672-;Hypertrofia synoviálnej blany, nezatriedená inde
+Trauma a poúrazové stavy;m674-;Ganglion
+Trauma a poúrazové stavy;m678-;Iné choroby synoviálnej blany a šliach, bližšie určené
+Trauma a poúrazové stavy;m70-;Choroba mäkkého tkaniva v súvislosti so zaťažovaním, preťažovaním a tlakom
+Trauma a poúrazové stavy;m710-;Absces burzy
+Trauma a poúrazové stavy;m711-;Iná infekčná burzitída
+Trauma a poúrazové stavy;m712;Synoviálna cysta v popliteálnej oblasti [Bakerova cysta]
+Trauma a poúrazové stavy;m713-;Iná cysta burzy
+Trauma a poúrazové stavy;m714-;Bursitis calcarea
+Trauma a poúrazové stavy;m715-;Iná burzitída, nezatriedená inde
+Trauma a poúrazové stavy;m718-;Iná burzopatia, bližšie určená
+Trauma a poúrazové stavy;m720;Fibromatóza palmárnej aponeurózy (Dupuytrenova kontraktúra)
+Trauma a poúrazové stavy;m721;Fibrózne uzlíky pri degeneratívnych (artrotických) zmenách prstov rúk
+Trauma a poúrazové stavy;m722;Fibromatóza plantárnej aponeurózy
+Trauma a poúrazové stavy;m75-;Poškodenie pleca
+Trauma a poúrazové stavy;m76-;Entezopatia dolnej končatiny, okrem nohy
+Trauma a poúrazové stavy;m77-;Iná entezopatia
+Trauma a poúrazové stavy;m795-;Reziduálne cudzie teleso v mäkkom tkanive
+Trauma a poúrazové stavy;m80-;Osteoporóza s patologickou zlomeninou
+Trauma a poúrazové stavy;m84-;Porucha celistvosti kosti
+Trauma a poúrazové stavy;m861-;Iná akútna osteomyelitída
+Trauma a poúrazové stavy;m862-;Subakútna osteomyelitída
+Trauma a poúrazové stavy;m864-;Chronická osteomyelitída s fistulou
+Trauma a poúrazové stavy;m866-;Iná chronická osteomyelitída
+Trauma a poúrazové stavy;m868-;Iná osteomyelitída
+Trauma a poúrazové stavy;m869-;Osteomyelitída, bližšie neurčená
+Trauma a poúrazové stavy;m870-;Idiopatická aseptická nekróza kosti
+Trauma a poúrazové stavy;m871-;Osteonekróza zapríčinená liekmi
+Trauma a poúrazové stavy;m872-;Osteonekróza zapríčinená predchádzajúcim úrazom
+Trauma a poúrazové stavy;m873-;Iná sekundárna osteonekróza
+Trauma a poúrazové stavy;m907-;Zlomenina kosti pri nádore (C00-D48†)
+Trauma a poúrazové stavy;m931;Kienböckova choroba dospelých
+Trauma a poúrazové stavy;m932;Osteochondritis dissecans
+Trauma a poúrazové stavy;m938;Iná osteochondropatia, bližšie určená
+Trauma a poúrazové stavy;m939;Osteochondropatia, bližšie neurčená
+Trauma a poúrazové stavy;m942-;Chondromalácia
+Trauma a poúrazové stavy;m949-;Choroba chrupky, bližšie neurčená
+Trauma a poúrazové stavy;m953;Získaná deformita krku
+Trauma a poúrazové stavy;m954;Získaná deformita hrudníka a rebra
+Trauma a poúrazové stavy;m955;Získaná deformita panvy
+Trauma a poúrazové stavy;m958;Iná získaná deformita svalovej a kostrovej sústavy, bližšie určená
+Trauma a poúrazové stavy;m959;Získaná deformita svalovej a kostrovej sústavy, bližšie neurčená
+Trauma a poúrazové stavy;m960;Pseudoartróza po fúzii alebo artrodéze
+Trauma a poúrazové stavy;m966;Zlomenina kosti po vložení ortopedického implantátu, kĺbovej protézy alebo kostnej platničky
+Trauma a poúrazové stavy;r571;Hypovolemický šok
+Trauma a poúrazové stavy;r572;Septický šok
+Trauma a poúrazové stavy;s00-;Povrchové poranenie hlavy
+Trauma a poúrazové stavy;s01-;Otvorená rana hlavy
+Trauma a poúrazové stavy;s02-;Zlomenina lebky a tvárových kostí
+Trauma a poúrazové stavy;s03-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov hlavy
+Trauma a poúrazové stavy;s04-;Poranenie hlavových nervov
+Trauma a poúrazové stavy;s05-;Poranenie oka a očnice
+Trauma a poúrazové stavy;s06-;Vnútrolebkové poranenie
+Trauma a poúrazové stavy;s07-;Drvivé poranenie hlavy
+Trauma a poúrazové stavy;s08-;Úrazová amputácia časti hlavy
+Trauma a poúrazové stavy;s09-;Iné a bližšie neurčené poranenie hlavy
+Trauma a poúrazové stavy;s10-;Povrchové poranenie krku
+Trauma a poúrazové stavy;s11-;Otvorená rana krku
+Trauma a poúrazové stavy;s12-;Zlomenina krčnej chrbtice
+Trauma a poúrazové stavy;s13-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov krku
+Trauma a poúrazové stavy;s14-;Poranenie krčných nervov a krčnej miechy
+Trauma a poúrazové stavy;s15-;Poranenie krvných ciev v úrovni krku
+Trauma a poúrazové stavy;s16;Poranenie svalov a šliach v úrovni krku
+Trauma a poúrazové stavy;s17-;Drvivé poranenie krku
+Trauma a poúrazové stavy;s18;Úrazová amputácia v úrovni krku
+Trauma a poúrazové stavy;s19-;Iné a bližšie neurčené poranenie krku
+Trauma a poúrazové stavy;s20-;Povrchové poranenie hrudníka
+Trauma a poúrazové stavy;s21-;Otvorená rana hrudníka
+Trauma a poúrazové stavy;s22-;Zlomenina rebra (rebier), hrudnej kosti a hrudníkovej chrbtice
+Trauma a poúrazové stavy;s23-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov hrudníka
+Trauma a poúrazové stavy;s24-;Poranenie nervov a miechy v úrovni hrudníka
+Trauma a poúrazové stavy;s25-;Poranenie krvných ciev hrudníka
+Trauma a poúrazové stavy;s26-;Poranenie srdca
+Trauma a poúrazové stavy;s27-;Poranenie iného a bližšie neurčeného vnútrohrudníkového orgánu
+Trauma a poúrazové stavy;s28-;Drvivé poranenie hrudníka a úrazová amputácia časti hrudníka
+Trauma a poúrazové stavy;s29-;Iné a bližšie neurčené poranenie hrudníka
+Trauma a poúrazové stavy;s30-;Povrchové poranenie brucha, drieku a panvy
+Trauma a poúrazové stavy;s31-;Otvorená rana brucha, drieku a panvy
+Trauma a poúrazové stavy;s32-;Zlomenina driekovej časti chrbtice a panvy
+Trauma a poúrazové stavy;s33-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov driekovej chrbtice a panvy
+Trauma a poúrazové stavy;s34-;Poranenie nervov a miechy v úrovni brucha, drieku a panvy
+Trauma a poúrazové stavy;s35-;Poranenie krvných ciev v úrovni brucha, drieku a panvy
+Trauma a poúrazové stavy;s36-;Poranenie vnútrobrušných orgánov
+Trauma a poúrazové stavy;s37-;Poranenie močových orgánov a panvových orgánov
+Trauma a poúrazové stavy;s38-;Drvivé poranenie a úrazová amputácia časti brucha, drieku a panvy
+Trauma a poúrazové stavy;s39-;Iné a bližšie neurčené poranenie brucha, drieku a panvy
+Trauma a poúrazové stavy;s40-;Povrchové poranenie pleca a ramena
+Trauma a poúrazové stavy;s41-;Otvorená rana pleca a ramena
+Trauma a poúrazové stavy;s42-;Zlomenina pleca a ramena
+Trauma a poúrazové stavy;s43-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov plecového pletenca
+Trauma a poúrazové stavy;s44-;Poranenie nervov v úrovni pleca a ramena
+Trauma a poúrazové stavy;s45-;Poranenie krvných ciev v úrovni pleca a ramena
+Trauma a poúrazové stavy;s46-;Poranenie svalu a šľachy v úrovni pleca a ramena
+Trauma a poúrazové stavy;s47;Drvivé poranenie pleca a ramena
+Trauma a poúrazové stavy;s48-;Úrazová amputácia pleca a ramena
+Trauma a poúrazové stavy;s49-;Iné a bližšie neurčené poranenie pleca a ramena
+Trauma a poúrazové stavy;s50-;Povrchové poranenie lakťa a predlaktia
+Trauma a poúrazové stavy;s51-;Otvorená rana predlaktia
+Trauma a poúrazové stavy;s52-;Zlomenina predlaktia
+Trauma a poúrazové stavy;s53-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov lakťa
+Trauma a poúrazové stavy;s54-;Poranenie nervov v úrovni predlaktia
+Trauma a poúrazové stavy;s55-;Poranenie krvných ciev v úrovni predlaktia
+Trauma a poúrazové stavy;s56-;Poranenie svalu a šľachy v úrovni predlaktia
+Trauma a poúrazové stavy;s57-;Drvivé poranenie predlaktia
+Trauma a poúrazové stavy;s58-;Úrazová amputácia lakťa a predlaktia
+Trauma a poúrazové stavy;s59-;Iné a bližšie neurčené poranenia predlaktia
+Trauma a poúrazové stavy;s60-;Povrchové poranenie zápästia a ruky
+Trauma a poúrazové stavy;s61-;Otvorená rana zápästia a ruky
+Trauma a poúrazové stavy;s62-;Zlomenina v úrovni zápästia a ruky
+Trauma a poúrazové stavy;s63-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov v úrovni zápästia a ruky
+Trauma a poúrazové stavy;s64-;Poranenie nervov v úrovni zápästia a ruky
+Trauma a poúrazové stavy;s65-;Poranenie krvných ciev v úrovni zápästia a ruky
+Trauma a poúrazové stavy;s66-;Poranenie svalu a šľachy v úrovni zápästia a ruky
+Trauma a poúrazové stavy;s67-;Drvivé poranenie zápästia a ruky
+Trauma a poúrazové stavy;s68-;Úrazová amputácia zápästia a ruky
+Trauma a poúrazové stavy;s69-;Iné a bližšie neurčené poranenia zápästia a ruky
+Trauma a poúrazové stavy;s70-;Povrchové poranenie bedra a stehna
+Trauma a poúrazové stavy;s71-;Otvorená rana bedra a stehna
+Trauma a poúrazové stavy;s72-;Zlomenina stehnovej kosti
+Trauma a poúrazové stavy;s73-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbu a väzov bedra
+Trauma a poúrazové stavy;s74-;Poranenie nervu v úrovni bedra a stehna
+Trauma a poúrazové stavy;s75-;Poranenie krvných ciev v úrovni bedra a stehna
+Trauma a poúrazové stavy;s76-;Poranenie svalu a šľachy v úrovni bedra a stehna
+Trauma a poúrazové stavy;s77-;Drvivé poranenie bedra a stehna
+Trauma a poúrazové stavy;s78-;Úrazová amputácia bedra a stehna
+Trauma a poúrazové stavy;s79-;Iné a bližšie neurčené poranenie bedra a stehna
+Trauma a poúrazové stavy;s80-;Povrchové poranenie predkolenia
+Trauma a poúrazové stavy;s81-;Otvorená rana predkolenia
+Trauma a poúrazové stavy;s82-;Zlomenina predkolenia vrátane členka
+Trauma a poúrazové stavy;s83-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbov a väzov kolena
+Trauma a poúrazové stavy;s84-;Poranenie nervu v úrovni predkolenia
+Trauma a poúrazové stavy;s85-;Poranenie krvných ciev v úrovni predkolenia
+Trauma a poúrazové stavy;s86-;Poranenie svalu a šľachy v úrovni predkolenia
+Trauma a poúrazové stavy;s87-;Drvivé poranenie predkolenia
+Trauma a poúrazové stavy;s88-;Úrazová amputácia predkolenia
+Trauma a poúrazové stavy;s89-;Iné a bližšie neurčené poranenie predkolenia
+Trauma a poúrazové stavy;s90-;Povrchové poranenie členka a nohy
+Trauma a poúrazové stavy;s91-;Otvorená rana členka a nohy
+Trauma a poúrazové stavy;s92-;Zlomenina nohy [okrem členka]
+Trauma a poúrazové stavy;s93-;Vykĺbenie, vyvrtnutie a natiahnutie kĺbu a väzu v úrovni členka a nohy
+Trauma a poúrazové stavy;s94-;Poranenie nervov v úrovni členka a nohy
+Trauma a poúrazové stavy;s95-;Poranenie krvných ciev v úrovni členka a nohy
+Trauma a poúrazové stavy;s96-;Poranenie svalu a šľachy v úrovni členka a nohy
+Trauma a poúrazové stavy;s97-;Drvivé poranenie členka a nohy
+Trauma a poúrazové stavy;s98-;Úrazová amputácia členka a nohy
+Trauma a poúrazové stavy;s99-;Iné a bližšie neurčené poranenie členka a nohy
+Trauma a poúrazové stavy;t00-;Povrchové poranenie viacerých oblastí tela
+Trauma a poúrazové stavy;t01-;Otvorená rana postihujúca viaceré oblasti tela
+Trauma a poúrazové stavy;t02-;Zlomeniny postihujúce viaceré oblasti tela
+Trauma a poúrazové stavy;t03-;Vykĺbenia, vyvrtnutia a natiahnutia postihujúce viaceré oblasti tela
+Trauma a poúrazové stavy;t04-;Drvivé poranenie postihujúce viaceré oblasti tela
+Trauma a poúrazové stavy;t05-;Úrazová amputácia postihujúca viaceré oblasti tela
+Trauma a poúrazové stavy;t06-;Iné poranenia postihujúce viaceré oblasti tela, nezatriedené inde
+Trauma a poúrazové stavy;t07;Viaceré poranenia, bližšie neurčené
+Trauma a poúrazové stavy;t08-;Zlomenina chrbtice v bližšie neurčenej úrovni
+Trauma a poúrazové stavy;t09-;Iné poranenia chrbtice a trupu v bližšie neurčenej úrovni
+Trauma a poúrazové stavy;t10-;Zlomenina hornej končatiny v bližšie neurčenej úrovni
+Trauma a poúrazové stavy;t11-;Iné poranenie hornej končatiny v bližšie neurčenej úrovni
+Trauma a poúrazové stavy;t12-;Zlomenina dolnej končatiny, v bližšie neurčenej úrovni
+Trauma a poúrazové stavy;t13-;Iné poranenie dolnej končatiny, v bližšie neurčenej úrovni
+Trauma a poúrazové stavy;t14-;Poranenie: oblasť bližšie neurčená tela
+Trauma a poúrazové stavy;t20-;Popálenina a poleptanie hlavy a krku
+Trauma a poúrazové stavy;t21-;Popálenina a poleptanie trupu
+Trauma a poúrazové stavy;t22-;Popálenina a poleptanie pleca a hornej končatiny okrem zápästia a ruky
+Trauma a poúrazové stavy;t23-;Popálenina a poleptanie zápästia a ruky
+Trauma a poúrazové stavy;t24-;Popálenina a poleptanie bedra a dolnej končatiny okrem členka a nohy
+Trauma a poúrazové stavy;t25-;Popálenina a poleptanie členka a nohy
+Trauma a poúrazové stavy;t29-;Popálenina a poleptania viacerých častí tela
+Trauma a poúrazové stavy;t30-;Popálenina a poleptanie: oblasť bližšie neurčená tela
+Trauma a poúrazové stavy;t31-;Popáleniny zatriedené podľa rozsahu postihnutého povrchu tela
+Trauma a poúrazové stavy;t32-;Poleptania zatriedené podľa rozsahu postihnutého povrchu tela
+Trauma a poúrazové stavy;t33-;Povrchová omrzlina
+Trauma a poúrazové stavy;t34-;Omrzlina s nekrózou tkaniva
+Trauma a poúrazové stavy;t35-;Omrzlina postihujúca viaceré časti tela a bližšie neurčená omrzlina
+Trauma a poúrazové stavy;t690;Ruka a noha vystavená vlhkému chladu
+Trauma a poúrazové stavy;t691;Oziabliny
+Trauma a poúrazové stavy;t79-;Určité včasné komplikácie úrazu, nezatriedené inde
+Trauma a poúrazové stavy;t84-;Komplikácia zapríčinená vnútornou ortopedickou protézou, implantátom a transplantátom
+Trauma a poúrazové stavy;t865-;Zlyhávanie a odvrhnutie transplantovanej kože
+Trauma a poúrazové stavy;t87-;Komplikácia charakteristická pre replantáciu a amputáciu
+Trauma a poúrazové stavy;t89-;Iná komplikácia úrazu, bližšie určená
+Trauma a poúrazové stavy;t90-;Neskoré následky poranenia hlavy
+Trauma a poúrazové stavy;t91-;Neskoré následky poranenia krku a trupu
+Trauma a poúrazové stavy;t92-;Neskoré následky poranenia hornej končatiny
+Trauma a poúrazové stavy;t93-;Neskoré následky poranenia dolnej končatiny
+Trauma a poúrazové stavy;t94-;Neskoré následky poranenia viacerých a bližšie neurčených oblastí tela
+Trauma a poúrazové stavy;t95-;Neskoré následky popálenia, poleptania a omrzlín
+Trauma a poúrazové stavy;t982;Neskoré následky niektorých včasných komplikácií úrazov
+Trauma a poúrazové stavy;t983;Neskoré následky komplikácií chirurgického výkonu a lekárskej starostlivosti, nezatriedené inde
+Vrodená vývojová chyba genitálu;q50-;Vrodená chyba vaječníkov, vajíčkovodov a širokých väzov maternice
+Vrodená vývojová chyba genitálu;q51-;Vrodená chyba maternice a krčka maternice
+Vrodená vývojová chyba genitálu;q52-;Iná vrodená chyba ženských pohlavných orgánov
+Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba;d66;Dedičný nedostatok faktora VIII
+Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba;d67;Dedičný nedostatok faktora IX
+Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba;d680;Von Willebrandova choroba
+Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba;d681;Dedičný nedostatok faktora XI
+Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba;d682;Dedičný nedostatok iných koagulačných faktorov
+Vrodené vývojové choroby CNS;q00-;Anencefalus a podobná vrodená chyba
+Vrodené vývojové choroby CNS;q01-;Encefalokéla
+Vrodené vývojové choroby CNS;q02;Mikrocefália
+Vrodené vývojové choroby CNS;q03-;Vrodený hydrocefalus
+Vrodené vývojové choroby CNS;q04-;Iná vrodená chyba mozgu
+Vrodené vývojové choroby CNS;q05-;Rázštep chrbtice [Spina bifida]
+Vrodené vývojové choroby CNS;q06-;Iná vrodená chyba miechy
+Vrodené vývojové choroby CNS;q07-;Iná vrodená chyba nervovej sústavy
+Vrodené vývojové choroby CNS;q280-;Artériovenózna chyba precerebrálnych ciev
+Vrodené vývojové choroby CNS;q281-;Iná chyba precerebrálnych ciev
+Vrodené vývojové choroby CNS;q282-;Artériovenózna chyba cerebrálnych ciev
+Vrodené vývojové choroby CNS;q283-;Iné chyby mozgových ciev
+Vrodené vývojové choroby CNS;q760;Skrytý rázštep chrbtice [Spina bifida occulta]
+Vybrané nefrologické ochorenia;m311;Trombotická mikroangiopatia
+Vybrané nefrologické ochorenia;n00-;Akútny nefritický syndróm
+Vybrané nefrologické ochorenia;n01-;Rýchlo progredujúci nefritický syndróm
+Vybrané nefrologické ochorenia;n02-;Recidivujúca a pretrvávajúca hematúria
+Vybrané nefrologické ochorenia;n03-;Chronický nefritický syndróm
+Vybrané nefrologické ochorenia;n04-;Nefrotický syndróm
+Vybrané nefrologické ochorenia;n05-;Nefritický syndróm, bližšie neurčený
+Vybrané nefrologické ochorenia;n06-;Izolovaná proteinúria s morfologickými zmenami
+Vybrané nefrologické ochorenia;n07-;Hereditárna nefropatia, nezatriedená inde
+Vybrané nefrologické ochorenia;n08-;Glomerulová choroba pri chorobách zatriedených inde
+Vybrané nefrologické ochorenia;n10;Akútna tubulointersticiálna nefritída
+Vysoko komplexné endokrinopatie;d352;Nezhubný nádor podmozgovej žľazy
+Vysoko komplexné endokrinopatie;e163;Zvýšená sekrécia glukagónu
+Vysoko komplexné endokrinopatie;e22-;Hyperfunkcia hypofýzy
+Vysoko komplexné endokrinopatie;e230;Hypopituitarizmus
+Vysoko komplexné endokrinopatie;e231;Hypopituitarizmus zapríčinený liekom
+Vysoko komplexné endokrinopatie;e233;Dysfunkcia hypotalamu, nezatriedená inde
+Vysoko komplexné endokrinopatie;e236;Iná choroba hypofýzy
+Vysoko komplexné endokrinopatie;e237;Choroba hypofýzy, bližšie neurčená
+Vysoko komplexné endokrinopatie;e24-;Cushingov syndróm
+Vysoko komplexné endokrinopatie;e25-;Kongenitálna adrenálna hyperplázia
+Vysoko komplexné endokrinopatie;e26-;Hyperaldosteronizmus
+Vysoko komplexné endokrinopatie;e270;Iná hyperfunkcia kôry nadobličiek
+Vysoko komplexné endokrinopatie;e271;Primárna nedostatočnosť kôry nadobličiek (Addisonova choroba)
+Vysoko komplexné endokrinopatie;e273;Nedostatočnosť kôry nadobličiek zapríčinená liekmi
+Vysoko komplexné endokrinopatie;e274;Iná a bližšie neurčená nedostatočnosť kôry nadobličiek
+Vysoko komplexné endokrinopatie;e299;Porucha funkcie semenníkov, bližšie neurčená
+Vysoko komplexné endokrinopatie;e30-;Porucha puberty, nezatriedená inde
+Vysoko komplexné endokrinopatie;e31-;Porucha činnosti viacerých žliaz s vnútorným vylučovaním [polyglandulárna dysfunkcia]
+Vysoko komplexné endokrinopatie;e340;Karcinoidový syndróm
+Vysoko komplexné endokrinopatie;e341;Iná hypersekrécia črevných hormónov
+Vysoko komplexné endokrinopatie;e342;Ektopická sekrécia hormónov, nezatriedená inde
+Vysoko komplexné endokrinopatie;e343;Nízky vzrast, nezatriedený inde
+Vysoko komplexné endokrinopatie;e344;Konštitučne vysoká postava
+Vysoko komplexné endokrinopatie;e345-;Syndróm rezistencie na androgény
+Vysoko komplexné ochorenia imunitného systému;d805;Imunodeficit so zvýšeným imunoglobulínu M [IgM]
+Vysoko komplexné ochorenia imunitného systému;d810;Ťažký kombinovaný imunodeficit [SCID] s retikulovou dysgenézou
+Vysoko komplexné ochorenia imunitného systému;d811;Ťažký kombinovaný imunodeficit [SCID] s malým počtom T-buniek a B-buniek
+Vysoko komplexné ochorenia imunitného systému;d812;Ťažký kombinovaný imunodeficit [SCID] s malým alebo normálnym počtom B-buniek
+Vysoko komplexné ochorenia imunitného systému;d813;Deficit adenozíndezaminázy [ADA]
+Vysoko komplexné ochorenia imunitného systému;d814;Nezelofov syndróm
+Vysoko komplexné ochorenia imunitného systému;d815;Nedostatok purínnukleozid-fosforylázy [PNP]
+Vysoko komplexné ochorenia imunitného systému;d816;Defekt hlavného komplexu histokompatibility I. triedy
+Vysoko komplexné ochorenia imunitného systému;d817;Defekt hlavného komplexu histokompatibility II. triedy
+Vysoko komplexné ochorenia imunitného systému;d820;Wiskottov-Aldrichov syndróm
+Vysoko komplexné ochorenia imunitného systému;d821;Di Georgeov syndróm
+Vysoko komplexné ochorenia imunitného systému;d822;Imunodeficit spojený s disproporčným malým vzrastom
+Vysoko komplexné ochorenia imunitného systému;d823;Imunodeficit spojený s vrodenou defektnou odpoveďou na Epsteinov-Barrovej vírus
+Vysoko komplexné ochorenia imunitného systému;d824;Syndróm nadbytku imunoglobulínu E [IgE]
+Vysoko komplexné ochorenia imunitného systému;d841;Porucha komplementového systému
+Vysoko komplexné ochorenia imunitného systému;z280;Nevykonaná imunizácia pre kontraindikáciu
+Závažné ochorenia pankreasu;k8511;Akútna biliárna pankreatitída, s orgánovou komplikáciou
+Závažné ochorenia pankreasu;k861;Iná chronická pankreatitída
+Závažné ochorenia pankreasu;k862;Cysta pankreasu
+Závažné ochorenia pankreasu;k863;Pseudocysta pankreasu
+Závažné ochorenia pankreasu;k868;Iná choroba podžalúdkovej žľazy, bližšie určená
+Závažné ochorenia pečene;k740;Fibróza pečene
+Závažné ochorenia pečene;k743;Primárna biliárna cirhóza
+Ťažké kombinované imunodeficiencie;d81-;Kombinovaný imunodeficit
+Žlčníkový kameň a iné vybrané ochorenia;k8001;Kameň žlčníka s akútnou cholecystitídou, s obštrukciou žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k8011;Kameň žlčníka s inou cholecystitídou, s obštrukciou žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k8021;Kameň žlčníka bez cholecystitídy, s obštrukciou žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k8031;Kameň žlčového vývodu s cholangitídou, s obštrukciou žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k8041;Kameň žlčového vývodu s cholecystitídou, s obštrukciou žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k8051;Kameň žlčového vývodu bez cholangitídy alebo cholecystitídy, s obštrukciou žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k8081;Iná cholelitiáza, s obštrukciou žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k830;Zápal žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k831;Obštrukcia žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k832;Perforácia žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k833;Fistula žlčových ciest
+Žlčníkový kameň a iné vybrané ochorenia;k834;Spazmus Oddiho zvierača

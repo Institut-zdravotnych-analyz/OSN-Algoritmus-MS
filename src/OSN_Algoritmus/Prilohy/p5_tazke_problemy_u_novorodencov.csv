@@ -1,0 +1,3258 @@
+kod_diagnozy;nazov_diagnozy
+a010;Brušný týfus
+a011;Paratýfus A
+a012;Paratýfus B
+a013;Paratýfus C
+a014;Paratýfus,bližšie neurčený
+a020;Salmonelová enteritída
+a021;Salmonelová sepsa
+a022;Lokalizovaná salmonelová infekcia
+a028;Iná salmonelová infekcia,bližšie určená
+a029;Salmonelová infekcia,bližšie neurčená
+a030;Šigelóza zapríčinená Shigella dysenteriae
+a031;Šigelóza zapríčinená Shigella flexneri
+a032;Šigelóza zapríčinená Shigella boydii
+a033;Šigelóza zapríčinená Shigella sonnei
+a038;Iná šigelóza
+a039;Šigelóza,bližšie neurčená
+a040;Infekcia zapríčinená enteropatogénnou Escherichia coli
+a041;Infekcia zapríčinená enterotoxikogénnou Escherichia coli
+a042;Infekcia zapríčinená enteroinvazívnou Escherichia coli
+a043;Infekcia zapríčinená enterohemoragickou Escherichia coli
+a044;Iné črevné infekcie zapríčinené Escherichia coli
+a045;Enteritída zapríčinená kampylobakterom
+a046;Enteritída zapríčinená Yersinia enterocolitica
+a047;Enterokolitída zapríčinená Clostridium difficile
+a0481;Enteritída zapríčinená Arcobacter spp.
+a0489;Iná baktériová črevná infekcia, bližšie určená
+a050;Potravinová otrava zapríčinená stafylokokmi
+a051;Botulizmus
+a052;Potravinová otrava zapríčinená Clostridium perfringens
+a053;Potravinová otrava zapríčinená Vibrio parahaemolyticus
+a081;Akútna gastroenteritída zapríčinená norovírusom [Norwalk]
+a085;Iné,bližšie určené črevné infekcie
+a090;Iná a bliž.neurč.gastroenteritída a kolitída infečného pôvodu
+a150;TBC pľúc,potvrd.mikros.vyš.spúta s a bez dôk.kultiv./mol-biol.
+a151;Tuberkulóza pľúc,potvrdená len kultivačne
+a152;Tuberkulóza pľúc,potvrdená histologicky
+a153;TBC pľúc,potvrdená inými.a bliž.nurč.metódami
+a157;Primárna TBC dých.org.potv.bakt.molek.biolog./hist.
+a159;TBC dých.súst,potvrdená bakter.molek.biolog./hist.,b.n
+a160;TBC pľúc,bakter.molek.biolog.a hist.negat.
+a161;TBC pľúc,bez vyk.bakter.molek.biolog.a hist.vyš.
+a162;TBC pľúc,bez úd.o bakter.molek.biolog./hist.potvrdená
+a167;Prim.TBC dých.súst,bez úd.o bakter.molek.biolog./hist.pot.
+a169;TBC dých.súst.,bez úd.o bakter.molek.biolog./hist.pot.,b.n
+a170;Tuberkulózna meningitída (G01*)
+a171;Meningový tuberkulóm (G07*)
+a178;Iná tuberkulóza nervovej sústavy
+a179;Tuberkulóza nervovej sústavy,bližšie neurčená
+a185;Tuberkulóza oka
+a260;Kožný eryzipeloid
+a267;Eryzipelotrixová sepsa
+a268;Iná forma eryzipeloidu
+a269;Bližšie neurčený eryzipeloid
+a270;Leptospiróza zapríčinená Leptospira icterohaemorrhagiae
+a278;Iná forma leptospirózy
+a279;Leptospiróza,bližšie neurčená
+a280;Pasteurelóza
+a281;Choroba z mačacieho škrabnutia
+a282;Extraintestinálna yersinióza
+a288;Iná baktériová zoonóza,bliž.určená,nezatriedená inde
+a289;Baktériová zoonóza,bližšie neurčená
+a320;Kožná listerióza
+a321;Listériová meningitída a meningoencefalitída
+a327;Listériová sepsa
+a328;Iná forma listeriózy
+a329;Listerióza,bližšie neurčená
+a33;Tetanus novorodencov
+a35;Iný tetanus
+a370;Pertussis zapríčinený Bordetella pertussis
+a371;Pertussis zapríčinený Bordetella parapertussis
+a378;Pertussis zapríčinený iným druhom bordetely
+a379;Pertussis,bližšie neurčený
+a390;Meningokoková meningitída (G01*)
+a391;Waterhouseov-Friderichsenov syndróm (E35.1*)
+a392;Akútna meningokoková sepsa
+a393;Chronická meningokoková sepsa
+a394;Meningokoková sepsa,bližšie neurčená
+a395;Meningokokové ochorenie srdca
+a400;Sepsa zapríčinená streptokokom zo skupiny A
+a401;Sepsa zapríčinená streptokokom zo skupiny B
+a402;Sepsa zapríčinená streptokokom zo skupiny D
+a403;Sepsa zapríčinená Streptococcus pneumoniae
+a4081;Sepsa zapríčinená streptokokom zo skupiny C
+a4089;Iná streptokoková sepsa
+a409;Sepsa zapríčinená streptokokmi,bližšie neurčená
+a410;Sepsa zapríčinená Staphylococcus aureus
+a411;Sepsa zapríčinená iným bližšie určeným stafylokokom
+a412;Sepsa zapríčinená bližšie neurčeným stafylokokom
+a413;Sepsa zapríčinená Haemophilus influenzae
+a414;Sepsa zapríčinená anaeróbnou baktériou
+a4151;Sepsa zapríčinená Escherichia coli[E. coli]
+a4152;Sepsa zapríčinená pseudomonas
+a4153;Sepsa zapríč.multirezistentnou gramnegat.baktériou
+a4158;Sepsa zapríčinená inou gramnegatívnou baktériou
+a4181;Sepsa zapríč.multirezistentnou grampozit.baktériou
+a4189;Iná sepsa, bližšie určená
+a46;Eryzipel[Erysipelas,Ruža]
+a480;Plynová gangréna
+a481;Legionelóza s pneumóniou[Legionárska choroba]
+a482;Legionelóza bez pneumónie[Pontiacka horúčka]
+a500;Včasný vrodený syfilis,symptomatický
+a501;Včasný vrodený syfilis,latentný
+a502;Včasný vrodený syfilis,bližšie neurčený
+a503;Neskorá vrodená syfilitická okulopatia
+a504;Neskorý vrodený neurosyfilis[Juvenilný neurosyfilis]
+a711;Trachóm,aktívne štádium
+a7481;Chlamýdiová dilatačná kardiomyopatia
+a7482;Chlamýdiová myokarditída
+a7483;Chlamýdiová endokarditída
+a7484;Chlamýdiová artritída
+a7489;Iná chlamýdiová choroba
+a811;Subakútna sklerotizujúca panencefalitída
+a86;Vírusová encefalitída,bližšie neurčená
+a870;Enterovírusová meningitída (G02.0*)
+a89;Vírusová infekcia CNS,bliž.nurč.
+a960;Hemoragická horúčka zapríčinená vírusom Junin
+a961;Hemoragická horúčka zapríčinená vírusom Machupo
+a962;Horúčka Lassa
+a968;Iná arenavírusová hemoragická horúčka
+a969;Arenavírusová hemoragická horúčka,bližšie neurčená
+a983;Choroba zapríčinená vírusom Marburg
+a985;Hemoragická horúčka s renálnym syndrómom
+b000;Herpetický ekzém
+b001;Herpetická vezikulárna dermatitída
+b002;Herpetická gingivostomatitída a tonzilofaryngitída
+b003;Herpetická meningitída(G02.0*)
+b004;Herpetická encefalitída(G05.1*)
+b005;Očná infekcia herpetickým vírusom
+b007;Diseminovaná herpetická choroba
+b008;Iná forma herpetickej infekcie
+b009;Herpetická infekcia,bližšie neurčená
+b010;Varicelová meningitída(G02.0*)
+b011;Varicelová encefalitída(G05.1*)
+b012;Varicelový zápal pľúc(J17.1*)
+b018;Varicela s inými komplikáciami
+b019;Varicela bez komplikácií
+b020;Zosterová encefalitída(G05.1*)
+b021;Zosterová meningitída(G02.0*)
+b022;Zoster s postihnutím iných častí nervovej sústavy
+b023;Zosterová choroba oka
+b027;Diseminovaný zoster
+b028;Zoster s inými komplikáciami
+b029;Zoster bez komplikácií
+b050;Osýpky komplikované encefalitídou(G05.1*)
+b051;Osýpky komplikované meningitídou(G05.1*)
+b052;Osýpky komplikované pneumóniou(J17.1*)
+b053;Osýpky komplikované zápalom stredného ucha
+b054;Osýpky s črevnými komplikáciami
+b058;Osýpky s inými komplikáciami
+b060;Ružienka s nervovými komplikáciami
+b068;Ružienka s inými komplikáciami
+b085;Enterovírusová vezikulárna faryngitída
+b150;Akútna hepatitída A s pečeňovou kómou
+b159;Akútna hepatitída A bez pečeňovej kómy
+b160;Akútna hepatit.B s Delta vírusom(koinfekcia),s pečeň.kómou
+b161;Akútna hepatit.B s Delta vírusom(koinfekcia),bez pečeň.kómy
+b162;Akútna hepatit.B bez Delta vírusu,s pečeňovou kómou
+b169;Akútna hepatit.B bez Delta vírusu,bez pečeňovej kómy
+b170;Akútna Delta-vírus.(super)infekcia nosiča vírusu hepatit.B
+b171;Akútna hepatitída C
+b172;Akútna hepatitída E
+b178;Iná akútna vírusová hepatitída,bližšie určená
+b179;Akútna vírusová hepatitída,bližšie neurčená
+b180;Chronická hepatitída B s Delta vírusom
+b181;Chronická hepatitída B bez Delta vírusu
+b182;Chronická hepatitída C
+b188;Iná chronická vírusová hepatitída
+b189;Chronická vírusová hepatitída,bližšie neurčená
+b190;Vírusová hepatit.s pečeňovou kómou,bliž.neurč.
+b199;Vírusová hepatit.bez pečeňovej kómy,bliž.neurč.
+b200;Choroba HIV následnými mykobakteriovými infekciami
+b201;Choroba HIV následnými inými bakteriovými infekciami
+b202;Choroba HIV následnými cytomegalovírusovou chorobou
+b203;Choroba HIV následnými do inými vírusovými infekciami
+b204;Choroba HIV s následnými kandidózami
+b205;Choroba HIV s následnými inými mykózami
+b206;Choroba HIV s následnou pneumocystovou pneumóniou
+b207;Choroba HIV s následnými viacpočetnými infekciami
+b208;Choroba HIV následnými iných.infekčnými a parazit.chorobami
+b209;Choroba HIV následnými infekčnými/paraz.chor.bliž.neurč.
+b210;Choroba HIV s následným Kaposiho sarkómom
+b211;Choroba HIV s následným Burkittovým lymfómom
+b212;Choroba HIV násled.inými typmi nehodgkinovho lymfómu
+b213;Choroba HIV násled.inými zhub.nád.lymf.krvotv.a príb.tkan.
+b217;Choroba HIV násled.viacpočetnými zhub.nádormi
+b218;Choroba HIV s následnými inými zhubnými nádormi
+b219;Choroba HIV následnými.zhubnými nádormi,bliž.neur.
+b220;Choroba HIV s následnou encefalopatiou
+b221;Choroba HIV s násled.lymfoidnou intersticiál.pneumonitídou
+b222;Choroba HIV s následným syndrómom celkového upadania
+b227;Choroba HIVs následnými rozličnými chorobami zatried.inde
+b230;Syndróm akútnej infekcie HIV
+b231;Choroba HIV s následnou generalizovanou lymfadenopatiou
+b232;Choroba HIV následnými hematolog.a imunolog.abnormalit.n.i.
+b238;Choroba HIV s inými následnými,bliž.urč.stavmi
+b24;Choroba HIV,bližšie neurčená
+b250;Cytomegalovírusová pneumónia(J17.1*)
+b251;Cytomegalovírusová hepatitída(K77.0*)
+b252;Cytomegalovírusová pankreatitída(K87.1*)
+b2580;Cytomegalovírusová infekcia tráviacej trubice
+b2588;Iná cytomegalovírusová choroba
+b259;Cytomegalovírusová choroba,bližšie neurčená
+b260;Parotitická orchitída(N51.1*)
+b261;Parotitická meningitída(G02.0*)
+b262;Parotitická encefalitída(G05.1*)
+b263;Parotitická pankreatitída(K87.1*)
+b268;Parotitída s inými komplikáciami
+b270;Mononukleóza zapríčinená gamma - Herpes vírusom
+b271;Cytomegalovírusová mononukleóza
+b278;Iná infekčná mononukleóza
+b279;Infekčná mononukleóza,bližšie neurčená
+b301;Konjunktivitída zapríčinená adenovírusom(H13.1*)
+b303;Akútna epidemická hemorag.konjunktivitída(enterovír.)
+b332;Vírusová karditída
+b340;Adenovírusová infekcia bez bližšieho určenia miesta
+b371;Pľúcna kandidóza
+b372;Kandidóza kože a nechtov
+b374;Kandidóza iných častí močovopohlavnej sústavy
+b375;Kandidová meningitída(G02.1*)
+b376;Kandidová endokarditída(I39.8*)
+b3781;Kandidová ezofagitída
+b380;Akútna kokcidioidomykóza pľúc
+b381;Chronická kokcidioidomykóza pľúc
+b382;Kokcidioidomykóza pľúc,bližšie neurčená
+b383;Kokcidioidomykóza kože
+b384;Kokcidioidomykotická meningitída (G02.1*)
+b387;Diseminovaná kokcidioidomykóza
+b388;Iná forma kokcidioidomykózy
+b390;Akútna histoplazmóza pľúc zapríč.Histoplasma capsulatum
+b391;Chronická histoplazmóza pľúc zapríč.Histoplasma capsulatum
+b392;Histoplazmóza pľúc zapríč.Histoplasma capsulatum,bliž.neurč.
+b400;Akútna blastomykóza pľúc
+b401;Chronická blastomykóza pľúc
+b402;Blastomykóza pľúc,bližšie neurčená
+b403;Blastomykóza kože
+b407;Diseminovaná blastomykóza
+b408;Iná forma blastomykózy
+b409;Blastomykóza,bližšie neurčená
+b410;Parakokcidioidomykóza pľúc
+b417;Diseminovaná parakokcidioidomykóza
+b418;Iná forma parakokcidioidomykózy
+b419;Parakokcidioidomykóza,bližšie neurčená
+b440;Invazívna aspergilóza pľúc
+b441;Iná aspergilóza pľúc
+b442;Aspergilóza tonzíl
+b447;Diseminovaná aspergilóza
+b448;Iná forma aspergilózy
+b449;Aspergilóza,bližšie neurčená
+b450;Kryptokokóza pľúc
+b451;Kryptokokóza mozgu
+b452;Kryptokokóza kože
+b453;Kryptokokóza kostí
+b457;Diseminovaná kryptokokóza
+b458;Iná forma kryptokokózy
+b459;Kryptokokóza,bližšie neurčená
+b460;Mukormykóza pľúc
+b461;Rinocerebrálna mukormykóza
+b462;Mukormykóza tráviacej trubice
+b463;Mukormykóza kože
+b464;Diseminovaná mukormykóza
+b465;Mukormykóza,bližšie neurčená
+b468;Iná zygomykóza
+b469;Zygomykóza,bližšie neurčená
+b470;Eumycetóm
+b471;Aktinomycetóm
+b482;Allescherióza
+b487;Mykóza zapríčinená oportunistickým patogénom
+b500;Malária zapríč.Plasmodium falciparum s mozgov.kompl.
+b508;Iná ťažká a kompl.malária zapríč.Plasmodium falciparum
+b509;Malária zapríčinenáPlasmodium falciparum,b.n.
+b510;Malária zapríčinená Plasmodium vivax s ruptúrou sleziny
+b518;Malária zapríčinená Plasmodium vivax s i.kompl.
+b519;Malária zapríčinená Plasmodium vivax bez kompl.
+b520;Malária zapríčinená Plasmodium malariae s nefropatiou
+b528;Malária zapríčinená Plasmodium malariae s i.kompl.
+b529;Malária zapríčinená Plasmodium malariae bez kompl.
+b530;Malária zapríčinená Plasmodium ovale
+b531;Malária zapríčinená opičími plazmódiami
+b538;Iná parazitologicky potvrdená malária,nezatriedená.inde
+b54;Malária,bližšie neurčená
+b580;Toxoplazmová okulopatia
+b581;Toxoplazmová hepatitída (K77.0*)
+b582;Toxoplazmová meningoencefalitída(G05.2*)
+b583;Toxoplazmóza pľúc(J17.3*)
+b588;Toxoplazmóza s postihnutím iných orgánov
+b589;Toxoplazmóza,bližšie neurčená
+b59;Pneumocystóza (J17.3*)
+b970;Adenovírus ako príčina chorôb zatriedených inde
+b971;Enterovírus ako príčina chorôb zatriedených inde
+c000;Zhubný nádor vonkajšej hornej pery
+c001;Zhubný nádor vonkajšej dolnej pery
+c002;Zhubný nádor vonkajšej pery,bližšie neurčený
+c003;Zhubný nádor vnútornej strany hornej pery
+c004;Zhubný nádor vnútornej strany dolnej pery
+c005;Zhubný nádor vnútornej strany pery,bliž.neurč.
+c006;Zhubný nádor spojky perí
+c008;Zhubný nádor pery presahujúci viaceré oblasti
+c009;Zhubný nádor pery,bližšie neurčený
+c01;Zhubný nádor koreňa jazyka
+c020;Zhubný nádor chrbtovej strany jazyka
+c021;Zhubný nádor okraja jazyka
+c022;Zhubný nádor spodnej strany jazyka
+c023;Zhubný nádor predných dvoch tretín jazyka, bliž.neurč.časť
+c028;Zhubný nádor jazyka presahujúci viaceré oblasti
+c029;Zhubný nádor jazyka,bližšie neurčený
+c030;Zhubný nádor horného ďasna
+c031;Zhubný nádor dolného ďasna
+c039;Zhubný nádor ďasna,bližšie neurčený
+c040;Zhubný nádor prednej časti ústnej spodiny
+c041;Zhubný nádor bočnej časti ústnej spodiny
+c048;Zhub.nádor ústnej spodiny presah.viaceré obl.
+c049;Zhubný nádor ústnej spodiny,bližšie neurčený
+c050;Zhubný nádor tvrdého podnebia
+c051;Zhubný nádor mäkkého podnebia
+c052;Zhubný nádor uvuly
+c058;Zhubný nádor podnebia presahujúci viaceré oblasti
+c059;Zhubný nádor podnebia,bližšie neurčený
+c060;Zhubný nádor sliznice líca
+c061;Zhubný nádor vestibulum oris
+c062;Zhubný nádor retromolárnej časti úst
+c068;Zhubný nádor iných a bliž.neurč.častí.úst,presah.viaceré obl.
+c069;Zhubný nádor úst,bližšie neurčený
+c07;Zhubný nádor príušnej žľazy
+c080;Zhubný nádor submandibulárnej slinnej žľazy
+c081;Zhubný nádor sublingválnej slinnej žľazy
+c088;Zhubný nádor veľkých slinných žliaz,presah.viac.obl.
+c089;Zhubný nádor veľkej slinnej žľazy,bližšie neurčený
+c090;Zhubný nádor fossa tonsillaris
+c091;Zhubný nádor podnebného oblúka(predná časť)(zadná časť)
+c098;Zhubný nádor mandle presahujúci viaceré oblasti
+c100;Zhubný nádor vallecula epiglottica
+c101;Zhubný nádor prednej plochy epiglottis
+c102;Zhubný nádor bočnej steny orofaryngu
+c103;Zhubný nádor zadnej steny orofaryngu
+c104;Zhubný nádor branchiálneho rázštepu
+c108;Zhubný nádor orofaryngu presahujúci viaceré oblasti
+c109;Zhubný nádor orofaryngu,bližšie neurčený
+c110;Zhubný nádor hornej steny nazofaryngu
+c111;Zhubný nádor zadnej steny nazofaryngu
+c112;Zhubný nádor bočnej steny nazofaryngu
+c113;Zhubný nádor prednej steny nazofaryngu
+c118;Zhubný nádor nosohltana presah.viac.obl.
+c119;Zhubný nádor nazofaryngu,bližšie neurčený
+c12;Zhubný nádor recessus piriformis
+c130;Zhubný nádor regio postcricoidea
+c131;Zhubný nádor hypofaryngovej strany aryepiglotickej krkvy
+c132;Zhubný nádor zadnej steny hypofaryngu
+c138;Zhubný nádor hypofaryngu presah.viac. obl.
+c139;Zhubný nádor hypofaryngu,bližšie neurčený
+c140;Zhubný nádor faryngu,bližšie neurčený
+c142;Zhubný nádor Waldeyerovho lymfatického okruhu
+c148;Zhub.nádor pery,ústnej dutiny a hltana presah.viac.obl.
+c150;Zhubný nádor krčnej časti pažeráka
+c151;Zhubný nádor hrudníkovej časti pažeráka
+c152;Zhubný nádor brušnej časti pažeráka
+c153;Zhubný nádor hornej tretiny pažeráka
+c154;Zhubný nádor strednej tretiny pažeráka
+c155;Zhubný nádor dolnej tretiny pažeráka
+c158;Zhubný nádor pažeráka presahujúci viaceré oblasti
+c159;Zhubný nádor pažeráka,bližšie neurčený
+c160;Zhubný nádor kardie
+c161;Zhubný nádor fundu žalúdka
+c162;Zhubný nádor tela žalúdka
+c163;Zhubný nádor antra pyloru
+c164;Zhubný nádor pyloru
+c165;Zhub.nádor malej kurvatúry žalúdka,bliž.neurč.
+c166;Zhub.nádor veľkej kurvatúry žalúdka,bliž.neurč.
+c168;Zhubný nádor žalúdka presahujúci viaceré oblasti
+c169;Zhubný nádor žalúdka,bližšie neurčený
+c170;Zhubný nádor dvanástnika
+c171;Zhubný nádor jejúna
+c172;Zhubný nádor ilea
+c173;Zhubný nádor Meckelovho divertikula
+c178;Zhubný nádor tenkého čreva presah.viac.obl.
+c179;Zhubný nádor tenkého čreva,bližšie neurčený
+c180;Zhubný nádor slepého čreva
+c181;Zhubný nádor červovitého prívesku slepého čreva
+c182;Zhubný nádor vzostupnej časti hrubého čreva
+c183;Zhubný nádor pečeňového ohybu hrubého čreva
+c184;Zhubný nádor priečnej časti hrubého čreva
+c185;Zhubný nádor slezinového ohybu hrubého čreva
+c186;Zhubný nádor zostupnej časti hrubého čreva
+c187;Zhubný nádor esovitej časti hrubého čreva
+c188;Zhubný nádor hrubého čreva presah.viac.obl.
+c189;Zhubný nádor hrubého čreva,bližšie neurčený
+c19;Zhubný nádor rektosigmoidového spojenia hrubého čreva
+c20;Zhubný nádor konečníka
+c210;Zhubný nádor anusu,bližšie neurčený
+c211;Zhubný nádor análneho kanála
+c212;Zhubný nádor kloakovej oblasti
+c218;Zhubný nádor rekta,anusu a análneho kanála presah.viac.obl.
+c220;Hepatocelulárny karcinóm
+c221;Karcinóm vnútropečeňových žlčových ciest
+c222;Hepatoblastóm
+c223;Angiosarkóm pečene
+c224;Iný sarkóm pečene
+c227;Iný karcinóm pečene,bližšie určený
+c229;Zhubný nádor pečene,bližšie neurčený
+c23;Zhubný nádor žlčníka
+c240;Zhubný nádor mimopečeňových žlčových ciest
+c241;Zhubný nádor ampulla Vateri
+c248;Zhubný nádor žlčových ciest presah.viac.obl.
+c249;Zhubný nádor žlčových ciest,bližšie neurčený
+c250;Zhubný nádor hlavy podžalúdkovej žľazy
+c251;Zhubný nádor tela podžalúdkovej žľazy
+c252;Zhubný nádor chvosta podžalúdkovej žľazy
+c253;Zhubný nádor vývodu podžalúdkovej žľazy
+c254;Zhubný nádor endokrinnej časti podžalúdkovej žľazy
+c257;Zhubný nádor iných častí podžalúdkovej žľazy
+c258;Zhubný nádor podžalúdkovej žľazy presah.viac.obl.
+c259;Zhubný nádor podžalúdkovej žľazy,bližšie neurčený
+c260;Zhubný nádor bliž.neurč.časti črevného traktu
+c261;Zhubný nádor sleziny
+c268;Zhubný nádor tráviacej sústavy presah.viac.obl.
+c269;Zhubný nádor na nepresne určenom mieste tráviacej súst.
+c300;Zhubný nádor nosovej dutiny
+c301;Zhubný nádor stredného ucha
+c310;Zhubný nádor čeľustnej dutiny
+c311;Zhubný nádor čuchovej dutiny
+c312;Zhubný nádor čelovej dutiny
+c313;Zhubný nádor dutiny klinovej kosti
+c318;Zhubný nádor prinosovej dutiny presah.viac.obl.
+c319;Zhubný nádor bližšie neurčenej prinosovej dutiny
+c320;Zhubný nádor glottis
+c321;Zhubný nádor supraglottis
+c322;Zhubný nádor subglottis
+c323;Zhubný nádor hrtanovej chrupky
+c328;Zhubný nádor hrtana presahujúci viaceré oblasti
+c329;Zhubný nádor hrtana, bližšie neurčený
+c33;Zhubný nádor priedušnice
+c340;Zhubný nádor hlavnej priedušky
+c341;Zhubný nádor priedušky alebo pľúc v hornom laloku
+c342;Zhubný nádor priedušky alebo pľúc v strednom laloku
+c343;Zhubný nádor priedušky alebo pľúc v dolnom laloku
+c348;Zhubný nádor priedušky alebo pľúc,presah.viac.obl.
+c349;Zhubný nádor priedušky alebo pľúc,bližšie neurčený
+c37;Zhubný nádor týmusu
+c380;Zhubný nádor srdca
+c381;Zhubný nádor predného mediastína
+c382;Zhubný nádor zadného mediastína
+c383;Zhubný nádor bližšie neurčenej časti mediastína
+c384;Zhubný nádor pohrudnice
+c388;Zhubný nádor srdca,mediastína a pohrudnice presah.viac.obl.
+c390;Zhubný nádor bliž.neurč.časti horných dýchacích ciest
+c398;Zhubný nádor dých.a vnútrohrud.orgánov presah.viac.obl.
+c399;Zhubný nádor na nepres.urč.miestach dýchacej sústavy
+c400;Zhubný nádor kosti a kĺb.chrupky lopatky a dlhých kostí HK
+c401;Zhubný nádor kosti a kĺbovej chrupky krátkych kostí HK
+c402;Zhubný nádor kosti a kĺbovej chrupky dlhých kostí DK
+c403;Zhubný nádor kosti a kĺbovej chrupky krátkych kostí DK
+c408;Zhubný nádor kosti a kĺb.chrupky končatín,presah.viac.obl.
+c409;Zhubný nádor kosti a kĺbovej chrupky končatiny,bliž.neurč.
+c411;Zhubný nádor kosti a kĺbovej chrupky dolnej čeľuste(sánky)
+c412;Zhubný nádor kosti a kĺbovej chrupky chrbtice
+c4130;Zhubný nádor kosti a kĺbovej chrupky rebra
+c4131;Zhubný nádor kosti a kĺbovej chrupky hrudnej kosti
+c4132;Zhubný nádor kosti a kĺbovej chrupky kľúčnej kosti
+c414;Zhubný nádor kosti a kĺbovej chrupky panvovej kosti
+c418;Zhubný nádor kosti a kĺbovej chrupky presah.viac.obl.
+c419;Zhubný nádor kosti a kĺbovej chrupky,bliž.neurč.
+c430;Malígny melanóm pery
+c431;Malígny melanóm mihalnice vrátane očného kútika
+c432;Malígny melanóm ucha a vonkajšieho zvukovodu
+c433;Malígny melanóm inej a bliž.neurč.časti tváre
+c434;Malígny melanóm vlasatej časti hlavy a krku
+c435;Malígny melanóm trupu
+c436;Malígny melanóm hornej končatiny vrátane pleca
+c437;Malígny melanóm dolnej končatiny vrátane bedra
+c438;Malígny melanóm presahujúci viaceré oblasti
+c439;Malígny melanóm kože,bližšie neurčený
+c440;Iný zhubný nádor kože pery
+c441;Iný zhubný nádor kože mihlanice vrátane očného kútika
+c442;Iný zhubný nádor kože ucha a vonkajšieho zvukovodu
+c443;Iný zhubný nádor kože iných.a bliž.neurč.častí tváre
+c444;Iný zhubný nádor kože vlasatej časti hlavy a krku
+c445;Iný zhubný nádor kože trupu
+c446;Zhubný nádor kože hornej končatiny vrátane pleca
+c447;Zhubný nádor kože dolnej končatiny vrátane bedra
+c448;Zhubný nádor kože presahujúci viaceré oblasti
+c449;Zhubný nádor kože,bližšie neurčený
+c450;Mezotelióm pohrudnice
+c451;Mezotelióm pobrušnice
+c452;Mezotelióm osrdcovníka
+c457;Mezotelióm na inom mieste
+c459;Mezotelióm,bližšie neurčený
+c470;Zhubný nádor periférnych nervov hlavy,tváre a krku
+c471;Zhubný nádor periférnych nervov HK vrátane pleca
+c472;Zhubný nádor periférnych nervov DK vrátane bedra
+c473;Zhubný nádor periférnych nervov hrudníka
+c474;Zhubný nádor periférnych nervov brucha
+c475;Zhubný nádor periférnych nervov panvy
+c476;Zhubný nádor periférnych nervov trupu,bliž.neurč.
+c478;Zhub.nádor perifér.nerv. a autonóm.nerv.súst.presah.viac.obl.
+c479;Zhubný nádor perifér.nervov a autonóm.nerv.súst.,bliž.neurč.
+c480;Zhubný nádor retroperitonea
+c481;Zhubný nádor pobrušnice,bližšie určenej časti
+c482;Zhubný nádor pobrušnice,bližšie neurčenej časti
+c488;Zhubný nádor retroperitonea a pobrušnice presah.viac.obl.
+c490;Zhubný nádor spojivového a mäkk.tkaniva hlavy,tváre a krku
+c491;Zhubný nádor spojivového a mäkk.tkaniva HK vrátane pleca
+c492;Zhubný nádor spojivového a mäkk.tkaniva DK vrátane bedra
+c493;Zhubný nádor spojivového a mäkkého tkaniva hrudníka
+c494;Zhubný nádor spojivového a mäkkého tkaniva brucha
+c495;Zhubný nádor spojivového a mäkkého tkaniva malej panvy
+c496;Zhubný nádor spojivového a mäkkého tkaniva trupu,bliž.neurč.
+c498;Zhub.nádor spojiv.a mäk.tkan.,presah.viac.obl.
+c499;Zhub.nádor spojiv.a mäk.tkan.,b.n.
+c500;Zhubný nádor prsníkovej bradavky a dvorčeka
+c501;Zhubný nádor strednej časti prsníka
+c502;Zhubný nádor horného vnútorného kvadrantu prsníka
+c503;Zhubný nádor dolného vnútorného kvadrantu prsníka
+c504;Zhubný nádor horného vonkajšieho kvadrantu prsníka
+c505;Zhubný nádor dolného vonkajšieho kvadrantu prsníka
+c506;Zhubný nádor axilárnej časti prsníka
+c508;Zhubný nádor prsníka presahujúci viaceré oblasti
+c509;Zhubný nádor prsníka,bližšie neurčený
+c510;Zhubný nádor veľkého pysku
+c511;Zhubný nádor malého pysku
+c512;Zhubný nádor klitorisu
+c518;Zhubný nádor vulvy presahujúci viaceré oblasti
+c519;Zhubný nádor vulvy,bližšie neurčený
+c52;Zhubný nádor pošvy
+c530;Zhubný nádor endocervixu maternice
+c531;Zhubný nádor exocervixu maternice
+c538;Zhubný nádor krčka maternice presah.viac.obl.
+c539;Zhubný nádor krčka maternice,bližšie neurčený
+c540;Zhubný nádor istmu maternice
+c541;Zhubný nádor endometria
+c542;Zhubný nádor myometria
+c543;Zhubný nádor dna maternice
+c548;Zhub.nádor tela maternice presah.viac.obl.
+c549;Zhubný nádor tela maternice,bližšie neurčený
+c55;Zhubný nádor bližšie neurčenej časti maternice
+c56;Zhubný nádor vaječníka
+c570;Zhubný nádor vajíčkovodu
+c571;Zhubný nádor širokého väzu maternice
+c572;Zhubný nádor oblého väzu maternice
+c573;Zhubný nádor parametria
+c574;Zhubný nádor adnexov maternice,bližšie neurčený
+c577;Zhubný nádor iných ženských pohlavných orgánov,bliž.urč.
+c578;Zhubný nádor ženských.pohlavných orgánov,presah.viac.obl.
+c579;Zhubný nádor ženského pohlavného orgánu,bliž.neurč.
+c600;Zhubný nádor predkožky penisu
+c601;Zhubný nádor žaluďa penisu
+c602;Zhubný nádor tela penisu
+c608;Zhubný nádor penisu presahujúci viaceré oblasti
+c609;Zhubný nádor penisu,bližšie neurčený
+c620;Zhubný nádor nezostúpeného semenníka
+c621;Zhubný nádor zostúpeného semenníka
+c629;Zhubný nádor semenníka,bližšie neurčený
+c630;Zhubný nádor nadsemenníka
+c631;Zhubný nádor semenného povrazca
+c632;Zhubný nádor mieška
+c637;Zhubný nádor iných mužských pohlavných orgánov,bliž.urč.
+c638;Zhubný nádor mužských pohlavných orgánov presah.viac.obl.
+c639;Zhubný nádor mužského pohlavného orgánu,bliž.neurč.
+c64;Zhubný nádor obličky okrem obličkovej panvičky
+c65;Zhubný nádor obličkovej panvičky
+c66;Zhubný nádor močovodu
+c670;Zhubný nádor trigonum močového mechúra
+c671;Zhubný nádor klenby močového mechúra
+c672;Zhubný nádor bočnej steny močového mechúra
+c673;Zhubný nádor prednej steny močového mechúra
+c674;Zhubný nádor zadnej steny močového mechúra
+c675;Zhubný nádor krčka močového mechúra
+c676;Zhubný nádor ústia močovodu
+c677;Zhubný nádor urachu
+c678;Zhubný nádor močového mechúra,presah.viac.obl.
+c679;Zhubný nádor močového mechúra,bližšie neurčený
+c680;Zhubný nádor močovej rúry
+c681;Zhubný nádor parauretrálnej žľazy
+c688;Zhubný nádor močových orgánov presah.viac.obl.
+c689;Zhubný nádor bližšie neurčených močových orgánov
+c690;Zhubný nádor spojovky
+c691;Zhubný nádor rohovky
+c692;Zhubný nádor sietnice
+c693;Zhubný nádor cievovky
+c694;Zhubný nádor vráskovca
+c695;Zhubný nádor slznej žľazy a nosovoslzného kanála
+c696;Zhubný nádor očnice
+c698;Zhub.nádor oka a očných adnexov presah.viac.obl.
+c699;Zhubný nádor oka,bližšie neurčený
+c700;Zhubný nádor mozgovomiechových obalov: mozog
+c701;Zhubný nádor mozgovomiechových obalov: miecha
+c709;Zhubný nádor mozgovomoechových obalov,bližšie neurčený
+c710;Zhubný nádor mozgu okrem lalokov a komôr
+c711;Zhubný nádor čelového laloka mozgu
+c712;Zhubný nádor spánkového laloka mozgu
+c713;Zhubný nádor temenného laloka mozgu
+c714;Zhubný nádor záhlavového laloka mozgu
+c715;Zhubný nádor mozgovej komory mozgu
+c716;Zhubný nádor mozočka
+c717;Zhubný nádor mozgového kmeňa
+c718;Zhubný nádor mozgu presahujúci viaceré oblasti
+c719;Zhubný nádor mozgu, bližšie neurčený
+c720;Zhubný nádor miechy
+c721;Zhubný nádor cauda equina
+c722;Zhubný nádor čuchového nervu[nn.olfactorii]
+c723;Zhubný nádor zrakového nervu[n.opticus]
+c724;Zhubný nádor sluchového nervu
+c725;Zhubný nádor iných a bliž.neurč.hlavovových nervov
+c728;Zhubný nádor,lézia presahujúca mozog a iné časti CNS
+c729;Zhubný nádor centrálnej nervovej sústavy,bližšie neurčený
+c73;Zhubný nádor štítnej žľazy
+c740;Zhubný nádor kôry nadobličky
+c741;Zhubný nádor drene nadobličky
+c749;Zhubný nádor nadobličky,bližšie neurčený
+c750;Zhubný nádor prištítnej žľazy
+c751;Zhubný nádor podmozgovej žľazy
+c752;Zhubný nádor kraniofaryngového vývodu
+c753;Zhubný nádor epifýzy
+c754;Zhubný nádor glomus caroticum
+c755;Zhubný nádor glomus aorticum a iných paraganglií
+c758;Zhubný nádor s postih.viacerých žliaz,bliž.neurč.
+c759;Zhubný nádor žliaz s vnútorným vylučovaním,bliž.neurč.
+c760;Zhubný nádor na i.a nepres.urč.miestach hlavy,tváre a krku
+c761;Zhubný nádor na iných a nepres.urč.miestach hrudníka
+c762;Zhubný nádor na iných a nepres.urč.miestach brucha
+c763;Zhubný nádor na iných a nepres.urč.miestach panvy
+c764;Zhubný nádor na iných a nepres.urč.miestach HK
+c765;Zhubný nádor na iných a nepres.urč.miestach DK
+c767;Zhubný nádor na iných a nepresne určených miestach
+c768;Zhubný nádor na iných a nepres.urč.miestach,presah.viac.obl.
+c770;Sekundár.a bliž.neu.zhub.nádor lymf.uzliny hlavy,tváre a krku
+c771;Sekundárny a bliž.neu.zhub.nádor vnútrohrud.lymf.uzliny
+c772;Sekundárny a bliž.neu.zhub.nádor vnútrobruš.lymf.uzliny
+c773;Sekundárny a bliž.neu.zhub.nádor lymf.uzliny pazuchy a HK
+c774;Sekundárny a bliž.neu.zhub.nádor lymf.uzliny slabiny a DK
+c775;Sekundárny a bliž.neu.zhub.nádor vnútropanv.lymf.uzliny
+c778;Sekundárny a bliž.neu.zhub.nádor lymf.uzliny viac.obl.
+c779;Sekundárny a bliž.neu.zhub.nádor bliž.neurč.lymf.uzlín
+c780;Sekundárny zhubný nádor pľúc
+c781;Sekundárny zhubný nádor mediastína
+c782;Sekundárny zhubný nádor pohrudnice
+c783;Sekundárny zhubný nádor iných a bliž.neurč.dýchacích orgánov
+c784;Sekundárny zhubný nádor tenkého čreva
+c785;Sekundárny zhubný nádor hrubého čreva a konečníka
+c786;Sekundárny zhubný nádor retroperitonea a pobrušnice
+c787;Sekundárny zhubný nádor pečene a vnútropečeň.žlčovodov
+c788;Sekundárny zhubný nádor i.a bliž.neurč.tráviacich orgánov
+c790;Sekundárny zhubný nádor obličky a obličkovej panvičky
+c791;Sekundárny zhubný nádor moč.mechúra a i.a b.neurč.moč.org.
+c792;Sekundárny zhubný nádor kože
+c793;Sekundárny zhubný nádor mozgu a mozgových plien
+c794;Sekundárny zhubný nádor i.a bliž.neu.častí nervov.súst.
+c795;Sekundárny zhubný nádor kosti a kostnej drene
+c796;Sekundárny zhubný nádor vaječníka
+c797;Sekundárny zhubný nádor nadobličky
+c7981;Sekundárny zhubný nádor prsníka
+c7982;Sekundárny zhubný nádor pohlavných orgánov
+c7983;Sekundárny zhubný nádor perikardu
+c7984;Iné sekundárne zhubné nádory srdca
+c7988;Sekundárny zhubný nádor na iných bliž.urč.miestach
+c810;Nodulárny Hodgkinov lymfóm s prevahou lymfocytov
+c811;Klasický Hodgkinov lymfóm s nodulárnou sklerózou
+c812;Klasický Hodgkinov lymfóm so zmiešanou celularitou
+c813;Klasický Hodgkinov lymfóm chudobný na lymfocyty
+c814;Klasický Hodgkinov lymfóm bohatý na lymfocyty
+c817;Iný klasický Hodgkinov lymfóm
+c819;Hodgkinov lymfóm,bližšie neurčený
+c820;Folikulový lymfóm,štádium I
+c821;Folikulový lymfóm,štádium II
+c822;Folikulový lymfóm,štádium III,bližšie neurčený
+c823;Folikulový lymfóm,štádium IIIa
+c824;Folikulový lymfóm,štádium IIIb
+c825;Difúzny lymfóm folikulového centra
+c826;Kožný lymfóm folikulového centra
+c827;Iný typ folikulového lymfómu
+c829;Folikulový lymfóm,bližšie neurčený
+c830;Malobunkový lymfóm z B-buniek
+c831;Lymfóm z plášťových buniek
+c833;Difúzny veľkobunkový lymfóm z B-buniek
+c835;Lymfoblastový lymfóm
+c837;Burkittov lymfóm
+c838;Iný nefolikulový lymfóm
+c839;Nefolikulový lymfóm,bližšie neurčený
+c840;Mycosis fungoides
+c841;Sézaryho choroba
+c844;Periférny lymfóm z T-buniek,nezatriedený
+c845;Iný lymfóm zo zrelých T/NK-buniek
+c846;Anaplastický veľkobunkový lymfóm,ALK-pozitívny
+c847;Anaplastický veľkobunkový lymfóm,ALK-negatívny
+c848;Kožný lymfóm z T-buniek,bližšie neurčený
+c849;Lymfóm zo zrelých T/NK-buniek,bližšie neurčený
+c851;Lymfóm z B-buniek,bližšie neurčený
+c852;Mediastinálny (týmusový) veľkobunkový lymfóm z B-buniek
+c857;Iný bližšie určený typ non-Hodgkinovho lymfómu
+c859;Non-Hodgkinov lymfóm,bližšie neurčený
+c860;Extranodálny lymfóm z NK/T- buniek,nosový typ
+c861;Hepatosplenický lymfóm z T-buniek
+c862;Enteropatický (intestinálny) lymfóm z T-buniek
+c863;Podkožný panikulitíde podobný lymfóm z T-buniek
+c864;Blastový lymfóm z NK-buniek
+c865;Angioimunoblastový lymfóm z T-buniek
+c866;Primárna kožná CD30-pozitívna lymfoprolif.chor.z T-buniek
+c8800;Waldenströmova makroglobulinémia,bez komplet.remisie
+c8801;Waldenströmova makroglobulinémia,v komplet.remisie
+c8820;Iná choroba ťažkých reťazcov,bez komplet.rem.
+c8821;Iná choroba ťažkých reťazcov,v kompletnej remisii
+c8830;Imunoproliferatívna choroba tenkého čreva,bez komplet.rem.
+c8831;Imunoproliferatívna choroba tenkého čreva,v komplet.remisii
+c8840;Extranod.lymf.z B-bun.marginál.zóny lymf.tka.sliz.bez kompl.r.
+c8841;Extranod.lymf.z B-bun.marginál.zóny lymf.tka.sliz.,v kompl.r.
+c8870;Iná zhubná imunoproliferatívna choroba,bez komplet.rem.
+c8871;Iná zhubná imunoproliferatívna choroba,v komplet.rem.
+c8890;Zhubná imunoproliferatívna choroba,bliž.neurč.,bez kompl.rem.
+c8891;Zhubná imunoproliferatívna choroba,bliž.neurč.,v kompl.rem.
+c9000;Mnohopočetný myelóm,bez kompletnej remisie
+c9001;Mnohopočetný myelóm,v kompletnej remisii
+c9010;Plazmocytová leukémia,bez kompletnej remisie
+c9011;Plazmocytová leukémia,v kompletnej remisii
+c9020;Extramedulárny plazmocytóm,bez kompletnej remisie
+c9021;Extramedulárny plazmocytóm,v kompletnej remisii
+c9030;Solitárny plazmocytóm,bez kompletnej remisie
+c9031;Solitárny plazmocytóm,v kompletnej remisii
+c9100;Akútna lymfoblastová leukémia,bez komplet.remisie
+c9101;Akútna lymfoblastová leukémia,v komplet.remisii
+c9110;Chronická lymfatická leukémia,bez komplet remisie
+c9111;Chronická lymfatická leukémia,v kompletnej remisii
+c9130;Prolymfocytová leukémia z B-buniek,bez komplet.remisie
+c9131;Prolymfocytová leukémia z B-buniek,v komplet.remisii
+c9140;Vlasatobunková leukémia,bez kompletnej remisie
+c9141;Vlasatobunková leukémia,v kompletnej remisii
+c9150;Leukém./lymf.z dos.T-buniek spoj.s infek.HTLV-1,b.kompl.rem.
+c9151;Leukém./lymf.z dos.T-buniek spoj.s infek.HTLV-1,v kompl.rem.
+c9160;Prolymfocytová leukémia z T-buniek,bez kompl.rem.
+c9161;Prolymfocytová leukémia z T-buniek,v komplet.rem.
+c9170;Iná lymfatická leukémia,bez kompletnej remisie
+c9171;Iná lymfatická leukémia,v kompletnej remisii
+c9180;Leukémia zo zrelých B-buniek Burkittovho typu,bez kompl.rem.
+c9181;Leukémia zo zrelých B-buniek Burkittovho typu,v kompl.rem.
+c9190;Lymfatická leukémia,bliž.neurč.,bez kompl.rem.
+c9191;Lymfatická leukémia,bliž.neurč.,v kompl.rem.
+c9200;Akútna myeloblastová leukémia (AML),bez kompl.rem.
+c9201;Akútna myeloblastová leukémia (AML),v kompl.rem.
+c9210;Chronická myeloická leukémia BCR/ABL-pozit.,b.komplet.rem.
+c9211;Chronická myeloická leukémia BCR/ABL-pozit.,v komplet.rem.
+c9220;Atypická chron.myeloická leuk.,BCR/ABL-neg.,b.komplet.rem.
+c9221;Atypická chron.myeloická leuk. BCR/ABL-neg.,v komplet.rem.
+c9230;Myelosarkóm,bez kompletnej remisie
+c9231;Myelosarkóm,v kompletnej remisii
+c9240;Akútna promyelocytová leukémia,bez komplet.rem.
+c9241;Akútna promyelocytová leukémia,v komplet.rem.
+c9250;Akútna myelomonocytová leukémia,b.komplet.rem.
+c9251;Akútna myelomonocytová leukémia,v komplet.rem.
+c9260;Akútna myeloická leukémia s 11q23 abnormal.,bez komplet.rem.
+c9261;Akútna myeloická leukémia s 11q23 abnormal.,v komplet.rem.
+c9270;Iná myeloická leukémia,bez kompletnej remisie
+c9271;Iná myeloická leukémia,v kompletnej remisii
+c9280;Akútna myeloická leukém.s multilineár.dyspl.,bez komplet.rem.
+c9281;Akútna myeloická leukém.s multilineár.dyspl.,v komplet.rem.
+c9290;Myeloická leukémia bliž.neurč.,bez kompl.remisie
+c9291;Myeloická leukémia bliž.neurč.,v kompl.remisii
+c9300;Akút.monoblastová/monocytová leukémia,bez komplet.remisie
+c9301;Akút.monoblastová/monocytová leukémia,v komplet.rem.
+c9310;Chronická myelomonocytová leukémia bez.komplet.remisie
+c9311;Chronická myelomonocytová leukémia,v komplet.rem.
+c9330;Juvenilná myelomonocytová leukémia,bez komplet.rem.
+c9331;Juvenilná myelomonocytová leukémia,v komplet.rem.
+c9370;Iná monocytová leukémia,bez kompletnej remisie
+c9371;Iná monocytová leukémia,v kompletnej remisii
+c9390;Monocytová leukémia,bliž.neurč.,bez kompl.rem.
+c9391;Monocytová leukémia,bliž.neurč.,v kompl.rem.
+c9400;Akútna erytroleukémia,bez kompletnej remisie
+c9401;Akútna erytroleukémia,v kompletnej remisii
+c9420;Akútna megakaryoblastová leukémia,bez komplet.rem.
+c9421;Akútna megakaryoblastová leukémia,v komplet.rem.
+c9430;Mastocytová leukémia,bez kompletnej remisie
+c9431;Mastocytová leukémia,v kompletnej remisii
+c9440;Akút.panmyelóza s myelofibrózou,bez komplet.rem.
+c9441;Akút.panmyelóza s myelofibrózou,v komplet.rem.
+c9460;Myelodyspl.a myeloprolif.choroba.,bez komplet.rem.,i.n.
+c9461;Myelodyspl.a myeloprolif.choroba.,v komplet.rem.,inde.nezat.
+c9470;Iná bližšie určená leukémia,bez kompletnej remisie
+c9471;Iná bližšie určená leukémia,v kompletnej remisii
+c9500;Akútna leukémia bliž.neurč.bunkového typu,bez komplet.rem.
+c9501;Akútna leukémia bliž.neurč.bunkového typu,v komplet.rem.
+c9570;Iná leukémia bliž.neurč.bunkového typu,bez komplet.rem.
+c9571;Iná leukémia bliž.neurč.bunkového typu,v komplet.rem.
+c9590;Leukémia,bližšie neurčená,bez kompletnej remisie
+c9591;Leukémia,bližšie neurčená,v kompletnej remisii
+c960;Multifokálna a multisyst.histiocytóza z Langerhansových bun.
+c962;Zhubný mastocytový nádor
+c964;Sarkóm z dendritických buniek (akcesórnych buniek)
+c967;Iný bliž.ur.zhub.nád.lymf.,hematopoetic.a príbuz.tkan.
+c968;Histiocytový sarkóm
+c969;Zhubný nádor lymf.,hematopoetického a príbuz.tkan.,bliž.n.
+c97;Zhubné nádory s primárnym výskytom na roz.m.
+d100;Nezhubný nádor pery
+d101;Nezhubný nádor jazyka
+d102;Nezhubný nádor spodiny úst
+d103;Nezhubný nádor inej a bližšie neurčenej časti úst
+d105;Nezhubný nádor inej časti orofaryngu
+d106;Nezhubný nádor nazofaryngu
+d107;Nezhubný nádor hypofaryngu
+d109;Nezhubný nádor faryngu,bližšie neurčený
+d110;Nezhubný nádor príušnej žľazy
+d117;Nezhubný nádor inej veľkej slinnej žľazy
+d119;Nezhubný nádor bliž.neurč.veľkej slinnej žľazy
+d120;Nezhubný nádor slepého čreva
+d121;Nezhubný nádor červovitého prívesku slepého čreva
+d122;Nezhubný nádor vzostupnej časti hrubého čreva
+d123;Nezhubný nádor priečnej časti hrubého čreva
+d124;Nezhubný nádor zostupnej časti hrubého čreva
+d125;Nezhubný nádor esovitej časti hrubého čreva
+d126;Nezhubný nádor hrubého čreva,bližšie neurčený
+d127;Nezhubný nádor rektosigmoidového spojenia
+d128;Nezhubný nádor konečníka
+d129;Nezhubný nádor anusu a análneho kanála
+d130;Nezhubný nádor pažeráka
+d131;Nezhubný nádor žalúdka
+d132;Nezhubný nádor dvanástnika
+d133;Nezhubný nádor iných a bliž.neurč.častí tenkého čreva
+d134;Nezhubný nádor pečene
+d135;Nezhubný nádor extrahepatálnych žlčových ciest
+d136;Nezhubný nádor podžalúdkovej žľazy
+d137;Nezhubný nádor endokrinného pankreasu
+d139;Nezhubný nádor na neurčenom mieste tráviacej súst.
+d140;Nezhubný nádor stred.ucha,nos.dutiny a prinos.dutín
+d141;Nezhubný nádor hrtana
+d142;Nezhubný nádor priedušnice
+d143;Nezhubný nádor priedušky a pľúc
+d144;Nezhubný nádor dýchacej sústavy,bližšie neurčený
+d150;Nezhubný nádor týmusu
+d151;Nezhubný nádor srdca
+d152;Nezhubný nádor mediastina
+d157;Nezhubný nádor iných určených vnútrohrud.org.
+d159;Nezhubný nádor vnútrohrud.orgánov, bliž.neurč.
+d160;Nezhub.nádor lopatky a dlhých kostí HK
+d161;Nezhubný nádor krátkych kostí HK
+d162;Nezhubný nádor dlhých kostí DK
+d163;Nezhubný nádor krátkych kostí DK
+d1641;Nezhubný nádor kosti a kĺb.chrupky,kraniofaciálna obl.
+d1642;Nezhubný nádor kosti a kĺb.chrupky,maxilofaciálna obl.
+d165;Nezhubný nádor kostí dolnej čeľuste
+d166;Nezhubný nádor chrbtice
+d1670;Nezhubný nádor kosti a kĺbovej chrupky rebier
+d1671;Nezhubný nádor kosti a kĺbovej chrupky hrudnej kosti
+d1672;Nezhubný nádor kosti a kĺbovej chrupky kľúčnej kosti
+d168;Nezhubný nádor panv.kostí,kríž.kosti a kostrče
+d169;Nezhubný nádor kosti a kĺbovej chrupky,bliž,neurč.
+d1800;Hemangióm bez bližšieho určenia miesta
+d1810;Lymfangióm - hygroma colli cysticum
+d1811;Lymfangióm axily
+d1812;Lymfangióm ingvíny
+d1813;Lymfangióm retroperitonea
+d1818;Lymfangióm na inom mieste
+d1819;Lymfangióm bez bližšieho určenia miesta
+d190;Nezhubný nádor mezotelového tkaniva pohrudnice
+d191;Nezhubný nádor mezotelového tkaniva pobrušnice
+d197;Nezhubný nádor mezotelového tkaniva na inom mieste
+d199;Nezhubný nádor mezotelového tkaniva,bliž.neurč.
+d200;Nezhubný nádor retroperitonea
+d201;Nezhubný nádor pobrušnice
+d210;Nezhubný nádor spojiv.a iného mäkk.tkan.hlavy,tváre a krku
+d211;Nezhubný nádor spojiv.a iného mäkk.tkan.HK vrátane pleca
+d212;Nezhubný nádor spojiv.a iného mäkk.tkan.DK vrátane bedra
+d213;Nezhubný nádor spojiv.a iného mäkk.tkaniva hrudníka
+d214;Nezhubný nádor spojiv.a iného mäkk.tkaniva brucha
+d215;Nezhubný nádor spojiv.a iného mäkk.tkaniva panvy
+d216;Nezhubný nádor spojiv.a iného mäkk.tkaniva trupu,bliž.neurč.
+d219;Nezhubný nádor spojiv.a iného mäkk.tkaniva,bliž.neurč.
+d24;Nezhubný nádor prsníka
+d250;Submukózny leiomyóm maternice
+d251;Intramurálny leiomyóm maternice
+d252;Subserózny leiomyóm maternice
+d259;Leiomyóm maternice,bližšie neurčený
+d260;Iný nezhubný nádor krčka maternice
+d261;Iný nezhubný nádor tela maternice
+d269;Iný nezhubný nádor maternice,bližšie neurčený
+d27;Nezhubný nádor vaječníka
+d280;Nezhubný nádor vulvy
+d281;Nezhubný nádor pošvy
+d282;Nezhubný nádor vajíčkovodov a väzov maternice
+d287;Nezhubný nádor iných bliž.urč.ženských pohlav.org.
+d289;Nezhubný nádor bliž.neurč.ženských pohlav.org.
+d290;Nezhubný nádor penisu
+d291;Nezhubný nádor prostaty
+d292;Nezhubný nádor semenníka
+d293;Nezhubný nádor nadsemenníka
+d294;Nezhubný nádor mieška (skróta)
+d297;Nezhubný nádor iných mužských pohlavných orgánov
+d299;Nezhubný nádor bliž.neurč.mužských pohlav.org.
+d300;Nezhubný nádor obličky
+d301;Nezhubný nádor obličkovej panvičky
+d302;Nezhubný nádor močovodu
+d303;Nezhubný nádor močového mechúra
+d304;Nezhubný nádor močovej rúry
+d307;Nezhubný nádor iných močových orgánov
+d309;Nezhubný nádor močového orgánu,bližšie neurčeného
+d310;Nezhubný nádor spojovky
+d311;Nezhubný nádor rohovky
+d312;Nezhubný nádor sietnice
+d313;Nezhubný nádor cievovky
+d314;Nezhubný nádor vráskovca
+d315;Nezhubný nádor slznej žľazy a nosovoslzného kanála
+d316;Nezhubný nádor očnice,bližšie neurčený
+d319;Nezhubný nádor oka,bližšie neurčený
+d320;Nezhubný nádor mozgovomiechových obalov: mozog
+d321;Nezhubný nádor mozgovomiechových obalov: miecha
+d329;Nezhubný nádor mozgovomiechových plien,bliž.neurč.
+d330;Nezhubný nádor mozgu: supratentoriálne
+d331;Nezhubný nádor mozgu: infratentóriálne
+d332;Nezhubný nádor mozgu,bližšie neurčený
+d333;Nezhubný nádor hlavových nervov
+d334;Nezhubný nádor miechy
+d337;Nezhubný nádor iných,bliž.urč.častí CNS
+d339;Nezhubný nádor CNS,bližšie neurčený
+d34;Nezhubný nádor štítnej žľazy
+d350;Nezhubný nádor nadobličky
+d351;Nezhubný nádor prištítnej žľazy
+d352;Nezhubný nádor podmozgovej žľazy
+d353;Nezhubný nádor kraniofaryngového vývodu
+d354;Nezhubný nádor epifýzy
+d355;Nezhubný nádor glomus caroticum
+d356;Nezhubný nádor glomus aorticum a iných paraganglií
+d357;Nezhubný nádor iných,bliž.urč.žliaz s vnút.vylučovaním
+d358;Nezhubný nádor viacerých žliaz s vnútorným vylučovaním
+d359;Nezhubný nádor žľazy s vnút.vylučovaním,bliž.neurč.
+d360;Nezhubný nádor lymfatických uzlín
+d361;Nezhubný nádor periférnych nervov a autonóm.nerv.sústavy
+d367;Nezhubný nádor na iných,bližšie určených miestach
+d369;Nezhubný nádor bez bližšieho určenia miesta
+d370;Nádor pery,ústnej dutiny a hltana s neurč./nezn.správ.
+d371;Nádor s neurčitým alebo neznámym správaním: žalúdok
+d372;Nádor s neurčitým/neznám.správaním:tenké črevo
+d373;Nádor s neurčitým/neznám.správaním:červovitý prívesok
+d374;Nádor s neurčitým/neznám.správaním:hrubé črevo
+d375;Nádor s neurčitým/neznám.správaním:konečník
+d376;Nádor s neurčitým/neznám.správaním:pečeň,žlčník,žlčové cesty
+d3770;Nádor s neurčitým/neznám.správaním:pankreas
+d3778;Nádor s neurčitým/neznám.správaním:iný tráv.org.
+d379;Nádor s neurčitým/neznám.správaním:,bliž.neurč.tráv.org.
+d380;Nádor s neurčitým/neznám.správaním:hrtan
+d381;Nádor s neurčitým/neznám.správaním:priedušn.,prieduška,pľúca
+d382;Nádor s neurčitým/neznám.správaním:pohrudnica
+d383;Nádor s neurčitým/neznám.správaním:mediastínum
+d384;Nádor s neurčitým/neznám.správaním: týmus
+d385;Nádor s neurčitým/neznám.správaním:iný dých.org.
+d386;Nádor s neurčitým/neznám.správaním:bliž.neurč.dých.org.
+d390;Nádor s neurčitým/neznám.správaním:maternica
+d391;Nádor s neurčitým/neznám.správaním:vaječník
+d392;Nádor s neurčitým/neznám.správaním:placenta
+d397;Nádor s neurčitým/neznám.správaním:i.žen.pohl.org.
+d399;Nádor s neurčitým/neznám.správaním:bliž.neurč.žen.pohl.org.
+d400;Nádor s neurčitým/neznám.správaním:predstojnica (prostata)
+d401;Nádor s neurčitým/neznám.správaním:semenník
+d407;Nádor s neurčitým/neznám.správaním:i.muž.pohl.org.
+d409;Nádor s neurčitým/neznám.správaním:bliž.neurč.muž.pohl.org.
+d410;Nádor s neurčitým/neznám.správaním:oblička
+d411;Nádor s neurčitým/neznám.správaním:obličková panvička
+d412;Nádor s neurčitým/neznám.správaním:močovod
+d413;Nádor s neurčitým/neznám.správaním:močová rúra
+d414;Nádor s neurčitým/neznám.správaním:močový mechúr
+d417;Nádor s neurčitým/neznám.správaním:i.moč.org.
+d419;Nádor s neurčitým/neznám.správaním:bliž.neurč.moč.org.
+d420;Nádor s neurč./neznám.správaním:mozgovomiech.obaly:mozog
+d421;Nádor s neurč/neznám.správaním:mozgovomiech.obaly:miecha
+d429;Nádor s neurčitým/neznám.správaním:mozgovomiech.obaly b.n.
+d430;NádNádor s neurč/neznám.správaním:mozog-supratentriálne
+d431;Nádor s neurčitým/neznám.správaním:mozog - infratentoriálne
+d432;Nádor s neurčitým/neznám.správaním:mozog,bliž.neurč.
+d433;Nádor s neurčitým/neznám.správaním:hlavové nervy
+d434;Nádor s neurčitým/neznám.správaním: miecha
+d437;Nádor s neurčitým/neznám.správaním:i.časť CNS
+d439;Nádor s neurčitým/neznám.správaním:CNS,časť bliž.neurč.
+d440;Nádor s neurčitým/neznám.správaním:štítna žľaza
+d441;Nádor s neurčitým/neznám.správaním:nadoblička
+d442;Nádor s neurčitým/neznám.správaním:prištítna žľaza
+d443;Nádor s neurčitým/neznám.správaním:podmozg.žľaza
+d444;Nádor s neurčitým/neznám.správaním:raniofaryngový vývod
+d445;Nádor s neurčitým/neznámym správaním:epifýza
+d446;Nádor s neurčitým/neznám.správaním:glomus caroticum
+d447;Nádor s neurč./neznám.správ.:glomus aorticum a i.paragangliá
+d449;Nádor s neurčitým/neznám.správaním:bliž.n.žľaza s vnút.vyluč.
+d45;Polycythaemia vera
+d460;Refraktérna anémia bez prstencových sideroblastov,potvrd.
+d461;Refraktérna anémia s prstencovými sideroblastmi
+d462;Refraktérna anémia s veľkým množstvom blastov
+d464;Refraktérna anémia,bližšie neurčená
+d465;Refraktérna anémia s dyspláziou viacerých línií
+d466;Myelodysplastický synd.s izolovanou chromozóm.anom.del (5q)
+d467;Iný myelodysplastický syndróm
+d469;Myelodysplastický syndróm,bližšie neurčený
+d470;Histiocytový a mastocytový nádor s neurč./neznám.správ.
+d471;Chronická myeloproliferatívna choroba
+d472;Monoklonová gamapatia nejasného významu (MGUS)
+d473;Esenciálna(hemoragická)trombocytémia
+d474;Osteomyelofibróza
+d475;Chron.eozinofilová leukémia (hypereozinofilový synd.)
+d477;Iný bliž.urč.nádor lymf.,krvotv.a príb.tk.s neu./nez.správ.
+d479;Nádor lymf.,krvotv.a príbuz.tk.s neu./nezn.správ.,b.n.
+d480;Nádor s neurčitým/neznám.správ.kosť a kĺbová chrupka
+d481;Nádor s neurčitým/neznám.správ.spojivové a i.mäkké tkanivo
+d482;Nádor s neurčitým/neznám.správ.perif.nervy a auton.nerv.súst.
+d483;Nádor s neurčitým/neznám.správ.retroperitoneum
+d484;Nádor s neurčitým/neznám.správ.pobrušnica
+d485;Nádor s neurčitým/neznám.správ.koža
+d486;Nádor s neurčitým/neznám.správ.prsník
+d487;Nádor s neurčitým/neznám.správ.iné bliž.urč.miesto
+d489;Nádor s neurčitým/neznám.správ.,bliž.neurč.
+d550;Anémia zapríč.nedost.aktiv.glukóza-6-fosfát-dehydrogenázy
+d551;Anémia zapríč.inou poruchou metabolizmu glutatiónu
+d570;Kosáčikovitá anémia s krízou
+d593;Hemolyticko-uremický syndróm
+d600;Chronická získaná čistá aplázia červených krviniek
+d601;Prechodná získaná čistá aplázia červených krviniek
+d608;Iná získaná čistá aplázia červených krviniek
+d609;Získaná čistá aplázia červených krviniek,bližšie neurčená
+d610;Vrodená aplastická anémia
+d6110;Aplastická anémia zapríčinená cytostatickou liečbou
+d6118;Iná aplastická anémia zapríčinená liekmi
+d6119;Aplastická anémia zapríčinená liekmi,bližšie neurčená
+d612;Aplastická anémia z iných vonkajších príčin
+d613;Idiopatická aplastická anémia
+d618;Iná aplastická anémia,bližšie určená
+d619;Aplastická anémia,bližšie neurčená
+d640;Dedičná sideroblastová [sideroachrestická] anémia
+d641;Sekundárna sideroblastová anémia zapríč.ochorením
+d642;Sekundárna sideroblastová anémia zapríč.liekmi toxic.lát.
+d643;Iná sideroblastová [sideroachrestická] anémia
+d66;Dedičný nedostatok faktora VIII
+d67;Dedičný nedostatok faktora IX
+d680;Von Willebrandova choroba
+d681;Dedičný nedostatok faktora XI
+d682;Dedičný nedostatok iných koagulačných faktorov
+d6830;Stav krvácavosti zapríčinený antikoagulanciami
+d6831;Stav krvácavosti zapríč.zvýš.protilátok proti faktoru VIII
+d6832;Stav krvác.zapr.zvýš.plazma.konc.protil.proti i.fak.zráž.krvi
+d6838;Iný stav krvác.zapr.i.a b.n.protilátkami
+d699;Stav krvácavosti,bližšie neurčený
+d700;Vrodená agranulocytóza a neutropénia
+d7010;Agranulocytóza a neutrop.zapr.liek.s krit.f.do 4 dni
+d7011;Agranulocytóz a neutrop.zapr.liek.s krit.f.10 do 20 dní
+d7012;Agranulocytóz a neutrop.zapr.liek.s krit f.20 a viac dní
+d7013;Agranulocytóz a neutrop.zapr.liek.s krit.f.4 do7 dní
+d7014;Agranulocytóz a neutrop.zapr.liek.s krit.f.7 do10 dní
+d7018;Agranulocytóz a neutrop.zapr.liek.s i.priebehom
+d7019;Agranulocytóz a neutrop.zapr.liek.,b.n.
+d703;Iná agranulocytóza
+d705;Cyklická neutropénia
+d706;Iná neutropénia
+d707;Neutropénia,bližšie neurčená
+d800;Dedičná hypogamaglobulinémia
+d802;Selektívny nedostatok imunoglobulínu A [IgA]
+d803;Selektívny nedostatok podtried imunoglobulínu G(IgG)
+d804;Selektívny nedostatok imunoglobulínu M[IgM]
+d805;Imunodeficit so zvýšeným imunoglobulínu M[IgM]
+d810;Ťažký komb.imunodef.(SCID)s retikulovou dysgenézou
+d811;Ťažký komb.imunodef.(SCID)s malým počtom T-bun.a B-buniek
+d812;Ťažký komb.imunodef.(SCID)s malým/norm.počtom B-buniek
+d813;Deficit adenozíndezaminázy [ADA]
+d814;Nezelofov syndróm
+d815;Nedostatok purínnukleozid-fosforylázy [PNP]
+d816;Deficit hlavného komplexu histokompatibility I.triedy
+d817;Deficit hlavného komplexu histokompatibility II.triedy
+d818;Iný kombinovaný imunodeficit
+d819;Kombinovaný imunodeficit,bližšie neurčený
+d820;Wiskottov-Aldrichov syndróm
+d821;Di Georgeov syndróm
+d830;Bežný premen.imunodef.s prev.abnor.v počte a funkcii B-buniek
+d831;Bežný premen.imunodeficit s prevaž.poruch.imunoreg.T-buniek
+d832;Bežný premen.imunodeficit s autoprotil.proti B-/T-bunkám
+d838;Iný bežný premenlivý imunodeficit
+d839;Bežný premenlivý imunodeficit,bližšie neurčený
+d890;Polyklonálna hypergamaglobulinémia
+d891;Kryoglobulinémia
+e000;Vrodený syndróm z nedostatku jódu,neurologický typ
+e001;Vrodený syndróm z nedostatku jódu,myxedémový typ
+e002;Vrodený syndróm z nedostatku jódu,zmiešaný typ
+e009;Vrodený syndróm z nedostatku jódu,bližšie neurčený
+e018;Iná chor.ŠŽ spojená s nedost.jódu a pridruž.stavy
+e02;Subklinická hypotyreóza z nedostatku jódu
+e030;Vrodená hypotyreóza s difúznou strumou
+e031;Vrodená hypotyreóza bez strumy
+e035;Myxedémová kóma
+e060;Akútna tyreoiditída
+e064;Tyreoiditída zapríčinená liekom
+e071;Dyshormonogénna struma (hrvoľ)
+e15;Nediabetická hypoglykemická kóma
+e200;Idiopatická hypoparatyreóza
+e208;Iná hypoparatyreóza
+e209;Hypoparatyreóza,bližšie neurčená
+e232;Diabetes insipidus
+e2500;Adrenogenit.por.,typ 3(nedost.21-hydrox.),klas.for.
+e2501;Adrenogenit.por.,typ 3(nedost.21-hydrox.),for.s nesk.nás.
+e2508;Iná vrod.adrenogenitálna por.spoj.s nedost.enz.
+e2509;Vrod.adrenogenitálna por.spoj.s nedost.enz.,b.n.
+e258;Iná adrenogenitálna porucha
+e259;Adrenogenitálna porucha,bližšie neurčená
+e270;Iná hyperfunkcia kôry nadobličiek
+e271;Prim.nedostatočnosť kôry nadoblič.(Addisonova chor.)
+e272;Addisonova kríza
+e273;Nedostatočnosť kôry nadobličiek zapríčinená liekmi
+e274;Iná a bliž.neu.nedostatočnosť kôry nadobličiek
+e275;Hyperfunkcia drene nadobličiek
+e278;Iná choroba nadobličiek,bližšie určená
+e290;Hyperfunkcia semenníkov
+e321;Absces týmusu
+e343;Nízky vzrast, nezatriedený inde
+e351;Choroba štítnej žľazy pri chorobách zatriedených inde
+e46;Proteínovo-energetická podvýživa,bližšie neurčená
+e700;Klasická fenylketonúria
+e701;Iná hyperfenylalaninémia
+e702;Porucha metabolizmu tyrozínu
+e703;Albinizmus
+e708;Iná porucha metabolizmu aromatických aminokyselín
+e709;Porucha metaboliz.aromatic.aminokyselín,b.n.
+e710;Choroba javorového sirupu [Leucinóza]
+e711;Iná poucha metabolizmu aminoky.s rozve.reťazcom
+e712;Porucha metab.aminokyselín s rozve.reťazcom,b.n.
+e720;Porucha transportu aminokyselín
+e721;Porucha metabolizmu aminokyselín obsahujúcich síru
+e722;Porucha metabolického cyklu močoviny
+e723;Porucha metabolizmu lyzínu a hydroxylyzínu
+e724;Porucha metabolizmu ornitínu
+e725;Porucha metabolizmu glycínu
+e728;Iná porucha metabol.aminokyselín,bliž.určená
+e729;Porucha metabolizmu aminokyselín,bližšie neurčená
+e740;Choroba z nahromadenia glykogénu (glykogenóza)
+e741;Porucha metabolizmu fruktózy
+e742;Porucha metabolizmu galaktózy
+e760;Mukopolysacharidóza,typ I
+e761;Mukopolysacharidóza,typ II
+e762;Iná mukopolysacharidóza
+e763;Mukopolysacharidóza,bližšie neurčená
+e768;Iná porucha metabolizmu glykozaminoglykánu
+e769;Porucha metabol.glykozaminoglykánu,b.n.
+e786;Nedostatok lipoproteínov
+e789;Porucha metabolizmu lipoproteínov,bližšie neurčená
+e790;Hyperurikémia bez znakov zápal.artritídy/tofovej dny
+e791;Leschov-Nyhanov syndróm
+e798;Iná porucha metabolizmu purínu a pyrimidínu
+e799;Porucha metabol.purínu a pyrimidínu,b.n.
+e800;Dedičná erytropoetická porfýria
+e801;Porphyria cutanea tarda
+e802;Iná porfýria
+e806;Iná porucha metabolizmu bilirubínu
+e830;Porucha metabolizmu medi
+e840;Cystická fibróza s pľúcnymi prejavmi
+e841;Cystická fibróza s črevnými prejavmi
+e842;Prim. cil. dyskinézia s respir. prejavmi
+e843;Prim. cil. dyskinézia s inými prejavmi
+e844;Primárna ciliárna dyskinézia
+e8480;Cystická fibróza s pľúcnymi a črevnými prejavmi
+e8487;Cystická fibróza s inými mnohopočetnými prejavmi
+e8488;Cystická fibróza s inými prejavmi
+e849;Cystická fibróza,bližšie neurčená
+e881;Lipodystrofia,nezatriedená inde
+e892;Hypoparatyreóza po lekárskom výkone
+e896;Hypofunkcia kôry nadoblič./drene nadoblič.po lek.výkone
+f024;Demencia pri chorobe HIV (B22†)
+f193;Porucha psych.a správ.zapríč.uží.drog,i.psych.l.:abstin.synd.
+f820;Špecifická porucha vývinu hrubej motoriky
+f821;Špecifická porucha vývinu jemnej motoriky a grafomotoriky
+f822;Špecifická porucha vývinu ústnej motoriky
+f829;Špecifická porucha vývinu motorických funkcií,b.n.
+f83;Zmiešaná špecifická vývinová porucha
+g000;Meningitída zapríčinená Haemophilus influenzae
+g001;Pneumokoková meningitída
+g002;Streptokoková meningitída
+g003;Stafylokoková meningitída
+g008;Iná baktériová meningitída
+g009;Baktériová meningitída,bližšie neurčená
+g01;Meningitída pri baktériových chorobách zatried.inde
+g020;Meningitída pri vírusových chorobách zatried.inde
+g021;Meningitída pri mykózach zatriedených inde
+g028;Meningitída pri iných bliž.urč.infekč.a parazit.chor.z.i.
+g030;Nehnisová meningitída
+g031;Chronická meningitída
+g032;Benígna recidivujúca meningitída [Mollaretova]
+g038;Meningitída zapríčinená inými bliž.urč.príčinami
+g039;Meningitída,bližšie neurčená
+g050;Encefalitída,myelitída a encefalomyelit.pri bakt.chor.z.i.
+g051;Encefalitída,myelitída a encefalomyelit.pri vír.chor.z.i.
+g052;Encefalitída,myelit.a encefalomy.pri i.inf.a paraz.chor.z.i.
+g058;Encefalitída,myelitída a encefalomyelit.pri i.chor.z.i.
+g060;Intrakraniálny absces a granulóm
+g061;Intraspinálny absces a granulóm
+g062;Extradurálny a subdurálny absces,bližšie neurčený
+g07;Intrakran.a intraspin.absces a granulóm pri chor.z.i.
+g08;Intrakran.a intraspin.flebitída a tromboflebitída
+g120;Detská spinálna svalová atrofia,typ I
+g121;Iná zdedená spinálna svalová atrofia
+g128;Iná spinálna svalová atrofia a príbuzný syndróm
+g129;Spinálna svalová atrofia,bližšie neurčená
+g401;Lokal.sympt.epilepsia a epilept.synd.s jednod.fok.zách.
+g403;Generalizovaná idiopatická epilepsia a epileptický syndróm
+g510;Paréza tvárového nervu[Bellova obrna]
+g527;Porucha viacerých hlavových nervov
+g531;Obrna viac.hlavových nervov pri inf.a paraz.chor.z.i
+g532;Obrna viacerých hlav.nervov pri sarkoidóze
+g533;Obrna viacerých hlav.nervov pri nád.chor.
+g541;Poškodenie plexus lumbosacralis
+g551;Kompresia nerv.koreňov a spletí pri pošk.medzistav.plat.
+g552;Kompresia nerv.koreňov a spletí pri spondylóze
+g700;Myasthenia gravis
+g702;Vrodená a vývinová myasténia
+g708;Iná myoneurálna porucha,bližšie určená
+g710;Svalová dystrofia
+g711;Myotonická porucha
+g712;Vrodená myopatia
+g719;Primárna choroba svalov,bližšie neurčená
+g8230;Chabá tetrap.a tetrapl.akú.komplet.prieč.poš.miechy neúr.pôv.
+g8232;Chabá tetrap.a tetrapl.chron.komplet.prieč.poš.miechy
+g8239;Chabá tetraparéza a tetraplégia, bližšie neurčená
+g8240;Spast.tetrap.a tetrapl.akút.komplet.prieč.poš.miechy neúr.pôv.
+g8242;Spast.tetrap.a tetrapl.chron.komplet.prieč.poš.miechy
+g8249;Spastická tetraparéza a tetraplégia,bliž.neurč.
+g8250;Tetrapa.a tetrapl.b.n.akút.komplet.prieč.poš.miechy neúr.pôv.
+g8252;Tetrapar.a tetrapl.b.n.chron.komplet.prieč.poš.miechy
+g8259;Tetraparéza a tetraplégia, bližšie neurčená
+g830;Diparéza a diplégia horných končatín
+g831;Monoparéza a monoplégia dolnej končatiny
+g832;Monoparéza a monoplégia hornej končatiny
+g833;Monoparéza a monoplégia,bližšie neurčená
+g8340;Syndróm cauda equina,kompletný
+g8341;Syndróm cauda equina,nekomplený
+g8349;Syndróm cauda equina,bližšie neurčený
+g911;Obštrukčný hydrocefalus
+g9120;Idiopatický normotenzný hydrocefalus
+g9121;Sekundárny normotenzný hydrocefalus
+g9129;Normotenzný hydrocefalus,bližšie neurčený
+g913;Poúrazový hydrocefalus,bližšie neurčený
+g918;Iný hydrocefalus
+g919;Hydrocefalus,bližšie neurčený
+g940;Hydrocefalus pri infekčných a parazitových chor.z.i
+g941;Hydrocefalus pri nádorovej chorobe (C00-D48†)
+g942;Hydrocefalus pri iných chorobách zatriedených inde
+g951;Cievna myelopatia
+g952;Kompresia miechy,bližšie neurčená
+g959;Choroba miechy,bližšie neurčená
+g960;Presakovanie mozgovomiechového moku
+g970;Presakovanie mozgovomiechového moku po spinálnej punkcii
+h133;Očný pemfigoid (L12.-†)
+h168;Iná keratitída
+h191;Herpetická keratitída a keratokonjunktivitída (B00.5†)
+h192;Keratitída a keratokonjunkt.pri i.infekč.a parazit.chor.z.i.
+h320;Chorioretinitída pri infekčných a parazit.chorobách z.i.
+h580;Anomálie funkcie zrenice pri chor.z.i.
+h621;Zápal vonkajšieho ucha pri vírusových chor.z.i.
+h660;Akútny hnisový zápal stredného ucha
+i1200;Hypertenzná chor.oblič.s obličk.zlyh.bez prej.hypert.krízy
+i1201;Hypertenzná chor.oblič.s obličk.zlyh.s prej.hypert.krízy
+i1290;Hypertenzná chor.oblič.bez obličk.zlyh.bez prej.hypert.krízy
+i1291;Hypertenzná chor.oblič.bez obličk.zlyh.s prej.hypert.krízy
+i1500;Renovaskulárna artér.hypertenzia bez hypert.krízy
+i1501;Renovaskulárna artér.hypertenzia s hypert.krízou
+i1510;Sekundár.artér.hypert.zapr.i.chor.oblič.bez hypert.krízy
+i1511;Sekundár.artér.hypert.zapr.i.chor.oblič.s hypert.krízou
+i260;Pľúcna embólia s prejavmi akútneho cor pulmonale
+i269;Pľúcna embólia bez prejavov akútneho cor pulmonale
+i270;Primárna pľúcna hypertenzia
+i271;Srdcová choroba pri kyfoskolióze
+i2720;Pľúcna hypertenzia pri chron.tromboembol.chor.
+i2728;Iná bližšie určená sekundárna pľúcna hypertenzia
+i278;Iné srdcovopľúcne choroby,bližšie určené
+i279;Srdcovopľúcna choroba,bližšie neurčená
+i300;Akútna nešpecifická idiopatická perikarditída
+i301;Infekčná perikarditída
+i308;Iná forma akútnej perikarditídy
+i309;Akútna perikarditída,bližšie neurčená
+i312;Hemoperikard,nezatriedený inde
+i313;Perikardový výpotok (nezápalový)
+i318;Iná choroba perikardu,bližšie určená
+i319;Choroba perikardu,bližšie neurčená
+i320;Perikarditída pri bakt.chor.z.i.
+i321;Perikarditída pri i.infekč.a parazit.chor.z.i.
+i328;Perikarditída pri iných chorobách zatriedených inde
+i330;Akútna a subakútna infekčná endokarditída
+i339;Akútna endokarditída,bližšie neurčená
+i370;Pulmonálna stenóza
+i390;Choroba mitrál.chlopne pri chorobách zatried.i.
+i391;Choroba aortál.chlopne pri chorobách zatried.i.
+i392;Choroba trikuspid.chlopne pri chorobách zatried.i.
+i393;Choroba pulmoná.chlopne pri chorobách zatried.i.
+i394;Choroba viacerých chlopní pri chorobách.zatried.i.
+i398;Endokarditída n.chlopne pri chor.z.i.
+i400;Infekčná myokarditída
+i409;Akútna myokarditída, bližšie neurčená
+i410;Myokarditída pri baktériových chor.z.i.
+i411;Myokarditída pri vírusových chor.z.i.
+i412;Myokarditída pri i.infekč.a parazit.chorobách zatried.i.
+i418;Myokarditída pri iných chorobách zatriedených inde
+i431;Kardiomyopatia pri metabolických chorobách
+i432;Kardiomyopatia pri poruchách výživy
+i440;Atrioventrikulárna blokáda 1. stupňa
+i441;Atrioventrikulárna blokáda 2. stupňa
+i442;Atrioventrikulárna blokáda 3. stupňa
+i443;Iná a bližšie neurčená atrioventrikulárna blokáda
+i444;Ľavá predná fascikulárna blokáda
+i445;Ľavá zadná fascikulárna blokáda
+i446;Iná a bližšie neurčená fascikulárna blokáda
+i447;Blokáda ľavého ramienka,bližšie neurčená
+i450;Pravá fascikulárna blokáda
+i451;Iná a bližšie neurčená blokáda pravého ramienka
+i452;Bifascikulárna blokáda
+i453;Trifascikulárna blokáda
+i454;Nešpecifická intraventrikulárna blokáda
+i455;Iná bližšie určená srdcová blokáda
+i456;Syndróm preexcitácie
+i458;Iné poruchy vedenia srdcových vzruchov,b.u.
+i459;Porucha vedenia srdcových vzruchov,b.n.
+i460;Zastavenie srdca s úspešnou resuscitáciou
+i461;Náhla srdcová smrť, takto opísaná
+i468;Zlyhanie srdca
+i469;Zastavenie srdca,bližšie neurčené
+i471;Supraventrikulárna tachykardia
+i472;Komorová tachykardia
+i479;Paroxyzmálna tachykardia,bližšie neurčená
+i480;Fibrilácia predsiení,paroxyzmálna
+i481;Fibrilácia predsiení,perzistentná
+i482;Fibrilácia predsiení,permanetná
+i483;Flater predsiení,typický
+i484;Flater predsiení,atypický
+i489;Fibrilácia a flater predsiení,bližšie neurčené
+i490;Flater komôr a fibrilácia komôr
+i5000;Primárne zlyhávanie pravej komory
+i5001;Sekundárne zlyhávanie pravej komory
+i5011;Zlyhávanie ľavej komory: bez ťažkostí
+i5012;Zlyhávanie ľavej komory,s ťažkosťami pri veľkom zaťažení
+i5013;Zlyhávanie ľavej komory,s ťažkosťami pri malom zaťažení
+i5014;Zlyhávanie ľavej komory,s ťažkosťami v pokoji
+i5019;Zlyhávanie ľavej komory,bližšie neurčené
+i509;Zlyhávanie srdca,bližšie neurčené
+i511;Ruptúra chordae tendineae,nezatriedená inde
+i512;Ruptúra papilárneho svalu,nezatriedená inde
+i514;Myokarditída,bližšie neurčená
+i515;Degenerácia myokardu
+i516;Srdcovocievna choroba,bližšie neurčená
+i600;Subarachnoidálne krvácanie z karotického sifónu a bifurkácie
+i601;Subarachnoidálne krvácanie z a.cerebri media
+i602;Subarachnoidálne krvácanie z a.communicans anterior
+i603;Subarachnoidálne krvácanie z a.communicans posterior
+i604;Subarachnoidálne krvácanie z a.basilaris
+i605;Subarachnoidálne krvácanie z a.vertebralis
+i606;Subarachnoidálne krvácanie z i.intrakraniálnych tep.
+i607;Subarachnoidálne krvácanie z intrakraniálnej tepny,b.n.
+i608;Iné subarachnoidálne krvácanie
+i609;Subarachnoidálne krvácanie,bližšie neurčené
+i610;Vnútromozgové krvácanie do mozg.hemisféry,subkortikálne
+i611;Vnútromozgové krvácanie do hemisféry,kortikálne
+i612;Vnútromozgové krvácanie do hemisféry,bližšie neurčené
+i613;Vnútromozgové krvácanie do mozgového kmeňa
+i614;Vnútromozgové krvácanie do mozočka (cerebela)
+i615;Vnútromozgové vnútrokomorové (intraventrik.)krvácanie
+i616;Vnútromozgové krvácanie na viacerých miestach
+i618;Iné vnútromozgové krvácanie
+i619;Vnútromozgové krvácanie,bližšie neurčené
+i6200;Subdurálne krvácanie (neúrazové),akútne
+i6201;Subdurálne krvácanie (neúrazové),subakútne
+i6202;Subdurálne krvácanie (neúrazové),chronické
+i6209;Subdurálne krvácanie (neúrazové),bližšie neurčené
+i621;Neúrazové extradurálne krvácanie
+i629;Intrakraniálne krvácanie(neúrazové),b.n.
+i630;Mozgový infarkt,zapríč.trombózou prív.mozg.tep.
+i631;Mozgový infarkt,zapríč.embolizáciou prív.mozg.tep.
+i632;Mozgový infarkt,zapríč.bliž.n.záverom/zúž.prívod.mozg.tep.
+i633;Mozgový infarkt,zapríč.trombózou mozg.tep.
+i634;Mozgový infarkt,zapríč.embóliou mozg.tep.
+i635;Mozgový infarkt,zapríč.b.n.uzáverom/zúž.mozg.tep.
+i636;Mozgový infarkt,zapríč.nehnis.mozg.žilovou trombózou
+i638;Iný mozgový infarkt
+i639;Mozgový infarkt,bližšie neurčený
+i650;Uzáver a zúženie a.vertebralis
+i651;Uzáver a zúženie a.basilaris
+i652;Uzáver a zúženie a.carotis
+i653;Uzáver a zúženie viac.prívod.mozgových tepien,obojstranne
+i658;Uzáver a zúženie iných prívodných mozgových tepien
+i659;Uzáver a zúženie bliž.neur.prívodnej mozgovej tepny
+i660;Uzáver a zúženie a.cerebri media
+i661;Uzáver a zúženie a.cerebri anterior
+i662;Uzáver a zúženie a.cerebri posterior
+i663;Uzáver a zúženie mozočkových tepien
+i664;Uzáver a zúženie viac.mozgových tepien,obojstranne
+i668;Uzáver a zúženie inej mozgovej tepny
+i669;Uzáver a zúženie bližšie neurčenej mozgovej tepny
+i6710;Získaná mozgová aneuryzma
+i6711;Získaná mozgová artériovenózna fistula
+i676;Nehnisová trombóza intrakraniálneho žilového systému
+i7100;Disekcia aorty bez bliž.urč.miesta bez prej.ruptúry
+i7101;Disekcia hrudníkovej aorty,bez prejavov ruptúry
+i7102;Disekcia brušnej aorty,bez prejavov ruptúry
+i7103;Disekcia hrudník.-bruš.aorty,bez prejav.ruptúry
+i7104;Disekcia aorty bez bliž.urč.miesta,s ruptúrou
+i7105;Disekcia hrudníkovej aorty,s ruptúrou
+i7106;Disekcia brušnej aorty,s ruptúrou
+i7107;Disekcia hrudníkovo-brušnej aorty,s ruptúrou
+i711;Aneuryzma hrudníkovej aorty,s ruptúrou
+i712;Aneuryzma hrudníkovej aorty,bez prejavov ruptúry
+i713;Aneuryzma brušnej aorty,s ruptúrou
+i714;Aneuryzma brušnej aorty,bez prejavov ruptúry
+i715;Aneuryzma hrudníkovo-brušnej aorty,s ruptúrou
+i716;Aneuryzma hrudník.-bruš.aorty,bez údaja o ruptúre
+i718;Aneuryzma aorty bez bliž.urč.miesta,s ruptúrou
+i719;Aneuryzma aorty bez bliž.urč.miesta,bez prejavov ruptúry
+i738;Iné choroby periférnych ciev,bližšie určené
+i739;Choroba periférnych ciev,bližšie neurčená
+i740;Embólia a trombóza brušnej aorty
+i741;Embólia a trombóza i.a bliž.ne.častí aorty
+i742;Embólia a trombóza tepien horných končatín
+i743;Embólia a trombóza tepien dolných končatín
+i744;Embólia a trombóza tepien končatín,b.n.
+i745;Embólia a trombóza a.iliaca
+i748;Embólia a trombóza iných tepien
+i749;Embólia a trombóza bližšie neurčenej tepny
+i772;Ruptúra tepny
+i775;Nekróza tepny
+i790;Aneuryzma aorty pri chorobách zatriedených inde
+i792;Periférna angiopatia pri chor.z.i.
+i8000;Hlb. žil. tromb. žíl DK - vyprovokovaná
+i8001;Hlb. žil. tromb. žíl DK - vyprov., prox. (od v. poplitea nahor)
+i8002;Hlb. žil. tromb. žíl DK - vyprov, dist.(infrapopl.ž.+vnútrosval.ž.)
+i8010;Hlb. žil. tromb. žíl DK - idiopatická (nevyprovok.)
+i8011;Hlb. žil. tromb. žíl DK - idiopat., prox. (od v. poplitea nahor)
+i8012;Hlb. žil. tromb. žíl DK - idiopat,dist.(infrapopl.ž.+vnútrosval.ž.)
+i802;Recidiv. hlboká žilová tromb. žíl DK
+i81;Trombóza v. portae
+i820;Buddov-Chiariho syndróm
+i822;Embólia a trombóza v.cava
+i823;Embólia a trombóza obličkovej žily
+i850;Varixy pažeráka s krvácaním
+i891;Lymfangitída
+i898;Iné neinfekčné chor.lymfatických ciev a lymfat.uzlín,b.u.
+i970;Postkardiotomický syndróm
+i971;Iná funkčná porucha po operácii srdca
+i980;Kardiovaskulárny syfilis
+i981;Porucha obeh.súst.pri iných infekč.a parazit.chor.z.i.
+j09;Chrípka zapríč.určitým identifikov.vírusom chrípky
+j100;Chrípka zapríč.i.identifikov.vírus.chrípky so zápalom pľúc
+j101;Chrípka zapríč.i.identifikov.vírus.chrípky s i.respir.prejav.
+j108;Chrípka zapríč.i.identifikov.vírus.chrípky s i.prej.
+j110;Chrípka zapríč.neidentifovan.vírusom so zápalom pľúc
+j111;Chrípka zapríč.neidentifovan.vírusom s i.respir.prejav.
+j118;Chrípka zapríč.neidentifovan.vírusom s i.prejavmi
+j120;Zápal pľúc zapríčinený adenovírusom
+j121;Zápal pľúc zapríč.respiračným syncyciálnym vírusom
+j122;Zápal pľúc zapríčinený vírusom parainfluenzy
+j123;Zápal pľúc zapríčinený ľudským metapneumovírusom
+j128;Iný vírusový zápal pľúc
+j129;Vírusový zápal pľúc,bližšie neurčený
+j13;Zápal pľúc zapríčinený Streptococcus pneumoniae
+j14;Zápal pľúc zapríčinený Haemophilus influenzae
+j150;Zápal pľúc zapríčinený Klebsiella pneumoniae
+j151;Zápal pľúc zapríčinený pseudomonas
+j152;Zápal pľúc zapríčinený stafylokokom
+j153;Zápal pľúc zapríčinený streptokokom skupiny B
+j154;Zápal pľúc zapríčinený iným streptokokom
+j155;Zápal pľúc zapríčinený Escherichia coli
+j156;Zápal pľúc,zapr.i.aeróbnou gramnegat.baktériou
+j157;Zápal pľúc zapríčinený Mycoplasma pneumoniae
+j158;Iný baktériový zápal pľúc
+j159;Baktériový zápal pľúc,bližšie neurčený
+j160;Zápal pľúc zapríčinený chlamýdiami
+j168;Zápal pľúc zapríč.iným bliž.urč.infekčným organ.
+j170;Zápal pľúc pri baktériových chorobách z.i.
+j171;Zápal pľúc pri vírusových chorobách z.i.
+j172;Zápal pľúc pri mykózach zatriedených inde
+j173;Zápal pľúc pri parazitových chorobách
+j178;Zápal pľúc pri iných chorobách zatriedených inde
+j180;Bronchopneumónia,bližšie neurčená
+j181;Lobárny zápal pľúc,bližšie neurčený
+j188;Iný zápal pľúc,zapríč.bliž.neurč.organizmom
+j189;Zápal pľúc,bližšie neurčený
+j210;Akútna bronchiolitída zapríč.respirač.syncyciálnym vírusom
+j211;Akútna bronchiolitída zapríč.ľudským metapneumovírusom
+j218;Akútna bronchiolitída zapríč.i.bliž.urč.organ.
+j219;Akútna bronchiolitída,bližšie neurčená
+j343;Hypertrofia nosových mušlí
+j3800;Obrna hlasiviek a hrtana, bližšie neurčená
+j3802;Jednostranná kompletná obrna hlasiviek a hrtana
+j3803;Obojstranná čiastočná obrna hlasiviek a hrtana
+j386;Stenóza hrtana
+j387;Iná choroba hrtana
+j390;Retrofaryngový a parafaryngový absces
+j690;Zápal pľúc,zapríč.vdýchnutím potravy a zvratkov
+j691;Zápal pľúc,zapríčinený olejmi a esenciami
+j698;Zápal pľúc,zapríč.i.tuhými látkami a tekutinami
+j850;Gangréna a nekróza pľúc
+j851;Absces pľúc so zápalom pľúc
+j852;Absces pľúc bez zápalu pľúc
+j853;Absces mediastína
+j860;Pyotorax s fistulou
+j869;Pyotorax bez fistuly
+j90;Pohrudnicový výpotok,nezatriedený inde
+j91;Pohrudnicový výpotok pri chor.z.i.
+j940;Chylózny pohrudnicový výpotok
+j942;Hemotorax
+j948;Iná choroba pohrudnice,bližšie určená
+j949;Choroba pohrudnice,bližšie neurčená
+j950;Porucha funkcie tracheostómie
+j9580;Iatrogénny pneumotorax
+k071;Anomálie polohy čeľustí oproti lebkovej spodine
+k078;Iné dentofaciálne anomálie
+k222;Nepriechodnosť pažeráka
+k223;Prederavenie pažeráka
+k224;Dyskinéza pažeráka
+k316;Fistula žalúdka a dvanástnika
+k352;Akútna apendicitída s generalizovanou peritonitídou
+k3530;Akútna apendicitída s lokaliz.peritonitídou,bez perfor./rupt.
+k3531;Akút.apendicitída s lokaliz.peritonitídou,s perfor./ruptúrou
+k3532;Akútna apendicitída s abscesom pobrušnice
+k358;Akútna apendicitída,bližšie neurčená
+k37;Apendicitída,bližšie neurčená
+k4000;Obojstran.slabin.prietrž s obšt.bez gang.neozn.ako recid.
+k4001;Obojstranná slabin.prietrž s obšt.bez gang.recidiv.
+k4010;Obojstranná slabinová prietrž s gang.neozn.ako recidiv.
+k4011;Obojstranná slabinová prietrž s gang.recidivujúca
+k4030;Jednostr./neurč.slab.prietrž s obšt.bez gang.neozn.ako recid.
+k4031;Jednostr./neurč.slab.prietrž s obšt.bez gang.recid.
+k4040;Jednostran./neurč.slab.prietrž s gang.neozn.ako recid.
+k4041;Jednostran./neurč.slab.prietrž s gang.recid.
+k410;Obojstranná stehnová prietrž s obšt.bez gang.
+k411;Obojstranná stehnová prietrž s gangrénou
+k413;Jednostran./bliž.neu.stehno.prietrž s obšt.bez gang.
+k414;Jednostran/bliž.neu.stehno.prietrž s gang.
+k420;Pupková prietrž s obštrukciou bez gangrény
+k421;Pupková prietrž s gangrénou
+k430;Prietrž v jazve s obštrukciou bez gangrény
+k431;Prietrž v jazve s gangrénou
+k433;Parastomická prietrž s obštrukciou bez gangrény
+k434;Parastomická prietrž s gangrénou
+k440;Bránicová prietrž s obštrukciou bez gangrény
+k441;Bránicová prietrž s gangrénou
+k451;Iná brušná prietrž,bližšie určená s gangrénou
+k461;Brušná prietrž,bližšie neurčená s gangrénou
+k521;Toxická gastroenteritída a kolitída
+k550;Akútna cievna choroba čreva
+k5521;Angiodysplázia hrubého čreva,bez prejavov krvác.
+k560;Paralytický ileus
+k561;Invaginácia
+k562;Volvulus
+k564;Iná obturácia čreva
+k566;Iný a bližšie neurčený mechanický ileus
+k567;Ileus,bližšie neurčený
+k593;Megakolon,nezatriedený inde
+k610;Análny absces
+k611;Rektálny absces
+k612;Anorektálny absces
+k613;Ischiorektálny absces
+k614;Vnútrosfinkterový absces
+k622;Prolaps anusu
+k623;Prolaps konečníka
+k624;Stenóza anusu a konečníka
+k630;Absces čreva
+k631;Perforácia čreva (neúrazová)
+k632;Fistula čreva
+k633;Vred čreva
+k650;Akútny zápal pobrušnice
+k658;Iný zápal pobrušnice
+k659;Zápal pobrušnice,bližšie neurčený
+k660;Pobrušnicové zrasty
+k661;Hemoperitoneum
+k668;Iné choroby pobrušnice,bližšie určené
+k670;Zápal pobrušnice,zapríčinený chlamýdiami (A74.8†)
+k671;Gonokokový zápal pobrušnice (A54.8†)
+k673;Tuberkulózny zápal pobrušnice (A18.3†)
+k678;Iná choroba pobrušnice pri infekč.chor.z.i.
+k710;Toxická choroba pečene s cholestázou
+k711;Toxická choroba pečene s pečeňovou nekrózou
+k712;Toxická choroba pečene s akútnou hepatitídou
+k713;Toxická chor.pečene s chronick.perzistujúcou hepatitídou
+k714;Toxická chor.pečene s chronick.lobulárnou hepatitídou
+k715;Toxická choroba pečene s chron.aktívnou hepatitídou
+k716;Toxická choroba pečene s hepatitídou,n.i.
+k717;Toxická choroba pečene s fibrózou a cirhózou pečene
+k718;Toxická choroba pečene s inými poruchami pečene
+k719;Toxická choroba pečene,bližšie neurčená
+k720;Akútne a subakútne pečeňové zlyhávanie
+k740;Fibróza pečene
+k742;Fibróza pečene so sklerózou pečene
+k743;Primárna biliárna cirhóza
+k744;Sekundárna biliárna cirhóza
+k745;Biliárna cirhóza,bližšie neurčená
+k746;Iná a bližšie neurčená cirhóza pečene
+k750;Absces pečene
+k751;Flebitída vrátnice (v. portae)
+k752;Nešpecifická reaktívna hepatitída
+k753;Granulomatózna hepatitída,nezatriedená inde
+k754;Autoimunitná hepatitída
+k758;Iná zápalová choroba pečene,bližšie určená
+k759;Zápalová choroba pečene,bližšie neurčená
+k760;Stukovatenie pečene, nezatriedené inde
+k762;Centrálna hemoragická nekróza pečene
+k763;Infarkt pečene
+k764;Pelióza pečene
+k766;Portálna hypertenzia
+k767;Hepatorenálny syndróm
+k770;Pečeňová porucha pri infekč./parazit.chor.z.i.
+k7711;Postihnutie pečene pri akút.chor.štepu proti host.GvH,1.štád.
+k7712;Postihnutie pečene pri akút.chor.štepu proti host.GvH,2.štád.
+k7713;Postihnutie pečene pri akút.chor.štepu proti host.GvH,3.štád.
+k7714;Postihnutie pečene pri akút.chor.štepu proti host.GvH,4.štád.
+k778;Pečeňová porucha pri iných chorobáchz.i.
+k831;Obštrukcia žlčových ciest
+k902;Syndróm slepej slučky,nezatriedený inde
+k903;Pankreatická steatorea
+k911;Syndrómy po operácii žalúdka
+k931;Megakolon pri Chagasovej chorobe (B57.3†)
+l000;Synd.obar.kože zapríč.stafylok.s postih.men.ako 30% povrch.t.
+l001;Synd.obarenej kože zapríč.stafylok.s postih.30%p.t.a viac
+l102;Pemphigus foliaceus
+l118;Iná akantolytická dermatóza,bližšie určená
+l119;Akantolytická dermatóza,bližšie neurčená
+l120;Pľuzgierový(bulózny)pemfigoid
+l123;Získaná pľuzgierová (bulózna) epidermolýza
+l128;Iný pemfigoid
+l129;Pemfigoid,bližšie neurčený
+l130;Herpetiformná dermatitída(dermatitis herpetiformis)
+l131;Dermatitis pustulosa subcornealis
+l138;Iné pľuzgierové(bulózne)dermatózy,bližšie určené
+l14;Pľuzgierová dermatóza pri choroba zatried.i.
+l401;Generalizovaná pustulová psoriáza
+l510;Nepľuzgierový multiformný erytém
+l511;Pľuzgierový multiformný erytém
+l5120;Toxická nekrolýza epidermy s postih.men.ako 30%povrchu t.
+l5121;Toxická nekrolýza epidermy s postih.30%povrch.tela a viac
+l518;Iný multiformný erytém
+l519;Multiformný erytém,bližšie neurčený
+l744;Anhidróza
+m0000;Artritída a polyartrit.zapríč.stafylo. na viac.m.
+m0001;Artritída a polyartrit.zapríč.stafylok v obl.pleca
+m0002;Artritída a polyartrit.zapríč.stafylok.v obl.nadlaktia
+m0003;Artritída a polyartrit.zapríč.stafylok.v obl.predlak.
+m0004;Artritída a polyartrit.zapríč.stafylok.v obl.ruky
+m0005;Artritída a polyartrit.zapríč.stafylok.panv.obl.a stehna
+m0006;Artritída a polyartrit.zapríč.stafylok.v obl.predkol.
+m0007;Artritída a polyartrit.zapríč.stafylok.v obl.čl.a nohy
+m0008;Artritída a polyartrit.zapríč.stafylok.na i.mieste
+m0009;Artritída a polyartrit.zapríč.stafylok.na n.mieste
+m0010;Artritída a polyartrit.zapríč.pneumok.,na viac.m.
+m0011;Artritída a polyartrit.zapríč.pneumok.v obl.pleca
+m0012;Artritída a polyartrit.zapríč.pneumok.v obl.nadlaktia
+m0013;Artritída a polyartrit.zapríč.pneumok.v obl.predlak.
+m0014;Artritída a polyartrit.zapríč.pneumok.v obl ruky
+m0015;Artritída a polyartrit.zapríč.pneumok.panv.obl.a stehna
+m0016;Artritída a polyartrit.zapríč.pneumok.v obl.predkol.
+m0017;Artritída a polyartrit.zapríč.pneumok.v obl.čl.a nohy
+m0018;Artritída a polyartrit.zapríč.pneumok.na i.mieste
+m0019;Artritída a polyartrit.zapríč.pneumok.na n.mieste
+m0020;Artritída a polyartrit.zapríč.i.streptok.na viac.m.
+m0021;Artritída a polyartrit.zapríč.i.streptok.v obl.pleca
+m0022;Artritída a polyartrit.zapríč.i.streptok.v obl.nadlaktia
+m0023;Artritída a polyartrit.zapríč.i.streptok.v obl.predlak.
+m0024;Artritída a polyartrit.zapríč.i.streptok.v obl.ruky
+m0025;Artritída a polyartrit.zapríč.i.streptok.panv.obl.a stehna
+m0026;Artritída a polyartrit.zapríč.i.streptok.v obl.predkol.
+m0027;Artritída a polyartrit.zapríč.i.streptok.v obl.čl.a nohy
+m0028;Artritída a polyartrit.zapríč.i.streptok.na i.mieste
+m0029;Artritída a polyartrit.zapríč.i.streptok.na n.mieste
+m0080;Artritída a polyartrit.zapríč.i.bliž.urč.baktér.viac.mies.
+m0081;Artritída a polyartrit.zapríč.i.bliž.urč.baktér.v obl.pleca
+m0082;Artritída a polyartrit. zapr.i.bliž.urč.baktér.v obl.nadlaktia
+m0083;Artritída a polyartrit. zapr.i.bliž.urč.baktér.v obl.predlak.
+m0084;Artritída a polyartrit.zapr.i.bliž.urč.baktér.v obl.ruky
+m0085;Artritída a polyartrit.zapr.i.bliž.urč.baktér.panv.obl.a steh.
+m0086;Artritída a polyartrit.zapr.i.bliž.urč.baktér.v obl.predkol.
+m0087;Artritída a polyartrit.zapr.i.bliž.urč.baktér.v obl.čl.a nohy
+m0088;Artritída a polyartrit. zapr.i.bliž.urč.baktér.na i.mieste
+m0089;Artritída a polyartrit.zapr.i.bliž.urč.baktér.mies.bliž.urč.
+m0100;Artritída zapríč.meningok.na viac.m.
+m0101;Artritída zapríč.meningok.v obl.pleca
+m0102;Artritída zapríč.meningok.v obl. nadlaktia
+m0103;Artritída zapríč.meningok.v obl.predlak.
+m0104;Artritída zapríč.meningok.v obl.ruky
+m0105;Artritída zapríč.meningok.panv.obl.a stehna
+m0106;Artritída zapríč.meningok.v obl.predkol.
+m0107;Artritída zapríč.meningok.v obl.čl.a nohy
+m0108;Artritída zapríč.meningok.na i.mieste
+m0109;Artritída zapríč.meningok.na n. mieste
+m0110;Tuberkulózna artritída na viac.m.
+m0111;TBC artritída v obl.pleca
+m0112;TBC artritída nadlaktia
+m0113;TBC artritída predlak.
+m0114;TBC artritída ruky
+m0115;TBC artritída panv.obl.a stehna
+m0116;TBC artritída predkol.
+m0117;TBC artritída čl.a nohy
+m0118;TBC artritída na i.mieste
+m0119;Tuberkulózna artritída na n.mieste
+m0130;Artritída pri i.baktér.chor.zatried.i.na viac.m.
+m0131;Artritída pri i.baktér.chor.zatried.i.obl.pleca
+m0132;Artritída pri i.baktér.chor.zatried.i.v obl.nadlaktia
+m0133;Artritída pri i.baktér.chor.zatried.i.v obl.predlak.
+m0134;Artritída pri i.baktér.chor.zatried.i.v obl.ruky
+m0135;Artritída pri i.baktér.chor.zatried.i.panv.obl.a stehna
+m0136;Artritída pri i.baktér.chor.zatried.i.v obl.predkol.
+m0137;Artritída pri i.baktér.chor.zatried.i.v obl.čl.a nohy
+m0138;Artritída pri i.baktér.chor.zatried.i.na i.mieste
+m0139;Artritída pri i.baktér.chor.zatried.i.miesto bližš.neurč.
+m0140;Artritída pri ružienke na viac.m.
+m0141;Artritída pri ružienke v obl.pleca.
+m0142;Artritída pri ružienke v obl.nadlaktia
+m0143;Artritída pri ružienke v obl.predlak.
+m0144;Artritída pri ružienke v obl.ruky
+m0145;Artritída pri ružienke panv.obl.a stehna
+m0146;Artritída pri ružienke v obl.predkol.
+m0147;Artritída pri ružienke v obl.čl.a nohy
+m0148;Artritída pri ružienke na i.mieste
+m0149;Artritída pri ružienkena n. mieste
+m0160;Artritída pri mykózach na viac.m.
+m0161;Artritída pri mykózach v obl.pleca
+m0162;Artritída pri mykózach v obl.nadlaktia
+m0163;Artritída pri mykózach v obl. predlak.
+m0164;Artritída pri mykózach v obl.ruky
+m0165;Artritída pri mykózach panv.obl.a stehna
+m0166;Artritída pri mykózach v obl.predkol.
+m0167;Artritída pri mykózach v obl.čl. a nohy
+m0168;Artritída pri mykózach na i.mieste
+m0169;Artritída pri mykózach na.mieste
+m1010;Dna zapríčinená olovom, na viacerých miestach
+m1011;Dna zapríč.olovom,v obl.pleca
+m1012;Dna zapríč.olovom,v obl.nadlaktia
+m1013;Dna zapríč.olovom,v obl.predlak.
+m1014;Dna zapríč.olovom,v obl.ruky
+m1015;Dna zapríč.olovom,v obl.panvy a stehna
+m1016;Dna zapríč.olovom,v obl.predkol.
+m1017;Dna zapríč.olovom,v obl.čl.a nohy
+m1018;Dna zapríč.olovom na i.mieste
+m1019;Dna zapríčinená olovom,miesto bliž.neurč.
+m1020;Dna zapríčinená liekmi, na viacerých miestach
+m1021;Dna zapríč.liekmi,v obl.pleca
+m1022;Dna zapríč.liekmi,v obl.nadlaktia
+m1023;Dna zapríč.liekmi,v obl.predlak.
+m1024;Dna zapríč.liekmi,v obl.ruky
+m1025;Dna zapríč.liekmi,v obl.panvy a stehna
+m1026;Dna zapríč.liekmi,v obl.predkol.
+m1027;Dna zapríč.liekmi,v obl.čl. a nohy
+m1028;Dna zapríč.liekmi,na i.mieste
+m1029;Dna zapríčinená liekmi, miesto bližšie neurčené
+m148;Artropatia pri i.bliž.urč.chorobách zatried.i.
+m320;Lupus erythematosus, zapríčinený liekmi
+m321;Systémový lupus erythematosus s postih.org./systémov
+m328;Iná forma systémového lupus erythematosus
+m329;Systémový lupus erythematosus,bližšie neurčený
+m361;Artropatia pri nádorovej chorobe
+m362;Hemofilická artropatia
+m363;Artropatia pri i.chorobách krvi zatried.i.
+m368;Systémové choroba spojiva pri i.chorobách zatried.i.
+m4620;Osteomyelitída stavca na viac.m.chrbt.
+m4621;Osteomyelitída stavca v okcip.-atl.-axiál. obl.
+m4622;Osteomyelitída stavca v krčnej oblasti
+m4623;Osteomyelitída stavca v krčnohrudníkovej oblasti
+m4624;Osteomyelitída stavca v hrudníkovej oblasti
+m4625;Osteomyelitída stavca v hrudníkovodriekovej oblasti
+m4626;Osteomyelitída stavca v driekovej oblasti
+m4627;Osteomyelitída stavca v driekovokrížovej oblasti
+m4628;Osteomyelitída stavca v kríž.a krížovokostrč.obl.
+m4629;Osteomyelitída stavca v: oblasť bližšie neurčená
+m4840;Únavová zlomenina stavca na viac.m.chrbt.
+m4841;Únavová zlomenina stavca v okcip.atl.axiál.obl.
+m4842;Únavová zlomenina stavca v krčnej oblasti
+m4843;Únavová zlomenina stavca v krčnohrudníkovej oblasti
+m4844;Únavová zlomenina stavca v hrudníkovej oblasti
+m4845;Únavová zlomenina stavca v hrudnikovodriek. obl.
+m4846;Únavová zlomenina stavca v driekovej oblasti
+m4847;Únavová zlomenina stavca v driekovokrížovej oblasti
+m4848;Únavová zlomenina stavca v kríž.a krížovokostrč.obl.
+m4849;Únavová zlomenina stavca: oblasť bližšie neurčená
+m4850;Kompresia tela stavca na v.miest. chrbt.,nezatr.inde
+m4851;Kompresia tela stavca v okcip.-atl.-axiál.obl.,nezatr.inde
+m4852;Kompresia tela stavca v krčnej obl.,nezatr.inde
+m4853;Kompresia tela stavca v krč.hrud.obl.,nezatr.inde
+m4854;Kompresia tela stavca v hrud.obl.,nezatr.inde
+m4855;Kompresia tela stavca v hrud.driek.obl.,nezatr.inde
+m4856;Kompresia tela stavca v driek.obl.,nezatr.inde
+m4857;Kompresia tela stavca v driek.kríž.obl.,nezatr.inde
+m4858;Kompresia tela stavca v kríž.a kríž.kostrč.obl.,nezatr.inde
+m4859;Kompresia tela stavca : oblasť bliž.neurč.,nezatr.inde.
+m4950;Kompresia tela stavca pri chorobe zatried.i.,na viac.m.chrbt.
+m4951;Kompresia tela stavca pri chorobe zatr.i.,okcip.-atl.axiál.o.
+m4952;Kompresia tela stavca pri chorobe zatr.i.,v krčnej obl.
+m4953;Kompresia tela stavca pri chorobe zatr.i.,v krčnohrud.obl.
+m4954;Kompresia tela stavca pri chorobe zatr.i.,v hrudník.obl.
+m4955;Kompresia tela stavca pri chor.zatr.i.,v hrudník.driek.obl.
+m4956;Kompresia tela stavca pri chorobe zatr.i.,v driekovej obl.
+m4957;Kompresia tela stavca pri chorobe zatr.i.,v driek.kríž.obl.
+m4958;Kompresia tela stavca pri chor.zatr.i.,kríž.a kríž.kostrč.obl.
+m4959;Kompresia tela stavca pri chor.zatr.i.:oblasť bliž.neurč.
+m533;Choroba krížovokostrčovej obl.,nezat.inde
+m6015;Intersticiálna myozitída panv.obl.a stehna
+m7300;Gonokoková burzitída na viacerých miestach (A54.4†)
+m7301;Gonokokov burzitída v obl.pleca
+m7302;Gonokokov burzitída nadlaktia
+m7303;Gonokokov burzitída predlak.
+m7304;Gonokokov burzitída ruky
+m7305;Gonokokov burzitída panv.obl.a stehna
+m7306;Gonokokov burzitída predkol.
+m7307;Gonokokov burzitída čl.a nohy
+m7308;Gonokokov burzitída na i.mieste
+m7309;Gonokokov burzitída,miesto bliž.neurč.
+m8430;Únavová zlomenina,nezatr.i.na viac.m.
+m8431;Únavová zlomenina,nezatr.i.v obl.pleca
+m8432;Únavová zlomenina,nezatr.i.v obl.nadlaktia
+m8433;Únavová zlomenina,nezatr.i.v obl.predlak.
+m8434;Únavová zlomenina,nezatr.i.v obl.ruky
+m8435;Únavová zlomenina,nezatr.i.v obl.panvy a stehna
+m8436;Únavová zlomenina,nezatr.i.v obl.predkol.
+m8437;Únavová zlomenina,nezatr.i.v obl.čl.a nohy
+m8438;Únavová zlomenina,nezatr.i.na i.mieste
+m8439;Únavová zlomenina,nezatr.i.,miesto bliž.neurč.
+m8440;Patologická zlomenina,nezatr.i.na viac.m.
+m8441;Patologická zlomenina,nezatr.i.v obl.pleca
+m8442;Patologická zlomenina,nezatr.i.v obl.nadlaktia
+m8443;Patologická zlomenina,nezatr.i.v obl.predlak.
+m8444;Patologická zlomenina,nezatr.i.v obl.ruky
+m8445;Patologická zlomenina,nezatr.i.v obl.panv.obl.a stehna
+m8446;Patologická zlomenina,nezatr.i.v obl.predkol.
+m8447;Patologická zlomenina,nezatr.i.v obl.čl.a nohy
+m8448;Patologická zlomenina,nezatr.i.na i.mieste
+m8449;Patologická zlomenina,nezatr.i.,miesto bliž.neurč.
+m8600;Akútna hematogénna osteomyelitída na viac.m.
+m8601;Akútna hematogénna osteomyelitída v obl.pleca
+m8602;Akútna hematogénna osteomyelitída nadlaktia
+m8603;Akútna hematogénna osteomyelitída predlak.
+m8604;Akútna hematogénna osteomyelitída ruky
+m8605;Akútna hematogénna osteomyelitída panv.obl.a stehna
+m8606;Akútna hematogénna osteomyelitída predkol.
+m8607;Akútna hematogénna osteomyelitída čl.a nohy
+m8608;Akútna hematogénna osteomyelitída na i.mieste
+m8609;Akútna hematogénna osteomyelitída,miesto bliž.neurč.
+m8610;Iná akútna osteomyelitída na viacerých miestach
+m8611;Iná akútna osteomyelitída v obl.pleca
+m8612;Iná akútna osteomyelitída nadlaktia
+m8613;Iná akútna osteomyelitída predlakútna
+m8614;Iná akútna osteomyelitída ruky
+m8615;Iná akútna osteomyelitída panv.obl.a stehna
+m8616;Iná akútna osteomyelitída predkol.
+m8617;Iná akútna osteomyelitída l.a nohy
+m8618;Iná akútna osteomyelitída na i.mieste
+m8619;Iná akútna osteomyelitída,miesto bliž.neurč.
+m8620;Subakútna osteomyelitída na viacerých miestach
+m8621;Subakútna osteomyelitída v obl.pleca
+m8622;Subakútna osteomyelitída nadlaktia
+m8623;Subakútna osteomyelitída predlak.
+m8624;Subakútna osteomyelitída ruky
+m8625;Subakútna osteomyelitída panv.obl.a stehna
+m8626;Subakútna osteomyelitída predkol.
+m8627;Subakútna osteomyelitída čl.a nohy
+m8628;Subakútna osteomyelitída na i.mieste
+m8629;Subakútna osteomyelitída,miesto bliž.neurč.
+m8630;Chron.multifokálna osteomyelitída na viac.m.
+m8631;Chron.multifokálna osteomyelitída v obl.pleca
+m8632;Chron.multifokálna osteomyelitída nadlaktia
+m8633;Chron.multifokálna osteomyelitída predlak.
+m8634;Chron.multifokálna osteomyelitída ruky
+m8635;Chron.multifokálna osteomyelitída panv.obl.a stehna
+m8636;Chron.multifokálna osteomyelitída predkol.
+m8637;Chron.multifokálna osteomyelitída čl.a nohy
+m8638;Chron.multifokálna osteomyelitída na i.mieste
+m8639;Chron.multifokálna osteomyelitída,miesto bliž.neurč.
+m8640;Chronická osteomyelitída s fistulou na viac.m.
+m8641;Chronická osteomyelitída s fistulou v obl.pleca
+m8642;Chronická osteomyelitída s fistulou nadlaktia
+m8643;Chronická osteomyelitída s fistulou predlak.
+m8644;Chronická osteomyelitída s fistulou ruky
+m8645;Chronická osteomyelitída s fistulou panv.obl.a stehna
+m8646;Chronická osteomyelitída s fistulou predkol.
+m8647;Chronická osteomyelitída s fistulou čl.a nohy
+m8648;Chronická osteomyelitída s fistulou na i.mieste
+m8649;Chronická osteomyelitída s fistulou,miesto bliž.neurč.
+m8650;Iná chronická hematogénna osteomyelit.na viac.m.
+m8651;Iná chronická hematogénna osteomyelit.v obl.pleca
+m8652;Iná chronická hematogénna osteomyelit.nadlaktia
+m8653;Iná chronická hematogénna osteomyelit.predlak.
+m8654;Ináchronická hematogénna osteomyelit.ruky
+m8655;Iná chronická hematogénna osteomyelit.panv.obl.a stehna
+m8656;Iná chronická hematogénna osteomyelit.predkol.
+m8657;Iná chronická hematogénna osteomyelit.čl.a nohy
+m8658;Iná chronická hematogénna osteomyelit.na i.mieste
+m8659;Iná chronická hematogénna osteomyelit.,miesto bliž.neurč.
+m8660;Iná chronická osteomyelitída na viacerých miestach
+m8661;Iná chronická osteomyelitída v obl.pleca
+m8662;Iná chronická osteomyelitída nadlaktia
+m8663;Iná chronická osteomyelitída predlak.
+m8664;Iná chronická osteomyelitída ruky
+m8665;Iná chronická osteomyelitída panv.obl.a stehna
+m8666;Iná chronická osteomyelitída predkol.
+m8667;Iná chronická osteomyelitída čl.a nohy
+m8668;Iná chronická osteomyelitída na i.mieste
+m8669;Iná chronická osteomyelitída,miesto bliž.neurč.
+m8680;Iná osteomyelitída na viacerých miestach
+m8681;Iná osteomyelitída v obl.pleca
+m8682;Iná osteomyelitída nadlaktia
+m8683;Ináosteomyelitída predlak.
+m8684;Iná osteomyelitída ruky
+m8685;Iná osteomyelitída panv.obl.a stehna
+m8686;Iná osteomyelitída predkol.
+m8687;Iná osteomyelitída čl.a nohy
+m8688;Iná osteomyelitídana i.mieste
+m8689;Iná osteomyelitída,miesto bliž.neurč.
+m8690;Osteomyelitída,bliž.neurč.na viac.m.
+m8691;Osteomyelitída,bliž.neurč.v obl.pleca
+m8692;Osteomyelitída,bliž.neurč.v obl.nadlaktia
+m8693;Osteomyelitída,bliž.neurč.v obl.predlak.
+m8694;Osteomyelitída,bliž.neurč.v obl.ruky
+m8695;Osteomyelitída,bliž.neurč.panv.obl.a stehna
+m8696;Osteomyelitída,bliž.neurč.v obl.predkol.
+m8697;Osteomyelitída,bliž.neurč.v obl.čl.a nohy
+m8698;Osteomyelitída,bliž.neurč.na i.mieste
+m8699;Osteomyelitída,bliž.neurč.n,miesto bliž.neurč.
+m8702;Idiopat.aseptická nekróza kosti nadlaktia
+m8705;Idiopat.aseptická nekróza kosti panv.obl.a stehna
+m8706;Idiopat.aseptická nekróza kosti predkol.
+m8707;Idiopat.aseptická nekróza kosti čl.a nohy
+m8709;Idiopat.aseptická nekróza kosti ,miesto bliž.neurč.
+m8710;Osteonekróza zapríč.liekmi,na viac.m.
+m8711;Osteonekróza zapríč.liekmi,v obl.pleca
+m8712;Osteonekróza zapríč.liekmi,v obl.nadlaktia
+m8713;Osteonekróza zapríč.liekmi,v obl.predlak.
+m8714;Osteonekróza zapríč.liekmi,v obl.ruky
+m8715;Osteonekróza zapríč.liekmi,panv.obl.a stehna
+m8716;Osteonekróza zapríč.liekmi,v obl.predkol.
+m8717;Osteonekróza zapríč.liekmi,v obl.čl.a nohy
+m8718;Osteonekróza zapríč.liekmi,na i.mieste
+m8719;Osteonekróza zapríč.liekmi,miesto bliž.neurč.
+m8720;Osteonekróza zapríč.predchádz.úrazom,na viac.m.
+m8721;Osteonekróza zapríč.predchádz.úrazom,v obl.pleca
+m8722;Osteonekróza zapríč.predchádz.úrazom,nadlaktia
+m8723;Osteonekróza zapríč.predchádz.úrazom,predlak.
+m8724;Osteonekróza zapríč.predchádz.úrazom,ruky
+m8725;Osteonekróza zapríč.predchádz.úrazom,panv.obl.a stehna
+m8726;Osteonekróza zapríč.predchádz.úrazom,predkol.
+m8727;Osteonekróza zapríč.predchádz.úrazom,čl.a nohy
+m8728;Osteonekróza zapríč.predchádz.úrazom,na i.mieste
+m8729;Osteonekróza zapríč.predchádz.úrazom,miesto bliž.neurč.
+m8730;Iná sekundárna osteonekróza na viacerých miestach
+m8731;Iná sekundárna osteonekróza v obl.pleca
+m8732;Iná sekundárna osteonekróza nadlaktia
+m8733;Iná sekundárna osteonekróza predlak.
+m8734;Iná sekundárna osteonekróza ruky
+m8735;Iná sekundárna osteonekróza panv.obl.a stehna
+m8736;Iná sekundárna osteonekróza predkol.
+m8737;Iná sekundárna osteonekróza čl.a nohy
+m8738;Iná sekundárna osteonekróza na i.mieste
+m8739;Iná sekundárna osteonekróza,miesto bliž.neurč.
+m8780;Iná osteonekróza na viacerých miestach
+m8781;Iná osteonekróza v obl.pleca
+m8782;Iná osteonekróza nadlaktia
+m8783;Iná osteonekróza predlak.
+m8784;Iná osteonekróza ruky
+m8785;Iná osteonekróza panv.obl.a stehna
+m8786;Iná osteonekróza predkol.
+m8787;Iná osteonekróza čl.a nohy
+m8788;Iná osteonekróza na i.mieste
+m8789;Iná osteonekróza,miesto bližšie neurčené
+m8790;Osteonekróza,bliž.neurč.na viac.m.
+m8791;Osteonekróza,bliž.neurč.v obl.pleca
+m8792;Osteonekróza,bliž.neurč.v obl.nadlaktia
+m8793;Osteonekróza,bliž.neurč.v obl.predlak.
+m8794;Osteonekróza,bliž.neurč.v obl.ruky
+m8795;Osteonekróza,bliž.neurč.panv.obl.a stehna
+m8796;Osteonekróza,bliž.neurč.v obl.predkol.
+m8797;Osteonekróza,bliž.neurč.v obl.čl.a nohy
+m8798;Osteonekróza,bliž.neurč.na i.mieste
+m8799;Osteonekróza,bliž.neurč.,miesto bliž.neur.
+m9000;Tuberkulóza kosti na viacerých miestach (A18.0†)
+m9001;TBC kosti v obl.pleca
+m9002;TBC kosti nadlaktia
+m9003;TBC kosti predlak.
+m9004;TBC kosti ruky
+m9005;TBC kosti panv.obl.a stehna
+m9006;TBC kosti predkol.
+m9007;TBC kosti čl.a nohy
+m9008;TBC kosti na i.mieste
+m9009;Tuberkulóza kosti,miesto bližšie neurčené (A18.0†)
+m9010;Periostitída pri i.infekč.chor.zatried.i.na viac.m.
+m9011;Periostitída pri i.infekč.chor.zatried.i.v obl.pleca
+m9012;Periostitída pri i.infekč.chor.zatried.i.v obl.nadlaktia
+m9013;Periostitída pri i.infekč.chor.zatried.i.v obl.predlak.
+m9014;Periostitída pri i.infekč.chor.zatried.i.v obl.ruky
+m9015;Periostitída pri i.infekč.chor.zatried.i.v obl.panvy a stehna
+m9016;Periostitída pri i.infekč.chor.zatried.i.v obl.predkol.
+m9017;Periostitída pri i.infekč.chor.zatried.i.v obl.čl.a nohy
+m9018;Periostitída pri i.infekč.chor.zatried.i.na i.mieste
+m9019;Periostitída pri i.infekč.chor.zatried.i.,miesto bliž.neurč.
+m9020;Osteopatia pri i.infekč.chor.zatried.i.na viac.m.
+m9021;Osteopatia pri i.infekč.chor.zatried.i.v obl.pleca
+m9022;Osteopatia pri i.infekč.chor.zatried.i.v obl.nadlaktia
+m9023;Osteopatia pri i.infekč.chor.zatried.i.v obl.predlak.
+m9024;Osteopatia pri i.infekč.chor.zatried.i.v obl.ruky
+m9025;Osteopatia pri i.infekč.chor.zatried.i.v obl.panvy a stehna
+m9026;Osteopatia pri i.infekč.chor.zatried.i.v obl.predkol.
+m9027;Osteopatia pri i.infekč.chor.zatried.i. obl.čl.a nohy
+m9028;Osteopatia pri i.infekč.chor.zatried.i.na i.mieste
+m9029;Osteopatia pri i.infekč.chor.zatried.i.miesto bliž.neurč.
+m9070;Zlomenina kosti pri nádore,na viac.m.t.
+m9071;Zlomenina kosti pri nádore,v obl.pleca
+m9072;Zlomenina kosti pri nádore,v obl.nadlaktia
+m9073;Zlomenina kosti pri nádore,v obl.predlak.
+m9074;Zlomenina kosti pri nádore,v obl.ruky
+m9075;Zlomenina kosti pri nádore,v obl.panvy a stehna
+m9076;Zlomenina kosti pri nádore,v obl.predkol.
+m9077;Zlomenina kosti pri nádore,v obl.čl.a nohy
+m9078;Zlomenina kosti pri nádore,na i.mieste
+m9079;Zlomenina kosti pri nádore,miesto bliž.neurč.
+m966;Zlomen.kosti po vlož.ortop.impl.,kĺb.protézy/kostnej platničky
+m9680;Elektívne ponechané otvor.sternum po chirurg.výk.na hrudníku
+m9681;Nestabilný hrudný kôš po chir.výk. na hrudníku
+m9688;Iná choroba sústavy sval.a kostí po lek.výk.
+m969;Choroba svalovej a kostrovej sústavy po lekár.výk.bliž.neurč.
+n036;Chron.nefritický synd.:chor.denzných depozitov
+n040;Nefrotický syndróm:malé abnormality glomerulov
+n041;Nefrotický synd.:fok.a segm.lézie glomerulov
+n042;Nefrotický synd.:dif.membránová glomerulonefrit.
+n043;Nefrotický synd.:dif.mezangioprolif.glomerulonefrit.
+n044;Nefrotický synd.:dif.endokap.prolif.glomerulonefrit.
+n045;Nefrotický synd.:dif.mezangiokap.glomerulonefrit.
+n046;Nefrotický syndróm: choroba denzných depozitov
+n047;Nefrotický synd.:dif.glomerulonefrit.s výrastkami
+n048;Nefrotický syndróm: iné morfologické zmeny
+n049;Nefrotický synd.:morfol.zmena,bliž.neurč.
+n083;Glomerul.choroba pri DM
+n10;Akútna tubulointersticiálna nefritída
+n12;Tubulointersticiálna nefritída,n.ako akút.,/chron.
+n135;Zalomenie a striktúra močovodu bez hydronefrózy
+n138;Iná obštrukčná a refluxová uropatia
+n139;Obštrukčná a refluxová uropatia, bližšie neurčená
+n1510;Absces obličky
+n1511;Perinefritický absces
+n170;Akútne zlyhanie obličiek s tubulovou nekrózou
+n171;Akútne zlyhanie obličiek s akútnou kortikálnou nekrózou
+n172;Akútne zlyhanie obličiek s dreňovou nekrózou
+n178;Iné akútne zlyhanie obličiek
+n179;Akútne zlyhanie obličiek,bližšie neurčené
+n181;Chronická choroba obličiek,1.štádium
+n182;Chronická choroba obličiek,2.štádium
+n183;Chronická choroba obličiek,3.štádium
+n184;Chronická choroba obličiek,4.štádium
+n1880;Jednostranná chronická porucha funkcie obličky
+n1889;Iná chronická choroba obličiek,štádium,b.n.
+n189;Chronická choroba obličiek,bližšie neurčená
+n19;Zlyhanie obličiek,bližšie neurčené
+n200;Konkrement obličky
+n202;Konkrement obličky s konkrementom močovodu
+n251;Nefrogénny diabetes insipidus
+n280;Ischémia a infarkt obličky
+n321;Vezikointestinálna fistula
+n322;Fistula močového mechúra,nezatriedená inde
+n323;Divertikul močového mechúra
+n324;Ruptúra močového mechúra,neúrazová
+n340;Absces močovej rúry
+n358;Iná striktúra uretry
+n360;Fistula uretry
+n361;Divertikul uretry
+n390;Infekcia močovej sústavy,miesto bližšie neurčené
+n431;Infikovaná hydrokéla
+n440;Torzia semenníka
+n441;Torzia hidatídy [Morgagni]
+n450;Orchitída,epididymitída a epididymoorchitída s abscesom
+n764;Absces vulvy
+n820;Vezikovaginálna fistula
+n821;Iná fistula medzi ženskými moč.a pohlav.oránmi
+n822;Fistula medzi pošvou a tenkým črevom
+n823;Fistula medzi pošvou a hrubým črevom
+n824;Iná fistula medzi ženskými pohlav.org.a črevom
+n825;Fistula medzi ženskými pohlavnými orgánmi a kožou
+n828;Iná fistula ženských pohlavných orgánov
+n829;Fistula ženských pohlavných orgánov,bliž.neurč.
+n835;Torzia vaječníka, topky vaječníka a vajíčkovodu
+n991;Striktúra uretry po lekárskom výkone
+p021;Pošk.plodu a novorod.i.form.odlúpenia placenty a krvác.
+p031;Pošk.plod a nov.i.nepr.nalie.,drž.tela,pol.,disp.,poč.pôr.čin.
+p040;Pošk.plodu a novorod.anest.,analg.m.v grav.poč.pôr.čin.a pôr.
+p100;Subdurálne kvácanie zapríč.poran.pri pôrode
+p101;Mozgové krvácanie zapríčinené poranením pri pôrode
+p102;Vnútrokomorové kvácanie zapríč.poran.pri pôrode
+p103;Subarachnoidálne kvácanie zapríč.poran.pri pôrode
+p104;Roztrhnutie tentória zapríč.poran.pri pôrode
+p108;Iné vnútroleb.poran.a kvácania zapríč.poran.pri pôrode
+p109;Bliž.neur.vnútroleb.poran.a kvácanie zapríč.poran. pri pôrode
+p111;Iné poškodenie mozgu,zapríč.poran.pri pôrode,b.u.
+p112;Bliž.neur.poškodenie mozgu,zapríč.poran.pri pôrode
+p156;Nekróza podkožného tuku,zapríč.poran. ri pôrode
+p200;Vnútromat.hypoxia zaznamen.po prvýkrát pred zač.pôr.čin.
+p220;Synd.respiračnej tiesne novorod.
+p230;Vrodený zápal pľúc,zapríčinený vírusom
+p231;Vrodený zápal pľúc,zapríčinený chlamýdiou
+p232;Vrodený zápal pľúc,zapríčinený stafylokokom
+p233;Vrodený zápal pľúc,zapr.streptok.skupiny B
+p234;Vrodený zápal pľúc,zapríčinený Escherichia coli
+p235;Vrodený zápal pľúc,zapríčinený pseudomonas
+p236;Vrodený zápal pľúc,zapríčinený inou baktériou
+p238;Vrodený zápal pľúc,zapríčinený iným organizmom
+p239;Vrodený zápal pľúc,bližšie neurčený
+p240;Novorodenecká aspirácia smolky
+p241;Novorodenecká aspirácia plodovej vody a hlienu
+p242;Novorodenecká aspirácia krvi
+p243;Novorod.aspirácia mlieka a regurgitovanej potravy
+p248;Iný novorodenecký syndróm z aspirácie
+p249;Novorodenecký syndróm z aspirácie,bližšie neurčený
+p250;Interstic.emfyzém so vznikom v perinatálnom obd.
+p251;Pneumotorax so vznikom v perinatálnom období
+p252;Pneumomediastínum so vznikom v perinatálnom období
+p253;Pneumoperikard so vznikom v perinatálnom období
+p258;Iné stavy súvis.s interstic.emfyz.so vznik.v perinat.obd.
+p260;Tracheobronchiálne krvácanie so vznik.v perinat.obd.
+p261;Masívne pľúcne krvác.so vznikom v perinat.obd.
+p268;Iné pľúcne krvác.so vznikom v perinat.období
+p269;Pľúcne krvác.so vznik.v perinat.období.b.n.
+p270;Wilsonov-Mikityho syndróm
+p271;Bronchopulmonálna dysplázia so vznik.v perin.obd.
+p278;Iná chronická respirač.chor.so vznik.v perinatál.obd.
+p279;Bliž.neurč.chron.respirač.choroba so vznikom v perinat.období
+p285;Respiračné zlyhanie novorodenca
+p290;Srdcové zlyhávanie u novorodenca
+p350;Rubeolová embryopatia
+p351;Vrodená cytomegalovírusová infekcia
+p352;Vrodená infekcia vírusom herpes simplex
+p353;Vrodená vírusová hepatitída
+p358;Iná vrodená vírusová choroba
+p359;Vrodená vírusová choroba,bližšie neurčená
+p360;Sepsa u novorod.zapríč.sterpt.zo skupiny B
+p361;Sepsa u novorod.zapríč.i.a b.n.sterpt.
+p362;Sepsa u novorod.zapríč.staphylococcus aureus
+p363;Sepsa u novorod.zapríč.i.a bliž.neirč.stafylokokom
+p364;Sepsa u novorodenca,zapríčinená escherichia coli
+p365;Sepsa u novorod.zapríč.anaeróbnym mikroorganizmom
+p368;Iná baktériová sepsa u novorodenca
+p369;Baktériová sepsa u novorodenca,bližšie neurčená
+p370;Vrodená tuberkulóza
+p371;Vrodená toxoplazmóza
+p372;Novorodenecká (diseminovaná) listerióza
+p373;Vrodená malária plasmodium falciparum
+p374;Iná vrodená malária
+p378;Iná vrodená infekčná a parazit.choroba,b.u.
+p379;Vrod.infekčná/parazitová choroba,b.n.
+p520;Vnútrokomorové(neúraz.)krvác.plodu a novorod.1.st.
+p521;Vnútrokomorové(neúraz.)krvác.plodu a novorod.2.st.
+p522;Vnútrokomorové(neúraz.)krvác.plodu a novorod.3.st.
+p523;Vnútrokomorové(neúraz.)krvác.plodu a novorod.,b.n.
+p525;Subarachnoidálne (neúraz.)krvác.plodu a novorod.
+p53;Hemoragická choroba plodu a novorodenca
+p544;Krvácanie do nadobličky u novorodenca
+p560;Hydrops plodu v dôsledku izoimunizácie
+p569;Hydrops plodu v dôsl.i.a b.n.hemolytickej chor.
+p570;Jadrový ikterus v dôsledku izoimunizácie
+p578;Iný jadrový ikterus,bližšie určený
+p579;Jadrový ikterus,bližšie neurčený
+p591;Syndróm hustej žlče
+p592;Novorod.žltačka z iného a bliž.neurč.pošk.pečeňových buniek
+p60;Diseminovaná intravaskulárna koagul.plodu a novorod.
+p610;Prechodná novorodenecká trombocytopénia
+p700;Syndróm dieťaťa matky s gestačným diabetes mellitus
+p701;Syndróm dieťaťa matky s diabetes mellitus
+p702;Diabetes mellitus u novorodenca
+p721;Prechodná hypertyreóza u novorodenca
+p77;Nekrotizujúca enterokolitída plodu a novorodenca
+p780;Perinatálna perforácia čreva
+p781;Iná novorodenecká peritonitída
+p830;Sclerema neonatorum
+p832;Hydrops plodu, nezapríčinený hemolytickou chorobou
+p90;Kŕče [konvulzie] u novorodenca
+p940;Prechodná myasthenia gravis u novorodenca
+p942;Vrodená svalová hypotónia
+p960;Vrodené zlyhávanie obličiek
+p961;Abstin.synd.u novorod.matky užív.návyk.látky a drogy
+p962;Abstin.synd.novorod.pri lieč.podávaní liečiv
+q000;Anencefália
+q001;Kraniorachischíza
+q002;Iniencefália
+q010;Čelová encefalokéla
+q011;Nosovočelová encefalokéla
+q012;Okcipitálna encefalokéla
+q018;Encefalokéla na inom mieste
+q019;Encefalokéla,bližšie neurčená
+q030;Chyby mozgového mokovodu
+q031;Atrézia pristredného a boč.otvoru štvrtej komory
+q038;Iný vrodený hydrocefalus
+q039;Vrodený hydrocefalus, bližšie neurčený
+q040;Vrodená chyba corpus callosum
+q041;Arinencefália
+q042;Holoprozencefália
+q043;Iná redukčná deformita mozgu
+q044;Septooptická dysplázia
+q045;Megalencefália
+q046;Vrodená cysta mozgu
+q048;Iná vrodená chyba mozgu,bližšie určená
+q050;Krčná spina bifida s hydrocefalom
+q051;Hrudníková spina bifida s hydrocefalom
+q052;Drieková spina bifida s hydrocefalom
+q053;Krížová spina bifida s hydrocefalom
+q054;Spina bifida s hydrocefalom,b.n.
+q055;Krčná spina bifida bez hydrocefalu
+q056;Hrudníková spina bifida bez hydrocefalu
+q057;Drieková spina bifida bez hydrocefalu
+q058;Krížová spina bifida bez hydrocefalu
+q059;Spina bifida (rázštep chrbtice),bližšie neurčená
+q060;Amyélia
+q061;Hypoplázia a dysplázia miechy
+q062;Diastematomyélia
+q063;Iná vrodená chyba konského chvosta (cauda equina)
+q064;Hydromyélia
+q068;Iná vrodená chyba miechy,bližšie určená
+q070;Arnoldov-Chiariho syndróm
+q150;Vrodený glaukóm
+q200;Spoločný tepnový kmeň [truncus arteriosus communis]
+q201;Dvojvýtoková pravá komora
+q202;Dvojvýtoková ľavá komora
+q203;Nezhodné [diskordantné] komorovotepnové spojenie
+q204;Dvojvtoková komora
+q205;Nezhodné (diskordantné) predsieňovokomorové spojenie
+q211;Defekt predsieňovej priehradky
+q212;Defekt predsieňovo-komorovej priehradky
+q213;Fallotova tetralógia
+q214;Defekt aortopulmonálneho septa
+q2180;Fallotova pentalógia
+q220;Atrézia pulmonálnej chlopne
+q221;Vrodené zúženie pulmonálnej chlopne
+q224;Vrodená trikuspidálna stenóza
+q225;Ebsteinova anomália
+q226;Hypoplastický pravokomorový syndróm
+q228;Iná vrodená chyba trikuspidálnej chlopne
+q229;Vrod.chyba trikuspidálnej chlopne,b.n.
+q230;Vrodená aortálna stenóza
+q231;Vrodená aortálna insuficiencia
+q232;Vrodená mitrálna stenóza
+q233;Vrodená mitrálna insuficiencia
+q234;Hypoplastický ľavokomorový syndróm
+q238;Iná vrodená chyba aortálnej a mitrálnej chlopne
+q239;Vrod.hyba aortálnej a mitrálnej chlopne,b.n.
+q242;Cor triatriatum (trojpredsieňové srdce)
+q243;Infundibulárna stenóza pľúcnice
+q244;Vrodená subaortálna stenóza
+q245;Chyba koronárnych ciev
+q246;Vrodená srdcová blokáda
+q248;Iná vrodená chyba srdca,bližšie určená
+q251;Koarktácia aorty
+q252;Atrézia aorty
+q253;Stenóza aorty
+q262;Kompletný anomálny návrat pľúcnych žíl
+q263;Čiastočný anomálny návrat pľúcnych žíl
+q2800;Vrod.artériovenózna aneuryzma precerebrálnych ciev
+q2801;Vrodená artériovenózna fistula precerebrálnych ciev
+q2808;Iná vrod.artériovenózna chyba precerebrálnych ciev
+q2809;Vrod.artériovenózna chyba precerebrálnych ciev,b.n.
+q2810;Vrodená aneuryzma precerebrálnch ciev
+q2811;Vrodená fistula precerebrálnych ciev
+q2818;Iná vrodená chyba precerebrálnych ciev
+q2819;Vrod.chyba precerebrálnych ciev,b.n.
+q2820;Vrodená artériovenózna aneuryzma cerebrálnych ciev
+q2821;Vrodená artériovenózna fistula cerebrálnych ciev
+q2828;Iná vrodená artériovenózna chyba cerebrálnych ciev
+q2829;Vrod.artériovenózna malformácia cerebrálnych ciev,b.n.
+q2830;Vrodená aneuryzma cerebrálnych ciev
+q2831;Vrodená fistula cerebrálnych ciev
+q2838;Iná vrodená chyba cerebrálnych ciev
+q2839;Vrodená chyba cerebrálnych ciev, bližšie neurčená
+q300;Atrézia choán
+q310;Diafragma hrtana
+q311;Vrodená subglotická stenóza
+q312;Hypoplázia hrtana
+q313;Laryngokéla
+q315;Vrodená laryngomalácia
+q318;Iná vrodená chyba hrtana
+q319;Vrodená chyba hrtana,bližšie neurčená
+q320;Vrodená tracheomalácia
+q321;Iná vrodená chyba priedušnice
+q322;Vrodená malácia priedušky
+q323;Vrodené zúženie priedušky
+q324;Iná vrodená chyba priedušiek
+q330;Vrodené cystické pľúca
+q332;Sekvestrácia pľúc
+q333;Nevyvinutie pľúc
+q334;Vrodené bronchiektázie
+q336;Hypoplázia a dysplázia pľúc
+q370;Rázštep tvrd.podnebia s obojstr.rázštep.pery
+q371;Rázštep tvrd.podnebia s jednostr.rázštep.pery
+q372;Rázštep mäkk.podnebia s obojstr.rázštep.pery
+q373;Rázštep mäkk.podnebia s jednostr.rázštep.pery
+q374;Rázštep tvrd.a mäk.podnebia s obojstr.rázštep.pery
+q375;Rázštep tvrd.a mäk.podnebia s jednostr.rázštep.pery
+q378;Rázštep podnebia s obojstr.rázštep.pery,b.n.
+q379;Rázštep podnebia s jednostr.rázštep.pery,b.n.
+q387;Vačok hltana (faryngový pouch)
+q390;Atrézia pažeráka bez fistuly
+q391;Atrézia pažeráka s fistulou medzi priedušn.a pažerákom
+q392;Vrod.fistula m.priedušn.a pažerákom bez atrézie
+q393;Vrodené zúženie (stenóza alebo striktúra) pažeráka
+q394;Pažeráková membrána
+q410;Vrodené chýbanie,atrézia a stenóza dvanástnika
+q411;Vrodené chýbanie,atrézia a stenóza jejúna
+q412;Vrodené chýbanie,atrézia a stenóza ilea
+q418;Vrod.chýbanie,atrézia a stenóza bliž.urč.častí ten.čreva
+q419;Vrod.chýbanie,atrézia a stenóza ten.čreva b.n.č.
+q420;Vrod.chýbanie,atrézia a stenóza konečníka s fistulou
+q421;Vrod.chýbanie,atrézia a stenóza konečníka bez fistuly
+q422;Vrod.chýbanie,atrézia a stenóza anusu s fistulou
+q423;Vrod.chýbanie,atrézia a stenóza anusu bez fistuly
+q428;Vrod.chýbanie,atrézia a stenóza č.hrub.čreva
+q429;Vrod.chýbanie,atrézia a stenóza bliž.neurč.č.hrub.čreva
+q430;Meckelov divertikul
+q431;Hirschprungova choroba
+q432;Iná vrodená porucha funkcie hrubého čreva
+q433;Vrodená chyba fixácie čriev
+q442;Atrézia žlčových ciest
+q443;Vrodené stenóza alebo striktúra žlčových ciest
+q446;Cystická choroba pečene
+q447;Iná vrodená chyba pečene
+q450;Agenéza,aplázia a hypoplázia podžalúdkovej žľazy
+q451;Prstencová podžalúdková žľaza[pancreas anulare]
+q452;Vrodená cysta podžalúdkovej žľazy
+q453;Iná vrodená chyba podžalúdkovej žľazy a jej vývodu
+q560;Hermafroditizmus,nezatriedený inde
+q561;Mužský pseudohermafroditizmus,nezatriedený inde
+q562;Ženský pseudohermafroditizmus,nezatriedený inde
+q563;Pseudohermafroditizmus,bližšie neurčený
+q564;Neurčité pohlavie,bližšie neurčené
+q600;Jednostranná agenéza obličky
+q601;Obojstranná agenéza obličky
+q602;Agenéza obličky,bližšie neurčená
+q603;Jednostranná hypoplázia obličky
+q604;Obojstranná hypoplázia obličky
+q605;Hypoplázia obličky,bližšie neurčená
+q606;Potterovej syndróm
+q611;Polycystické obličky,autozomálne recesívne
+q641;Exstrofia močového mechúra
+q642;Vrodená zadná chlopňa močovej rúry
+q643;Iná atrézia a stenóza močovej rúry a krčka moč.mech.
+q743;Arthrogryposis multiplex congenita
+q750;Kraniosynostóza
+q751;Kranofaciálna dyzostóza
+q752;Hypertelorizmus
+q753;Makrocefália
+q754;Mandibulofaciálna dyzostóza
+q755;Okulomandibulárna dyzostóza
+q758;Iná vrod.chyba kostí lebky a tvárových kostí,b.u.
+q759;Vrod.chyba kostí lebky a tvárových kostí,b.n.
+q761;Klippelov-Feilov syndróm
+q770;Achondrogenéza
+q771;Letálny nanizmus
+q772;Syndróm krátkeho rebra
+q773;Chondrodysplasia punctata
+q774;Achondroplázia
+q775;Diastrofická dysplázia
+q776;Chondroektodermálna dysplázia
+q777;Spondyloepifýzová dysplázia
+q778;Iná osteochondrodyspl.s por.rastu dlhých kostí a chrbt.
+q779;Osteochondrodyspl.s por.rastu dlhých kostí a chrbt.,b.n.
+q780;Osteogenesis imperfecta
+q781;Polyostotická fibrózna dysplázia
+q782;Osteopetróza
+q783;Progresívna diafýzová dysplázia
+q784;Enchondromatóza
+q786;Mnohopočetné vrodené exostózy
+q789;Osteochondrodysplázia,bližšie neurčená
+q790;Vrodená diafragmatická hernia (bránicová prietrž)
+q791;Iná vrodená chyba bránice
+q792;Exomfalus
+q793;Gastroschíza
+q794;Agenéza brušných svalov [Prune belly syndróm]
+q795;Iná vrodená chyba brušnej steny
+q796;Ehlersov-Danlosov syndróm
+q800;Ichthyosis vulgaris
+q801;Ichtyóza viazaná na chromozóm X
+q802;Lamelárna ichtyóza
+q803;Vrodená bulózne ichtyoziformná erytrodermia
+q804;Ichtyosis congenita gravis [Harlekinfetus]
+q808;Iná vrodená ichtyóza
+q809;Vrodená ichtyóza,bližšie neurčená
+q824;Ektodermálna dysplázia (anhidrotická)
+q850;Neurofibromatóza (benígna)
+q851;Tuberózna skleróza
+q858;Iná fakomatóza,nezatriedená inde
+q859;Fakomatóza,bližšie neurčená
+q861;Hydantoínový syndróm plodu
+q862;Dysmorfizmus, zapríčinený warfarínom
+q868;Iný syndróm vrod.chýb zapríč.známymi vonk.príčinami
+q870;Syndróm vrod.chýb postih.najmä výzor tváre
+q871;Syndróm vrod.chýb spojený najmä s nízkym vzrastom
+q872;Syndrómy vrodených chýb zahŕňajúce najmä končatiny
+q873;Syndróm vrod.chýb zahŕňajúci skorý nadmerný rast
+q874;Marfanov syndróm
+q875;Iné syndrómy vrodených chýb s inými zmenami kostí
+q878;Iné syndróm vrodených chýb,nezat.inde.,b.u.
+q891;Vrodená chyba nadobličiek
+q894;Spojené (zrastené) dvojčatá
+q897;Mnohopočetné vrodené chyby, nezatriedené inde
+q898;Iná vrodená chyba,bližšie určená
+q900;Trizómia 21,meiotická nondisjunkcia
+q901;Trizómia 21,mozaicizmus (mitotická nondisjunkcia)
+q902;Trizómia 21,translokácia
+q909;Downov syndróm,bližšie neurčený
+q910;Trizómia 18,meiotická nondisjunkcia
+q911;Trizómia 18,mozaicizmus (mitotická nondisjunkcia)
+q912;Trizómia 18,translokácia
+q913;Edwardsov syndróm,bližšie neurčený
+q914;Trizómia 13,meiotická nondisjunkcia
+q915;Trizómia 13,mozaicizmus (mitotická nondisjunkcia)
+q916;Trizómia 13,translokácia
+q917;Patauov syndróm,bližšie neurčený
+q920;Kompletná chromoz.trizómia,meiotická nondisjunkcia
+q921;Kompletná chromoz.trizómia,mozaicizmus
+q922;Veľká čiastočná trizómia
+q923;Malá čiastočná trizómia
+q924;Duplikácie viditeľné iba v prometafáze
+q925;Duplikácie s inou komplexnou prestavbou
+q926;Nadpočetné (marker) chromozómy
+q927;Triploidia a polyploidia
+q928;Iná trizómia a čiast.trizómia autozómov,n.i.
+q929;Trizómia a čiastočná trizómia autozómov,b.n.
+q930;Kompletná chromoz. monozómia,meiotická nondisjunkcia
+q931;Kompletná chromoz.monozómia,mozaicizmus
+q932;Prsteňovitý alebo dicentrický chromozóm
+q933;Delécia krátkeho ramena chromozómu 4
+q934;Delécia krátkeho ramena chromozómu 5
+q935;Iná delécia časti chromozómu
+q936;Delécia viditeľná iba v prometafáze
+q937;Delécia s inou komplexnou prestavbou
+q938;Iná delécia autozómov
+q939;Delécia autozómov,bližšie neurčená
+q952;Vyváž.autozóm.prestavba u abnmormál.jednotlivca
+q953;Vyváž.prest.medzi pohlav.a autozóm.chromoz.u abn.jednotlivca
+q954;Jednotlivec s nadpočetným (marker) heterochromatínom
+q955;Jednotlivec s fragilnými miestami na autozómoch
+q958;Iné vyváž.prestavba a štrukt.markery (abn.chromozómy)
+q959;Vyváž.prestavba a štrukt.marker (abn.gén),b.n.
+q990;Chiméra 46,XX/46,XY
+q991;Pravý hermafrodit 46,XX
+q992;Fragilný chromozóm X
+r02;Gangréna, nezatriedená inde
+r162;Hepatomegália so splenomegáliou,nezatriedená inde
+r291;Meningizmus
+r402;Kóma, bližšie neurčená
+r568;Iné kŕče,bližšie neurčené
+s0135;Otvorená rana ucha: sluchová trubica
+s0136;Otvorená rana ucha: sluchové kostičky
+s0137;Otvorená rana ucha: bubienok
+s0138;Otvorená rana: vnútorné ucho
+s0139;Otvorená rana ucha:iné a viaceré časti ucha a sluch.štruktúr
+s0150;Otvorená rana pery a ústnej dutiny:ústa,bl.neurč.časti
+s0152;Otvorená rana pery a ústnej dutiny: sliznica líca
+s0153;Otvorená rana pery a ústnej dutiny:ďasná
+s0154;Otvorená rana pery a ústnej dutiny:jazyk a ústna spodina
+s0155;Otvorená rana pery a ústnej dutiny: podnebie
+s0159;Otvorená rana pery a úst.dut.:iné,viaceré časti pier,úst.dut.
+s020;Zlomenina lebkovej klenby
+s021;Zlomenina spodiny lebky
+s022;Zlomenina nosových kostí
+s023;Zlomenina spodiny očnice
+s024;Zlomenina jarmovej kosti a hornej čeľuste
+s0260;Zlomenina sánky: bližšie neurčená časť
+s0261;Zlomenina sánky: processus condylaris
+s0262;Zlomenina sánky: subkondylová
+s0263;Zlomenina sánky: processus coronoideus
+s0264;Zlomenina sánky: ramus mandibulae, bližšie neurčený
+s0265;Zlomenina sánky: angulus mandibulae
+s0266;Zlomenina sánky: symphysis mandibulae
+s0267;Zlomenina sánky: pars alveolaris
+s0268;Zlom.sánky:corpus mandibulae,iné a bližšie neurčené časti
+s0269;Zlomenina sánky: viaceré časti
+s052;Tržná rana,roztrhnutie oka s prolapsom/stratou vnútrooč.tk.
+s053;Tržná rana oka bez prolapsu al.straty vnútroočného tkaniva
+s054;Penetrujúca rana očnice s cudzím telesom/bez cudzieh.telesa
+s055;Penetrujúca rana očnej gule s cudzím telesom
+s056;Penetrujúca rana očnej gule bez cudzieho telesa
+s057;Avulzia (vytrhnutie) oka
+s058;Iné poranenie oka a očnice
+s060;Otras mozgu
+s061;Poúrazový opuch mozgu
+s0620;Difúzne poranenie mozgu a mozočka,bližšie neurčené
+s0621;Difúzne pomliaždenie mozgu
+s0622;Difúzne pomliaždenie mozočka
+s0623;Viaceré vnútromozgové a mozočkové hematómy
+s0628;Iné difúzne poranenie mozgu a mozočka
+s0630;Ložiskové poranenie mozgu a mozočkabližšie neurčené
+s0631;Ložiskové pomliaždenie mozgu
+s0632;Ložiskové pomliaždenie mozočka
+s0633;Ložiskový hematóm mozgu
+s0634;Ložiskový hematóm mozočka
+s0638;Iné ložiskové poranenie mozgu a mozočka
+s064;Epidurálne krvácanie
+s065;Subdurálne krvácanie po úraze
+s066;Subarachnoidálne krvácanie po úraze
+s0670;Bezvedomie pri poranení lebky a mozgu,menej.ako 30 min.
+s0671;Bezvedomie pri poranení lebky a mozgu,30 min.až 24hod.
+s0672;Bezvedom.s poran.lebky a mozgu,viac ako24 h,návrat pôv.st.v.
+s0679;Bezvedomie pri poranení lebky a mozgu bliž.neurčeného trvania
+s068;Iné vnútrolebkové poranenie
+s069;Vnútrolebkové poranenie, bližšie neurčené
+s070;Drvivé poranenie tváre
+s071;Drvivé poranenie lebky
+s078;Drvivé poranenie iných častí hlavy
+s079;Drvivé poranenie hlavy,časť bližšie neurčená
+s092;Úrazové roztrhnutie ušného bubienka
+s099;Poranenie hlavy,bližšie neurčené
+s1101;Otvorená rana hrtana
+s1102;Otvorená rana krčnej časti priedušnice
+s111;Otvorená rana postihujúca štítnu žľazu
+s1121;Otvorená rana hltana
+s1122;Otvorená rana krčnej časti pažeráka
+s120;Zlomenina 1.krčného stavca
+s121;Zlomenina 2.krčného stavca
+s1221;Zlomenina 3.krčného stavca
+s1222;Zlomenina 4. krčného stavca
+s1223;Zlomenina 5. krčného stavca
+s1224;Zlomenina 6. krčného stavca
+s1225;Zlomenina 7. krčného stavca
+s127;Viaceré zlomeniny krčnej chrbtice
+s128;Zlomenina iných častí krku
+s129;Zlomenina krku, bližšie neurčenej časti
+s130;Úrazové natrhnutie krčnej medzistavcovej platničky
+s1310;Vykĺbenie krčného stavca v bližšie neurčenej úrovni
+s1311;Vykĺbenie krčného stavca v úrovni C1/C2
+s1312;Vykĺbenie krčného stavca v úrovni C2/C3
+s1313;Vykĺbenie krčného stavca v úrovni C3/C4
+s1314;Vykĺbenie krčného stavca v úrovni C4/C5
+s1315;Vykĺbenie krčného stavca v úrovni C5/C6
+s1316;Vykĺbenie krčného stavca v úrovni C6/C7
+s1317;Vykĺbenie krčného stavca v úrovni C7/Th1
+s1318;Vykĺbenie krčného stavca v inej úrovni
+s132;Vykĺbenie inej a bližšie neurčenej časti krku
+s133;Viaceré vykĺbenia v oblasti krku
+s140;Otras a opuch krčnej miechy
+s1410;Poranenie krčnej miechy, bližšie neurčené
+s1411;Kompletné priečne poranenie krčnej miechy
+s1412;Poranenie centr.časti krč.miechy(nekompletné prieč.poranenie)
+s1413;Iné nekompletné priečne poranenie krčnej miechy
+s142;Poranenie krčného nervového koreňa
+s143;Poranenie plexus brachialis
+s145;Poranenie nervov krčného sympatika
+s1470;Funkčná úroveň pri poranení krčnej miechy:bližšie neurčená
+s1471;Funkčná úroveň pri poranení krčnej miechy: C1
+s1472;Funkčná úroveň pri poranení krčnej miechy: C2
+s1473;Funkčná úroveň pri poranení krčnej miechy: C3
+s1474;Funkčná úroveň pri poranení krčnej miechy: C4
+s1475;Funkčná úroveň pri poranení krčnej miechy: C5
+s1476;Funkčná úroveň pri poranení krčnej miechy: C6
+s1477;Funkčná úroveň pri poranení krčnej miechy: C7
+s1478;Funkčná úroveň pri poranení krčnej miechy: C8
+s1500;Poranenie a.carotis, časť bližšie neurčená
+s1501;Poranenie a.carotis communis
+s1502;Poranenie a.carotis externa
+s1503;Poranenie a.carotis interna
+s153;Poranenie v.jugularis interna
+s170;Drvivé poranenie hrtana a priedušnice
+s178;Drvivé poranenie inej časti krku
+s179;Drvivé poranenie bližšie neurčenej časti krku
+s211;Otvorená rana prednej steny hrudníka
+s212;Otvorená rana zadnej steny hrudníka
+s217;Viaceré otvorené rany steny hrudníka
+s2180;Otvor.rana i.časti hrudníka,b.n.
+s2183;Otvor.rana každej č.hrud.v spojení s vnútrohrud.por.
+s2187;Poškodenie mäk.č.I.st.pri otvor.zlomeninách,vykĺben.na hrud.
+s2188;Poškodenie mäk.č.II.st.pri otvor.zlomeninách,vykĺben.na hrud.
+s2189;Poškodenie mäk.č.III.st.pri otvor.zlomeninách,vykĺben.na hrud.
+s219;Otvorená rana hrudníka, bližšie neurčenej časti
+s2200;Zlomenina hrudníkového stavca,úroveň bližšie neurčená
+s2201;Zlomenina hrudníkového stavca Th1 a Th2
+s2202;Zlomenina hrudníkového stavca Th3 a Th4
+s2203;Zlomenina hrudníkového stavca Th5 a Th6
+s2204;Zlomenina hrudníkového stavca Th7 a Th8
+s2205;Zlomenina hrudníkového stavca Th9 a Th10
+s2206;Zlomenina hrudníkového stavca Th11 a Th12
+s221;Viaceré zlomeniny hrudníkovej chrbtice
+s222;Zlomenina mostíka (sterna)
+s2240;Sériová zlomenina rebier,bližšie neurčená
+s2241;Sériová zlomenina rebier s postihnutím prvého rebra
+s2244;Sériová zlomen.rebier s postih.štyroch a viac.rebier
+s225;Instabilný(vlajúci)hrudník
+s230;Úrazové natrhnutie hrudníkovej medzistavcovej platničky
+s2310;Vykĺbenie hrudníkového stavca v bližšie neurčenej úrovni
+s2311;Vykĺbenie hrudníkového stavca v úrovni Th1/Th2 a Th2/Th3
+s2312;Vykĺbenie hrudníkového stavca v úrovni Th3/Th4 a Th4/Th5
+s2313;Vykĺbenie hrudníkového stavca v úrovni Th5/Th6 a Th6/Th7
+s2314;Vykĺbenie hrudníkového stavca v úrovni Th7/Th8 a Th8/Th9
+s2315;Vykĺbenie hrudníkového stavca v úrovni Th9/Th10 a Th10/Th11
+s2316;Vykĺbenie hrudníkového stavca v úrovni Th11/Th12
+s2317;Vykĺbenie hrudníkového stavca v úrovni Th12/L1
+s240;Otras a opuch hrudníkovej miechy
+s2410;Poranenie hrudníkovej miechy,bližšie neurčené
+s2411;Kompletné priečne poranenie hrudníkovej miechy
+s2412;Nekompletné priečne poranenie hrudníkovej miechy
+s242;Poranenie hrudníkového nervového koreňa
+s244;Poranenie nervov hrudníkového sympatika
+s2470;Funkčná výška pri poranení hrudíkovej miechy: úroveň b.n.
+s2471;Funkčná výška pri poranení hrudníkovej miechy:Th1
+s2472;Funkčná výška pri poranení hrudíkovej miechy:Th2/Th3
+s2473;Funkčná výška pri poranení hrudíkovej miechy:Th4/Th5
+s2474;Funkčná výška pri poranení hrudíkovej miechy:Th6/Th7
+s2475;Funkčná výška pri poranení hrudíkovej miechy:Th8/Th9
+s2476;Funkčná výška pri poranení hrudíkovej miechy:Th10/Th11
+s2477;Funkčná výška pri poranení hrudníkovej miechy:Th12
+s250;Poranenie hrudníkovej aorty
+s251;Poranenie truncus brachiocephalicus alebo a.subclavia
+s252;Poranenie hornej dutej žily
+s253;Poran.v.innominata(v.brachiocephalica)alebo v.subclavia
+s260;Poran.srdca so zakrvác.do osrdcovník.vaku
+s2681;Pomliaždenie srdca
+s2682;Tržné poranenie srdca bez otvorenia srdcovej dutiny
+s2683;Tržné poranenie srdca s otvorením srdcovej dutiny
+s2688;Iné poranenia srdca
+s269;Poranenie srdca,bližšie neurčené
+s270;Úrazový pneumotorax
+s271;Úrazový hemotorax
+s272;Úrazový hemopneumotorax
+s2732;Tržné poranenie pľúc
+s2738;Iné a bližšie neurčené poranenie pľúc
+s274;Poranenie priedušky
+s275;Poranenie priedušnice v oblasti hrudníka
+s276;Poranenie pohrudnice
+s277;Viaceré poranenia vnútrohrudníkových orgánov
+s2781;Poranenie bránice
+s2782;Poranenie ductus thoracicus
+s2783;Poranenie hrudnej časti pažeráka
+s2784;Poranenie dojčenskej žľazy [týmusu]
+s2788;Poran.iných b.u.vnútrohrud.org.a štruktúr
+s279;Poran.vnútrohrudníkového orgánu,b.n.
+s280;Rozdrvený hrudník
+s281;Úrazová amputácia časti hrudníka
+s310;Otvorená rana drieku a panvy
+s311;Otvorená rana brušnej steny
+s313;Otvorená rana skróta a semenníkov
+s317;Viaceré otvorené rany brucha, drieku a panvy
+s3180;Otvorená rana inej a bližšie neurčenej časti brucha
+s3183;Otvor.rana(kaž.č.brucha,drieku,panvy)spoj.s vnútrobruš.poran.
+s3187;Poškodenie mäk.č.I.st.pri otv.zlom.,vykĺb.driek.chrbtice,panvy
+s3188;Poškoden.mäk.č.II.st.pri otv.zlom.,vykĺb.driek.chrbtice,panvy
+s3189;Poškoden.mäk.č.III.st.pri otv.zlom.,vykĺb.driek.chrbtice,panvy
+s3200;Zlomenenina driekového stavca,úroveň bližšie neurčená
+s3201;Zlomenina driekového stavca L1
+s3202;Zlomenina driekového stavca L2
+s3203;Zlomenina driekového stavca L3
+s3204;Zlomenina driekového stavca L4
+s3205;Zlomenina driekového stavca L5
+s321;Zlomenina krížovej kosti
+s322;Zlomenina kostrče
+s3282;Zlomenina driekovej chrbtice a krížovej kosti,bl.neurč.časť
+s3289;Zlomenina iných a viacerých častí panvy
+s330;Úrazové natrhnutie driekovej medzistavcovej platničky
+s3310;Vykĺb.driek.stavca,úroveň b.n.
+s3311;Vykĺbenie driekového stavca L1/L2
+s3312;Vykĺbenie driekového stavca L2/L3
+s3313;Vykĺbenie driekového stavca L3/L4
+s3314;Vykĺbenie driekového stavca L4/L5
+s3315;Vykĺbenie driekového stavca L5/S1
+s340;Otras a opuch driekovej časti miechy
+s3410;Kompletné priečne poranenie driekovej časti miechy
+s3411;Nekompletné priečne poranenie driekovej časti miechy
+s3418;Iné poranenie driekovej časti miechy
+s342;Poranenie driekového a krížového nervového koreňa
+s3430;Kompletný úrazový syndróm cauda equina
+s3431;Nekompletný úrazový syndróm cauda equina
+s3438;Iné a bližšie neurčené poranenie cauda equina
+s344;Poranenie plexus lumbosacralis
+s345;Poranenie nervov driek.a kríž.sympatika.a panvov.sympat.n.
+s3470;Funkčná úroveň pri poranení driekovokrížovej miechy: b.ne.
+s3471;Funkčná úroveň pri poranení driekovokrížovej miechy: L1
+s3472;Funkčná úroveň pri poranení driekovokrížovej miechy: L2
+s3473;Funkčná úroveň pri poranení driekovokrížovej miechy: L3
+s3474;Funkčná úroveň pri poranení driekovokrížovej miechy: L4
+s3475;Funkčná úroveň pri poranení driekovokrížovej miechy: L5
+s3476;Funkčná úroveň pri poranení driekovokrížovej miechy: S1
+s3477;Funkčná úroveň pri poranení driekovokrížovej miechy: S2 – S5
+s350;Poranenie brušnej aorty
+s351;Poranenie dolnej dutej žily
+s352;Poranenie truncus coeliacus alebo a.mesenterica
+s353;Poranenie v. portae alebo v. lienalis
+s354;Poranenie krvných ciev obličky
+s355;Poranenie iliakálnych krvných ciev
+s357;Poranenie viacerých krvných ciev brucha,drieku a panvy
+s358;Poranenie iných krvných ciev brucha,drieku a panvy
+s359;Poranenie bl.neurč.krvnej cievy v úrovni brucha,drieku a panvy
+s3601;Hematóm sleziny
+s3602;Roztrhnutie puzdra sleziny,bez väčších trhlín parenchýmu
+s3603;Tržné poranenie sleziny vrátane parenchýmu
+s3610;Poranenie pečene,bližšie neurčené
+s3611;Pomliaždenie a hematóm pečene
+s3612;Tržné poranenie pečene,bližšie neurčené
+s3613;Ľahké tržné poranenie pečene
+s3614;Stredne ťažké poranenie pečene
+s3615;Ťažké tržné poranenie pečene
+s3616;Iné poranenie pečene
+s3617;Poranenie žlčníka
+s3618;Poranenie žlčových ciest
+s3640;Poranenie tenkého čreva,časť bližšie neurčená
+s3650;Poranenie hrubého čreva,časť bližšie neurčená
+s3652;Poranenie colon transversum
+s3653;Poranenie colon descendens
+s3659;Poranenie iných a viacerých častí hrubého čreva
+s366;Poranenie konečníka
+s367;Poranenie viacerých vnútrobrušných orgánov
+s3681;Poranenie pobrušnice
+s3683;Poranenie retroperitonea
+s3702;Tržné poranenie obličky
+s371;Poranenie močovodu
+s380;Drvivé poranenie vonkajších pohlavných orgánov
+s381;Drvivé poranenie iných a bl.neurč.častí brucha,drieku a panvy
+s383;Úrazová amputácia iných a bl.neurč.častí brucha,drieku a panvy
+s4221;Zlomenina horného konca ramennej kosti,hlava
+s4229;Zlomenina hor.konca ramennej kosti,iné a mnohopoč.časti
+s423;Zlomenina diafýzy ramennej kosti
+s450;Poranenie a.axillaris
+s451;Poranenie a.brachialis
+s452;Poranenie v.axillaris a v.brachialis
+s453;Poranenie povrchovej žily v úrovni pleca a ramena
+s457;Poranenie viacerých krvných ciev v úrovni pleca a ramena
+s458;Poranenie iných krvných ciev v úrovni pleca a ramena
+s459;Poranenie bliž.neurč.krvnej cievy v úrovni pleca a ramena
+s47;Drvivé poranenie pleca a ramena
+s550;Poranenie a.ulnaris v úrovni predlaktia
+s551;Poranenie a.radialis v úrovni predlaktia
+s552;Poranenie žily v úrovni predlaktia
+s557;Poranenie viac.krvných ciev v úrovni predlak.
+s558;Poranenie iných krvných ciev v úrovni predlaktia
+s559;Poranenie bliž.neurč.krvnej cievy v úrovni predlak.
+s570;Drvivé poranenie lakťa
+s578;Drvivé poranenie iných častí predlaktia
+s579;Drvivé poranenie predlaktia,bliž.neurč.časti
+s628;Zlomenina iných.a bliž.neurč.častí zápäs.a ruky
+s650;Poranenie a.ulnaris v úrovni zápästia a ruky
+s651;Poranenie a.radialis v úrovni zápästia a ruky
+s652;Poranenie ciev povrchového dlaňového oblúka
+s653;Poranenie ciev hĺbkového dlaňového oblúka
+s654;Poranenie krvnej cievy (ciev) palca
+s655;Poranenie krvnej cievy (ciev) iného prsta ruky
+s657;Poranenie viacerých krvných ciev v úrov.zápäs.a ruky
+s658;Poranenie i.krvnej cievy v úrov.zápäs.a ruky
+s659;Poranenie bliž.neurč.krvnej cievy v úrov.zápäsa ruky
+s670;Drvivé poran.palca a iného prsta/prstov ruky
+s678;Drvivé poran.i.a bliž.neurč.časti zápäs.a ruky
+s701;Pomliaždenie stehna
+s757;Poranenie viacerých krvných ciev v úrovni bedra a stehna
+s758;Poranenie iných krvných ciev v úrovni bedra a stehna
+s759;Poran.enie bliž.neurč.krvných ciev v úrovni bedra a stehna
+s770;Drvivé poranenie bedra
+s771;Drvivé poranenie stehna
+s772;Drvivé poranenie bedra a stehna
+s8211;Zlomenina hor.konca píšťaly,so zlom.ihlice (každá č.)
+s8241;Zlomenina ihlice, izolovaná,horný koniec
+s851;Poranenie (pred.)(zad.)píšťal.tepny
+s852;Poranenie ihlicovej tepny [a.peronea]
+s857;Poranenie viac.krv. ciev v úrov.predkol.
+s859;Poranenie bliž.neurč.krv.cievy v úrov.predkol.
+s870;Drvivé poranenie kolena
+s878;Drvivé poranenie i.a bliž.neurč.časti predkol.
+s950;Poranenie a.dorsalis pedis
+s951;Poranenie a.plantaris pedis
+s952;Poranenie v. dorsalis pedis
+s957;Poranenie viac.krných .ciev v úrov.členka a nohy
+s958;Poranenie inej krvnej cievy v úrovni členka a nohy
+s959;Poranenie bliž.neurč.krvnej cievy v úrov.členka a nohy
+s970;Drvivé poranenie členka
+s971;Drvivé poranenie prsta (prstov) nohy
+s978;Drvivé poranenie inej časti členka a nohy
+t0200;Zlomeniny postih.hlavu aj krk,zatv./bez b.u.
+t0201;Zlomeniny postihujúce hlavu aj krk, otvorené
+t0211;Zlom.postih.hrud.-driek.kríž.obl.,/hrud.aj panv.,otvor.
+t0240;Zlomeniny postih.viac.obl.oboch HK,zatv./bez b.u.
+t0241;Zlomeniny postih.viac.obl.oboch HK,otvor.
+t0250;Zlomeniny viac.obl.oboch DK,zatv./bez b.u.
+t0251;Zlomeniny viac.obl.oboch DK,otvor.
+t0260;Zlomeniny postih viac.obl.Hk a DK,zatv./bez b.u.
+t0261;Zlomeniny viac.obl.HK,DK,otvor.
+t0270;Zlomen.postih.hrud.driek.končat./hrud.panv.konč.zatv./bez b.u.
+t0271;Zlomen.postih.hrud.s driek.a konč./hrud.s panv.a konč.,otvor.
+t040;Drvivé poranenie postihujúce hlavu aj krk
+t041;Drvivé poran.postih.hrud.aj brucho,hrud.aj driek,hrud.aj panvu
+t042;Drvivé poran.postih.viac.obl.HK
+t043;Drvivé poran.postih.viac.obl.DK
+t044;Drvivé poran.postih.viac.obl.HK.aj DK
+t047;Drv.por.pos.hr.,bru.a konč.,/hr.,drie.a konč.,/hr.,pan.a kon.
+t048;Drvivé poran.postih.i.komb.telesných obl.
+t049;Viaceré drvivé poranenia,bližšie neurčené
+t058;Úrazová amput.post.i.komb.telesných obl.
+t060;Poran.mozg.a hlav.nerv.komb.s por.nerv.a miechy v úr.krku
+t061;Poran.nervov a miechy postih.i.viac.telesné obl.
+t063;Poranenie krvných ciev postihujúce viaceré oblasti
+t080;Zlomenina chrbtice v bliž.neuč.úrovni,zatvor./bez b.u.
+t081;Zlomenina chrbtice v bliž.neurč.úrovni,otvorená
+t091;Otvorená rana trupu v bližšie neurčenej úrovni
+t093;Poranenie miechy v bližšie neurčenej úrovni
+t094;Poran.bliž.neurč.nervu,miech.koreňa a nerv.spleti trupu
+t096;Úrazová amputácia trupu v bližšie neurčenej úrovni
+t114;Poranenie bliž.neurč.cievy HK,v bliž.neurč.úrovni
+t134;Poranenie bliž.neurč.krv.cievy DK,v bliž.neurč.úrovni
+t145;Poranenie krvnej cievy (ciev):oblasť bliž.neurč tela
+t147;Drvivé poran.a úraz.amput..oblasť bliž.neurč.tela
+t203;Popálenina hlavy a krku 3. stupňa
+t207;Poleptanie hlavy a krku 3. stupňa
+t2130;Popálenina trupu 3. stupňa,časť bližšie neurčená
+t2131;Popálenina trupu 3. stupňa,prsník
+t2132;Popál.trupu 3.st.,stena hrud.s výn.prsníka a bradavky
+t2133;Popálenina trupu 3. stupňa,brušná stena
+t2134;Popál.trupu 3.st.,chrbát
+t2135;Popálenina trupu 3. stupňa,vonkajšie genitálie
+t2139;Popálenina trupu 3. stupňa,iná časť
+t2170;Poleptanie trupu 3.stupňa,časť bližšie neurčená
+t2171;Poleptanie trupu 3.stupňa,prsník
+t2172;Polept.trupu 3.st.,stena hrud.s výn.prsníka a bradavky
+t2173;Poleptanie trupu 3 stupňa,brušná stena
+t2174;Poleptanie trupu 3.stupňa,chrbát
+t2175;Poleptanie trupu 3.stupňa,vonkajšie genitálie
+t2179;Poleptanie trupu 3.stupňa,iná časť
+t2230;Popál.pleca a HK okr.zápäs.a ruky,3.st.,časť bliž.neurč.
+t2231;Popál.pleca a HK okr.zápäs.a ruky,3.st.,lak.a predlak.
+t2232;Popál.pleca a HK okr.zápäs.a ruky,3.st.,ram.a plece
+t2233;Popál.pleca a HK okr.zápäs.a ruky,3.st.,podpazušie
+t2270;Polept.pleca a HK okr.zápäs.a ruky,3.st.,časť bliž.neurč.
+t2271;Polept.pleca a HK okr.zápäs.a ruky,3.st.,lak.a predlak.
+t2272;Polept.pleca a HK okr.zápäs.a ruky,3.st.,ram.a ple.
+t2273;Polept.pleca a HK okr.zápäs.a ruky,3.st.,podpazušie
+t233;Popálenina zápästia a ruky 3.stupňa
+t237;Poleptanie zápästia a ruky 3.stupňa
+t243;Popál.bedra a DK okr.čl.a nohy 3.st.
+t247;Polept.bedra a DK okr.čl.a nohy 3.st.
+t253;Popálenina členka a nohy 3.stupňa
+t257;Poleptanie členka a nohy 3.stupňa
+t260;Popálenina mihalnice a okolia oka
+t261;Popálenina rohovky a spojovkového vaku
+t262;Popál.s následnou rupt.a deštruk.očnej gule
+t263;Popálenina iných častí oka a očných adnexov
+t264;Popál.b.n.časti oka a oč.adnexov
+t265;Poleptanie mihalnice a okolia oka
+t266;Poleptanie rohovky a spojovkového vaku
+t267;Polept.s následnou rupt. a deštruk.očnej gule
+t268;Poleptanie iných častí oka a očných adnexov
+t269;Poleptanie bliž.neurč.časti oka a očnýchadnexov
+t270;Popálenina hrtana a priedušnice
+t271;Popálenina hrtana a priedušnice s pľúcami
+t272;Popálenina iných častí dýchacích ciest
+t273;Popálenina bližšie neurčenej časti dýchacích ciest
+t274;Poleptanie hrtana a priedušnice
+t275;Poleptanie hrtana a priedušnice s pľúcami
+t276;Poleptanie iných častí dýchacích ciest
+t277;Poleptanie bližšie neurčenej časti dýchacích ciest
+t280;Popálenina úst a hltana
+t281;Popálenina pažeráka
+t282;Popálenina iných častí tráviacej sústavy
+t283;Popálenina vnútorných močovopohlavných orgánov
+t284;Popálenina iných a bliž.neurč.vnút.org.
+t285;Poleptanie úst a hltana
+t286;Poleptanie pažeráka
+t287;Poleptanie iných častí tráviacej sústavy
+t288;Poleptanie vnútorných močovopohlavných orgánov
+t289;Poleptanie iných a bliž.neurč.vnútor.ústrojov
+t290;Popálenina viac.obl.tela bliž.neurč.stupňa
+t293;Popál.viac.obl.tela,uvedený najmen.raz 3.st.
+t294;Polept.viac.častí tela bliž.neurč.stupňa
+t297;Polept.viac.častí tela,uvedený najmen.raz 3.st.
+t3122;Popál.20-29%povr.tela,20-29%popál.3.st.
+t3132;Popál.30-39%povr.tela,20-29%popál.3.st.
+t3133;Popál.30-39%povr.tela,30-39%popál.3.st.
+t3142;Popál.40-49%povr.tela,20-29%popál.3.st.
+t3143;Popál.40-49%povr.tela,30-39%popál.3.st.
+t3144;Popál.40-49%povr.tela,40-49%popál.3.st.
+t3150;Popál.50-59%povr.tela,<ako10 %/b.n.č.-popál.3.st.
+t3151;Popál.50-59%povr.tela,10-19%popál.3.st.
+t3152;Popál.50-59%povr.tela,20-29%popál.3.st.
+t3153;Popál.50-59%povr.tela,30-39%popál.3.st.
+t3154;Popál.50-59%povr.tela,40-49%popál.3.st.
+t3155;Popál.50-59%povr.tela,50-59%popál.3.st.
+t3160;Popál.60-69%povr.tela,<ako10 %/b.n.č.-popál.3.st.
+t3161;Popál.60-69%povr.tela,10-19%popál.3.st.
+t3162;Popál.60-69%povr.tela,20-29%popál.3.st.
+t3163;Popál.60-69%povr.tela,30-39%popál.3.st.
+t3164;Popál.60-69%povr.tela,40-49%popál.3.st.
+t3165;Popál.60-69%povr.tela,50-59%popál.3.st.
+t3166;Popál.60-69%povr.tela,60-69%popál.3.st.
+t3170;Popál.70-79%povr.tela,<ako10 %/b.n.č.-popál.3.st.
+t3171;Popál.70-79%povr.tela,10-19%popál.3.st.
+t3172;Popál.70-79%povr.tela,20-29%popál.3.st.
+t3173;Popál.70-79%povr.tela,30-39%popál.3.st.
+t3174;Popál.70-79%povr.tela,40-49%popál.3.st.
+t3175;Popál.70-79%povr.tela,50-59%popál.3.st.
+t3176;Popál.70-79%povr.tela,60-69%popál.3.st.
+t3177;Popál.70-79%povr.tela,70-79%popál.3.st.
+t3180;Popál.80-89%povr.tela,<ako10 %/b.n.č.-popál.3.st.
+t3181;Popál.80-89%povr.tela,10-19%popál.3.st.
+t3182;Popál.80-89%povr.tela,20-29%popál.3.st.
+t3183;Popál.80-89%povr.tela,30-39%popál.3.st.
+t3184;Popál.80-89%povr.tela,40-49%popál.3.st.
+t3185;Popál.80-89%povr.tela,50-59%popál.3.st.
+t3186;Popál.80-89%povr.tela,60-69%popál.3.st.
+t3187;Popál.80-89%povr.tela,70-79%popál.3.st.
+t3188;Popál.80-89%povr.tela,80-89%popál.3.st.
+t3190;Popál.90 a viac%povr.tela,<ako10 %/b.n.č.-popál.3.st.
+t3191;Popál.90 a viac%povr.tela,10-19%popál.3.st.
+t3192;Popál.90 a viac%povr.tela,20-29%popál.3.st.
+t3193;Popál.90 a viac%povr. tela,30-39%popál.3.st.
+t3194;Popál.90 a viac%povr.tela,40-49%popál.3.st.
+t3195;Popál.90 a viac%povr.tela,50-59%popál.3.st.
+t3196;Popál.90 a viac%povr.tela,60-69%popál.3.st.
+t3197;Popál.90 a viac%povr.tela,70-79%popál.3.st.
+t3198;Popál.90 a viac%povr.tela,80-89%popál.3.st.
+t3199;Popál.90 a viac%povr.tela,90 %/viac popál.3.st.
+t3222;Polept.20-29%povr.tela,20-29%polept.3.st.
+t3232;Polept.30-39%povr.tela,20-29%polept.3.st.
+t3233;Polept.30-39%povr.tela,30-39%polept.3.st.
+t3242;Polept.40-49%povr.tela,20-29%polept.3.st.
+t3243;Polept.40-49%povr.tela,30-39%polept.3.st.
+t3244;Polept.40-49%povr.tela,40-49%polept.3.st.
+t3250;Polept.50-59%povr.tela,<ako10 %/b.n.č.-polept.3.st.
+t3251;Polept.50-59%povr.tela,10-19%polept.3.st.
+t3252;Polept.50-59%povr.tela,20-29%polept.3.st.
+t3253;Polept.50-59%povr.tela,30-39%polept.3.st.
+t3254;Polept.50-59%povr.tela,40-49%polept.3.st.
+t3255;Polept.50-59%povr.tela,50-59%polept.3.st.
+t3260;Polept.60-69%povr.tela,<ako10 %/b.n.č.-polept.3.st.
+t3261;Polept.60-69%povr.tela,10-19%polept.3.st.
+t3262;Polept.60-69%povr.tela,20-29%polept.3.st.
+t3263;Polept.60-69%povr.tela,30-39%polept.3.st.
+t3264;Polept.60-69%povr.tela,40-49%polept.3.st.
+t3265;Polept.60-69%povr.tela,50-59%polept.3.st.
+t3266;Polept.60-69%povr.tela,60-69%polept.3.st.
+t3270;Polept.70-79%povr.tela,<ako10 %/b.n.č.-polept.3.st.
+t3271;Polept.70-79%povr.tela,10-19%polept.3.st.
+t3272;Polept.70-79%povr.tela,20-29%polept.3.st.
+t3273;Polept.70-79%povr.tela,30-39%polept.3.st.
+t3274;Polept.70-79%povr.tela,40-49%polept.3.st.
+t3275;Polept.70-79%povr.tela,50-59%polept.3.st.
+t3276;Polept.70-79%povr.tela,60-69%polept.3.st.
+t3277;Polept.70-79%povr.tela,70-79%polept.3.st.
+t3280;Polept.80-89%povr.tela,<ako10 %/b.n.č.-polept.3.st.
+t3281;Polept.80-89%povr.tela,10-19%polept.3.st.
+t3282;Polept.80-89%povr.tela,20-29%polept.3.st.
+t3283;Polept.80-89%povr.tela,30-39%polept.3.st.
+t3284;Polept.80-89%povr.tela,40-49%polept.3.st.
+t3285;Polept.80-89%povr.tela,50-59%polept.3.st.
+t3286;Polept.80-89%povr.tela,60-69%polept.3.st.
+t3287;Polept.80-89%povr.tela,70-79%polept.3.st.
+t3288;Polept.80-89%povr.tela,80-89%polept.3.st.
+t3290;Polept.90 a viac%povr.tela,<ako10 %/b.n.č.-polept.3.st.
+t3291;Polept.90 a viac%povr.tela,10-19%polept.3.st.
+t3292;Polept.90 a viac%povr.tela,20-29%polept.3.st.
+t3293;Polept.90 a viac%povr.tela,30-39%polept.3.st.
+t3294;Polept.90 a viac%povr.tela,40-49%polept.3.st.
+t3295;Polept.90 a viac%povr.tela,50-59%polept.3.st.
+t3296;Polept.90 a viac%povr.tela,60-69%polept.3.st.
+t3297;Polept.90 a viac%povr.tela,70-79%polept.3.st.
+t3298;Polept.90 a viac%povr.tela,80-89%polept.3.st.
+t3299;Polept.90 a viac%povr.tela,90% a viac polept.3.st.
+t330;Povrchová omrzlina hlavy
+t331;Povrchová omrzlina krku
+t332;Povrchová omrzlina hrudníka
+t333;Povrchová omrzlina brušnej steny, drieku a panvy
+t334;Povrchová omrzlina hornej končatiny
+t335;Povrchová omrzlina zápästia a ruky
+t336;Povrchová omrzlina bedra a stehna
+t337;Povrchová omrzlina kolena a predkolenia
+t338;Povrchová omrzlina členka a nohy
+t339;Povrch.omrzlina na i.a b.n.miestach
+t340;Omrzlina s nekrózou tkaniva hlavy
+t341;Omrzlina s nekrózou tkaniva krku
+t342;Omrzlina s nekrózou tkaniva hrudníka
+t343;Omrzl.s nekróz.tkaniva brušnej steny,drieku a panvy
+t344;Omrzlina s nekrózou tkaniva hornej končatiny
+t345;Omrzlina s nekrózou tkaniva zápästia a ruky
+t346;Omrzlina s nekrózou tkaniva bedra a stehna
+t347;Omrzlina s nekrózou tkaniva kolena a predkolenia
+t348;Omrzlina s nekrózou tkaniva členka a nohy
+t349;Omrzlina s nekróz.tkan.na i.a bliž.neurč.miestach
+t350;Povrchová omrzlina postihujúca viaceré časti tela
+t351;Omrzl.s tkanivovou nekróz.post.viac.č.tela
+t352;Omrzlina hlavy a krku, bližšie neurčená
+t353;Omrzl.hrud.,brucha,drieku a panvy b.n.
+t354;Omrzlina hornej končatiny,bližšie neurčená
+t355;Omrzlina dolnej končatiny,bližšie neurčená
+t356;Omrzlina postihujúcv viac.časti tela,b.n.
+t357;Omrzlina bliž.neurč.časti tela,b.n.
+t360;Otrava penicilínmi
+t361;Otrava cefalosp.a i.betalaktámovými ATB
+t362;Otrava liekmi zo skupiny chloramfenikolu
+t363;Otrava makrolidmi
+t364;Otrava tetracyklínmi
+t365;Otrava aminoglykozidmi
+t366;Otrava rifamycínmi
+t367;Otrava pro.-plesň.ATB používanými systémovo
+t368;Otrava inými celkovo účinkujúcimi antibiotikami
+t369;Otrava.celk.účink.ATB,b.n.
+t370;Otrava sulfonamidmi
+t371;Otrava antimykobaktériovými liekmi
+t372;Otrava antimalarikami a liek.účink.na i.krv.prvoky
+t373;Otrava inými antiprotozoárnymi liekmi
+t374;Otrava antihelmintikami
+t375;Otrava protivírusovými liekmi
+t378;Otrava i.bliž.urč.celk.účink.protiinf.a antiparaz.liekmi
+t379;Otrava celk.účink.protiinf.a antiparaz.liekmi,b.n.
+t380;Otrava glukokortikoidmi a ich syntetickými analógmi
+t381;Otrava hormónmi štítnej žľazy a ich náhradami
+t382;Otrava tyreostatikami
+t383;Otrava inzulínom a orálnymi antidiabetikami
+t384;Otrava orálnymi kontraceptívami
+t385;Otrava inými estrogénmi a progesterónmi
+t386;Otr.antigonadotrop.,antiestrogén.,antiandrogén.,n.i.
+t387;Otrava androgénmi a príbuznými anabolikami
+t388;Otrava i.a bliž.neurč.hormónmi a ich syntetickými náhradami
+t389;Otrava i.a bliž.neurč.antagonistami hormónov
+t390;Otrava salicylátmi
+t391;Otrava derivátmi 4-aminofenolu
+t392;Otrava pyrazolónovými derivátmi
+t393;Otrava inými nesteroidovými antiflogistikami
+t394;Otrava antireumatikami, nezatriedenými inde
+t398;Otrava i.neopioid.analget.a antipyret.,n.i.
+t399;Otrava neopioid.analget.antipyr.a antireumatik.,b.n.
+t400;Otrava ópiom
+t401;Otrava heroínom
+t402;Otrava inými opioidmi
+t403;Otrava metadónom
+t404;Otrava inými syntetickými opiátmi
+t405;Otrava kokaínom
+t406;Otrava inými a bližšie neurčenými opiátmi
+t407;Otrava derivátmi cannabis
+t408;Otrava lysergidom [LSD]
+t409;Otrava i.a b.n.psychodysleptikami (halucinogénmi)
+t410;Otrava inhalačnými anestetikami
+t411;Otrava intravenóznymi anestetikami
+t412;Otrava i.a bliž.neurč.celkovými anestetikami
+t413;Otrava lokálnymi anestetikami
+t414;Otrava anestetikami,bližšie neurčenými
+t415;Otrava liečebnými plynmi
+t420;Otrava derivátmi hydantoínu
+t421;Otrava iminostilbénmi
+t422;Otrava sukcinimidmi a oxazolidínmi
+t423;Otrava barbiturátmi
+t424;Otrava benzodiazepínmi
+t425;Otrava zmiešanými antiepilept.,n.i.
+t426;Otrava i.antiepilept.,sedatívami a hypnotikami
+t427;Otrava antiepileptik.sedatív.a hypnotik.,b.n.
+t428;Otrava antiparkins.a i.centrálnymi myorelax.
+t430;Otrava tricyklickými a tetracyklickými antidepresívami
+t431;Otrava.antidep.mi skup.inhib.monoaminooxidázy
+t432;Otrava inými a bližšie neurčenými antidepresívami
+t433;Otrava fenotiazínovými antipsychotikami a neuroleptikami
+t434;Otrava butyrofenónovými a tioxanténovými neuroleptikami
+t435;Otrava i.a bliž.neurč.antipsychotikami a neuroleptikami
+t436;Otrava psychostimulanciami s nebezpečenstvom návyku
+t438;Otrava i.psychotropnými látkami,n.i.
+t439;Otrava psychotropnou látkou,bližšie neurčenou
+t440;Otrava inhibítormi cholínesterázy
+t441;Otrava i.parasympatikomimetikami (cholínergikami)
+t442;Otrava liekmi blok.gangliá,n.i.
+t443;Otrava i.parasympatikolytikami a spazmolytikami,n.i.
+t444;Otrava agonistami prevaž.alfa-adrenorec.,n.i.
+t445;Otrava.agonistami prevaž.beta-adrenorec.,n.i.
+t446;Otrava.antagon.alfa-adrenorec.,n.i.
+t447;Otrava antagon.beta-adrenorec.,n.i.
+t448;Otrava prostr.,úč.centr.a blok.adrenergný neurón,n.i.
+t449;Otrava i.a bliž.neurč.liekmi,účink.prim.na auton.nervov.súst.
+t450;Otrava antialergikami a antiemetikami
+t451;Otrava antineoplastickými a imunosupresívnymi liekmi
+t452;Otrava vitamínmi, nezatriedenými inde
+t453;Otrava enzýmami, nezatriedenými inde
+t454;Otrava železom a jeho zlúčeninami
+t455;Otrava antikoagulanciami
+t456;Otrava liekmi, ovplyvňujúcimi fibrinolýzu
+t457;Otrava antagon.antikoagulancií,vit.K a i.koagulanciami
+t458;Otrava i.prostr.,účink.najmä celk.a na zložky krvi
+t459;Otrava bliž.neurč.prostr.účink.najmä celk.a na zložky krvi
+t460;Otrava srdcovými glykozidmi a liečiv.s pod.účink.
+t461;Otrava kalciovými antagonistami
+t462;Otrava inými antiarytmikami, nezatriedenými inde
+t463;Otrava koronárnymi vazodilatanciami,n.i.
+t464;Otrava inhibítormi enzýmu,konvertujúceho angiotenzín
+t465;Otrava i.antihypertenzívami,n.i.
+t466;Otrava hypolipidemikami a pr.artériosklerotickými liek.
+t467;Otrava periférnymi vazodilatanciami
+t468;Otrava antivarikóznymi liek. vr.sklerotizujúcich látok
+t469;Otrava i.a bliž.neurč.prostr.účink.najmä na obehovú súst.
+t470;Otrava antagonistami histamínových H2-receptorov
+t471;Otrava i.antacidami a liek,tlmiacimi žal.sekr.
+t472;Otrava dráždivými (stimulujúcimi) preháňadlami
+t473;Otrava salinickými a osmotickými preháňadlami
+t474;Otrava inými preháňadlami
+t475;Otrava digestívami
+t476;Otrava liekmi proti hnačke
+t477;Otrava emetikami
+t478;Otrava i.prostr.,účink.najmä na tráv.súst.
+t479;Otrava bliž.neurč.liekom,účinkuj.najmä na tráv.súst.
+t480;Otrava oxytocikami
+t481;Otrava relaxanciami kostr.svalov
+t482;Otrava i.a bliž.neurč.prostr.účink.najmä na svaly
+t483;Otrava antitusikami
+t484;Otrava expektoranciami
+t485;Otrava liekmi proti prechladnutiu
+t486;Otrava antiastmatikami,nezatriedenými inde
+t487;Otrava i.a bliž.neurč.prostr.účink.najmä na dýchaciu súst.
+t490;Otrava pr.plesň.,protiinf.a protizáp.liek.s mies.ú.,n.i.
+t491;Otrava antipruriginózami
+t492;Otrava lokálnymi adstringenciami a detergenciami
+t493;Otrava emolienciami,demulcenciami a ochrannými prostr.
+t494;Otrava keratolyt.,keratoplast.a i.liek.a prípr.na oš.vla.
+t495;Otrava liekmi a prípravkami používanými v oftalmológii
+t496;Otrava liek.a prípravkami používanými v ORL
+t497;Otrava zubnými liekmi na miestne použitie
+t498;Otrava inými prostriedkami na miestne použitie
+t499;Otrava prostried.na miestne použ.,b.n.
+t500;Otrava mineralokortikoidmi a ich antagonistami
+t501;Otrava slučkovými diuretikami
+t502;Otrava inhib.karboanhydrázy,benzotiadiazid.a.i.diuret.
+t503;Otrava prostr.ovplyvň.elektrolyt.energat.a vodnú rovnov.
+t504;Otrava liekmi,ovplyvň.metaboliz.kys.močovej
+t505;Otrava liekmi,znižuj.chuť do jedenia (anorektiká)
+t506;Otrava antidótami a chelátujúcimi prostr.,n.i.
+t507;Otrava analeptikami a antagon.opioidových rec.
+t508;Otrava diagnostickými prostriedkami
+t509;Otrava i.a bliž.neurč.liekmi,liečivami a biolog.látkami
+t510;Toxický účinok etanolu
+t511;Toxický účinok metanolu
+t512;Toxický účinok 2-propanolu
+t513;Otrava zmesou vyšších alkoh.,vznik.pri alkoh.kvasení
+t518;Toxický účinok iných alkoholov
+t519;Toxický účinok alkoholu,bližšie neurčeného
+t520;Toxický účinok výrobkov z ropy
+t521;Toxický účinok benzénu
+t522;Toxický účinok homológov benzénu
+t523;Toxický účinok glykolov
+t524;Toxický účinok ketónov
+t528;Toxický účinok iných organických rozpúšťadiel
+t529;Toxický účinok org.rozpúšť.,b.n.
+t530;Toxický účinok karbóntetrachloridu
+t531;Toxický účinok chloroformu
+t532;Toxický účinok trichlóretylénu
+t533;Toxický účinok tetrachlóretylénu
+t534;Toxický účinok dichlórmetánu
+t535;Toxický účinok chlórofluórokarbónov
+t536;Toxický účin.i.halog.derivátov alif.uhľov.
+t537;Toxický účin.i.halog.derivátov arom.uhľov.
+t539;Toxicky účin.halog.derivátov alif.a arom.uhľov.,n.u.
+t540;Toxický účinok fenolu a homológov fenolu
+t541;Toxický účinok inej leptavej organickej zlúčeniny
+t542;Toxický účinok leptavej kys.a lát.podobnej kysel.
+t543;Toxický účinok leptavého lúhu a látky podobnej lúhom
+t549;Toxický účinok leptavej látky,bližšie neurčenej
+t55;Toxický účinok mydla a detergencia
+t560;Toxický účinok olova a jeho zlúčenín
+t561;Toxický účinok ortuti a jej zlúčenín
+t562;Toxický účinok chrómu a jeho zlúčenín
+t563;Toxický účinok kadmia a jeho zlúčenín
+t564;Toxický účinok medi a jej zlúčenín
+t565;Toxický účinok zinku a jeho zlúčenín
+t566;Toxický účinok cínu a jeho zlúčenín
+t567;Toxický účinok berýlia a jeho zlúčenín
+t568;Toxický účinok iného kovu
+t569;Toxický účinok bližšie neurčeného kovu
+t570;Toxický účinok arzénu a jeho zlúčenín
+t571;Toxický účinok fosforu a jeho zlúčenín
+t572;Toxický účinok mangánu a jeho zlúčenín
+t573;Toxický účinok kyanovodíku
+t578;Toxický účinok i.anorganickej látky,b.u.
+t579;Toxický účinok bližšie neurčenej anorganickej látky
+t58;Toxický účinok oxidu uhoľnatého (CO)
+t590;Toxický účinok oxidu dusíka
+t591;Toxický účinok oxidu siričitého
+t592;Toxický účinok formaldehydu
+t593;Toxický účinok slzotvorného plynu
+t594;Toxický účinok plynného chlóru
+t595;Toxický účinok plynného fluóru a fluorovodíka
+t596;Toxický účinok sírovodíka
+t597;Toxický účinok oxidu uhličitého
+t598;Toxický účinok iného plynu,dymu a výparov,b.u.
+t599;Toxický účinok plynu,dymu a výparov,b.n.
+t600;Toxický úč.organofosfátového a karbamátového insekticídu
+t601;Toxický účinok halogénovaného insekticídu
+t602;Toxický účinok iného insekticídu
+t603;Toxický účinok herbicídu a fungicídu
+t604;Toxický účinok rodenticídu
+t608;Toxický účinok iného pesticídu
+t609;Toxický účinok bližšie neurčeného pesticídu
+t630;Toxický účinok hadieho jedu
+t631;Toxický účinok jedu iných plazov
+t632;Toxický účinok jedu škorpióna
+t633;Toxický účinok jedu pavúka
+t634;Toxický účinok jedu iných článkonožcov
+t635;Toxický účinok kontaktu s rybou
+t636;Toxický účinok kontaktu s inými morským živočíchom
+t638;Toxický účinok kontaktu s iným jedovatým živočíchom
+t639;Toxický účinok kont.s jedovatým živoč.,b.n.
+t64;Toxický účinok aflatoxínu a i.mykotoxínov,znečis.potravu
+t650;Toxický účinok kyanidu
+t651;Toxický účinok strychnínu a jeho solí
+t652;Toxický účinok tabaku a nikotínu
+t653;Tox.úč.nitroderiv.a aminoderiv.benzénu a jeho homológov
+t654;Toxický účinok karbóndisulfidu
+t655;Toxický účinok nitroglycerínu a i.nitrokyselín a esterov
+t656;Toxický účinok náterov a farieb,n.i.
+t658;Toxický účinok inej bližšie určenej látky
+t659;Toxický účinok bližšie neurčenej látky
+t670;Tepelný a slnečný úpal
+t671;Synkopa z horúčavy
+t71;Zadusenie
+t731;Účinky smädu
+t741;Fyzické zneužitie
+t754;Účinok elektrického prúdu
+t790;Vzduchová embólia (poúrazová)
+t791;Tuková embólia (poúrazová)
+t796;Poúrazová ischémia svalu
+t797;Poúrazový podkožný emfyzém
+t800;Vzduchová embólia po infúzii,transf.a liečebnej injekcii
+t803;Reakcia zapríčinená inkompatibilitou v systéme ABO
+t804;Reakcia zapríčinená inkompatibilitou v systéme Rh
+t813;Rozpad operačnej rany,nezatriedený inde
+t815;Cudz.teleso náhodne ponech.v tel.dutine/oper.rane po výk.
+t816;Akút.reakcia na cudziu látku,ponech.náhodne poč.výk.
+t820;Mechanická komplik.zapríč.srdc.chlop.protézou
+t821;Mechanická komplik.zapríč.srdc.elektronickou pomôc.
+t822;Mechanická komplik.zapríč.obch.venc.tepny a chlop.náhr.
+t823;Mechanická komplik.zapríč.i.cievnym transpl.
+t824;Mechanická komplik.zapríč.cievnym dialyzačným katétrom
+t825;Mechanická komplik.zapríč.i.srdc.a ciev.pom.a impl.
+t826;Infekcia a zápal.reakcia zapríč.srdc.chlop.protézou
+t827;Infekcia a zápal.reak.zapr.i.srdc.a ciev.prot.,impl.a transpl.
+t828;Iná kompl.zapr.srdc.a ciev.prot.,impl.a transpl.,b.u.
+t829;Kompl.zapríč.srdc.a ciev.protézou,impl.a transpl.,b.n.
+t830;Mechanická komplik.zapríč.moč.katétrom
+t831;Mechanická komplik.zapríč.i.moč.pomôc.a impl.
+t832;Mechanická komplik.zapríč.transpl.moč.org.
+t834;Mechanická komplik.zapríč..i.prot.,impl.a transpl.v pohl.súst.
+t835;Infekcia a zápal.reak.zapríč.proté.impl.a transpl.v moč.súst.
+t836;Infekcia a zápal.reak.zapríč.proté.impl.a transpl.v pohl.súst
+t838;Iná kompl.zapríč.proté.impl.a transpl.v moč-pohl.súst.
+t839;Bliž.neu.kompl.zapríč.proté.,impl.a transp.v moč-pohl.súst.
+t840;Mechanická komplik.zapríč.kĺbovou endoprotézou
+t841;Mechanická komplik.zapríč.pomôc.na vnút.fixáciu kostí konč.
+t842;Mechanická komplik.zapríč.pomôc.na vnút.fixáciu i.kostí
+t843;Mechanická komplik.zapríč.i.kostnou pomôc.,impl.a transpl.
+t844;Mechanická komplik.zapríč.i.vnút.ortop.pomôc.,impl.a transpl.
+t845;Infekcia a zápal.reak.zapríč.kĺbovou endoprot.
+t846;Infekcia a zápal.reak.zapríč.vnút.kostnou fixačnou pomôc.
+t847;Infekcia a zápal.reak.zapríč.i.ortop.endoprot.,impl.a štepom
+t848;Iná kompl.zapríč.ortop.endoprot.impl.a štepom
+t849;Bliž.neu.kompl.vnút.ortoped.protet.pomôc.,impl. a štepu
+t850;Mechanická komplik.zapríč.vnútrolebkovou komor.skratkou
+t851;Mechanická komplik.zapríč.implant.elekton.stim.nerv.súst.
+t852;Mechanická komplik.zapríč.vnútroočnou šošovkou
+t853;Mechanická komplik.zapríč.i.očnou protet.pom.,impl.a transpl.
+t854;Mechanická komplik.zapríč.prot./impl.prsníka
+t855;Mechanická komplik.zapríč.gastroint.prot.,impl.a transpl.
+t856;Mechanická komplik.zap.i.gastroint.prot.impl.a transpl.,b.u.
+t8571;Inf.a zápal.reak.zapr.katétrom na peritoneálnu dialýzu
+t8578;Inf.a zápal.reak.zapr.i.vnút.prot.,impl./transpl.
+t8581;Iná kompl.zapr.vnút.prot.,impl./transpl.,v nerv.súst.
+t8582;Kapsulová fibróza prsníka,zapr.prot./impl.prsníka
+t8588;Iná kompl.zapr.vnút.prot.,impl./transpl.,n.i.
+t859;Kompl.zapr.vnút.prot.,impl./transpl.,b.n.
+t8610;Akútne zhoršenie funkcie transplantovanej obličky
+t8611;Chron.zhoršenie funkcie transpl.obličky
+t8612;Predĺžené prijatie funkcie transplantátu
+t8619;Iná a bliž.neurč.funkč.porucha zlyháv.odvrh.transpl.obličky
+t862;Zlyhávanie a odvrhnutie transplantovaného srdca
+t863;Zlyhávanie a odvrhnutie súčasne transpl.srdca a pľúc
+t8640;Akútne zhoršenie funkcie transplantovanej pečene
+t8641;Chronické zhoršenie funkcie transplantovanej pečene
+t8649;Iná a bliž.neurč.por.funkcie,zlyh. a odvrh. transpl.pečene
+t8650;Porucha prekrvenia transplantovanej kože
+t8651;Nekróza transplantovanej kože
+t8652;Strata kožného transplantátu
+t8659;Iná a bliž.neurč.por.funkcie,zlyh.a odvrh.transpl.kože
+t8681;Zlyhanie a odvrhnutie transplantovaných pľúc
+t8682;Zlyhanie a odvrhnutie transplantovaného pankreasu
+t8688;Zlyh.a odvrhnutie i.transpl.orgánu a tkan.
+t869;Zlyhávanie a odvrhnutie b.n.orgánu a tkan.
+t881;Iná komplikácia po imunizácii, nezatriedená inde
+t883;Malígna hypertermia zapríčinená anestéziou
+z206;Kontakt a vystavenie HIV (vírusu ľudského imunodeficitu)
+z2921;Celková profylaktická chemoterapia
+z903;Získané chýbanie časti žalúdka

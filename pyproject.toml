@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "OSN_Algoritmus"
+version = "v2025.2"
+description = "Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    {name = "MZ SR"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Institut-zdravotnych-analyz/OSN-Algoritmus-MS"
+"Bug Tracker" = "https://github.com/Institut-zdravotnych-analyz/OSN-Algoritmus-MS/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/OSN_Algoritmus"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"src/OSN_Algoritmus/Prilohy" = "OSN_Algoritmus/Prilohy"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.5",
+    "pandas>=2.2.3",
+    "ipykernel>=6.29.5",
+]
