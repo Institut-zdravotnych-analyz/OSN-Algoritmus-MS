@@ -1,8 +1,9 @@
-import subprocess
-import pandas as pd
-from pathlib import Path
 import shutil
+import subprocess
+from pathlib import Path
 from typing import Iterable
+
+import pandas as pd
 
 REPO_URL = "https://github.com/Institut-zdravotnych-analyz/OSN-Algoritmus-MS.git"
 REPO_DIR = "OSN-Algoritmus-MS"
@@ -57,7 +58,11 @@ def compare_outputs(
 
 
 def run_and_compare(
-    commit_a: str, commit_b: str, input_path: str | Path, flags: Iterable[str]
+    commit_a: str,
+    commit_b: str,
+    input_path: str | Path,
+    flags: Iterable[str],
+    remove_created_files: bool = True,
 ) -> pd.DataFrame:
     """
     Run the algorithm with two different versions and compare their outputs.
@@ -69,7 +74,7 @@ def run_and_compare(
         flags: List of flags to pass to the algorithm
 
     Returns:
-        DataFrame with algorithm outputs containing only the rows where the outputs 
+        DataFrame with algorithm outputs containing only the rows where the outputs
         differ
     """
     input_path = Path(input_path).resolve()
@@ -78,15 +83,36 @@ def run_and_compare(
     else:
         subprocess.run(["git", "-C", REPO_DIR, "fetch", "origin"], check=True)
 
-    subprocess.run(["git", "-C", REPO_DIR, "checkout", commit_a], check=True)
-    versioned_input_path = input_path.with_stem(f"{input_path.stem}_{commit_a}")
-    shutil.copy(input_path, versioned_input_path)
-    output_a_path = run_algorithm(versioned_input_path, flags)
+    created_files = []
+    differences = None
 
-    subprocess.run(["git", "-C", REPO_DIR, "checkout", commit_b], check=True)
-    versioned_input_path = input_path.with_stem(f"{input_path.stem}_{commit_b}")
-    shutil.copy(input_path, versioned_input_path)
-    output_b_path = run_algorithm(versioned_input_path, flags)
+    try:
+        subprocess.run(["git", "-C", REPO_DIR, "checkout", commit_a], check=True)
+        versioned_input_a_path = input_path.with_stem(f"{input_path.stem}_{commit_a}")
+        shutil.copy(input_path, versioned_input_a_path)
+        created_files.append(versioned_input_a_path)
 
-    differences = compare_outputs(output_a_path, output_b_path, commit_a, commit_b)
+        output_a_path = run_algorithm(versioned_input_a_path, flags)
+        created_files.append(output_a_path)
+
+        subprocess.run(["git", "-C", REPO_DIR, "checkout", commit_b], check=True)
+        versioned_input_b_path = input_path.with_stem(f"{input_path.stem}_{commit_b}")
+        shutil.copy(input_path, versioned_input_b_path)
+        created_files.append(versioned_input_b_path)
+
+        output_b_path = run_algorithm(versioned_input_b_path, flags)
+        created_files.append(output_b_path)
+
+        differences = compare_outputs(output_a_path, output_b_path, commit_a, commit_b)
+
+    finally:
+        if remove_created_files:
+            print(f"Cleaning up files for {commit_a} and {commit_b}")
+            for file_path in created_files:
+                try:
+                    if file_path.exists():
+                        file_path.unlink()
+                except Exception as e:
+                    print(f"Warning: Failed to remove {file_path}: {e}")
+
     return differences
