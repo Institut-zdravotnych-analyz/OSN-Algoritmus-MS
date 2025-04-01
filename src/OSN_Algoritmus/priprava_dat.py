@@ -49,14 +49,18 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
     # Hmotnosť pacienta ku dňu prijatia v gramoch musí byť prázdna alebo 0 alebo celé číslo medzi 100 a 20000
     # Hmotnosť pacienta s vekom 0 nesmie byť prázdna ani 0
     try:
+        print(hp["hmotnost"])
         if hp["hmotnost"] == "":
-            hp["hmotnost"] = 0
+            print("Prázdna hmotnosť")
+            hp["hmotnost"] = 0.0
         else:
-            hp["hmotnost"] = int(hp["hmotnost"])
-        
+            hp["hmotnost"] = float(hp["hmotnost"])
+
         if not (100 <= hp["hmotnost"] <= 20000 or hp["hmotnost"] == 0):
+            print("Hmotnosť nie je v správnom formáte")
             raise ValueError("Hmotnosť musí byť prázdna alebo 0 alebo číslo medzi 100 a 20000.")
         if hp["vek"] is not None and hp["vek"] == 0 and hp["hmotnost"] == 0:
+            print("Hmotnosť pacienta s vekom 0 je nulová")
             raise ValueError("Hmotnosť pacienta s vekom 0 nesmie byť nulová ani prázdna.")
     except ValueError:
         if not vyhodnot_neuplne_pripady:
@@ -69,13 +73,13 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
         hp["umela_plucna_ventilacia"] = int(hp["umela_plucna_ventilacia"])
         if not 0 <= hp["umela_plucna_ventilacia"] <= 10000:
             raise ValueError(
-                "Počet hodín umelej pľúcnej ventilácie musí byť nezáporné číslo menšie ako 10000."
+                "Počet hodín umelej pľúcnej ventilácie musí byť nezáporné číslo menšie ako 10000.",
             )
     except ValueError:
         if not vyhodnot_neuplne_pripady:
             return False
         print(
-            f'WARNING: HP {hp["id"]} nemá správne vyplnený počet hodín umelej pľúcnej ventilácie.'
+            f"WARNING: HP {hp['id']} nemá správne vyplnený počet hodín umelej pľúcnej ventilácie.",
         )
         hp["umela_plucna_ventilacia"] = None
 
@@ -119,11 +123,14 @@ def priprav_citac_dat(file):
     """
     try:
         csv_reader = csv.DictReader(
-            file, fieldnames=NAZVY_STLPCOV, delimiter=";", strict=True
+            file,
+            fieldnames=NAZVY_STLPCOV,
+            delimiter=";",
+            strict=True,
         )
     except csv.Error:
         print("ERROR: Zlý formát csv.")
-        return
+        return None
     return csv_reader
 
 

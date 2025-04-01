@@ -1,7 +1,7 @@
 import shutil
 import subprocess
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Iterable
 
 import pandas as pd
 
@@ -11,7 +11,7 @@ REPO_DIR = "OSN-Algoritmus-MS"
 
 def run_algorithm(input_path: Path, flags: Iterable[str] = []) -> Path:
     """
-    Run the algorithm with specified input file, and flags.
+    Run the algorithm with specified input file and flags.
 
     Args:
         input_path: Path to the input file
@@ -48,7 +48,10 @@ def run_algorithm(input_path: Path, flags: Iterable[str] = []) -> Path:
 
 
 def compare_outputs(
-    output_file_a: Path, output_file_b: Path, version_a: str, version_b: str
+    output_file_a: Path,
+    output_file_b: Path,
+    version_a: str,
+    version_b: str,
 ) -> pd.DataFrame:
     """
     Compare outputs from two different versions of the algorithm.
@@ -81,16 +84,22 @@ def run_and_compare(
     commit_b: str,
     input_path: str | Path,
     flags: Iterable[str],
+    *,
     remove_created_files: bool = True,
+    local: bool = False,
 ) -> pd.DataFrame:
     """
     Run the algorithm with two different versions and compare their outputs.
+    Warning: when local=True, the algorithm loads changes done in
+    test/compare_versions/OSN-Algoritmus-MS.
 
     Args:
         commit_a: Commit of the first version to run
         commit_b: Commit of the second version to run
         input_file: Path to the input file
         flags: List of flags to pass to the algorithm
+        remove_created_files: Whether to remove temporary files after comparison
+        local: If True, skip fetching from remote and use only local repository
 
     Returns:
         DataFrame with algorithm outputs containing only the rows where the outputs
@@ -102,7 +111,8 @@ def run_and_compare(
         print("Cloning repo")
         clone_repo = ["git", "clone", REPO_URL]
         subprocess.run(clone_repo, check=True, capture_output=True)
-    else:
+
+    if not local:
         print("Fetching repo")
         fetch_repo = ["git", "-C", REPO_DIR, "fetch", "origin"]
         subprocess.run(fetch_repo, check=True, capture_output=True)
