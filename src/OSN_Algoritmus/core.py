@@ -24,6 +24,7 @@ def nacitaj_hospitalizacne_pripady(file_path):
             yield hospitalizacny_pripad
 
 
+# TODO: insted of modyfing dict, return ms
 def spracuj_hospitalizacny_pripad(
     hospitalizacny_pripad,
     vsetky_vykony_hlavne,
@@ -55,11 +56,13 @@ def spracuj_hospitalizacny_pripad(
         # deduplikuj medicinske sluzby
         medicinske_sluzby = set(medicinske_sluzby)
 
-    hospitalizacny_pripad["ms"] = "~".join(medicinske_sluzby)
+    return "~".join(medicinske_sluzby)
 
 
+# TODO: add output_path as argument, if None, do not write, and return dict {id_hp: ms}
 def grouper_ms(
-    file_path,
+    input_path,
+    output_path=None,
     vsetky_vykony_hlavne=False,
     vyhodnot_neuplne_pripady=False,
     ponechaj_duplicity=False,
@@ -82,21 +85,23 @@ def grouper_ms(
         vsetky_vykony_hlavne, vyhodnot_neuplne_pripady, ponechaj_duplicity
     )
 
-    output_path = f"{file_path[:-4]}_output.csv"
+    result = {}
 
     with open(output_path, "w", encoding="utf-8", newline="") as output_file:
         writer = priprav_zapisovac_dat(output_file)
         writer.writeheader()
 
         for hospitalizacny_pripad in nacitaj_hospitalizacne_pripady(file_path):
-            spracuj_hospitalizacny_pripad(
+            ms = spracuj_hospitalizacny_pripad(
                 hospitalizacny_pripad,
                 vsetky_vykony_hlavne,
                 vyhodnot_neuplne_pripady,
                 ponechaj_duplicity,
             )
+            result[hospitalizacny_pripad["id"]] = ms
+            hospitalizacny_pripad["ms"] = ms
             writer.writerow(hospitalizacny_pripad)
-    return output_path
+    return result
 
 
 def _vypis_aktivne_prepinace(

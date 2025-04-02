@@ -49,7 +49,6 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
     # Hmotnosť pacienta ku dňu prijatia v gramoch musí byť prázdna alebo 0 alebo celé číslo medzi 100 a 20000
     # Hmotnosť pacienta s vekom 0 nesmie byť prázdna ani 0
     try:
-        print(hp["hmotnost"])
         if hp["hmotnost"] == "":
             print("Prázdna hmotnosť")
             hp["hmotnost"] = 0.0
@@ -58,10 +57,14 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
 
         if not (100 <= hp["hmotnost"] <= 20000 or hp["hmotnost"] == 0):
             print("Hmotnosť nie je v správnom formáte")
-            raise ValueError("Hmotnosť musí byť prázdna alebo 0 alebo číslo medzi 100 a 20000.")
+            raise ValueError(
+                "Hmotnosť musí byť prázdna alebo 0 alebo číslo medzi 100 a 20000."
+            )
         if hp["vek"] is not None and hp["vek"] == 0 and hp["hmotnost"] == 0:
             print("Hmotnosť pacienta s vekom 0 je nulová")
-            raise ValueError("Hmotnosť pacienta s vekom 0 nesmie byť nulová ani prázdna.")
+            raise ValueError(
+                "Hmotnosť pacienta s vekom 0 nesmie byť nulová ani prázdna."
+            )
     except ValueError:
         if not vyhodnot_neuplne_pripady:
             return False

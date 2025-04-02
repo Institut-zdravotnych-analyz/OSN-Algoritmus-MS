@@ -26,6 +26,7 @@ Examples:
 import argparse
 from OSN_Algoritmus.core import grouper_ms
 
+# TODO: add argument output path
 if __name__ == "__main__":
     # Nastav argumenty pri spúšťaní
     parser = argparse.ArgumentParser(
@@ -55,8 +56,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    grouper_ms(
+    result = grouper_ms(
         args.data_path,
+        None,
         args.vsetky_vykony_hlavne,
         args.vyhodnot_neuplne_pripady,
         args.ponechaj_duplicity,
