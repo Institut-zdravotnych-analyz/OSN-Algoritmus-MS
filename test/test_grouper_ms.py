@@ -22,12 +22,10 @@ def test_grouper_ms_all_flags_big():
             vyhodnot_neuplne_pripady=True,
             ponechaj_duplicity=True,
         )
+        actual_df = pd.read_csv(output_file, sep=";")
     finally:
         if output_file.exists():
             output_file.unlink()
-
-    actual_df = pd.read_csv(output_file, sep=";")
-
 
     expected_df = pd.read_csv(expected_output, sep=";")
 
@@ -48,11 +46,11 @@ def test_grouper_ms_all_flags_small():
             vyhodnot_neuplne_pripady=True,
             ponechaj_duplicity=True,
         )
+        actual_df = pd.read_csv(output_file, sep=";")
     finally:
-        if output_file.exists():
-            output_file.unlink()
-
-    actual_df = pd.read_csv(output_file, sep=";")
+        pass
+        # if output_file.exists():
+        #     output_file.unlink()
 
     expected_df = pd.read_csv(expected_output, sep=";")
 
