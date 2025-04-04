@@ -14,16 +14,20 @@ def test_grouper_ms_all_flags_big():
     output_file = input_file.with_stem(f"{input_file.stem}_output")
     expected_output = test_data_dir / "test_data_50000_output_expected.csv"
 
-    grouper_ms(
-        input_file,
-        output_file,
-        vsetky_vykony_hlavne=True,
-        vyhodnot_neuplne_pripady=True,
-        ponechaj_duplicity=True,
-    )
+    try:
+        grouper_ms(
+            input_file,
+            output_file,
+            vsetky_vykony_hlavne=True,
+            vyhodnot_neuplne_pripady=True,
+            ponechaj_duplicity=True,
+        )
+    finally:
+        if output_file.exists():
+            output_file.unlink()
 
     actual_df = pd.read_csv(output_file, sep=";")
-    Path(output_file).unlink()
+
 
     expected_df = pd.read_csv(expected_output, sep=";")
 
@@ -36,17 +40,19 @@ def test_grouper_ms_all_flags_small():
     input_file = test_data_dir / "test_data_10.csv"
     output_file = input_file.with_stem(f"{input_file.stem}_output")
     expected_output = test_data_dir / "test_data_10_output_expected.csv"
-
-    grouper_ms(
-        input_file,
-        output_file,
-        vsetky_vykony_hlavne=True,
-        vyhodnot_neuplne_pripady=True,
-        ponechaj_duplicity=True,
-    )
+    try:
+        grouper_ms(
+            input_file,
+            output_file,
+            vsetky_vykony_hlavne=True,
+            vyhodnot_neuplne_pripady=True,
+            ponechaj_duplicity=True,
+        )
+    finally:
+        if output_file.exists():
+            output_file.unlink()
 
     actual_df = pd.read_csv(output_file, sep=";")
-    Path(output_file).unlink()
 
     expected_df = pd.read_csv(expected_output, sep=";")
 
