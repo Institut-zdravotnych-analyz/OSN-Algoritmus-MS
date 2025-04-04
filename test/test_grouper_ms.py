@@ -48,9 +48,8 @@ def test_grouper_ms_all_flags_small():
         )
         actual_df = pd.read_csv(output_file, sep=";")
     finally:
-        pass
-        # if output_file.exists():
-        #     output_file.unlink()
+        if output_file.exists():
+            output_file.unlink()
 
     expected_df = pd.read_csv(expected_output, sep=";")
 
