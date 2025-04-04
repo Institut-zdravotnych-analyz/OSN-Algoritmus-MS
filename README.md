@@ -21,11 +21,31 @@ Skript je určený na priradenie kódov medicínskych služieb podľa vyhlášky
 Súčasťou skriptu sú prílohy, ktoré boli vytvorené podľa aktuálne platnej verzie vyhlášky o kategorizácii. V prípade zmien v prílohách (bez zmien v algoritme), bude potrebné vytvoriť tieto prílohy nanovo v rovnakej štruktúre a s rovnakým názvom.
 
 ## Časť 2: Práca so skriptom
-Skript je napísaný v jazyku Python, na spustenie je potrebná inštalácia Python 3.0.
+Skript je napísaný v jazyku Python.
 
-Program sa spustí príkazom: `python3 ./main.py cesta/k/suboru.csv`. Vstupný súbor musí mať nižšie uvedenú štruktúru. Výstupom spracovania je kópia vstupného súboru, kde ku každému riadku je pripojený zoznam nájdených medicínskych služieb. V prípade, že chýbajú niektoré povinné dáta, algoritmus vráti pre daný prípad kód ERROR. V prípade, že sa nenájde žiadna vyhovujúca medicínska služba, vráti sa prázdna hodnota.
+**Požiadavky:**
+- Python >= 3.11
 
-Pri spúšťaní programu je možné pridať príznaky, ktoré ovplyvňujú, ako algoritmus jednotlivé prípady vyhodnocuje. 
+**Inštalácia:**
+1. Naklonujte repozitár:
+   ```bash
+   git clone https://github.com/Institut-zdravotnych-analyz/OSN-Algoritmus-MS.git
+   cd OSN-Algoritmus-MS
+   ```
+2. Nainštalujte balík pomocou pip:
+   ```bash
+   pip install .
+   ```
+
+**Spustenie:**
+Program sa spustí príkazom:
+```bash
+python main.py cesta/k/suboru.csv
+```
+
+Vstupný súbor musí mať nižšie uvedenú štruktúru. Výstupom spracovania je kópia vstupného súboru s názvom `input_filename.csv.output.csv`, kde ku každému riadku je pripojený stĺpec `ms_kody` so zoznamom nájdených medicínskych služieb oddelených znakom `~`. V prípade, že chýbajú niektoré povinné dáta (a nie je použitý príznak `-n`), algoritmus vráti pre daný prípad kód ERROR. V prípade, že sa nenájde žiadna vyhovujúca medicínska služba, vráti sa prázdna hodnota.
+
+Pri spúšťaní programu je možné pridať príznaky, ktoré ovplyvňujú, ako algoritmus jednotlivé prípady vyhodnocuje.
 
 `--vsetky_vykony_hlavne`, `-v` spôsobí, že algoritmus bude predpokladať, že ktorýkoľvek z vykázaných výkonov môže byť hlavný. Tento príznak je teda vhodný použiť aj v prípade, keď sa algoritmus používa na dáta z roku 2023.
 

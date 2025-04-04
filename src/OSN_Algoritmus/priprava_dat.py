@@ -1,7 +1,7 @@
 import csv
 import uuid
 
-from OSN_Algoritmus.pomocne_funkcie import zjednot_kod
+from OSN_Algoritmus._pomocne_funkcie import zjednot_kod
 
 NAZVY_STLPCOV = [
     "id",
@@ -15,8 +15,7 @@ NAZVY_STLPCOV = [
 
 
 def validuj_hp(hp, vyhodnot_neuplne_pripady):
-    """
-    Funkcia na validáciu hospitalizačného prípadu.
+    """Funkcia na validáciu hospitalizačného prípadu.
 
     Skontroluje, či hospitalizačný prípad obsahuje neprázdne ID, platný vek, platnú hmotnosť, platný počet hodín umelej pľúcnej ventilácie a neprázdny zoznam diagnóz.
 
@@ -26,8 +25,8 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
 
     Returns:
         bool: True, ak je hospitalizačný prípad platný, False inak.
-    """
 
+    """
     # Identifikátor hospitalizačného prípadu nesmie byť prázdny
     if hp["id"] == "":
         if not vyhodnot_neuplne_pripady:
@@ -43,14 +42,13 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
     except ValueError:
         if not vyhodnot_neuplne_pripady:
             return False
-        print(f'WARNING: HP {hp["id"]} nemá správne vyplnený vek.')
+        print(f"WARNING: HP {hp['id']} nemá správne vyplnený vek.")
         hp["vek"] = None
 
     # Hmotnosť pacienta ku dňu prijatia v gramoch musí byť prázdna alebo 0 alebo celé číslo medzi 100 a 20000
     # Hmotnosť pacienta s vekom 0 nesmie byť prázdna ani 0
     try:
         if hp["hmotnost"] == "":
-            print("Prázdna hmotnosť")
             hp["hmotnost"] = 0.0
         else:
             hp["hmotnost"] = float(hp["hmotnost"])
@@ -58,17 +56,17 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
         if not (100 <= hp["hmotnost"] <= 20000 or hp["hmotnost"] == 0):
             print("Hmotnosť nie je v správnom formáte")
             raise ValueError(
-                "Hmotnosť musí byť prázdna alebo 0 alebo číslo medzi 100 a 20000."
+                "Hmotnosť musí byť prázdna alebo 0 alebo číslo medzi 100 a 20000.",
             )
         if hp["vek"] is not None and hp["vek"] == 0 and hp["hmotnost"] == 0:
             print("Hmotnosť pacienta s vekom 0 je nulová")
             raise ValueError(
-                "Hmotnosť pacienta s vekom 0 nesmie byť nulová ani prázdna."
+                "Hmotnosť pacienta s vekom 0 nesmie byť nulová ani prázdna.",
             )
     except ValueError:
         if not vyhodnot_neuplne_pripady:
             return False
-        print(f'WARNING: HP {hp["id"]} nemá správne vyplnenú hmotnosť.')
+        print(f"WARNING: HP {hp['id']} nemá správne vyplnenú hmotnosť.")
         hp["hmotnost"] = None
 
     # Počet hodín umelej pľúcnej ventilácie musí byť celé, nezáporné číslo menšie ako 10000
@@ -90,7 +88,7 @@ def validuj_hp(hp, vyhodnot_neuplne_pripady):
     if hp["diagnozy"] == "":
         if not vyhodnot_neuplne_pripady:
             return False
-        print(f'WARNING: HP {hp["id"]} nemá vyplnenú ani jednu diagnózu.')
+        print(f"WARNING: HP {hp['id']} nemá vyplnenú ani jednu diagnózu.")
         hp["diagnozy"] = None
 
     return True
@@ -101,15 +99,12 @@ def priprav_hp(hp):
 
     Args:
         hp (dict): hospitalizačný prípad
+
     """
     if hp["diagnozy"]:
-        hp["diagnozy"] = [
-            zjednot_kod(diagnoza) for diagnoza in hp["diagnozy"].split("~")
-        ]
+        hp["diagnozy"] = [zjednot_kod(diagnoza) for diagnoza in hp["diagnozy"].split("~")]
     if hp["vykony"]:
-        hp["vykony"] = [
-            zjednot_kod(vykon.split("&")[0]) for vykon in hp["vykony"].split("~")
-        ]
+        hp["vykony"] = [zjednot_kod(vykon.split("&")[0]) for vykon in hp["vykony"].split("~")]
 
     if hp["drg"]:
         hp["drg"] = zjednot_kod(hp["drg"])
@@ -123,6 +118,7 @@ def priprav_citac_dat(file):
 
     Returns:
         csv_reader: čítač dát
+
     """
     try:
         csv_reader = csv.DictReader(
@@ -145,5 +141,6 @@ def priprav_zapisovac_dat(file):
 
     Returns:
         csv_writer: zapisovač dát
+
     """
     return csv.DictWriter(file, fieldnames=NAZVY_STLPCOV + ["ms"], delimiter=";")

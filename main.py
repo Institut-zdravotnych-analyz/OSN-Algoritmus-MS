@@ -1,65 +1,52 @@
-r"""
-Program na priraďovanie hospitalizačných prípadov do medicínskych služieb.
-
-Vytvorí kópiu vstupného súboru s pripojeným novým stĺpcom so zoznamom priradených medicínskych služieb.
-
-Args:
-    file_path: Relatívna cesta k súboru s dátami.
-    --vsetky_vykony_hlavne, -v: Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z výkazaných výkonov mohol byť hlavný.
-    --vyhodnot_neuplne_pripady, -n: V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo vyhodnocovaní. Štandardne vráti hodnotu 'ERROR'.
-    --ponechaj_duplicity, -d: Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.
-
-Returns:
-    None
-
-Examples:
-    # Spustenie na Linuxe
-    python3 ./main.py ./test_data.csv
-    # Spustenie so zapnutým prepínačom na vyhodnotenie aj neúplných prípadov
-    python3 ./main.py ./test_data.csv --vyhodnot_neuplne_pripady
-    # Spustenie so všetkými prepínačmi zapnutými
-    python3 ./main.py ./test_data.csv -vnd
-    # Spustenie na Windows
-    python .\main.py .\test_data_phsk_2.csv -vnd
-"""
+#!/usr/bin/env python
+"""Program na priraďovanie hospitalizačných prípadov do medicínskych služieb."""
 
 import argparse
-from OSN_Algoritmus.core import grouper_ms
+from pathlib import Path
 
-# TODO: add argument output path
+from OSN_Algoritmus.core import grouper_ms, setup_parser
+
+
+def _vypis_aktivne_prepinace(args: argparse.Namespace):
+    if args.vsetky_vykony_hlavne:
+        print(
+            "Aktivovaný prepínač 'Všetky výkony hlavné'. Pri vyhodnotení príloh sa bude predpokladať, že ktorýkoľvek z"
+            " výkazaných výkonov mohol byť hlavný.",
+        )
+    if args.vyhodnot_neuplne_pripady:
+        print(
+            "Aktivovaný prepínač 'Vyhodnoť neúplné prípady'. V prípade, že nie je vyplnená nejaká povinná hodnota, aj"
+            " tak sa bude pokračovať vo vyhodnocovaní.",
+        )
+    if args.ponechaj_duplicity:
+        print(
+            "Aktivovaný prepínač 'Ponechaj duplicity'. Vo výstupnom zozname medicínskych služieb budú ponechané aj"
+            " duplicitné záznamy.",
+        )
+
+
 if __name__ == "__main__":
-    # Nastav argumenty pri spúšťaní
     parser = argparse.ArgumentParser(
-        description="Funkcia na priraďovanie hospitalizačných prípadov do medicínskych služieb."
+        description="Funkcia na priraďovanie hospitalizačných prípadov do medicínskych služieb.",
     )
+    parser.add_argument("input_path", type=Path, help="Cesta k súboru so vstupnými dátami.")
     parser.add_argument(
-        "data_path", action="store", help="Relatívna cesta k súboru s dátami."
-    )
-    parser.add_argument(
-        "--vsetky_vykony_hlavne",
-        "-v",
-        action="store_true",
-        help="Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z vykázaných výkonov mohol byť hlavný. Štandardne sa za hlavný výkon považuje iba prvý vykázaný, prípadne žiaden, pokiaľ zoznam začína znakom '~'.",
-    )
-    parser.add_argument(
-        "--vyhodnot_neuplne_pripady",
-        "-n",
-        action="store_true",
-        help="V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo vyhodnocovaní. Štandardne vráti hodnotu 'ERROR'.",
-    )
-    parser.add_argument(
-        "--ponechaj_duplicity",
-        "-d",
-        action="store_true",
-        help="Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.",
+        "output_path",
+        type=Path,
+        nargs="?",
+        default=None,
+        help="Cesta k výstupnému súboru. Ak nie je zadaná, vytvorí sa odvodením od vstupného súboru.",
     )
 
+    parser = setup_parser(parser)
     args = parser.parse_args()
 
-    result = grouper_ms(
-        args.data_path,
-        None,
-        args.vsetky_vykony_hlavne,
-        args.vyhodnot_neuplne_pripady,
-        args.ponechaj_duplicity,
+    _vypis_aktivne_prepinace(args)
+
+    grouper_ms(
+        args.input_path,
+        args.output_path,
+        vsetky_vykony_hlavne=args.vsetky_vykony_hlavne,
+        vyhodnot_neuplne_pripady=args.vyhodnot_neuplne_pripady,
+        ponechaj_duplicity=args.ponechaj_duplicity,
     )

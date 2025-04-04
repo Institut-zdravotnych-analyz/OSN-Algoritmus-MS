@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "OSN_Algoritmus"
-version = "v2025.2"
+version = "v2025.1"
 description = "Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky"
 readme = "README.md"
 requires-python = ">=3.11"
@@ -36,19 +36,8 @@ target-version = "py311"
 extend-include = ["*.ipynb"]
 
 [tool.ruff.lint]
-# enable flake8-bugbear ("B") and flake8-quotes ("Q")
-# enable Ruff's isort rules by "I"
-extend-select = ["B", "Q", "I"]
-
-[tool.ruff.format]
-# indent with spaces, rather than tabs
-indent-style = "space"
-
-# respect magic trailing commas
-skip-magic-trailing-comma = false
-
-# automatically detect the appropriate line ending
-line-ending = "auto"
+select = ["ALL"]
+ignore = ["ANN201", "ANN202"]
 
 [dependency-groups]
 dev = ["pytest>=8.3.5", "pandas>=2.2.3", "ipykernel>=6.29.5"]

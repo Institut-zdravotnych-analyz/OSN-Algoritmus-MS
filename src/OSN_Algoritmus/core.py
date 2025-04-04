@@ -1,47 +1,93 @@
+"""Hlavný modul pre OSN-Algoritmus-MS."""
+
+import argparse
 from copy import deepcopy
+from pathlib import Path
+
 from OSN_Algoritmus.priprava_dat import (
-    priprav_hp,
-    validuj_hp,
     priprav_citac_dat,
+    priprav_hp,
     priprav_zapisovac_dat,
+    validuj_hp,
 )
 from OSN_Algoritmus.vyhodnotenie_priloh import prirad_ms
 
 
-def nacitaj_hospitalizacne_pripady(file_path):
-    """
-    Generátor, ktorý načíta hospitalizačné prípady zo vstupného súboru.
+def setup_parser(parser: argparse.ArgumentParser | None = None) -> argparse.ArgumentParser:
+    """Add common command-line arguments to an ArgumentParser instance.
 
     Args:
-        file_path (str): Cesta k vstupnému súboru.
+        parser: An existing ArgumentParser instance. If None, a new one is created.
+
+    Returns:
+        The ArgumentParser instance with added arguments.
+
+    """
+    if parser is None:
+        parser = argparse.ArgumentParser()
+
+    parser.add_argument(
+        "--vsetky_vykony_hlavne",
+        "-v",
+        action="store_true",
+        help=(
+            "Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z vykázaných výkonov mohol byť hlavný. Štandardne sa"
+            " za hlavný výkon považuje iba prvý vykázaný, prípadne žiaden, pokiaľ zoznam začína znakom '~'."
+        ),
+    )
+    parser.add_argument(
+        "--vyhodnot_neuplne_pripady",
+        "-n",
+        action="store_true",
+        help=(
+            "V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo vyhodnocovaní. Štandardne vráti "
+            "hodnotu 'ERROR'."
+        ),
+    )
+    parser.add_argument(
+        "--ponechaj_duplicity",
+        "-d",
+        action="store_true",
+        help="Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.",
+    )
+    return parser
+
+
+def load_hospitalizacne_pripady(input_path: Path):
+    """Yield hospitalizacne pripady from the input file.
+
+    Args:
+        input_path: Path to the file containing hospitalizacne pripady.
 
     Yields:
-        dict: Každý hospitalizačný prípad ako slovník.
+        dict: hospitalizacny pripad
+
     """
-    with open(file_path, "r", encoding="utf-8") as input_file:
+    with input_path.open("r", encoding="utf-8") as input_file:
         reader = priprav_citac_dat(input_file)
-        for hospitalizacny_pripad in reader:
-            yield hospitalizacny_pripad
+        yield from reader
 
 
-# TODO: insted of modyfing dict, return ms
-def spracuj_hospitalizacny_pripad(
-    hospitalizacny_pripad,
-    vsetky_vykony_hlavne,
-    vyhodnot_neuplne_pripady,
-    ponechaj_duplicity,
-):
-    """
-    Spracuje hospitalizačný prípad a priradí medicínske služby.
+def process_hospitalizacny_pripad(
+    hospitalizacny_pripad: dict,
+    *,
+    vsetky_vykony_hlavne: bool = False,
+    vyhodnot_neuplne_pripady: bool = False,
+    ponechaj_duplicity: bool = False,
+) -> str:
+    """Process hospitalizacny pripad and assign medicinske sluzby.
 
     Args:
-        hospitalizacny_pripad (dict): Hospitalizačný prípad na spracovanie.
-        vsetky_vykony_hlavne (bool): Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z výkazaných výkonov mohol byť hlavný.
-        vyhodnot_neuplne_pripady (bool): V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo vyhodnocovaní. Štandardne vráti hodnotu 'ERROR'.
+        hospitalizacny_pripad (dict): Hospitalizacny pripad to process.
+        vsetky_vykony_hlavne (bool): Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z výkazaných výkonov mohol byť
+            hlavný.
+        vyhodnot_neuplne_pripady (bool): V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo
+            vyhodnocovaní. Štandardne vráti hodnotu 'ERROR'.
         ponechaj_duplicity (bool): Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.
 
     Returns:
-        None
+        str: Zoznam medicínskych služieb oddelených "~".
+
     """
     hp = deepcopy(hospitalizacny_pripad)
 
@@ -59,64 +105,39 @@ def spracuj_hospitalizacny_pripad(
     return "~".join(medicinske_sluzby)
 
 
-# TODO: add output_path as argument, if None, do not write, and return dict {id_hp: ms}
 def grouper_ms(
-    input_path,
-    output_path=None,
-    vsetky_vykony_hlavne=False,
-    vyhodnot_neuplne_pripady=False,
-    ponechaj_duplicity=False,
+    input_path: Path,
+    output_path: Path | None = None,
+    *,
+    vsetky_vykony_hlavne: bool = False,
+    vyhodnot_neuplne_pripady: bool = False,
+    ponechaj_duplicity: bool = False,
 ):
-    """
-    Funkcia na priraďovanie hospitalizačných prípadov do medicínskych služieb.
+    """Assign medicinske sluzby to hospitalizacne pripady.
 
-    Vytvorí kópiu vstupného súboru s pripojeným novým stĺpcom so zoznamom priradených medicínskych služieb.
+    Create a copy of the input file with a new column containing the list of assigned medicinske sluzby.
 
     Args:
-        file_path (str): Relatívna cesta k súboru s dátami.
-        vsetky_vykony_hlavne (bool, optional): Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z výkazaných výkonov mohol byť hlavný.
-        vyhodnot_neuplne_pripady (bool, optional): V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo vyhodnocovaní. Štandardne vráti hodnotu 'ERROR'.
-        ponechaj_duplicity (bool, optional): Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.
+        input_path: Path to the file containing hospitalizacne pripady.
+        output_path: Path to the output file. If not provided, a new file will be created.
+        vsetky_vykony_hlavne: Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z výkazaných výkonov mohol byť hlavný.
+        vyhodnot_neuplne_pripady: V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo
+            vyhodnocovaní. Štandardne vráti hodnotu 'ERROR'.
+        ponechaj_duplicity: Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.
 
-    Returns:
-        str: Relatívna cesta k súboru s výstupnými dátami.
     """
-    _vypis_aktivne_prepinace(
-        vsetky_vykony_hlavne, vyhodnot_neuplne_pripady, ponechaj_duplicity
-    )
+    if output_path is None:
+        output_path = Path(input_path).with_stem(f"{input_path.stem}_output")
 
-    result = {}
-
-    with open(output_path, "w", encoding="utf-8", newline="") as output_file:
+    with output_path.open("w", encoding="utf-8", newline="") as output_file:
         writer = priprav_zapisovac_dat(output_file)
         writer.writeheader()
 
-        for hospitalizacny_pripad in nacitaj_hospitalizacne_pripady(file_path):
-            ms = spracuj_hospitalizacny_pripad(
+        for hospitalizacny_pripad in load_hospitalizacne_pripady(input_path):
+            hospitalizacny_pripad["ms"] = process_hospitalizacny_pripad(
                 hospitalizacny_pripad,
-                vsetky_vykony_hlavne,
-                vyhodnot_neuplne_pripady,
-                ponechaj_duplicity,
+                vsetky_vykony_hlavne=vsetky_vykony_hlavne,
+                vyhodnot_neuplne_pripady=vyhodnot_neuplne_pripady,
+                ponechaj_duplicity=ponechaj_duplicity,
             )
-            result[hospitalizacny_pripad["id"]] = ms
-            hospitalizacny_pripad["ms"] = ms
             writer.writerow(hospitalizacny_pripad)
-    return result
-
-
-def _vypis_aktivne_prepinace(
-    vsetky_vykony_hlavne, vyhodnot_neuplne_pripady, ponechaj_duplicity
-):
-    """Pomocná funkcia na výpis informácií o aktívnych prepínačoch."""
-    if vsetky_vykony_hlavne:
-        print(
-            "Aktivovaný prepínač 'Všetky výkony hlavné'. Pri vyhodnotení príloh sa bude predpokladať, že ktorýkoľvek z výkazaných výkonov mohol byť hlavný."
-        )
-    if vyhodnot_neuplne_pripady:
-        print(
-            "Aktivovaný prepínač 'Vyhodnoť neúplné prípady'. V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak sa bude pokračovať vo vyhodnocovaní."
-        )
-    if ponechaj_duplicity:
-        print(
-            "Aktivovaný prepínač 'Ponechaj duplicity'. Vo výstupnom zozname medicínskych služieb budú ponechané aj duplicitné záznamy."
-        )
