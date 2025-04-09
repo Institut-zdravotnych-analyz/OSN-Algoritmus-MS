@@ -125,7 +125,6 @@ def run_and_compare(
             output_b_path = input_path.with_stem(f"{input_path.stem}_local")
 
             parsed_args = setup_parser().parse_args(flags)
-
             grouper_ms(
                 input_path,
                 output_b_path,
@@ -148,7 +147,7 @@ def run_and_compare(
             print(f"Removing cloned repository at {CLONED_REPO_DIR.resolve()}")
             shutil.rmtree(CLONED_REPO_DIR)
 
-        print("Cleaning created files")
+        print("Cleaning up created files")
         for file_path in created_files:
             if file_path.exists():
                 file_path.unlink()
