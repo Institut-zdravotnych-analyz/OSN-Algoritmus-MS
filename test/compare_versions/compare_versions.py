@@ -17,7 +17,7 @@ CLONED_REPO_DIR = Path("OSN-Algoritmus-MS")
 
 
 def run_algoritmus_from_ref(ref: str, input_path: Path, flags: list[str] | None = None) -> Path:
-    """Run the algoritmus with specified input file and flags after checking out a specific git ref.
+    """Run the algoritmus from a specific git ref.
 
     Args:
         ref: Git ref to run algoritmus from
@@ -163,7 +163,6 @@ def run_and_compare(
     needs_repo_cleanup = (version_a_cfg.identifier != "local" or version_b_cfg.identifier != "local") and remove_repo
 
     created_files = []
-
     try:
         output_a_path = run_algoritmus(version_a_cfg, input_path)
         created_files.append(output_a_path)
