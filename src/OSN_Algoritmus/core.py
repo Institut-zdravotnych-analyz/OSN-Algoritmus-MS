@@ -1,6 +1,7 @@
 """Main module for OSN-Algoritmus-MS."""
 
 import argparse
+from collections.abc import Generator
 from copy import deepcopy
 from pathlib import Path
 
@@ -78,7 +79,7 @@ def setup_parser(
     return parser
 
 
-def load_hospitalizacne_pripady(input_path: Path):
+def load_hospitalizacne_pripady(input_path: Path) -> Generator[dict, None, None]:
     """Yield hospitalizacne pripady from the input file.
 
     Args:
@@ -135,7 +136,7 @@ def grouper_ms(
     vsetky_vykony_hlavne: bool = False,
     vyhodnot_neuplne_pripady: bool = False,
     ponechaj_duplicity: bool = False,
-):
+) -> None:
     """Assign medicinske sluzby to hospitalizacne pripady.
 
     Create a copy of the input file with a new column containing the list of assigned medicinske sluzby.
