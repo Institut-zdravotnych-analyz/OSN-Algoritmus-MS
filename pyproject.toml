@@ -37,7 +37,13 @@ extend-include = ["*.ipynb"]
 
 [tool.ruff.lint]
 select = ["ALL"]
-ignore = ["ANN201", "ANN202"]
+ignore = ["ANN201", "ANN202", "COM812", "S603"]
+
+[tool.ruff.lint.per-file-ignores]
+"test/**/*" = ["S101", "ERA001"]
+
+[tool.ruff.format]
+skip-magic-trailing-comma = true
 
 [dependency-groups]
 dev = ["pytest>=8.3.5", "pandas>=2.2.3", "ipykernel>=6.29.5"]

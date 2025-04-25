@@ -2,7 +2,6 @@
 """Program na priraďovanie hospitalizačných prípadov do medicínskych služieb."""
 
 import argparse
-from pathlib import Path
 
 from OSN_Algoritmus.core import grouper_ms, setup_parser
 
@@ -26,19 +25,13 @@ def _vypis_aktivne_prepinace(args: argparse.Namespace):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Funkcia na priraďovanie hospitalizačných prípadov do medicínskych služieb.",
+    parser = setup_parser(
+        input_path=True,
+        output_path=True,
+        vsetky_vykony_hlavne=True,
+        vyhodnot_neuplne_pripady=True,
+        ponechaj_duplicity=True,
     )
-    parser.add_argument("input_path", type=Path, help="Cesta k súboru so vstupnými dátami.")
-    parser.add_argument(
-        "output_path",
-        type=Path,
-        nargs="?",
-        default=None,
-        help="Cesta k výstupnému súboru. Ak nie je zadaná, vytvorí sa odvodením od vstupného súboru.",
-    )
-
-    parser = setup_parser(parser)
     args = parser.parse_args()
 
     _vypis_aktivne_prepinace(args)

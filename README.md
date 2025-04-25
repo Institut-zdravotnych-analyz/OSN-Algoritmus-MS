@@ -103,3 +103,7 @@ k) v hospitalizačných prípadoch iných ako podľa písmen b), d) až g) a i),
 l) hospitalizačnému prípadu, ktorému nebola určená medicínska služba podľa tohto odseku alebo odseku 3, sa určuje medicínska služba S99-99.
 
 (3) Medicínska služba určená podľa prílohy č. 16, ktorá sa môže vykonať spolu s medicínskymi službami určenými podľa odseku 2 písm. b) až k), je medicínska služba „Identifikácia mŕtveho darcu orgánov“.
+
+# Testovanie
+
+Tento projekt používa `pytest` na testovanie. Viac informácii je v [`test/README.md`](test/README.md) (v angličtine).
