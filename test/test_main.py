@@ -490,7 +490,7 @@ ALL_TEST_CASES = {
 
 
 @pytest.mark.parametrize("test_case_data", ALL_TEST_CASES.values(), ids=ALL_TEST_CASES.keys())
-def test_single_case(test_case_data: dict, tmp_path: Path):
+def test_single_case(test_case_data: dict, tmp_path: Path) -> None:
     """Test the main script with a single input row."""
     pripad = pd.DataFrame([test_case_data["values"]])[INPUT_COLS]
     expected_output = pd.DataFrame([test_case_data["values"]])
