@@ -11,214 +11,397 @@ PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 MAIN_SCRIPT = PROJECT_ROOT / "main.py"
 
 
-INPUT_COLS = ["id", "vek", "hmotnost", "umela_plucna_ventilacia", "diagnozy", "vykony", "drg"]
+INPUT_COLS = ["id", "vek", "hmotnost", "umela_plucna_ventilacia", "diagnozy", "vykony", "markery", "drg"]
 PRIPADY = {
-    # priloha_5:
-    # line["doplnujuce_kriterium"] = ""
-    "P5_NoDoplnujuceKriterium": {
+    "P5_UnapplicableDRG": {
         "flags": [],
         "values": {
-            "id": "P5_NoDoplnujuceKriterium",
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "X",
+            "ms": "S99-99",
+        },
+    },
+    "P5_NoDoplnujuceKriterium": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "P61B",
             "ms": "S49-03",
         },
     },
-    # line["doplnujuce_kriterium"] = "Nekonvenčná UPV (vysokofrekvenčná, NO ventilácia)"
     "P5_NekonvUPV": {
         "flags": [],
         "values": {
-            "id": "P5_NekonvUPV",
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "8p107&Z&20230101",
+            "markery": pd.NA,
             "drg": "P",
+            # S50-05 is applied because of priloha 12
             "ms": "S49-05~S50-05",
         },
     },
-    # line["doplnujuce_kriterium"] = "Riadená hypotermia"
     "P5_RiadenaHypotermia": {
         "flags": [],
         "values": {
-            "id": "P5_RiadenaHypotermia",
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "8q902&Z&20230101",
+            "markery": pd.NA,
             "drg": "P",
+            # S50-10 is applied because of priloha 12
             "ms": "S49-06~S50-10",
         },
     },
-    # line["doplnujuce_kriterium"] = "Paliatívna starostlivosť u novorodencov"
-    "P5_Paliativ": {
+    "P5_Paliativ_hlavna": {
         "flags": [],
         "values": {
-            "id": "P5_Paliativ",
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "Z515",
+            "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "P",
+            "ms": "S48-05",
+        },
+    },
+    "P5_Paliativ_vedlajsia": {
+        "flags": [],
+        "values": {
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
             "diagnozy": "XXX~Z515",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "P",
             "ms": "S48-05",
         },
     },
-    # line["doplnujuce_kriterium"] = "Potreba výmennej transfúzie"
     "P5_VymennaTransf": {
         "flags": [],
         "values": {
-            "id": "P5_VymennaTransf",
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "8r2637&Z&20230101",
+            "markery": pd.NA,
             "drg": "P",
+            # S50-06 is applied because of priloha 12
             "ms": "S49-11~S50-06",
         },
     },
-    # line["doplnujuce_kriterium"] = "Akútny pôrod novorodenca v prípade ohrozenia života bez ohľadu na gestačný vek a
-    # hmotnosť"
     "P5_AkutPorod": {
         "flags": [],
         "values": {
-            "id": "P5_AkutPorod",
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "93083&Z&20230101",
+            "markery": pd.NA,
             "drg": "P",
             "ms": "S48-06",
         },
     },
-    # line["doplnujuce_kriterium"] = "Novorodenec pod hranicou viability (< 24 týždeň alebo < 500 g)"
-    "P5_PodViab": {
+    "P5_NemoznostTransportu": {
         "flags": [],
         "values": {
-            "id": "P5_PodViab",
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": "mOSN&novor",
+            "drg": "P",
+            "ms": "S48-07",
+        },
+    },
+    "P5_8p1007UPVMenejNez96": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 95,
+            "diagnozy": "X",
+            "vykony": "8p1007&Z&20230101",
+            "markery": pd.NA,
+            "drg": "P",
+            # S50-13 is applied because of priloha 12
+            "ms": "S48-08~S50-13",
+        },
+    },
+    "P5_8p1007UPV96": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 96,
+            "diagnozy": "X",
+            "vykony": "8p1007&Z&20230101",
+            "markery": pd.NA,
+            "drg": "P",
+            # S50-13 is applied because of priloha 12
+            "ms": "S50-13",
+        },
+    },
+    "P5_PodViabNizkaVaha": {
+        "flags": [],
+        "values": {
+            "id": "X",
             "vek": 0,
             "hmotnost": 499,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
-            "vykony": "8p101&Z&20230101",
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "P",
             "ms": "S49-07",
         },
     },
-    # line["doplnujuce_kriterium"] = "So signifikantným OP výkonom"
+    "P5_PodViabNizkyGestVek1": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": "mGVK&1",
+            "drg": "P",
+            "ms": "S49-07",
+        },
+    },
+    "P5_PodViabNizkyGestVek23": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": "mGVK&23",
+            "drg": "P",
+            "ms": "S49-07",
+        },
+    },
+    # mGVK > 23: Should not be applied
+    "P5_PodViabNizkyGestVek24": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 999,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": "mGVK&24",
+            "drg": "P61B",
+            "ms": "S49-03",
+        },
+    },
     "P5_SigOP": {
         "flags": [],
         "values": {
-            "id": "P5_SigOP",
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
-            "umela_plucna_ventilacia": 50,
-            "diagnozy": "XXX",
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
             "vykony": "12a100&Z&20230101",
+            "markery": pd.NA,
             "drg": "P03A",
             # S03-30 is applied because of priloha 12
             "ms": "S49-01~S03-30",
         },
     },
-    # line["doplnujuce_kriterium"] = "Bez signifikantného OP výkonu, s UPV > 95 hodín, s viacerými ťažkými problémami"
     "P5_UPVTazke": {
         "flags": [],
         "values": {
-            "id": "P5_UPVTazke",
+            "id": "X",
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 96,
             "diagnozy": "XXX~A010~A011",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "P03A",
             "ms": "S49-02",
         },
     },
-    # line["doplnujuce_kriterium"] = "Bez signifikantného OP výkonu a bez UPV > 95 hodín a viacerých ťažkých problémov"
     "P5_BezUPVTazke": {
         "flags": [],
         "values": {
-            "id": "P5_BezUPVTazke",
+            "id": "X",
             "vek": 0,
             "hmotnost": 1000,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "P03A",
             "ms": "S49-08",
         },
     },
-    # priloha_6
-    # je_dieta = True
-    # line["doplnujuce_kriterium"] = "Kraniocerebrálna trauma"
-    "P6_DietaKraniocerebranaTrauma": {
+    "P6_UnapplicableDRG": {
         "flags": [],
         "values": {
-            "id": "P6_DietaKraniocerebranaTrauma",
+            "id": "X",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "S060",
+            "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "X",
+            # S52-52 is applied because of priloha 14
+            "ms": "S52-52",
+        },
+    },
+    "P6_DietaKraniocerebralnaTraumaVedlajsia": {
+        "flags": [],
+        "values": {
+            "id": "X",
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": "XXX~S060",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "W",
             "ms": "S52-01",
         },
     },
-    # je_dieta = True
-    # line["doplnujuce_kriterium"] = "bez diagnózy Kraniocerebrálna trauma"
-    "P6_DietaBezKraniocerebranaTrauma": {
+    "P6_DietaKraniocerebralnaTraumaHlavna": {
         "flags": [],
         "values": {
-            "id": "P6_DietaBezKraniocerebranaTrauma",
+            "id": "X",
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "S060",
             "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "W",
+            # S52-52 is applied because of priloha 14
+            "ms": "S52-01~S52-52",
+        },
+    },
+    "P6_DietaBezKraniocerebralnaTrauma": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "W",
             "ms": "S52-02",
         },
     },
-    # je_dieta = False
-    # line["doplnujuce_kriterium"] = "Kraniocerebrálna trauma"
-    "P6_DospelyKraniocerebranaTrauma": {
+    "P6_DietaMarkerNesplnaKriteriaPolytraumy": {
         "flags": [],
         "values": {
-            "id": "P6_DospelyKraniocerebranaTrauma",
+            "id": "X",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": "mOSN&nopol",
+            "drg": "W",
+            "ms": "S52-64",
+        },
+    },
+    "P6_DospelyKraniocerebralnaTraumaVedlajsia": {
+        "flags": [],
+        "values": {
+            "id": "X",
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": "XXX~S060",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "W",
             "ms": "S02-01",
         },
     },
-    # je_dieta = False
-    # line["doplnujuce_kriterium"] = "bez diagnózy Kraniocerebrálna trauma"
-    "P6_DospelyBezKraniocerebranaTrauma": {
+    "P6_DospelyKraniocerebralnaTraumaHlavna": {
         "flags": [],
         "values": {
-            "id": "P6_DospelyBezKraniocerebranaTrauma",
+            "id": "X",
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "S060",
             "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "W",
+            # S02-56 is applied because of priloha 13
+            "ms": "S02-01~S02-56",
+        },
+    },
+    "P6_DospelyBezKraniocerebralnaTrauma": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 45,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": "W",
             "ms": "S02-02",
         },
     },
+    "P6_DospelyMarkerNesplnaKriteriaPolytraumy": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 45,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": "mOSN&nopol",
+            "drg": "W",
+            "ms": "S02-68",
+        },
+    },
     # prilohy_7_8
-    # je_dieta = True
     "P7": {
         "flags": [],
         "values": {
@@ -226,13 +409,41 @@ PRIPADY = {
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
-            "vykony": "93084&Z&20230101~XXX&Z&20230101~5t600&Z&20230101",
+            "diagnozy": "X",
+            "vykony": "8t130&Z&20230101~XXX&Z&20230101~34011&Z&20230101",
+            "markery": pd.NA,
             "drg": pd.NA,
-            "ms": "S55-01",
+            "ms": "S63-42",
         },
     },
-    # je_dieta = False
+    "P7_NotApplicableMissingVedlajsi": {
+        "flags": [],
+        "values": {
+            "id": "P7",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": "8t130&Z&20230101~XXX&Z&20230101",
+            "markery": pd.NA,
+            "drg": pd.NA,
+            "ms": "S99-99",
+        },
+    },
+    "P7_NotApplicableReversed": {
+        "flags": [],
+        "values": {
+            "id": "P7",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": "34011&Z&20230101~8t130&Z&20230101",
+            "markery": pd.NA,
+            "drg": pd.NA,
+            "ms": "S99-99",
+        },
+    },
     "P8": {
         "flags": [],
         "values": {
@@ -240,8 +451,9 @@ PRIPADY = {
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "93041&Z&20230101~XXX&Z&20230101~5t600&Z&20230101",
+            "markery": pd.NA,
             "drg": pd.NA,
             "ms": "S12-04",
         },
@@ -257,6 +469,7 @@ PRIPADY = {
             "umela_plucna_ventilacia": 0,
             "diagnozy": "O239",
             "vykony": "93020&Z&20230101",
+            "markery": pd.NA,
             "drg": pd.NA,
             # S11-07 is applied because of priloha 14
             "ms": "S11-05~S11-07",
@@ -272,6 +485,7 @@ PRIPADY = {
             "umela_plucna_ventilacia": 0,
             "diagnozy": "L032",
             "vykony": "5t06f0&Z&20230101",
+            "markery": pd.NA,
             "drg": pd.NA,
             # S25-21 is applied because of priloha 15
             "ms": "S02-04~S25-21",
@@ -287,8 +501,9 @@ PRIPADY = {
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "12a100&Z&20230101",
+            "markery": pd.NA,
             "drg": pd.NA,
             "ms": "S03-30",
         },
@@ -301,8 +516,9 @@ PRIPADY = {
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "8r160&Z&20230101",
+            "markery": pd.NA,
             "drg": pd.NA,
             "ms": "S01-01",
         },
@@ -318,6 +534,7 @@ PRIPADY = {
             "umela_plucna_ventilacia": 0,
             "diagnozy": "A000",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": pd.NA,
             "ms": "S63-23",
         },
@@ -332,6 +549,7 @@ PRIPADY = {
             "umela_plucna_ventilacia": 0,
             "diagnozy": "W340",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": pd.NA,
             "ms": "S01-10",
         },
@@ -346,6 +564,7 @@ PRIPADY = {
             "umela_plucna_ventilacia": 0,
             "diagnozy": "R402~G935~I601",
             "vykony": pd.NA,
+            "markery": pd.NA,
             "drg": pd.NA,
             # S37-03 is applied because of priloha 15
             "ms": "S37-03~S17-22",
@@ -359,10 +578,25 @@ PRIPADY = {
             "vek": 40,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX",
+            "diagnozy": "X",
             "vykony": "93091&Z&20230101",
+            "markery": pd.NA,
             "drg": pd.NA,
             "ms": "S98-98",
+        },
+    },
+    "NEZARADENY_PRIPAD": {
+        "flags": [],
+        "values": {
+            "id": "NEZARADENY_PRIPAD",
+            "vek": 40,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": pd.NA,
+            "ms": "S99-99",
         },
     },
 }
@@ -409,7 +643,7 @@ VYHODNOT_NEUPLNE_PRIPADY_PRIPADY = {
 VSETKY_VYKONY_HLAVNE_PRIPADY = {
     "VVH_P7": {
         "flags": ["-v"],
-        "values": {**PRIPADY["P7"]["values"], "vykony": "XXX&Z&20230101~5t600&Z&20230101~93084&Z&20230101"},
+        "values": {**PRIPADY["P7"]["values"], "vykony": "XXX&Z&20230101~8t130&Z&20230101~34011&Z&20230101"},
     },
     "VVH_P8": {
         "flags": ["-v"],

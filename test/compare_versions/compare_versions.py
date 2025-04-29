@@ -173,7 +173,7 @@ def run_and_compare(
         differences = compare_outputs(output_a_path, output_b_path, version_a_cfg.label(), version_b_cfg.label())
 
     finally:
-        if needs_repo_cleanup:
+        if needs_repo_cleanup and CLONED_REPO_DIR.exists():
             logger.info("Removing cloned repository at %s", CLONED_REPO_DIR.resolve())
             shutil.rmtree(CLONED_REPO_DIR)
 

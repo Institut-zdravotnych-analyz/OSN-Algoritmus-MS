@@ -5,10 +5,11 @@ Načíta všetky prílohy zo súborov a vytvorí pomocné zoznamy pre rôzne kri
 
 import csv
 from importlib import resources
+from pathlib import Path
 
 from ._pomocne_funkcie import zjednot_kod
 
-cesta_k_suborom = resources.files("OSN_Algoritmus") / "Prilohy"
+cesta_k_suborom = Path(resources.files("OSN_Algoritmus") / "Prilohy")
 
 
 def extrahuj_do_zoznamu(tabulky, nazov_tabulky, nazov_stlpca):
@@ -35,7 +36,7 @@ def nacitaj_vsetky_prilohy():
     """
     prilohy = {}
 
-    for cesta_k_suboru in cesta_k_suborom.iterdir():
+    for cesta_k_suboru in cesta_k_suborom.glob("*.csv"):
         with open(cesta_k_suboru, encoding="utf-8") as subor:
             nazov_tabulky = cesta_k_suboru.stem
             prilohy[nazov_tabulky] = []
@@ -56,26 +57,6 @@ def priprav_pomocne_zoznamy(tabulky):
         None
 
     """
-    tabulky["p5_kriterium_nekonvencna_upv_vykony"] = extrahuj_do_zoznamu(
-        tabulky,
-        "p5_kriterium_nekonvencna_upv",
-        "kod_vykonu",
-    )
-    tabulky["p5_kriterium_paliativna_starostlivost_diagnozy"] = extrahuj_do_zoznamu(
-        tabulky,
-        "p5_kriterium_paliativna_starostlivost",
-        "kod_diagnozy",
-    )
-    tabulky["p5_kriterium_potreba_vymennej_transfuzie_vykony"] = extrahuj_do_zoznamu(
-        tabulky,
-        "p5_kriterium_potreba_vymennej_transfuzie",
-        "kod_vykonu",
-    )
-    tabulky["p5_kriterium_riadena_hypotermia_vykony"] = extrahuj_do_zoznamu(
-        tabulky,
-        "p5_kriterium_riadena_hypotermia",
-        "kod_vykonu",
-    )
     tabulky["p5_signifikantne_OP_vykony"] = extrahuj_do_zoznamu(
         tabulky,
         "p5_signifikantne_OP",
@@ -106,19 +87,15 @@ def priprav_pomocne_zoznamy(tabulky):
 
 def priprav_kody(tabulky):
     stlpce_s_kodami = {
-        "p5_kriterium_nekonvencna_upv": ["kod_vykonu"],
-        "p5_kriterium_paliativna_starostlivost": ["kod_diagnozy"],
-        "p5_kriterium_potreba_vymennej_transfuzie": ["kod_vykonu"],
-        "p5_kriterium_riadena_hypotermia": ["kod_vykonu"],
         "p5_NOV": ["drg"],
         "p5_signifikantne_OP": ["kod_vykonu"],
         "p5_tazke_problemy_u_novorodencov": ["kod_diagnozy"],
         "p6_DRGD_deti": ["drg"],
         "p6_DRGD_dospeli": ["drg"],
-        "p7_VV_deti": ["kod_hlavneho_vykonu"],
-        "p7_vedlajsie_vykony": ["kod_vykonu"],
-        "p8_VV_dospeli": ["kod_hlavneho_vykonu"],
-        "p8_vedlajsie_vykony": ["kod_vykonu"],
+        "p7_VV_deti_hv": ["kod_hlavneho_vykonu"],
+        "p7_VV_deti_vv": ["kod_vykonu"],
+        "p8_VV_dospeli_hv": ["kod_hlavneho_vykonu"],
+        "p8_VV_dospeli_vv": ["kod_vykonu"],
         "p9_VD_deti": ["kod_hlavneho_vykonu"],
         "p9_VD_dospeli": ["kod_hlavneho_vykonu"],
         "p9_skupiny_diagnoz": ["kod_hlavnej_diagnozy"],

@@ -1,17 +1,9 @@
 import csv
 import uuid
 
-from OSN_Algoritmus._pomocne_funkcie import zjednot_kod
+from OSN_Algoritmus._pomocne_funkcie import vyrob_markery, zjednot_kod
 
-NAZVY_STLPCOV = [
-    "id",
-    "vek",
-    "hmotnost",
-    "umela_plucna_ventilacia",
-    "diagnozy",
-    "vykony",
-    "drg",
-]
+NAZVY_STLPCOV = ["id", "vek", "hmotnost", "umela_plucna_ventilacia", "diagnozy", "vykony", "markery", "drg"]
 
 
 def validuj_hp(hp, vyhodnot_neuplne_pripady):
@@ -101,13 +93,10 @@ def priprav_hp(hp):
         hp (dict): hospitalizačný prípad
 
     """
-    if hp["diagnozy"]:
-        hp["diagnozy"] = [zjednot_kod(diagnoza) for diagnoza in hp["diagnozy"].split("~")]
-    if hp["vykony"]:
-        hp["vykony"] = [zjednot_kod(vykon.split("&")[0]) for vykon in hp["vykony"].split("~")]
-
-    if hp["drg"]:
-        hp["drg"] = zjednot_kod(hp["drg"])
+    hp["diagnozy"] = [zjednot_kod(diagnoza) for diagnoza in hp["diagnozy"].split("~")] if hp["diagnozy"] else []
+    hp["vykony"] = [zjednot_kod(vykon.split("&")[0]) for vykon in hp["vykony"].split("~")] if hp["vykony"] else []
+    hp["markery"] = vyrob_markery(hp["markery"])
+    hp["drg"] = zjednot_kod(hp["drg"])
 
 
 def priprav_citac_dat(file):
