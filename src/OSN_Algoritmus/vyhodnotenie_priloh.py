@@ -3,6 +3,7 @@
 Hlavnými funkicami sú funkcie nazvané priloha_x, prípadne prilohy_x_y. Tieto funkcie vždy vracajú zoznam nájdených medicínskych služieb.
 """
 
+from OSN_Algoritmus._pomocne_funkcie import Marker
 from OSN_Algoritmus.priprava_priloh import priprav_vsetky_prilohy
 
 tabulky = priprav_vsetky_prilohy()
@@ -23,7 +24,8 @@ def s_viacerymi_tazkymi_problemami(diagnozy):
     if diagnozy is None:
         return False
 
-    pocet_tazkych_problemov = len([d for d in diagnozy if d in tabulky["p5_tazke_problemy_u_novorodencov_diagnozy"]])
+    tazke_problemy = {line["kod_diagnozy"] for line in tabulky["p5_tazke_problemy_u_novorodencov"]}
+    pocet_tazkych_problemov = sum(1 for d in diagnozy if d in tazke_problemy)
     return pocet_tazkych_problemov >= 2
 
 
@@ -39,7 +41,7 @@ def so_signifikantnym_vykonom(vykony):
         bool: Splnenie globálnej funkcie "Signifikantný operačný výkon"
 
     """
-    return any(vykon in tabulky["p5_signifikantne_OP_vykony"] for vykon in vykony)
+    return any(line["kod_vykonu"] in vykony for line in tabulky["p5_signifikantne_OP"])
 
 
 def splna_kriterium_podla_5(kriterium, diagnozy, vykony, markery, hmotnost, upv):
@@ -49,7 +51,7 @@ def splna_kriterium_podla_5(kriterium, diagnozy, vykony, markery, hmotnost, upv)
         kriterium (str): názov kritéria
         diagnozy (List[str]): zoznam diagnóz
         vykony (Listr[str]): zoznam výkonov
-        markery (List[dict]): zoznam markerov
+        markery (List[Marker]): zoznam markerov
         hmotnost (int): hmotnosť pacienta v gramoch
         upv (int): trvanie umelej pľúcnej ventilácie v hodinách
 
@@ -79,7 +81,7 @@ def splna_kriterium_podla_5(kriterium, diagnozy, vykony, markery, hmotnost, upv)
 
     # Doplňujúce kritérium „Marker - nemožnosť transportu novorodenca z medicínskych príčin na vyššie pracovisko” je splnené, ak mal pacient vykázaný marker "mOSN" s hodnotou "novor"
     if kriterium == "Marker - nemožnosť transportu novorodenca z medicínskych príčin na vyššie pracovisko":
-        return {"kod": "mOSN", "hodnota": "novor"} in markery
+        return Marker(kod="mOSN", hodnota="novor") in markery
 
     # Doplňujúce kritérium „Výkon 8p1007 s dobou UPV nižšiou ako 96 hodín“ je splnené, ak hospitalizačný prípad pacienta splnil podmienku dĺžka umelej pľúcnej ventilácie poskytnutej počas hospitalizácie v súlade s pravidlami kódovania pre umelú pľúcnu ventiláciu bola nižšia ako 96 hodín a zároveň ak mal pacient vykázaný aj tento výkon: 8p1007
     if kriterium == "Výkon 8p1007 s dobou UPV nižšiou ako 96 hodín":
@@ -88,9 +90,7 @@ def splna_kriterium_podla_5(kriterium, diagnozy, vykony, markery, hmotnost, upv)
     # Doplňujúce kritérium „Novorodenec pod hranicou viability (< 24 týždeň alebo < 500 g)“ je splnené, ak mal hospitalizovaný pacient hmotnosť menej ako 500g alebo gestačný vek nižší ako 24 týždňov.
     if kriterium == "Novorodenec pod hranicou viability (< 24 týždeň alebo < 500 g)":
         pod_500g = hmotnost is not None and hmotnost < 500
-        nizsi_gest_vek = markery is not None and any(
-            marker["kod"] == "mGVK" and 1 <= int(marker["hodnota"]) <= 23 for marker in markery
-        )
+        nizsi_gest_vek = any(marker.kod == "mGVK" and 1 <= int(marker.hodnota) <= 46 for marker in markery)
         return pod_500g or nizsi_gest_vek
 
     # Doplňujúce kritérium „So signifikantným OP výkonom“ je splnené, ak hospitalizačný prípad pacienta splnil podmienky pre globálnu funkciu „Signifikantný operačný výkon“ v klasifikačnom systéme.
@@ -166,15 +166,14 @@ def splna_kriterium_podla_6(kriterium, diagnozy, markery):
         bool: spĺňa kritérium skupiny diagnóz
 
     """
-    if kriterium == "marker Pacient nespĺňa medicínske kritériá polytraumy":
-        return {"kod": "mOSN", "hodnota": "nopol"} in markery
-
     if kriterium == "diagnózy Kraniocerebrálna trauma":
         return s_kraniocerebralnou_traumou(diagnozy)
 
     if kriterium == "bez diagnózy Kraniocerebrálna trauma":
-        return not s_kraniocerebralnou_traumou(diagnozy) and {"kod": "mOSN", "hodnota": "nopol"} not in markery
+        return not s_kraniocerebralnou_traumou(diagnozy)
 
+    if kriterium == "marker Pacient nespĺňa medicínske kritériá polytraumy":
+        return Marker(kod="mOSN", hodnota="nopol") in markery
     return False
 
 def priloha_6(drg, diagnozy, markery, je_dieta):
@@ -227,7 +226,7 @@ def poskytnuty_vedlajsi_vykon(vykony, skupina_vykonov, nazov_tabulky):
     return any(vykon in cielove_vykony for vykon in vykony)
 
 
-def prilohy_7_8(vykony, markery, je_dieta, vsetky_vykony_hlavne):
+def prilohy_7_8(vykony, je_dieta, vsetky_vykony_hlavne):
     """Ak bol poistencovi poskytnutý hlavný zdravotný výkon podľa stĺpca "zdravotný výkon" a minimálne jeden výkon z uvedených výkonov (VV, kombinácia Výkon - Výkon).
 
     Hlavné výkony sú v tabuľkách p7_VV_deti_hv a p8_VV_dospeli_hv.
@@ -242,8 +241,11 @@ def prilohy_7_8(vykony, markery, je_dieta, vsetky_vykony_hlavne):
         List[str]: Zoznam priradených medicínskych služieb
 
     """
+    if not vykony:
+        return []
+
     nazov_tabulky = "p7_VV_deti_hv" if je_dieta else "p8_VV_dospeli_hv"
-    nazov_vedlajsej_tabulky = "p7_VV_deti_vv" if je_dieta else "p8_VV_dospeli_hv"
+    nazov_vedlajsej_tabulky = "p7_VV_deti_vv" if je_dieta else "p8_VV_dospeli_vv"
 
     hlavny_vykon = vykony[0]
     vedlajsie_vykony = vykony[1:]
@@ -270,6 +272,15 @@ def prilohy_7_8(vykony, markery, je_dieta, vsetky_vykony_hlavne):
     return out
 
 
+def prilohy_7a_8a(vykony, markery, je_dieta):
+    """Ak bol poistencovi vykázaný marker podľa stĺpca "Kód markera" s hodnotou markera podľa stĺpca "Hodnota markera" a minimálne jeden výkon z uvedených výkonov (MV)."""
+    nazov_tabulky = "p7a_MV_deti" if je_dieta else "p8a_MV_dospeli"
+
+    return [
+        line["kod_ms"] for line in tabulky[nazov_tabulky] if line["kod_vykonu"] in vykony and line["marker"] in markery
+    ]
+
+
 def splna_diagnoza_zo_skupiny_podla_9(hlavna_diagnoza, skupina_diagnoz):
     """Kontroluj, či prípad má hlavnú diagnózu patriacu skupine definovaných diagnóz.
 
@@ -283,15 +294,10 @@ def splna_diagnoza_zo_skupiny_podla_9(hlavna_diagnoza, skupina_diagnoz):
 
     """
     cielove_diagnozy = [
-        line["kod_hlavnej_diagnozy"]
-        for line in tabulky["p9_skupiny_diagnoz"]
-        if line["skupina_diagnoz"] == skupina_diagnoz
+        line["kod_hlavnej_diagnozy"] for line in tabulky["p9_VD_diagnozy"] if line["skupina_diagnoz"] == skupina_diagnoz
     ]
 
-    return any(
-        hlavna_diagnoza.startswith(cielova_diagnoza)
-        for cielova_diagnoza in cielove_diagnozy
-    )
+    return any(hlavna_diagnoza == cielova_diagnoza for cielova_diagnoza in cielove_diagnozy)
 
 
 def priloha_9(diagnozy, vykony, je_dieta, vsetky_vykony_hlavne):
@@ -307,13 +313,12 @@ def priloha_9(diagnozy, vykony, je_dieta, vsetky_vykony_hlavne):
         List[str]: zoznam priradených medicínskych služieb
 
     """
-    # p9_skupiny_diagnoz -> p9_VD_diagnozy.csv
+    if not vykony or not diagnozy:
+        return []
+
     nazov_tabulky = "p9_VD_deti" if je_dieta else "p9_VD_dospeli"
 
     hlavny_vykon = vykony[0]
-    if not vsetky_vykony_hlavne and not hlavny_vykon:
-        return []
-
     hlavna_diagnoza = diagnozy[0]
 
     out = [
@@ -337,7 +342,21 @@ def priloha_9(diagnozy, vykony, je_dieta, vsetky_vykony_hlavne):
     return out
 
 
-def priloha_10(diagnozy):
+def priloha_9a(diagnozy, markery):
+    """Ak bol poistencovi vykázaný marker podľa stĺpca "Kód markera" s hodnotou markera podľa stĺpca "Hodnota markera" pri hlavnej diagnóze zo skupiny diagnóz podľa stĺpca „Skupina diagnóz“, hospitalizácii sa určí medicínska služba podľa stĺpca "Názov medicínskej služby" (MD)."""
+    if not diagnozy or not markery:
+        return []
+
+    hlavna_diagnoza = diagnozy[0]
+
+    return [
+        line["kod_ms"]
+        for line in tabulky["p9a_MD_dospeli"]
+        if hlavna_diagnoza.startswith(line["kod_hlavnej_diagnozy"]) and line["marker"] in markery
+    ]
+
+
+def priloha_10(diagnozy, je_dieta):
     """Ak bola poistencovi pri hospitalizácii vykázaná hlavná diagnóza podľa stĺpca „skupina diagnóz pre hlavnú diagnózu“ a vedľajšia diagnóza podľa stĺpca „názov vedľajšej diagnózy“, hospitalizácii sa určí medicínska služba podľa stĺpca "medicínska služba" (DD).
 
     Args:
@@ -347,11 +366,20 @@ def priloha_10(diagnozy):
         List[str]: zoznam medicínskych služieb
 
     """
+    if not diagnozy:
+        return []
+
+    hlavna_diagnoza_hp = diagnozy[0]
+    vedlajsie_diagnozy_hp = diagnozy[1:]
+
+    hlavne_diagnozy = [line["kod_hlavnej_diagnozy"] for line in tabulky["p10_DD_diagnozy"]]
+    tabulka_vedlajsie_diagnozy = tabulky["p10_DD_deti"] if je_dieta else tabulky["p10_DD_dospeli"]
+
     return [
-        line["kod_ms"]
-        for line in tabulky["p10_DD"]
-        if line["kod_hlavnej_diagnozy"] == diagnozy[0]
-        and line["kod_vedlajsej_diagnozy"] in diagnozy[1:]
+        vedlajsia_diagnoza["kod_ms"]
+        for vedlajsia_diagnoza in tabulka_vedlajsie_diagnozy
+        if vedlajsia_diagnoza["kod_vedlajsej_diagnozy"] in vedlajsie_diagnozy_hp
+        and hlavna_diagnoza_hp in hlavne_diagnozy
     ]
 
 
@@ -369,17 +397,16 @@ def ms_podla_hlavneho_vykonu(vykony, nazov_tabulky, vsetky_vykony_hlavne):
         List[str]: zoznam medicínskych služieb
 
     """
-    hlavny_vykon = vykony[0]
-    if not vsetky_vykony_hlavne and not hlavny_vykon:
+    if not vykony:
         return []
 
-    out = [line["kod_ms"] for line in tabulky[nazov_tabulky] if line["kod_hlavneho_vykonu"] == hlavny_vykon]
+    hlavny_vykon = vykony[0]
+
+    out = [line["kod_ms"] for line in tabulky[nazov_tabulky] if line["kod_vykonu"] == hlavny_vykon]
 
     if vsetky_vykony_hlavne:
         for hlavny_vykon in vykony[1:]:
-            out.extend(
-                [line["kod_ms"] for line in tabulky[nazov_tabulky] if line["kod_hlavneho_vykonu"] == hlavny_vykon]
-            )
+            out.extend([line["kod_ms"] for line in tabulky[nazov_tabulky] if line["kod_vykonu"] == hlavny_vykon])
 
     return out
 
@@ -416,13 +443,18 @@ def prilohy_14_15(diagnozy, je_dieta):
         List[str]: Zoznam medicínskych služieb
 
     """
+    if not diagnozy:
+        return []
+
+    hlavna_diagnoza = diagnozy[0]
+
     nazov_tabulky = "p14_D_deti" if je_dieta else "p15_D_dospeli"
 
-    return [line["kod_ms"] for line in tabulky[nazov_tabulky] if line["kod_hlavnej_diagnozy"] == diagnozy[0]]
+    return [line["kod_ms"] for line in tabulky[nazov_tabulky] if line["kod_diagnozy"] == hlavna_diagnoza]
 
 
 def priloha_16(diagnozy):
-    """Medicínska služba „Identifikácia mŕtveho darcu orgánov“ (S17-22) sa určí, ak je pri hospitalizačnom prípade vykázaná aspoň jedna diagnóza zo skupiny diagnóz „Kóma“ a súčasne aspoň jedna diagnóza zo skupiny „Opuch mozgu“ a súčasne aspoň jedna z diagnóz so skupiny „Vybrané ochorenia mozgu“ (S)
+    """Medicínska služba „Identifikácia mŕtveho darcu orgánov“ sa určí, ak je pri hospitalizačnom prípade vykázaná aspoň jedna diagnóza zo skupiny diagnóz „Kóma“ a súčasne aspoň jedna diagnóza zo skupiny „Opuch mozgu“ a súčasne aspoň jedna z diagnóz zo skupiny „Vybrané ochorenia mozgu“ (S).
 
     Args:
         diagnozy (List[str]): Zoznam diagnóz hospitalizačného prípadu.
@@ -432,38 +464,23 @@ def priloha_16(diagnozy):
 
     """
     kod_ms = "S17-22"
-    nazvy_zoznamov_diagnoz = [
-        "p16_koma_diagnozy",
-        "p16_opuch_mozgu_diagnozy",
-        "p16_vybrane_ochorenia_diagnozy",
-    ]
+    nazvy_tabuliek = ["p16_koma", "p16_opuch_mozgu", "p16_vybrane_ochorenia"]
 
-    for cielovy_zoznam in nazvy_zoznamov_diagnoz:
-        if not any(
-            cielova_diagnoza in diagnozy for cielova_diagnoza in tabulky[cielovy_zoznam]
-        ):
+    for cielovy_zoznam in nazvy_tabuliek:
+        if not any(line["kod_diagnozy"] in diagnozy for line in tabulky[cielovy_zoznam]):
             return []
     return [kod_ms]
 
 
-def priloha_17(vykony, vsetky_vykony_hlavne):
-    """V hospitalizačných prípadoch, v ktorých bol vykázaný hlavný výkon podľa stĺpca "zdravotný výkon", hospitalizácii sa určí medicínska služba podľa stĺpca "medicínska služba".
+def priloha_17(markery):
+    """V hospitalizačných prípadoch, v ktorých bol vykázaný marker podľa stĺpca "Kód markera" s hodnotou markera podľa stĺpca "Hodnota markera", hospitalizácii sa určí medicínska služba podľa stĺpca "Medicínska služba".
 
     Jedná sa o špeciálne prípady, kedy HP dobre nezapadá do aktuálneho nastavenie medicínskych služieb.
 
     Príloha 17 má prednosť pred ostatnými prílohami.
 
-    Zdieľa mechanizmus vyhodnocovania s prílohami 12 a 13.
-
-    Args:
-        vykony (List[str]): Zoznam výkonov hospitalizačného prípadu.
-        vsetky_vykony_hlavne (bool): skúša všetky možné hlavné výkony
-
-    Returns:
-        [List[str]]: Zoznam medicínskych služieb.
-
     """
-    return ms_podla_hlavneho_vykonu(vykony, "p17", vsetky_vykony_hlavne)
+    return [line["kod_ms"] for line in tabulky["p17_M"] if line["marker"] in markery]
 
 
 def prirad_ms(hp, vsetky_vykony_hlavne):
@@ -487,8 +504,11 @@ def prirad_ms(hp, vsetky_vykony_hlavne):
 
     je_dieta = hp["vek"] is not None and hp["vek"] <= 18
 
-    if hp["vykony"]:
-        services.extend(priloha_17(hp["vykony"], vsetky_vykony_hlavne))
+    if hp["markery"]:
+        services.extend(priloha_17(hp["markery"]))
+
+    if hp["diagnozy"]:
+        services.extend(priloha_16(hp["diagnozy"]))
 
     if hp["drg"]:
         priloha_5_services = priloha_5(
@@ -500,24 +520,25 @@ def prirad_ms(hp, vsetky_vykony_hlavne):
         services.extend(priloha_6(hp["drg"], hp["diagnozy"], hp["markery"], je_dieta))
 
     if hp["vek"] is not None and hp["vykony"]:
-        services.extend(prilohy_7_8(hp["vykony"], hp["markery"], je_dieta, vsetky_vykony_hlavne))
+        services.extend(prilohy_7_8(hp["vykony"], je_dieta, vsetky_vykony_hlavne))
+
+    if hp["vek"] is not None and hp["vykony"] and hp["markery"]:
+        services.extend(prilohy_7a_8a(hp["vykony"], hp["markery"], je_dieta))
 
     if hp["vek"] is not None and hp["diagnozy"] and hp["vykony"]:
-        services.extend(
-            priloha_9(hp["diagnozy"], hp["vykony"], je_dieta, vsetky_vykony_hlavne)
-        )
+        services.extend(priloha_9(hp["diagnozy"], hp["vykony"], je_dieta, vsetky_vykony_hlavne))
 
-    if hp["diagnozy"]:
-        services.extend(priloha_10(hp["diagnozy"]))
+    if hp["vek"] is not None and not je_dieta and hp["diagnozy"] and hp["markery"]:
+        services.extend(priloha_9a(hp["diagnozy"], hp["markery"]))
+
+    if hp["vek"] is not None and hp["diagnozy"]:
+        services.extend(priloha_10(hp["diagnozy"], je_dieta))
 
     if hp["vek"] is not None and hp["vykony"]:
         services.extend(prilohy_12_13(hp["vykony"], je_dieta, vsetky_vykony_hlavne))
 
     if hp["vek"] is not None and hp["diagnozy"]:
         services.extend(prilohy_14_15(hp["diagnozy"], je_dieta))
-
-    if hp["diagnozy"]:
-        services.extend(priloha_16(hp["diagnozy"]))
 
     if not services:
         services = ["S99-99"]

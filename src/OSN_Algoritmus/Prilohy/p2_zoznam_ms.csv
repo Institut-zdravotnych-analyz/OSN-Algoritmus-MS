@@ -2443,6 +2443,7 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 47;S77-03;True;Následná rehabilitačná starostlivosť pre detského pacienta;V;;;;;1;P;P;P;P;P;;;
 47;S47-05;False;Iné diagnózy v rehabilitačnej starostlivosti;D;1;;;;;P;P;P;P;N;;;
 47;S47-04;False;RHB liečba na I. úrovni pre dospelého pacienta – následná rehabilitácia;V;1;;;;;P;P;P;P;P;;;
+48;S48-08;False;Novorodenec s potrebou neinvazívnej ventilácie do 96 hodín;NOV;;2;;;;N;N;N;N;;;;
 48;S48-07;False;Nemožnosť transportu novorodenca z medicínskych príčin na vyššie pracovisko;NOV;;2;;;;N;N;N;N;;;;
 48;S48-06;False;Akútny pôrod novorodenca v prípade ohrozenia života bez ohľadu na gestačný vek a hmotnosť;NOV;;2;;;;P;P;P;P;;;;
 48;S48-05;False;Paliatívna starostlivosť u novorodencov;NOV;;2;;;;P;P;P;P;;;;
@@ -2450,7 +2451,6 @@ cislo_programu;kod_ms;zdielana_ms;nazov_ms;sposob_urcenia;uroven_ms_dospeli;urov
 48;S48-03;False;Novorodenec, hmotnosť pri prijatí 2000-2499 g bez signifikantného OP výkonu, bez UPV > 95 hodín, bez ťažkých problémov;NOV;;2;;;;P;P;P;P;;;50;
 48;S48-02;False;Novorodenec, hmotnosť pri prijatí 1500-1999 g bez signifikantného OP výkonu, bez UPV > 95 hodín, bez ťažkých problémov;NOV;;2;;;;P;P;P;P;;;5;
 48;S48-01;False;Novorodenec, úmrtie alebo preklad do 5 dní po prijatí na hospitalizáciu bez signifikantného OP výkonu;NOV;;2;;;;P;P;P;P;;;;
-48;S48-08;False;Novorodenec s potrebou neinvazívnej ventilácie do 96 hodín;NOV;2;;;;;N;N;N;N;;;;
 49;S49-07;False;Novorodenec pod hranicou viability (< 24 týždeň alebo < 500 g);NOV;;4;;;;N;N;;;;;3;
 49;S49-06;False;Riadená hypotermia;NOV;;4;;;;P;P;;;;;3;
 49;S49-05;False;Nekonvenčná UPV (vysokofrekvenčná, NO ventilácia);NOV;;4;;;;P;P;;;;;5;

@@ -1,9 +1,9 @@
-kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
+kod_hlavneho_vykonu;nazov_hlavneho_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 93020;Predpôrodná starostlivosť pri dekompenzovanom diabete a DM s komplikáciami;Diabetes mellitus v gravidite;S11-05;Predpôrodná starostlivosť pri dekompenzovanom diabete a DM s komplikáciami
-643161;Podanie lieku surfaktant, endotracheálne: od 120 mg do menej ako 240 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
-643162;Podanie lieku surfaktant, endotracheálne: od 240 mg do menej ako 360 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
-643163;Podanie lieku surfaktant, endotracheálne: od 360 mg do menej ako 480 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
-643164;Podanie lieku surfaktant, endotracheálne: 480 mg a viac;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS 
+643161;Podanie lieku surfaktant, endotracheálne: od 120 mg do menej ako 240 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS
+643162;Podanie lieku surfaktant, endotracheálne: od 240 mg do menej ako 360 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS
+643163;Podanie lieku surfaktant, endotracheálne: od 360 mg do menej ako 480 mg;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS
+643164;Podanie lieku surfaktant, endotracheálne: 480 mg a viac;Syndróm respiračnej tiesne [ARDS];S50-11;Podanie surfaktantu pri PARDS
 5t06f0;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, nemotorizovaná;Trauma a poúrazové stavy;S52-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
 5t06f1;Osteosyntéza vnútorným predlžovacím alebo posuvným systémom, motorizovaná;Trauma a poúrazové stavy;S52-04;Osteosyntéza pre poúrazové stavy a komplikácie iná
 5t900;Replantácia v oblasti nad lakťom;Trauma a poúrazové stavy;S52-06;Replantácie
@@ -204,17 +204,17 @@ kod_hlavneho_vykonu;nazov_vykonu;skupina_diagnoz;kod_ms;nazov_ms
 5q652;Vaginálna operácia pri aplázii pošvy;Vrodená vývojová chyba genitálu;S60-04;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) - komplexná
 5q653;Vaginálna operácia pri neúplnom zdvojení vnútorných rodidiel;Vrodená vývojová chyba genitálu;S60-04;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) - komplexná
 5q690;Fistulektómia a plastika;Vrodená vývojová chyba genitálu;S60-04;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) - komplexná
-5q691;Kolpostómia pri intersexuálnych malformáciách typu Prader IV. a V. s uzáverom sinusovaginálnej alebo uretrovaginálnej fistuly;Vrodená vývojová chyba genitálu;S60-05;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I.
-5q692;Kolpostómia pri intersexuálnych malformáciách typu Prader IV. a V., plastika pošvového vchodu;Vrodená vývojová chyba genitálu;S60-05;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I.
-5q693;Kolpostómia pri parciálnej aplázii distálnej časti pošvy;Vrodená vývojová chyba genitálu;S60-05;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I.
+5q691;Kolpostómia pri intersexuálnych malformáciách typu Prader IV. a V. s uzáverom sinusovaginálnej alebo uretrovaginálnej fistuly;Vrodená vývojová chyba genitálu;S60-05;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I
+5q692;Kolpostómia pri intersexuálnych malformáciách typu Prader IV. a V., plastika pošvového vchodu;Vrodená vývojová chyba genitálu;S60-05;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I
+5q693;Kolpostómia pri parciálnej aplázii distálnej časti pošvy;Vrodená vývojová chyba genitálu;S60-05;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I
 5q5300;Rekonštrukčná operácia vrodenej vývojovej chyby maternice, laparotomicky;Vrodená vývojová chyba genitálu;S60-11;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9)
 5q5303;Rekonštrukčná operácia vrodenej vývojovej chyby maternice, hysteroskopicky;Vrodená vývojová chyba genitálu;S60-11;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9)
 5q5304;Rekonštrukčná operácia vrodenej vývojovej chyby maternice, laparoskopicky;Vrodená vývojová chyba genitálu;S60-11;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9)
 5q651;Excízia kongenitálneho [vrodeného] septa pošvy;Vrodená vývojová chyba genitálu;S60-11;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9)
 5q654;Plastika vaginálneho vchodu;Vrodená vývojová chyba genitálu;S60-11;Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9)
 93023;Komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba u detí;Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba;S70-34;Vrodené koagulopatie - komplexná liečba pri veľkom krvácaní, pri plánovanej operácii a imunotolerančná liečba
-93019;Hospitalizácia pred transplantáciou kmeňových buniek;Vysoko komplexné ochorenia imunitného systému;S72-01;Hospitalizácia pred transplantáciou krvotvorných buniek pre ťažké kombinované imunodeficiencie (skupina D81) 
-93002;Hospitalizácia pred transplantáciou krvotvorných buniek;Ťažké kombinované imunodeficiencie;S72-01;Hospitalizácia pred transplantáciou krvotvorných buniek pre ťažké kombinované imunodeficiencie (skupina D81) 
+93019;Hospitalizácia pred transplantáciou kmeňových buniek;Vysoko komplexné ochorenia imunitného systému;S72-01;Hospitalizácia pred transplantáciou krvotvorných buniek pre ťažké kombinované imunodeficiencie (skupina D81)
+93002;Hospitalizácia pred transplantáciou krvotvorných buniek;Ťažké kombinované imunodeficiencie;S72-01;Hospitalizácia pred transplantáciou krvotvorných buniek pre ťažké kombinované imunodeficiencie (skupina D81)
 93082;Špecializované vyšetrenia pri neurologickom ochorení;Syndróm spánkového apnoe;S73-01;Syndróm spánkového apnoe s potrebou špecializovaných vyšetrení
 93082;Špecializované vyšetrenia pri neurologickom ochorení;Skleróza multiplex;S73-03;Skleróza multiplex s potrebou špecializovaných vyšetrení
 93082;Špecializované vyšetrenia pri neurologickom ochorení;Metabolické ochorenia v neurológii;S73-04;Metabolické ochorenia v neurológii s potrebou špecializovaných vyšetrení

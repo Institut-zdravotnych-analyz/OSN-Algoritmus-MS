@@ -1,7 +1,7 @@
 import csv
 import uuid
 
-from OSN_Algoritmus._pomocne_funkcie import vyrob_markery, zjednot_kod
+from OSN_Algoritmus._pomocne_funkcie import vyrob_markery_zo_str, zjednot_kod
 
 NAZVY_STLPCOV = ["id", "vek", "hmotnost", "umela_plucna_ventilacia", "diagnozy", "vykony", "markery", "drg"]
 
@@ -95,7 +95,7 @@ def priprav_hp(hp):
     """
     hp["diagnozy"] = [zjednot_kod(diagnoza) for diagnoza in hp["diagnozy"].split("~")] if hp["diagnozy"] else []
     hp["vykony"] = [zjednot_kod(vykon.split("&")[0]) for vykon in hp["vykony"].split("~")] if hp["vykony"] else []
-    hp["markery"] = vyrob_markery(hp["markery"])
+    hp["markery"] = vyrob_markery_zo_str(hp["markery"])
     hp["drg"] = zjednot_kod(hp["drg"])
 
 
