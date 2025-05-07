@@ -77,8 +77,8 @@ Popis položiek:
 | 5  | diagnozy                | string         | Zoznam kódov diagnóz pacienta oddelený znakom `~`, ako prvá sa uvádza hlavná diagnóza. Kódy diagnóz sa uvádzajú bez bodky.                                            |nie
 | 6  | vykony                  | string         | Zoznam kódov výkonov pacienta v tvare `kod_vykonu&lokalizacia&datum_vykonu` oddelený znakom `~`, ako prvý sa uvádza hlavný výkon. Kódy výkonov sa uvádzajú bez bodky.|nie
 | 7  | markery                 | string         | Zoznam markerov pacienta v tvare `kod_markera&hodnota_markera` oddelený znakom `~`.                                                                                  |nie
-| 8  | drg                     | string         | DRG skupina, do ktorej bol hospitalizačný prípad zaradený.                                                                                                           |áno
-| 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9.
+| 8  | drg                     | string         | DRG skupina, do ktorej bol hospitalizačný prípad zaradený.                                                                                                           | áno
+| 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9.                                                                                                                             | áno
 
 Príklad vstupného súboru je v [`test/data/example_data_10.csv`](test/data/example_data_10.csv)
 
