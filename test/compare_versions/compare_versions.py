@@ -154,7 +154,7 @@ def run_and_compare(
     *,
     remove_repo: bool = True,
 ) -> pd.DataFrame:
-    """Run the algoritmus with two versions and compare their outputs.
+    """Run the algoritmus with two different versions and compare their outputs.
 
     Args:
         input_path: Path to the input file
@@ -166,6 +166,10 @@ def run_and_compare(
         differ
 
     """
+    if version_a_cfg == version_b_cfg:
+        msg = "Version configurations are identical"
+        raise ValueError(msg)
+
     input_path = Path(input_path).resolve()
     needs_repo_cleanup = (version_a_cfg.identifier != "local" or version_b_cfg.identifier != "local") and remove_repo
 
