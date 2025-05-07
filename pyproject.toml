@@ -3,12 +3,12 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "OSN_Algoritmus"
+name = "osn_algoritmus"
 version = "v2025.1"
 description = "Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky"
 readme = "README.md"
 requires-python = ">=3.11"
-authors = [{ name = "MZ SR" }]
+authors = [{ name = "Ministerstvo zdravotníctva Slovenskej republiky" }]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -20,10 +20,10 @@ classifiers = [
 "Bug Tracker" = "https://github.com/Institut-zdravotnych-analyz/OSN-Algoritmus-MS/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/OSN_Algoritmus"]
+packages = ["src/osn_algoritmus"]
 
 [tool.hatch.build.targets.wheel.force-include]
-"src/OSN_Algoritmus/Prilohy" = "OSN_Algoritmus/Prilohy"
+"src/osn_algoritmus/Prilohy" = "osn_algoritmus/Prilohy"
 
 [tool.ruff]
 line-length = 120
@@ -33,13 +33,13 @@ extend-include = ["*.ipynb"]
 
 [tool.ruff.lint]
 select = ["ALL"]
-ignore = ["COM812", "S603"]
+
+[tool.ruff.lint.pylint]
+allow-magic-value-types = ["int", "str"]
 
 [tool.ruff.lint.per-file-ignores]
-"test/**/*" = ["S101", "ERA001"]
+"test/**/*" = ["S101", "S603"]
 
-[tool.ruff.format]
-skip-magic-trailing-comma = true
 
-[dependency-groups]
+[project.optional-dependencies]
 dev = ["pytest>=8.3.5", "pandas>=2.2.3", "ipykernel>=6.29.5"]

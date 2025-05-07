@@ -1,17 +1,11 @@
-"""Main module for OSN-Algoritmus-MS."""
+"""Core functionality of the osn_algoritmus package."""
 
 import argparse
 from collections.abc import Generator
-from copy import deepcopy
 from pathlib import Path
 
-from OSN_Algoritmus.priprava_dat import (
-    priprav_citac_dat,
-    priprav_hp,
-    priprav_zapisovac_dat,
-    validuj_hp,
-)
-from OSN_Algoritmus.vyhodnotenie_priloh import prirad_ms
+from osn_algoritmus.input_preparation import create_hp_from_row, prepare_data_reader, prepare_data_writer
+from osn_algoritmus.prilohy_evaluation import prirad_ms
 
 
 def setup_parser(
@@ -27,16 +21,17 @@ def setup_parser(
     Args:
         input_path: If True, add an argument for the input path.
         output_path: If True, add an argument for the output path.
-        vsetky_vykony_hlavne: If True, add an argument for the vsetky_vykony_hlavne flag.
-        vyhodnot_neuplne_pripady: If True, add an argument for the vyhodnot_neuplne_pripady flag.
-        ponechaj_duplicity: If True, add an argument for the ponechaj_duplicity flag.
+        vsetky_vykony_hlavne: If True, add an argument for vsetky_vykony_hlavne flag.
+        vyhodnot_neuplne_pripady: If True, add an argument for vyhodnot_neuplne_pripady flag.
+        ponechaj_duplicity: If True, add an argument for ponechaj_duplicity flag.
 
     Returns:
         The ArgumentParser instance with added arguments.
 
     """
     parser = argparse.ArgumentParser(
-        description="Skript na priraďovanie hospitalizačných prípadov do medicínskych služieb."
+        prog="python -m osn_algoritmus",
+        description="Skript na priraďovanie hospitalizačných prípadov do medicínskych služieb.",
     )
 
     if input_path:
@@ -79,50 +74,49 @@ def setup_parser(
     return parser
 
 
-def load_hospitalizacne_pripady(input_path: Path) -> Generator[dict, None, None]:
-    """Yield hospitalizacne pripady from the input file.
+def load_input_rows(input_path: Path) -> Generator[dict, None, None]:
+    """Yield rows from the input file.
 
     Args:
         input_path: Path to the file containing hospitalizacne pripady.
 
     Yields:
-        dict: hospitalizacny pripad
+        row containing hospitalizacny pripad
 
     """
     with input_path.open("r", encoding="utf-8") as input_file:
-        reader = priprav_citac_dat(input_file)
+        reader = prepare_data_reader(input_file)
         yield from reader
 
 
-def process_hospitalizacny_pripad(
-    hospitalizacny_pripad: dict,
+def process_input_row(
+    input_hp_row: dict,
     *,
-    vsetky_vykony_hlavne: bool = False,
-    vyhodnot_neuplne_pripady: bool = False,
-    ponechaj_duplicity: bool = False,
+    all_vykony_hlavne: bool = False,
+    evaluate_incomplete_pripady: bool = False,
+    allow_duplicates: bool = False,
 ) -> str:
-    """Process hospitalizacny pripad and assign medicinske sluzby.
+    """Process input row by creating a hospitalizacny pripad and assigning medicinske sluzby.
 
     Args:
-        hospitalizacny_pripad: Hospitalizacny pripad to process.
-        vsetky_vykony_hlavne: When evaluation prilohy, assume that any of vykony could be hlavny.
-        vyhodnot_neuplne_pripady: If a required value is not filled in, continue with the evaluation anyway.
+        input_hp_row: Input row to process.
+        all_vykony_hlavne: When evaluation prilohy, assume that any of vykony could be hlavny.
+        evaluate_incomplete_pripady: If a required value is not filled in, continue with the evaluation anyway.
             Without this flag, the function will return 'ERROR'.
-        ponechaj_duplicity: Keep duplicate records in the output list of medicinske sluzby.
+        allow_duplicates: Keep duplicate records in the output list of medicinske sluzby.
 
     Returns:
         str: Kody medicinskych sluzieb concatenated by '~'.
 
     """
-    hp = deepcopy(hospitalizacny_pripad)
+    hp = create_hp_from_row(input_hp_row, evaluate_incomplete_pripady=evaluate_incomplete_pripady)
 
-    if not validuj_hp(hp, vyhodnot_neuplne_pripady):
+    if hp is None:
         return "ERROR"
 
-    priprav_hp(hp)
-    medicinske_sluzby = prirad_ms(hp, vsetky_vykony_hlavne)
+    medicinske_sluzby = prirad_ms(hp, all_vykony_hlavne=all_vykony_hlavne)
 
-    if not ponechaj_duplicity:
+    if not allow_duplicates:
         # deduplicate medicinske sluzby, keep order
         medicinske_sluzby = list(dict.fromkeys(medicinske_sluzby))
 
@@ -133,9 +127,9 @@ def grouper_ms(
     input_path: Path,
     output_path: Path | None = None,
     *,
-    vsetky_vykony_hlavne: bool = False,
-    vyhodnot_neuplne_pripady: bool = False,
-    ponechaj_duplicity: bool = False,
+    all_vykony_hlavne: bool = False,
+    evaluate_incomplete_pripady: bool = False,
+    allow_duplicates: bool = False,
 ) -> None:
     """Assign medicinske sluzby to hospitalizacne pripady.
 
@@ -144,24 +138,24 @@ def grouper_ms(
     Args:
         input_path: Path to the file containing hospitalizacne pripady.
         output_path: Path to the output file. If not provided, a new file will be created.
-        vsetky_vykony_hlavne: When evaluating prilohy, assume that any of vykony could be hlavny.
-        vyhodnot_neuplne_pripady: If a required value is not filled in, continue with the evaluation anyway.
+        all_vykony_hlavne: When evaluating prilohy, assume that any of vykony could be hlavny.
+        evaluate_incomplete_pripady: If a required value is not filled in, continue with the evaluation anyway.
             Without this flag, the assigned medicinske sluzby will be 'ERROR'.
-        ponechaj_duplicity: Keep duplicate records in the output list of medicinske sluzby.
+        allow_duplicates: Keep duplicate records in the output list of medicinske sluzby.
 
     """
     if output_path is None:
         output_path = Path(input_path).with_stem(f"{input_path.stem}_output")
 
     with output_path.open("w", encoding="utf-8", newline="") as output_file:
-        writer = priprav_zapisovac_dat(output_file)
+        writer = prepare_data_writer(output_file)
         writer.writeheader()
 
-        for hospitalizacny_pripad in load_hospitalizacne_pripady(input_path):
-            hospitalizacny_pripad["ms"] = process_hospitalizacny_pripad(
-                hospitalizacny_pripad,
-                vsetky_vykony_hlavne=vsetky_vykony_hlavne,
-                vyhodnot_neuplne_pripady=vyhodnot_neuplne_pripady,
-                ponechaj_duplicity=ponechaj_duplicity,
+        for row in load_input_rows(input_path):
+            row["ms"] = process_input_row(
+                row,
+                all_vykony_hlavne=all_vykony_hlavne,
+                evaluate_incomplete_pripady=evaluate_incomplete_pripady,
+                allow_duplicates=allow_duplicates,
             )
-            writer.writerow(hospitalizacny_pripad)
+            writer.writerow(row)

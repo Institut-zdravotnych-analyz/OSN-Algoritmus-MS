@@ -3,4 +3,3 @@ __pycache__/
 .vscode
 .DS_Store
 uv.lock
-MPK_CSV/

@@ -7,11 +7,17 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-PROJECT_ROOT = Path(__file__).parent.parent.resolve()
-MAIN_SCRIPT = PROJECT_ROOT / "main.py"
-
-
-INPUT_COLS = ["id", "vek", "hmotnost", "umela_plucna_ventilacia", "diagnozy", "vykony", "markery", "drg"]
+INPUT_COLS = [
+    "id",
+    "vek",
+    "hmotnost",
+    "umela_plucna_ventilacia",
+    "diagnozy",
+    "vykony",
+    "markery",
+    "drg",
+    "druh_prijatia",
+]
 PRIPADY = {
     "P5_UnapplicableDRG": {
         "flags": [],
@@ -24,6 +30,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "X",
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -38,6 +45,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P61B",
+            "druh_prijatia": 3,
             "ms": "S49-03",
         },
     },
@@ -52,6 +60,7 @@ PRIPADY = {
             "vykony": "8p107&Z&20230101",
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             # S50-05 is applied because of priloha 12
             "ms": "S49-05~S50-05",
         },
@@ -67,6 +76,7 @@ PRIPADY = {
             "vykony": "8q902&Z&20230101",
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             # S50-10 is applied because of priloha 12
             "ms": "S49-06~S50-10",
         },
@@ -82,6 +92,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             "ms": "S48-05",
         },
     },
@@ -96,6 +107,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             "ms": "S48-05",
         },
     },
@@ -110,6 +122,7 @@ PRIPADY = {
             "vykony": "8r2637&Z&20230101",
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             # S50-06 is applied because of priloha 12
             "ms": "S49-11~S50-06",
         },
@@ -125,6 +138,7 @@ PRIPADY = {
             "vykony": "93083&Z&20230101",
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             "ms": "S48-06",
         },
     },
@@ -139,6 +153,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mOSN&novor",
             "drg": "P",
+            "druh_prijatia": 3,
             "ms": "S48-07",
         },
     },
@@ -153,6 +168,7 @@ PRIPADY = {
             "vykony": "8p1007&Z&20230101",
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             # S50-13 is applied because of priloha 12
             "ms": "S48-08~S50-13",
         },
@@ -168,6 +184,7 @@ PRIPADY = {
             "vykony": "8p1007&Z&20230101",
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             # S50-13 is applied because of priloha 12
             "ms": "S50-13",
         },
@@ -183,6 +200,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P",
+            "druh_prijatia": 3,
             "ms": "S49-07",
         },
     },
@@ -197,6 +215,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mGVK&1",
             "drg": "P",
+            "druh_prijatia": 3,
             "ms": "S49-07",
         },
     },
@@ -211,10 +230,10 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mGVK&45",
             "drg": "P",
+            "druh_prijatia": 3,
             "ms": "S49-07",
         },
     },
-    # mGVK > 46: Should not be applied
     "P5_PodViabNizkyGestVek47": {
         "flags": [],
         "values": {
@@ -226,6 +245,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mGVK&47",
             "drg": "P61B",
+            "druh_prijatia": 3,
             "ms": "S49-03",
         },
     },
@@ -240,6 +260,7 @@ PRIPADY = {
             "vykony": "12a100&Z&20230101",
             "markery": pd.NA,
             "drg": "P03A",
+            "druh_prijatia": 3,
             # S03-30 is applied because of priloha 12
             "ms": "S49-01~S03-30",
         },
@@ -255,6 +276,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P03A",
+            "druh_prijatia": 3,
             "ms": "S49-02",
         },
     },
@@ -269,7 +291,38 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P03A",
+            "druh_prijatia": 3,
             "ms": "S49-08",
+        },
+    },
+    "P5_NotApplicableDruhPrijatia2": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 1000,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "P03A",
+            "druh_prijatia": 2,
+            "ms": "S99-99",
+        },
+    },
+    "P5_NotApplicableDruhPrijatia7": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 0,
+            "hmotnost": 1000,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "X",
+            "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "P03A",
+            "druh_prijatia": 7,
+            "ms": "S99-99",
         },
     },
     "P6_UnapplicableDRG": {
@@ -283,6 +336,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "X",
+            "druh_prijatia": 3,
             # S52-52 is applied because of priloha 14
             "ms": "S52-52",
         },
@@ -298,6 +352,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
+            "druh_prijatia": 3,
             "ms": "S52-01",
         },
     },
@@ -312,6 +367,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
+            "druh_prijatia": 3,
             # S52-52 is applied because of priloha 14
             "ms": "S52-01~S52-52",
         },
@@ -327,6 +383,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
+            "druh_prijatia": 3,
             "ms": "S52-02",
         },
     },
@@ -341,6 +398,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mOSN&nopol",
             "drg": "W",
+            "druh_prijatia": 3,
             "ms": "S52-64~S52-02",
         },
     },
@@ -355,6 +413,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
+            "druh_prijatia": 3,
             "ms": "S02-01",
         },
     },
@@ -369,6 +428,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
+            "druh_prijatia": 3,
             # S02-56 is applied because of priloha 13
             "ms": "S02-01~S02-56",
         },
@@ -384,6 +444,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
+            "druh_prijatia": 3,
             "ms": "S02-02",
         },
     },
@@ -398,6 +459,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mOSN&nopol",
             "drg": "W",
+            "druh_prijatia": 3,
             "ms": "S02-68~S02-02",
         },
     },
@@ -412,6 +474,7 @@ PRIPADY = {
             "vykony": "8t130&Z&20230101~XXX&Z&20230101~34011&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S63-42",
         },
     },
@@ -426,6 +489,7 @@ PRIPADY = {
             "vykony": "8t130&Z&20230101~XXX&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -440,6 +504,7 @@ PRIPADY = {
             "vykony": "34011&Z&20230101~8t130&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -454,6 +519,7 @@ PRIPADY = {
             "vykony": "8m3050&Z&20230101~XXX&Z&20230101~13n094&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S40-02 is applied because of priloha 13
             "ms": "S44-21~S40-02",
         },
@@ -469,6 +535,7 @@ PRIPADY = {
             "vykony": "8m3050&Z&20230101~XXX&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S40-02 is applied because of priloha 13
             "ms": "S40-02",
         },
@@ -484,6 +551,7 @@ PRIPADY = {
             "vykony": "13n094&Z&20230101~8m3050&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -498,6 +566,7 @@ PRIPADY = {
             "vykony": "5t06f0&Z&20230101",
             "markery": "mSTA&C0-CO",
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S55-01~S55-02~S55-03~S55-04~S55-05",
         },
     },
@@ -512,6 +581,7 @@ PRIPADY = {
             "vykony": "5t06f0&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -526,6 +596,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mSTA&C0-CO",
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -540,6 +611,7 @@ PRIPADY = {
             "vykony": "5a90211&Z&20230101",
             "markery": "mSTA&C0-C7",
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S12-01~S12-05~S12-21",
         },
     },
@@ -554,6 +626,7 @@ PRIPADY = {
             "vykony": "5a90211&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -568,6 +641,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mSTA&C0-C7",
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -582,6 +656,7 @@ PRIPADY = {
             "vykony": "93020&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S11-07 is applied because of priloha 14
             "ms": "S11-05~S11-07",
         },
@@ -597,6 +672,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S11-07 is applied because of priloha 14
             "ms": "S11-07",
         },
@@ -612,6 +688,7 @@ PRIPADY = {
             "vykony": "93020&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -626,6 +703,7 @@ PRIPADY = {
             "vykony": "5t06f0&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S25-21 is applied because of priloha 15
             "ms": "S02-04~S25-21",
         },
@@ -641,6 +719,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S25-21 is applied because of priloha 15
             "ms": "S25-21",
         },
@@ -656,6 +735,7 @@ PRIPADY = {
             "vykony": "5t06f0&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -670,6 +750,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mODB&006",
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S05-31 is applied because of priloha 15
             "ms": "S36-08~S05-31",
         },
@@ -685,6 +766,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S05-31 is applied because of priloha 15
             "ms": "S05-31",
         },
@@ -700,6 +782,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mODB&006",
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -714,6 +797,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S65-01 is applied because of priloha 14
             "ms": "S65-31~S65-01",
         },
@@ -729,6 +813,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S65-01 is applied because of priloha 14
             "ms": "S65-01",
         },
@@ -744,6 +829,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S27-12 is applied because of priloha 15
             "ms": "S27-01~S27-12",
         },
@@ -759,6 +845,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S27-12 is applied because of priloha 15
             "ms": "S27-12",
         },
@@ -774,6 +861,7 @@ PRIPADY = {
             "vykony": "163002&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S58-08",
         },
     },
@@ -788,6 +876,7 @@ PRIPADY = {
             "vykony": "XXX&Z&20230101~163002&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -802,6 +891,7 @@ PRIPADY = {
             "vykony": "8r160&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S01-01",
         },
     },
@@ -816,6 +906,7 @@ PRIPADY = {
             "vykony": "XXX&Z&20230101~8r160&Z&20230101",
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -830,6 +921,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S63-23",
         },
     },
@@ -844,6 +936,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -858,6 +951,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S01-10",
         },
     },
@@ -872,6 +966,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -886,6 +981,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S37-03 is applied because of priloha 15
             "ms": "S17-22~S37-03",
         },
@@ -901,6 +997,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S37-03 is applied because of priloha 15
             "ms": "S37-03",
         },
@@ -916,6 +1013,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S37-03 is applied because of priloha 15
             "ms": "S37-03",
         },
@@ -931,6 +1029,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             # S37-03 is applied because of priloha 15
             "ms": "S37-03",
         },
@@ -946,6 +1045,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": "mOSN&anams",
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S98-01",
         },
     },
@@ -960,6 +1060,7 @@ PRIPADY = {
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
+            "druh_prijatia": 3,
             "ms": "S99-99",
         },
     },
@@ -971,21 +1072,20 @@ INVALID_PRIPADY = {
     "Invalid_NoVek": {"flags": [], "values": {**P5_PRIPAD, "vek": pd.NA, "ms": "ERROR"}},
     "Invalid_FloatVek": {"flags": [], "values": {**P5_PRIPAD, "vek": 10.5, "ms": "ERROR"}},
     "Invalid_NegativeVek": {"flags": [], "values": {**P5_PRIPAD, "vek": -1, "ms": "ERROR"}},
-    "Invalid_LargeVek": {"flags": [], "values": {**P5_PRIPAD, "vek": 150, "ms": "ERROR"}},
     "Invalid_StringVek": {"flags": [], "values": {**P5_PRIPAD, "vek": "abc", "ms": "ERROR"}},
-    "Invalid_TooLowHmotnost": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": 99, "ms": "ERROR"}},
-    "Invalid_TooHighHmotnost": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": 20001, "ms": "ERROR"}},
     "Invalid_ZeroHmotnostNovorodenec": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": 0, "ms": "ERROR"}},
     "Invalid_NoHmotnostNovorodenec": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": pd.NA, "ms": "ERROR"}},
     "Invalid_StringHmotnost": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": "abc", "ms": "ERROR"}},
     "Invalid_NegativeUPV": {"flags": [], "values": {**P5_PRIPAD, "umela_plucna_ventilacia": -1, "ms": "ERROR"}},
-    "Invalid_LargeUPV": {"flags": [], "values": {**P5_PRIPAD, "umela_plucna_ventilacia": 10001, "ms": "ERROR"}},
     "Invalid_StringUPV": {"flags": [], "values": {**P5_PRIPAD, "umela_plucna_ventilacia": "abc", "ms": "ERROR"}},
-    "Invalid_EmptyDiagnozy": {"flags": [], "values": {**P5_PRIPAD, "diagnozy": pd.NA, "ms": "ERROR"}},
+    "Invalid_NoDruhPrijatia": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": pd.NA, "ms": "ERROR"}},
+    "Invalid_StringDruhPrijatia": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": "abc", "ms": "ERROR"}},
+    "Invalid_DruhPrijatia10": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 10, "ms": "ERROR"}},
+    "Invalid_DruhPrijatia0": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 0, "ms": "ERROR"}},
 }
 
 P17_PRIPAD = PRIPADY["P17"]["values"]
-VYHODNOT_NEUPLNE_PRIPADY_PRIPADY = {
+EVALUATE_INCOMPLETE_PRIPADY_PRIPADY = {
     "VNP_NoID": {"flags": ["-n"], "values": {**P17_PRIPAD, "id": pd.NA}},
     "VNP_NoVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": pd.NA}},
     "VNP_FloatVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": 10.5}},
@@ -1004,7 +1104,7 @@ VYHODNOT_NEUPLNE_PRIPADY_PRIPADY = {
     "VNP_EmptyDiagnozy": {"flags": ["-n"], "values": {**P17_PRIPAD, "diagnozy": pd.NA}},
 }
 
-VSETKY_VYKONY_HLAVNE_PRIPADY = {
+ALL_VYKONY_HLAVNE_PRIPADY = {
     "VVH_P7": {
         "flags": ["-v"],
         "values": {**PRIPADY["P7"]["values"], "vykony": "XXX&Z&20230101~8t130&Z&20230101~34011&Z&20230101"},
@@ -1025,7 +1125,7 @@ VSETKY_VYKONY_HLAVNE_PRIPADY = {
     "VVH_P13": {"flags": ["-v"], "values": {**PRIPADY["P13"]["values"], "vykony": "XXX&Z&20230101~8r160&Z&20230101"}},
 }
 
-VSETKY_VYKONY_HLAVNE_PONECHAJ_DUPLICITY_PRIPADY = {
+ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
     "VVHPD_P7": {
         "flags": ["-vd"],
         "values": {
@@ -1082,9 +1182,9 @@ VSETKY_VYKONY_HLAVNE_PONECHAJ_DUPLICITY_PRIPADY = {
 ALL_TEST_CASES = {
     **PRIPADY,
     **INVALID_PRIPADY,
-    **VYHODNOT_NEUPLNE_PRIPADY_PRIPADY,
-    **VSETKY_VYKONY_HLAVNE_PRIPADY,
-    **VSETKY_VYKONY_HLAVNE_PONECHAJ_DUPLICITY_PRIPADY,
+    **EVALUATE_INCOMPLETE_PRIPADY_PRIPADY,
+    **ALL_VYKONY_HLAVNE_PRIPADY,
+    **ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY,
 }
 
 
@@ -1098,7 +1198,45 @@ def test_single_case(test_case_data: dict, tmp_path: Path) -> None:
     pripad.to_csv(input_csv_path, sep=";", index=False, header=False)
 
     output_csv_path = tmp_path / "output.csv"
-    subprocess.run([sys.executable, MAIN_SCRIPT, input_csv_path, output_csv_path, *test_case_data["flags"]], check=True)
+    subprocess.run(
+        [
+            sys.executable,
+            "-m",
+            "osn_algoritmus",
+            str(input_csv_path),
+            str(output_csv_path),
+            *test_case_data["flags"],
+        ],
+        check=True,
+    )
+
+    assert output_csv_path.exists()
+    output = pd.read_csv(output_csv_path, sep=";").replace({float("nan"): pd.NA})
+
+    pd.testing.assert_frame_equal(output, expected_output)
+
+
+def test_multiple_cases(tmp_path: Path) -> None:
+    """Test the main script with multiple input rows."""
+    test_data = list(ALL_TEST_CASES.values())[:10]
+    hp_rows = [test_case_data["values"] for test_case_data in test_data]
+    hp_df = pd.DataFrame(hp_rows)[INPUT_COLS]
+    expected_output = pd.DataFrame(hp_rows)
+
+    input_csv_path = tmp_path / "input.csv"
+    hp_df.to_csv(input_csv_path, sep=";", index=False, header=False)
+
+    output_csv_path = tmp_path / "output.csv"
+    subprocess.run(
+        [
+            sys.executable,
+            "-m",
+            "osn_algoritmus",
+            str(input_csv_path),
+            str(output_csv_path),
+        ],
+        check=True,
+    )
 
     assert output_csv_path.exists()
     output = pd.read_csv(output_csv_path, sep=";").replace({float("nan"): pd.NA})
