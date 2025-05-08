@@ -787,6 +787,22 @@ PRIPADY = {
             "ms": "S99-99",
         },
     },
+    "P9a_NotApplicableDieta": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 17,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "H900",
+            "vykony": pd.NA,
+            "markery": "mODB&006",
+            "drg": pd.NA,
+            "druh_prijatia": 3,
+            # S53-30 is applied because of priloha 14
+            "ms": "S53-30",
+        },
+    },
     "P10_Dieta": {
         "flags": [],
         "values": {

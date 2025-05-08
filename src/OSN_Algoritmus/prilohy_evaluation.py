@@ -366,7 +366,7 @@ def priloha_6(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if not hp.diagnozy or hp.drg is None or hp.vek is None:
+    if not hp.diagnozy or hp.drg is None or hp.je_dieta is None:
         return []
 
     table_name = "p6_DRGD_deti" if hp.je_dieta else "p6_DRGD_dospeli"
@@ -435,7 +435,7 @@ def prilohy_7_8(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[st
         List of assigned medicinske sluzby
 
     """
-    if len(hp.vykony) < 2 or hp.vek is None:
+    if len(hp.vykony) < 2 or hp.je_dieta is None:
         return []
 
     nazov_tabulky = "p7_VV_deti_hv" if hp.je_dieta else "p8_VV_dospeli_hv"
@@ -471,7 +471,7 @@ def prilohy_7a_8a(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if not hp.vykony or not hp.markery or hp.vek is None:
+    if not hp.vykony or not hp.markery or hp.je_dieta is None:
         return []
 
     table_name = "p7a_MV_deti" if hp.je_dieta else "p8a_MV_dospeli"
@@ -517,7 +517,7 @@ def priloha_9(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[str]
         List of assigned medicinske sluzby
 
     """
-    if not hp.vykony or not hp.diagnozy or hp.vek is None:
+    if not hp.vykony or not hp.diagnozy or hp.je_dieta is None:
         return []
 
     table_name = "p9_VD_deti" if hp.je_dieta else "p9_VD_dospeli"
@@ -553,7 +553,7 @@ def priloha_9a(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if not hp.diagnozy or not hp.markery or hp.vek is None or hp.je_dieta:
+    if not hp.diagnozy or not hp.markery or hp.je_dieta is None or hp.je_dieta:
         return []
 
     return [
@@ -578,7 +578,7 @@ def priloha_10(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if len(hp.diagnozy) < 2 or hp.vek is None:
+    if len(hp.diagnozy) < 2 or hp.je_dieta is None:
         return []
 
     hlavne_diagnozy = [line["kod_hlavnej_diagnozy"] for line in tables["p10_DD_diagnozy"]]
@@ -606,7 +606,7 @@ def prilohy_12_13(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[
         List of assigned medicinske sluzby
 
     """
-    if not hp.vykony or hp.vek is None:
+    if not hp.vykony or hp.je_dieta is None:
         return []
 
     table_name = "p12_V_deti" if hp.je_dieta else "p13_V_dospeli"
@@ -636,7 +636,7 @@ def prilohy_14_15(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if not hp.diagnozy or hp.vek is None:
+    if not hp.diagnozy or hp.je_dieta is None:
         return []
 
     table_name = "p14_D_deti" if hp.je_dieta else "p15_D_dospeli"

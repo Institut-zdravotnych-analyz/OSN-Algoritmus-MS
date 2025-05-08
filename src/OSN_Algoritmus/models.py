@@ -24,9 +24,8 @@ class HospitalizacnyPripad(NamedTuple):
     druh_prijatia: int | None
 
     @property
-    def je_dieta(self) -> bool:
-        """Returns True if the hp is dieta."""
+    def je_dieta(self) -> bool | None:
+        """Returns True if the hp is a child, False if an adult, or None if vek is not defined."""
         if self.vek is None:
-            msg = "Cannot determine if the hp is dieta because the vek is not defined."
-            raise ValueError(msg)
+            return None
         return self.vek <= 18
