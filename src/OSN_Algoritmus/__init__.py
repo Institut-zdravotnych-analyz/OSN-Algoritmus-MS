@@ -1,1 +1,0 @@
-"""osn_algoritmus package."""
