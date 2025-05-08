@@ -2,7 +2,8 @@
 
 import logging
 
-from .core import grouper_ms, setup_parser
+from .core import process_csv
+from .utils import setup_parser
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(name)s: %(message)s")
 logger = logging.getLogger(__name__)
@@ -31,7 +32,7 @@ if args.ponechaj_duplicity:
         " duplicitné záznamy.",
     )
 
-grouper_ms(
+process_csv(
     args.input_path,
     args.output_path,
     all_vykony_hlavne=args.vsetky_vykony_hlavne,

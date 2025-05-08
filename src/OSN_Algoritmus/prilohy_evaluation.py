@@ -1,11 +1,10 @@
-"""Funkcie na vyhodnotenie jednotlivých príloh vyhlášky 531/2023 Z. z.
+"""Functions related to evaluation of prilohy vyhlášky 531/2023 Z. z.
 
-Hlavnými funkicami sú funkcie nazvané priloha_x, prípadne prilohy_x_y. Tieto funkcie vždy vracajú zoznam nájdených
-medicínskych služieb.
+Main functions are named priloha_x or prilohy_x_y. These functions always return a list of assigned medicinske sluzby.
 """
 
+from osn_algoritmus.models import HospitalizacnyPripad, Marker
 from osn_algoritmus.prilohy_preparation import prepare_tables
-from osn_algoritmus.utils import HospitalizacnyPripad, Marker
 
 tables = prepare_tables()
 
@@ -230,7 +229,7 @@ def kriterium_bez_signifikantneho_op_s_upv_viac_95_hod_viacere_tazke_problemy(hp
     return bez_signifikantneho_op and s_upv_gt_95 and s_viacerymi_tazkymi_problemami(hp)
 
 
-def kriterium_bez_signifikantneho_op_bez_upv_viac_95_hod_bez_viacerych_tazkych_problemov(
+def kriterium_bez_signifikantneho_op_bez_upv_viac_95_hod_a_viacerych_tazkych_problemov(
     hp: HospitalizacnyPripad,
 ) -> bool:
     """Evaluate kritérium „Bez signifikantného OP výkonu a bez UPV > 95 hodín a viacerých ťažkých problémov“ for hp.
@@ -278,7 +277,7 @@ def splna_kriterium_podla_5(kriterium: str, hp: HospitalizacnyPripad) -> bool:
         "Novorodenec pod hranicou viability (< 24 týždeň alebo < 500 g)": kriterium_pod_hranicou_viability,
         "So signifikantným OP výkonom": kriterium_so_signifikantnym_op_vykonom,
         "Bez signifikantného OP výkonu, s UPV > 95 hodín, s viacerými ťažkými problémami": kriterium_bez_signifikantneho_op_s_upv_viac_95_hod_viacere_tazke_problemy,  # noqa: E501
-        "Bez signifikantného OP výkonu a bez UPV > 95 hodín a viacerých ťažkých problémov": kriterium_bez_signifikantneho_op_bez_upv_viac_95_hod_bez_viacerych_tazkych_problemov,  # noqa: E501
+        "Bez signifikantného OP výkonu a bez UPV > 95 hodín a viacerých ťažkých problémov": kriterium_bez_signifikantneho_op_bez_upv_viac_95_hod_a_viacerych_tazkych_problemov,  # noqa: E501
     }
     if kriterium in kriteria_logic:
         return kriteria_logic[kriterium](hp)
@@ -300,7 +299,7 @@ def priloha_5(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if hp.druh_prijatia not in range(3, 7) or hp.drg is None:
+    if hp.druh_prijatia is None or not 3 <= hp.druh_prijatia <= 6 or hp.drg is None:
         return []
 
     return [

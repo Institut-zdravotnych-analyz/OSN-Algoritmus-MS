@@ -18,6 +18,7 @@ INPUT_COLS = [
     "drg",
     "druh_prijatia",
 ]
+
 PRIPADY = {
     "P5_UnapplicableDRG": {
         "flags": [],
@@ -1067,6 +1068,7 @@ PRIPADY = {
 }
 
 P5_PRIPAD = PRIPADY["P5_NoDoplnujuceKriterium"]["values"]
+# TODO: add invalid vykony and markery
 INVALID_PRIPADY = {
     "Invalid_NoID": {"flags": [], "values": {**P5_PRIPAD, "id": pd.NA, "ms": "ERROR"}},
     "Invalid_NoVek": {"flags": [], "values": {**P5_PRIPAD, "vek": pd.NA, "ms": "ERROR"}},
@@ -1082,6 +1084,31 @@ INVALID_PRIPADY = {
     "Invalid_StringDruhPrijatia": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": "abc", "ms": "ERROR"}},
     "Invalid_DruhPrijatia10": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 10, "ms": "ERROR"}},
     "Invalid_DruhPrijatia0": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 0, "ms": "ERROR"}},
+    "Invalid_VykonyWrongDelimiterTilde": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "vykony": "8r160&Z&20230101&8r160&Z&20230101", "ms": "ERROR"},
+    },
+    "Invalid_VykonyWrongDelimiterAmpersand": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "vykony": "8r160~Z~20230101", "ms": "ERROR"},
+    },
+    "Invalid_VykonyNoLokalizacia": {"flags": [], "values": {**P5_PRIPAD, "vykony": "8r160&20230101", "ms": "ERROR"}},
+    "Invalid_VykonyNoDatum": {"flags": [], "values": {**P5_PRIPAD, "vykony": "8r160", "ms": "ERROR"}},
+    "Invalid_VykonyNoVykon": {"flags": [], "values": {**P5_PRIPAD, "vykony": "Z&20230101", "ms": "ERROR"}},
+    "Invalid_MarkeryNoKod": {"flags": [], "values": {**P5_PRIPAD, "markery": "&nopol", "ms": "ERROR"}},
+    "Invalid_MarkeryNoHodnota": {"flags": [], "values": {**P5_PRIPAD, "markery": "mOSN&", "ms": "ERROR"}},
+    "Invalid_MarkeryWrongDelimiterTilde": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "markery": "mOSN&nopol&mGVK&3", "ms": "ERROR"},
+    },
+    "Invalid_MarkeryWrongDelimiterAmpersand": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "markery": "mOSN~nopol", "ms": "ERROR"},
+    },
+    "Invalid_Diagnozy": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "diagnozy": "AAA~", "ms": "ERROR"},
+    },
 }
 
 P17_PRIPAD = PRIPADY["P17"]["values"]

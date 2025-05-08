@@ -1,7 +1,4 @@
-"""Funkcie na načítanie a predspracovanie súborov s dátami z príloh.
-
-Načíta všetky prílohy zo súborov a vytvorí pomocné zoznamy pre rôzne kritériá.
-"""
+"""Functions related to preparation of prilohy tables."""
 
 import csv
 from importlib import resources

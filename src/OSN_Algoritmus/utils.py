@@ -1,62 +1,21 @@
-"""Modul s pomocnymi funkciami a datovymi typmi."""
+"""Utility functions."""
 
+import argparse
+import logging
 import re
-from typing import NamedTuple
+from pathlib import Path
+
+from osn_algoritmus.models import Marker
+
+logger = logging.getLogger(__name__)
 
 
-class Marker(NamedTuple):
-    """Represents a marker. TODO: add link or some info about markers."""
-
-    kod: str
-    hodnota: str
-
-
-class HospitalizacnyPripad(NamedTuple):
-    """Represents a hospitalizacny pripad."""
-
-    id: str
-    vek: int | None
-    hmotnost: float | None
-    upv: int | None
-    diagnozy: list[str]
-    vykony: list[str]
-    markery: list[Marker]
-    drg: str | None
-    druh_prijatia: int | None
-
-    @property
-    def je_dieta(self) -> bool:
-        """Returns True if the hp is dieta."""
-        if self.vek is None:
-            msg = "Cannot determine if the hp is dieta because the vek is not defined."
-            raise ValueError(msg)
-        return self.vek <= 18
-
-    @property
-    def hlavny_vykon(self) -> str:
-        """Returns hlavny vykon."""
-        if len(self.vykony) == 0:
-            msg = "Cannot determine hlavny vykon because the vykony are not defined."
-            raise ValueError(msg)
-        return self.vykony[0]
-
-    @property
-    def vedlajsie_vykony(self) -> list[str]:
-        """Returns vedlajsie vykony."""
-        return self.vykony[1:]
-
-    @property
-    def hlavna_diagnoza(self) -> str:
-        """Returns hlavna diagnoza."""
-        if len(self.diagnozy) == 0:
-            msg = "Cannot determine hlavna diagnoza because the diagnozy are not defined."
-            raise ValueError(msg)
-        return self.diagnozy[0]
-
-    @property
-    def vedlajsie_diagnozy(self) -> list[str]:
-        """Returns vedlajsie diagnozy."""
-        return self.diagnozy[1:]
+def log_error_or_warning(logger: logging.Logger, message: str, *, error: bool) -> None:
+    """Log an error or warning message."""
+    if error:
+        logger.error(message)
+    else:
+        logger.warning(message)
 
 
 def standardize_code(kod: str) -> str:
@@ -64,23 +23,31 @@ def standardize_code(kod: str) -> str:
     return re.sub("[^0-9a-zA-Z]", "", kod).lower()
 
 
-def create_diagnozy_from_str(diagnozy: str) -> list[str]:
+def create_diagnozy_from_str(diagnozy_str: str) -> list[str]:
     """Create a list of kód diagnózy from a string."""
-    return [standardize_code(diagnoza) for diagnoza in diagnozy.split("~")] if diagnozy else []
-
-
-def create_vykony_from_str(vykony: str) -> list[str]:
-    """Create a list of kód výkonu from a string."""
-    if not vykony:
+    if not diagnozy_str:
         return []
-    kody_vykonov = []
-    for vykon_str in vykony.split("~"):
-        parts = vykon_str.split("&")
-        if len(parts) != 3:
-            msg = f"Neplatný formát výkonu: '{vykon_str}'. Očakáva sa formát 'kod_vykonu&lokalizacia&datum_vykonu'."
+    diagnozy = []
+    for kod in diagnozy_str.split("~"):
+        if kod == "":
+            msg = f"Invalid format of diagnozy: {diagnozy_str!r}. Expected format 'diagnoza1~diagnoza2~...'."
             raise ValueError(msg)
-        kody_vykonov.append(standardize_code(parts[0]))
-    return kody_vykonov
+        diagnozy.append(standardize_code(kod))
+    return diagnozy
+
+
+def create_vykony_from_str(vykony_str: str) -> list[str]:
+    """Create a list of kód výkonu from a string."""
+    if not vykony_str:
+        return []
+    vykony = []
+    for kod in vykony_str.split("~"):
+        parts = kod.split("&")
+        if len(parts) != 3 or any(part == "" for part in parts):
+            msg = f"Invalid format of vykony: {kod!r}. Expected format 'kod_vykonu&lokalizacia&datum_vykonu'."
+            raise ValueError(msg)
+        vykony.append(standardize_code(parts[0]))
+    return vykony
 
 
 def create_markery_from_str(markery: str) -> list[Marker]:
@@ -90,8 +57,8 @@ def create_markery_from_str(markery: str) -> list[Marker]:
     result = []
     for marker_str in markery.split("~"):
         parts = marker_str.split("&")
-        if len(parts) != 2:
-            msg = f"Invalid marker format: '{marker_str}'. Expected format 'kod&hodnota'."
+        if len(parts) != 2 or any(part == "" for part in parts):
+            msg = f"Invalid marker format: {marker_str!r}. Expected format 'kod&hodnota'."
             raise ValueError(msg)
         result.append(Marker(kod=parts[0], hodnota=parts[1]))
     return result
@@ -124,3 +91,69 @@ def uses_marker(table_name: str, row: dict) -> bool:
             if is_subdict(condition, row):
                 return True
     return False
+
+
+def setup_parser(
+    *,
+    input_path: bool = False,
+    output_path: bool = False,
+    vsetky_vykony_hlavne: bool = False,
+    vyhodnot_neuplne_pripady: bool = False,
+    ponechaj_duplicity: bool = False,
+) -> argparse.ArgumentParser:
+    """Create a parser for the command-line arguments.
+
+    Args:
+        input_path: If True, add an argument for the input path.
+        output_path: If True, add an argument for the output path.
+        vsetky_vykony_hlavne: If True, add an argument for vsetky_vykony_hlavne flag.
+        vyhodnot_neuplne_pripady: If True, add an argument for vyhodnot_neuplne_pripady flag.
+        ponechaj_duplicity: If True, add an argument for ponechaj_duplicity flag.
+
+    Returns:
+        The parser with the added arguments.
+
+    """
+    parser = argparse.ArgumentParser(
+        prog="python -m osn_algoritmus",
+        description="Skript na priraďovanie hospitalizačných prípadov do medicínskych služieb.",
+    )
+
+    if input_path:
+        parser.add_argument("input_path", type=Path, help="Cesta k súboru so vstupnými dátami.")
+    if output_path:
+        parser.add_argument(
+            "output_path",
+            type=Path,
+            nargs="?",
+            default=None,
+            help="Cesta k výstupnému súboru. Ak nie je zadaná, vytvorí sa odvodením od vstupného súboru.",
+        )
+    if vsetky_vykony_hlavne:
+        parser.add_argument(
+            "--vsetky_vykony_hlavne",
+            "-v",
+            action="store_true",
+            help=(
+                "Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z vykázaných výkonov mohol byť hlavný. Štandardne"
+                " sa za hlavný výkon považuje iba prvý vykázaný, prípadne žiaden, pokiaľ zoznam začína znakom '~'."
+            ),
+        )
+    if vyhodnot_neuplne_pripady:
+        parser.add_argument(
+            "--vyhodnot_neuplne_pripady",
+            "-n",
+            action="store_true",
+            help=(
+                "V prípade, že nie je vyplnená nejaká povinná hodnota, aj tak pokračuj vo vyhodnocovaní. Štandardne"
+                " vráti hodnotu 'ERROR'."
+            ),
+        )
+    if ponechaj_duplicity:
+        parser.add_argument(
+            "--ponechaj_duplicity",
+            "-d",
+            action="store_true",
+            help="Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.",
+        )
+    return parser
