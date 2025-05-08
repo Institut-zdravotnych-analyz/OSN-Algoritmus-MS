@@ -5,7 +5,7 @@ import logging
 from .core import process_csv
 from .utils import setup_parser
 
-logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(name)s: %(message)s")
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 parser = setup_parser(
