@@ -80,6 +80,8 @@ def prepare_markery(tables: dict[str, list[dict[str, Any]]]) -> None:
         for riadok in zoznam_riadkov:
             if riadok.get("kod_markera"):
                 riadok["marker"] = Marker(kod=riadok["kod_markera"], hodnota=riadok["hodnota_markera"])
+                del riadok["kod_markera"]
+                del riadok["hodnota_markera"]
             else:
                 riadok["marker"] = None
 

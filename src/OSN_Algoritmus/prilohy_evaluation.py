@@ -3,6 +3,8 @@
 Main functions are named priloha_x or prilohy_x_y. These functions always return a list of assigned medicinske sluzby.
 """
 
+from collections.abc import Callable
+
 from osn_algoritmus.models import HospitalizacnyPripad, Marker
 from osn_algoritmus.prilohy_preparation import prepare_tables
 
@@ -113,7 +115,7 @@ def kriterium_akutny_porod(hp: HospitalizacnyPripad) -> bool:
     """Evaluate kritérium „Akútny pôrod novorodenca v prípade ohrozenia života bez ohľadu na gestačný vek a hmotnosť“ for hp.
 
     Vyhláška:
-    Doplňujúce kritérium „Akútny pôrod novorodenca v prípade ohrozenia života bez ohľadu na gestačný vek a hmotnosť”
+    Doplňujúce kritérium „Akútny pôrod novorodenca v prípade ohrozenia života bez ohľadu na gestačný vek a hmotnosť"
     je splnené, ak mal pacient vykázaný aj tento výkon:
         - 93083	Akútny pôrod novorodenca v prípade ohrozenia života
 
@@ -364,7 +366,7 @@ def priloha_6(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if len(hp.diagnozy) == 0 or hp.drg is None or hp.vek is None:
+    if not hp.diagnozy or hp.drg is None or hp.vek is None:
         return []
 
     table_name = "p6_DRGD_deti" if hp.je_dieta else "p6_DRGD_dospeli"
@@ -393,6 +395,31 @@ def poskytnuty_vedlajsi_vykon(vedlajsie_vykony: list[str], skupina_vykonov: str,
     return any(vykon in vykony for vykon in vedlajsie_vykony)
 
 
+def apply_all_vykony_hlavne(
+    hp: HospitalizacnyPripad,
+    apply_priloha: Callable[[HospitalizacnyPripad], list[str]],
+) -> list[str]:
+    """Apply the given priloha function to all possible hlavne vykony of the hp.
+
+    Args:
+        hp: Hospitalizacny pripad
+        apply_priloha: Function to apply the priloha
+
+    Returns:
+        List of assigned medicinske sluzby
+
+    """
+    sluzby = []
+
+    for i in range(1, len(hp.vykony)):
+        hlavny_vykon = hp.vykony[i]
+        vedlajsie_vykony = [*hp.vykony[:i], *hp.vykony[i + 1 :]]
+        new_hp = hp._replace(vykony=[hlavny_vykon, *vedlajsie_vykony])
+        sluzby.extend(apply_priloha(new_hp))
+
+    return sluzby
+
+
 def prilohy_7_8(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[str]:
     """Assign medicinske sluzby according to priloha 7 and 8.
 
@@ -408,30 +435,24 @@ def prilohy_7_8(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[st
         List of assigned medicinske sluzby
 
     """
-    if len(hp.vykony) == 0 or hp.vek is None:
+    if len(hp.vykony) < 2 or hp.vek is None:
         return []
 
     nazov_tabulky = "p7_VV_deti_hv" if hp.je_dieta else "p8_VV_dospeli_hv"
     nazov_vedlajsej_tabulky = "p7_VV_deti_vv" if hp.je_dieta else "p8_VV_dospeli_vv"
 
-    sluzby = [
-        line["kod_ms"]
-        for line in tables[nazov_tabulky]
-        if line["kod_hlavneho_vykonu"] == hp.hlavny_vykon
-        and poskytnuty_vedlajsi_vykon(hp.vedlajsie_vykony, line["kod_ms"], nazov_vedlajsej_tabulky)
-    ]
+    def apply_priloha(hp: HospitalizacnyPripad) -> list[str]:
+        return [
+            line["kod_ms"]
+            for line in tables[nazov_tabulky]
+            if line["kod_hlavneho_vykonu"] == hp.vykony[0]
+            and poskytnuty_vedlajsi_vykon(hp.vykony[1:], line["kod_ms"], nazov_vedlajsej_tabulky)
+        ]
+
+    sluzby = apply_priloha(hp)
 
     if all_vykony_hlavne:
-        for i, hlavny_vykon_iter in enumerate(hp.vykony[1:]):
-            aktualne_vedlajsie_vykony = hp.vykony[: i + 1] + hp.vykony[i + 2 :]
-            sluzby.extend(
-                [
-                    line["kod_ms"]
-                    for line in tables[nazov_tabulky]
-                    if line["kod_hlavneho_vykonu"] == hlavny_vykon_iter
-                    and poskytnuty_vedlajsi_vykon(aktualne_vedlajsie_vykony, line["kod_ms"], nazov_vedlajsej_tabulky)
-                ],
-            )
+        sluzby.extend(apply_all_vykony_hlavne(hp, apply_priloha))
 
     return sluzby
 
@@ -450,7 +471,7 @@ def prilohy_7a_8a(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if len(hp.vykony) == 0 or len(hp.markery) == 0 or hp.vek is None:
+    if not hp.vykony or not hp.markery or hp.vek is None:
         return []
 
     table_name = "p7a_MV_deti" if hp.je_dieta else "p8a_MV_dospeli"
@@ -458,8 +479,7 @@ def prilohy_7a_8a(hp: HospitalizacnyPripad) -> list[str]:
     return [
         line["kod_ms"]
         for line in tables[table_name]
-        if line["kod_vykonu"] in hp.vykony
-        and Marker(kod=line["kod_markera"], hodnota=line["hodnota_markera"]) in hp.markery
+        if line["kod_vykonu"] in hp.vykony and line["marker"] in hp.markery
     ]
 
 
@@ -497,28 +517,23 @@ def priloha_9(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[str]
         List of assigned medicinske sluzby
 
     """
-    if len(hp.vykony) == 0 or len(hp.diagnozy) == 0 or hp.vek is None:
+    if not hp.vykony or not hp.diagnozy or hp.vek is None:
         return []
 
     table_name = "p9_VD_deti" if hp.je_dieta else "p9_VD_dospeli"
 
-    sluzby = [
-        line["kod_ms"]
-        for line in tables[table_name]
-        if line["kod_hlavneho_vykonu"] == hp.hlavny_vykon
-        and splna_diagnoza_zo_skupiny_podla_9(hp.hlavna_diagnoza, line["skupina_diagnoz"])
-    ]
+    def apply_priloha(hp: HospitalizacnyPripad) -> list[str]:
+        return [
+            line["kod_ms"]
+            for line in tables[table_name]
+            if line["kod_hlavneho_vykonu"] == hp.vykony[0]
+            and splna_diagnoza_zo_skupiny_podla_9(hp.diagnozy[0], line["skupina_diagnoz"])
+        ]
+
+    sluzby = apply_priloha(hp)
 
     if all_vykony_hlavne:
-        for hlavny_vykon_iter in hp.vykony[1:]:
-            sluzby.extend(
-                [
-                    line["kod_ms"]
-                    for line in tables[table_name]
-                    if line["kod_hlavneho_vykonu"] == hlavny_vykon_iter
-                    and splna_diagnoza_zo_skupiny_podla_9(hp.hlavna_diagnoza, line["skupina_diagnoz"])
-                ],
-            )
+        sluzby.extend(apply_all_vykony_hlavne(hp, apply_priloha))
 
     return sluzby
 
@@ -538,14 +553,13 @@ def priloha_9a(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if len(hp.diagnozy) == 0 or len(hp.markery) == 0 or hp.vek is None or hp.je_dieta:
+    if not hp.diagnozy or not hp.markery or hp.vek is None or hp.je_dieta:
         return []
 
     return [
         line["kod_ms"]
         for line in tables["p9a_MD_dospeli"]
-        if hp.hlavna_diagnoza.startswith(line["kod_hlavnej_diagnozy"])
-        and Marker(kod=line["kod_markera"], hodnota=line["hodnota_markera"]) in hp.markery
+        if hp.diagnozy[0].startswith(line["kod_hlavnej_diagnozy"]) and line["marker"] in hp.markery
     ]
 
 
@@ -564,7 +578,7 @@ def priloha_10(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if len(hp.diagnozy) == 0 or hp.vek is None:
+    if len(hp.diagnozy) < 2 or hp.vek is None:
         return []
 
     hlavne_diagnozy = [line["kod_hlavnej_diagnozy"] for line in tables["p10_DD_diagnozy"]]
@@ -573,33 +587,8 @@ def priloha_10(hp: HospitalizacnyPripad) -> list[str]:
     return [
         vedlajsia_diagnoza["kod_ms"]
         for vedlajsia_diagnoza in table_vedlajsie_diagnozy
-        if vedlajsia_diagnoza["kod_vedlajsej_diagnozy"] in hp.vedlajsie_diagnozy
-        and hp.hlavna_diagnoza in hlavne_diagnozy
+        if vedlajsia_diagnoza["kod_vedlajsej_diagnozy"] in hp.diagnozy[1:] and hp.diagnozy[0] in hlavne_diagnozy
     ]
-
-
-def ms_podla_hlavneho_vykonu(hp: HospitalizacnyPripad, table_name: str, *, all_vykony_hlavne: bool) -> list[str]:
-    """Assign medicinske sluzby according to the hlavny vykon.
-
-    Args:
-        hp: Hospitalizacny pripad
-        table_name: Name of the table where the medicinske sluzby are defined
-        all_vykony_hlavne: True, if all possible hlavne vykony should be evaluated
-
-    Returns:
-        List of assigned medicinske sluzby
-
-    """
-    if len(hp.vykony) == 0:
-        return []
-
-    sluzby = [line["kod_ms"] for line in tables[table_name] if line["kod_vykonu"] == hp.hlavny_vykon]
-
-    if all_vykony_hlavne:
-        for hlavny_vykon in hp.vykony[1:]:
-            sluzby.extend([line["kod_ms"] for line in tables[table_name] if line["kod_vykonu"] == hlavny_vykon])
-
-    return sluzby
 
 
 def prilohy_12_13(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[str]:
@@ -617,12 +606,20 @@ def prilohy_12_13(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[
         List of assigned medicinske sluzby
 
     """
-    if len(hp.vykony) == 0 or hp.vek is None:
+    if not hp.vykony or hp.vek is None:
         return []
 
     table_name = "p12_V_deti" if hp.je_dieta else "p13_V_dospeli"
 
-    return ms_podla_hlavneho_vykonu(hp, table_name, all_vykony_hlavne=all_vykony_hlavne)
+    def apply_priloha(hp: HospitalizacnyPripad) -> list[str]:
+        return [line["kod_ms"] for line in tables[table_name] if line["kod_vykonu"] == hp.vykony[0]]
+
+    sluzby = apply_priloha(hp)
+
+    if all_vykony_hlavne:
+        sluzby.extend(apply_all_vykony_hlavne(hp, apply_priloha))
+
+    return sluzby
 
 
 def prilohy_14_15(hp: HospitalizacnyPripad) -> list[str]:
@@ -639,11 +636,11 @@ def prilohy_14_15(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if len(hp.diagnozy) == 0 or hp.vek is None:
+    if not hp.diagnozy or hp.vek is None:
         return []
 
     table_name = "p14_D_deti" if hp.je_dieta else "p15_D_dospeli"
-    return [line["kod_ms"] for line in tables[table_name] if line["kod_diagnozy"] == hp.hlavna_diagnoza]
+    return [line["kod_ms"] for line in tables[table_name] if line["kod_diagnozy"] == hp.diagnozy[0]]
 
 
 def priloha_16(hp: HospitalizacnyPripad) -> list[str]:
@@ -661,7 +658,7 @@ def priloha_16(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if len(hp.diagnozy) == 0:
+    if not hp.diagnozy:
         return []
 
     kod_ms = "S17-22"
@@ -690,11 +687,7 @@ def priloha_17(hp: HospitalizacnyPripad) -> list[str]:
     if not hp.markery:
         return []
 
-    return [
-        line["kod_ms"]
-        for line in tables["p17_M"]
-        if Marker(kod=line["kod_markera"], hodnota=line["hodnota_markera"]) in hp.markery
-    ]
+    return [line["kod_ms"] for line in tables["p17_M"] if line["marker"] in hp.markery]
 
 
 def prirad_ms(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[str]:

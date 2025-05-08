@@ -1068,7 +1068,6 @@ PRIPADY = {
 }
 
 P5_PRIPAD = PRIPADY["P5_NoDoplnujuceKriterium"]["values"]
-# TODO: add invalid vykony and markery
 INVALID_PRIPADY = {
     "Invalid_NoID": {"flags": [], "values": {**P5_PRIPAD, "id": pd.NA, "ms": "ERROR"}},
     "Invalid_NoVek": {"flags": [], "values": {**P5_PRIPAD, "vek": pd.NA, "ms": "ERROR"}},

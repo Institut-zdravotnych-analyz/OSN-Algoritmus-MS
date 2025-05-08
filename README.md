@@ -71,14 +71,14 @@ Popis položiek:
 | Č. | interný názov položky   | formát položky | popis položky                                                                                                                                                        |povinná položka
 |----|-------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---
 | 1  | id                      | string         | Identifikátor hospitalizačného prípadu, jeho hodnota nemá vplyv na algoritmus.                                                                                       |áno
-| 2  | vek                     | int            | Vek pacienta ku dňu prijatia v rokoch, musí byť vyplnený, pre deti do 1 roka sa uvádza `0`.                                                                            |áno
+| 2  | vek                     | int            | Vek pacienta ku dňu prijatia v rokoch, musí byť vyplnený, pre deti do 1 roka sa uvádza `0`.                                                                          |áno
 | 3  | hmotnost                | float          | Hmotnosť pacienta ku dňu prijatia v gramoch. Používaná len pre hospitalizačné prípady s vekom 0.                                                                     |pre hospitalizačné prípady s vekom 0
-| 4  | umela_plucna_ventilacia | int            | Počet hodín umelej pľúcnej ventilácie.                                                                                                                                |áno
-| 5  | diagnozy                | string         | Zoznam kódov diagnóz pacienta oddelený znakom `~`, ako prvá sa uvádza hlavná diagnóza. Kódy diagnóz sa uvádzajú bez bodky.                                            |nie
+| 4  | umela_plucna_ventilacia | int            | Počet hodín umelej pľúcnej ventilácie.                                                                                                                               |áno
+| 5  | diagnozy                | string         | Zoznam kódov diagnóz pacienta oddelený znakom `~`, ako prvá sa uvádza hlavná diagnóza. Kódy diagnóz sa uvádzajú bez bodky.                                           |nie
 | 6  | vykony                  | string         | Zoznam kódov výkonov pacienta v tvare `kod_vykonu&lokalizacia&datum_vykonu` oddelený znakom `~`, ako prvý sa uvádza hlavný výkon. Kódy výkonov sa uvádzajú bez bodky.|nie
 | 7  | markery                 | string         | Zoznam markerov pacienta v tvare `kod_markera&hodnota_markera` oddelený znakom `~`.                                                                                  |nie
-| 8  | drg                     | string         | DRG skupina, do ktorej bol hospitalizačný prípad zaradený.                                                                                                           | áno
-| 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9.                                                                                                                             | áno
+| 8  | drg                     | string         | DRG skupina, do ktorej bol hospitalizačný prípad zaradený.                                                                                                           |nie
+| 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9.                                                                                                                             |áno
 
 Príklad vstupného súboru je v [`test/data/example_data_10.csv`](test/data/example_data_10.csv)
 

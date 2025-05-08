@@ -1,10 +1,14 @@
 """Core functionality of the osn_algoritmus package."""
 
 import csv
+import logging
 from pathlib import Path
 
 from osn_algoritmus.input_preparation import create_hp_from_dict, yield_csv_rows
 from osn_algoritmus.prilohy_evaluation import prirad_ms
+from osn_algoritmus.utils import get_number_of_lines
+
+logger = logging.getLogger(__name__)
 
 INPUT_COLUMNS = [
     "id",
@@ -70,9 +74,10 @@ def process_csv(
         all_vykony_hlavne: When evaluating prilohy, assume that any of vykony could be hlavny.
         evaluate_incomplete_pripady: If a required value is not filled in, continue with the evaluation anyway.
             Without this flag, the assigned medicinske sluzby will be 'ERROR'.
-        allow_duplicates: Keep duplicate records in the output list of medicinske sluzby.
+        allow_duplicates: Keep duplicates in the output list of medicinske sluzby.
 
     """
+    logger.info("Spustenie algoritmu.")
     if output_path is None:
         output_path = Path(input_path).with_stem(f"{input_path.stem}_output")
 
@@ -80,7 +85,9 @@ def process_csv(
         writer = csv.DictWriter(output_file, fieldnames=[*INPUT_COLUMNS, "ms"], delimiter=";")
         writer.writeheader()
 
-        for row in yield_csv_rows(input_path, INPUT_COLUMNS):
+        number_of_lines = get_number_of_lines(input_path)
+
+        for i, row in enumerate(yield_csv_rows(input_path, INPUT_COLUMNS)):
             row["ms"] = process_hp_dict(
                 row,
                 all_vykony_hlavne=all_vykony_hlavne,
@@ -88,3 +95,7 @@ def process_csv(
                 allow_duplicates=allow_duplicates,
             )
             writer.writerow(row)
+            if (i + 1) % 1000 == 0:
+                logger.info("Hotovo %d/%d riadkov.", i + 1, number_of_lines)
+
+    logger.info("Algoritmus dokončený. Výsledky sú v %s", output_path)

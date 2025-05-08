@@ -157,3 +157,8 @@ def setup_parser(
             help="Vo výstupnom zozname medicínskych služieb ponechaj aj duplicitné záznamy.",
         )
     return parser
+
+def get_number_of_lines(file_path: Path) -> int:
+    """Get the number of lines in a file."""
+    with file_path.open("r") as f:
+        return sum(1 for _ in f)

@@ -26,8 +26,8 @@ def validate_id(hp_id: str, *, err_if_incorrect: bool) -> str | None:
         err_if_incorrect: Flag indicating whether a missing ID is a problem.
 
     Returns:
-        ID of hospitalizacny pripad or None if the ID is empty and err_if_incorrect is True.
-        If the ID is empty and err_if_incorrect is False, returns a new ID.
+        ID of hospitalizacny pripad or None if the ID is empty and error_if_incorrect is True.
+        If the ID is empty and error_if_incorrect is False, returns a new ID.
 
     """
     if hp_id == "":

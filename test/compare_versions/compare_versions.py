@@ -35,6 +35,7 @@ def run_algoritmus_from_ref(ref: str, input_path: Path, flags: list[str] | None 
         logger.info("Cloning repo")
         clone_repo = ["git", "clone", REPO_URL]
         subprocess.run(clone_repo, check=True, capture_output=True)
+
     fetch_ref_cmd = ["git", "-C", str(CLONED_REPO_DIR), "fetch", "origin", ref]
     subprocess.run(fetch_ref_cmd, check=True, capture_output=True)
     checkout_ref_cmd = ["git", "-C", str(CLONED_REPO_DIR), "checkout", ref]

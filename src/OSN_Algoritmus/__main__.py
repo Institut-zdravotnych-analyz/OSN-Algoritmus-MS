@@ -7,6 +7,7 @@ from .utils import setup_parser
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(name)s: %(message)s")
 logger = logging.getLogger(__name__)
+
 parser = setup_parser(
     input_path=True,
     output_path=True,
