@@ -2,7 +2,7 @@
 
 **[ENG]** Algorithm to assign hospital stays to specific medical services within the [hospital network optimization reform](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/540).
 
-**[SK]** Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky. Jedná sa o technickú implementáciu [Príloh 5 - 17 vyhlášky 531/2023 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2023/531#prilohy) v rámci zákona [540/2021 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/540) o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov. Viac informácií o Vyhláška nájdete na [https://sietnemocnic.sk/kategorizacna-vyhlaska](https://sietnemocnic.sk/kategorizacna-vyhlaska).
+**[SK]** Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky. Jedná sa o technickú implementáciu [Príloh 5 - 17 vyhlášky 531/2023 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2023/531#prilohy) v rámci zákona [540/2021 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/540) o kategorizácii ústavnej zdravotnej starostlivosti a o zmene a doplnení niektorých zákonov.
 
 ## Report chýb
 V prípade, že identifikujete chyby v rámci kódu, prosím zaznamenajte ich na GitHub cez Issues, navrhnite priamo cez Pull Request zmenu, alebo nám napíšte email na sietnemocnic@health.gov.sk.
@@ -23,9 +23,11 @@ V prípade, že identifikujete chyby v rámci kódu, prosím zaznamenajte ich na
 # Technické readme
 
 ## Základný opis programu
-Skript je určený na priradenie kódov medicínskych služieb podľa vyhlášky platnej pre rok 2025.
+Skript je určený na priradenie kódov medicínskych služieb podľa aktuálne platnej vyhlášky o kategorizácii ústavnej starostlivosti.
 
-Súčasťou skriptu sú prílohy, ktoré boli vytvorené podľa aktuálne platnej verzie vyhlášky o kategorizácii. V prípade zmien v prílohách (bez zmien v algoritme), bude potrebné vytvoriť tieto prílohy nanovo v rovnakej štruktúre a s rovnakým názvom.
+Implementácie starších verzií vyhlášky nájdete v časti [Releases](https://github.com/Institut-zdravotnych-analyz/OSN-Algoritmus-MS/releases)
+
+Súčasťou repozitára sú relevantné prílohy vyhlášky v počítačovo spracovateľnej podobe.
 
 ## Práca so skriptom
 Skript je napísaný v jazyku Python.
@@ -68,17 +70,19 @@ Vstupný súbor musí byť vo formáte csv, kde každý riadok reprezentuje jede
 Algoritmus predpokladá, že vstupný súbor je bez hlavičky, je nutné zachovať správne poradie.
 
 Popis položiek:
-| Č. | interný názov položky   | formát položky | popis položky                                                                                                                                                        |povinná položka
-|----|-------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---
-| 1  | id                      | string         | Identifikátor hospitalizačného prípadu, jeho hodnota nemá vplyv na algoritmus.                                                                                       |áno
-| 2  | vek                     | int            | Vek pacienta ku dňu prijatia v rokoch, musí byť vyplnený, pre deti do 1 roka sa uvádza `0`.                                                                          |áno
-| 3  | hmotnost                | float          | Hmotnosť pacienta ku dňu prijatia v gramoch. Používaná len pre hospitalizačné prípady s vekom 0.                                                                     |pre hospitalizačné prípady s vekom 0
-| 4  | umela_plucna_ventilacia | int            | Počet hodín umelej pľúcnej ventilácie.                                                                                                                               |áno
-| 5  | diagnozy                | string         | Zoznam kódov diagnóz pacienta oddelený znakom `~`, ako prvá sa uvádza hlavná diagnóza. Kódy diagnóz sa uvádzajú bez bodky.                                           |nie
-| 6  | vykony                  | string         | Zoznam kódov výkonov pacienta v tvare `kod_vykonu&lokalizacia&datum_vykonu` oddelený znakom `~`, ako prvý sa uvádza hlavný výkon. Kódy výkonov sa uvádzajú bez bodky.|nie
-| 7  | markery                 | string         | Zoznam markerov pacienta v tvare `kod_markera&hodnota_markera` oddelený znakom `~`.                                                                                  |nie
-| 8  | drg                     | string         | DRG skupina, do ktorej bol hospitalizačný prípad zaradený.                                                                                                           |nie
-| 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9.                                                                                                                             |áno
+
+| Č. | Interný názov položky   | Formát položky | Popis položky                                                                                                                                                        | Povinná položka                      |
+|----|-------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| 1  | id                      | string         | Identifikátor hospitalizačného prípadu, jeho hodnota nemá vplyv na algoritmus                                                                                        | áno                                  |
+| 2  | vek                     | int            | Vek pacienta ku dňu prijatia v rokoch, musí byť vyplnený, pre deti do 1 roka sa uvádza `0`                                                                           | áno                                  |
+| 3  | hmotnost                | float          | Hmotnosť pacienta ku dňu prijatia v gramoch. Používaná len pre hospitalizačné prípady s vekom 0                                                                      | pre hospitalizačné prípady s vekom 0 |
+| 4  | umela_plucna_ventilacia | int            | Počet hodín umelej pľúcnej ventilácie                                                                                                                                | áno                                  |
+| 5  | diagnozy                | string         | Zoznam kódov diagnóz pacienta oddelený znakom `~`, ako prvá sa uvádza hlavná diagnóza. Kódy diagnóz sa uvádzajú bez bodky                                            | áno                                  |
+| 6  | vykony                  | string         | Zoznam kódov výkonov pacienta v tvare `kod_vykonu&lokalizacia&datum_vykonu` oddelený znakom `~`, ako prvý sa uvádza hlavný výkon. Kódy výkonov sa uvádzajú bez bodky | nie                                  |
+| 7  | markery                 | string         | Zoznam markerov pacienta v tvare `kod_markera&hodnota_markera` oddelený znakom `~`                                                                                   | nie                                  |
+| 8  | drg                     | string         | DRG skupina, do ktorej bol hospitalizačný prípad zaradený                                                                                                            | nie                                  |
+| 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9. (Zodpovedá položke 36 z dátového rozhrania 274*)                                                                            | áno                                  |
+
 
 Príklad vstupného súboru je v [`test/data/example_data_10.csv`](test/data/example_data_10.csv)
 
@@ -90,6 +94,8 @@ pip install '.[dev]'
 ```
 ### Testovanie
 Tento projekt používa `pytest` na testovanie. Viac informácii je v [`test/README.md`](test/README.md) (v angličtine).
+
+
 # Definície z vyhlášky
 
 § 5
