@@ -240,13 +240,14 @@ def create_hp_from_dict(hp_dict: dict, *, eval_incomplete: bool) -> Hospitalizac
     vykony_val = validate_vykony(hp_dict["vykony"], hp_id, err_if_incorrect=not eval_incomplete)
     markery_val = validate_markery(hp_dict["markery"], hp_id, err_if_incorrect=not eval_incomplete)
     diagnozy_val = validate_diagnozy(hp_dict["diagnozy"], hp_id, err_if_incorrect=not eval_incomplete)
+    drg = standardize_code(hp_dict["drg"]) if hp_dict["drg"] else None
 
     if not eval_incomplete:
         validation_failed = (
             vek is None
             or (vek == 0 and hmotnost is None)
             or upv is None
-            or druh_prijatia is None
+            or (druh_prijatia is None and drg is not None)
             or vykony_val is None
             or markery_val is None
             or diagnozy_val is None
@@ -257,7 +258,6 @@ def create_hp_from_dict(hp_dict: dict, *, eval_incomplete: bool) -> Hospitalizac
     vykony = [] if vykony_val is None else vykony_val
     markery = [] if markery_val is None else markery_val
     diagnozy = [] if diagnozy_val is None else diagnozy_val
-    drg = standardize_code(hp_dict["drg"]) if hp_dict["drg"] else None
 
     return HospitalizacnyPripad(
         id=hp_id,
