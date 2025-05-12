@@ -28,9 +28,9 @@ def create_diagnozy_from_str(diagnozy_str: str) -> list[str]:
     if not diagnozy_str:
         return []
     diagnozy = []
-    for kod in diagnozy_str.split("~"):
+    for kod in diagnozy_str.split("@"):
         if kod == "":
-            msg = f"Invalid format of diagnozy: {diagnozy_str!r}. Expected format 'diagnoza1~diagnoza2~...'."
+            msg = f"Invalid format of diagnozy: {diagnozy_str!r}. Expected format 'diagnoza1@diagnoza2@...'."
             raise ValueError(msg)
         diagnozy.append(standardize_code(kod))
     return diagnozy
@@ -40,13 +40,13 @@ def create_vykony_from_str(vykony_str: str) -> list[str]:
     """Create a list of kód výkonu from a string."""
     if not vykony_str:
         return []
-    vykony = []
-    for kod in vykony_str.split("~"):
-        parts = kod.split("&")
-        if len(parts) != 3 or any(part == "" for part in parts):
-            msg = f"Invalid format of vykony: {kod!r}. Expected format 'kod_vykonu&lokalizacia&datum_vykonu'."
-            raise ValueError(msg)
-        vykony.append(standardize_code(parts[0]))
+    vykony = vykony_str.split("@")
+    if "" in vykony[1:]:
+        msg = (
+            f"Invalid format of vykony: {vykony_str!r}."
+            " Only the first vykon can be empty. Expected format '[vykon1]@vykon2@...'."
+        )
+        raise ValueError(msg)
     return vykony
 
 
@@ -55,7 +55,7 @@ def create_markery_from_str(markery: str) -> list[Marker]:
     if not markery:
         return []
     result = []
-    for marker_str in markery.split("~"):
+    for marker_str in markery.split("@"):
         parts = marker_str.split("&")
         if len(parts) != 2 or any(part == "" for part in parts):
             msg = f"Invalid marker format: {marker_str!r}. Expected format 'kod&hodnota'."
@@ -136,7 +136,7 @@ def setup_parser(
             action="store_true",
             help=(
                 "Pri vyhodnotení príloh predpokladaj, že ktorýkoľvek z vykázaných výkonov mohol byť hlavný. Štandardne"
-                " sa za hlavný výkon považuje iba prvý vykázaný, prípadne žiaden, pokiaľ zoznam začína znakom '~'."
+                " sa za hlavný výkon považuje iba prvý vykázaný, prípadne žiaden, pokiaľ zoznam začína znakom '@'."
             ),
         )
     if vyhodnot_neuplne_pripady:

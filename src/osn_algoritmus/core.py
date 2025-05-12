@@ -39,7 +39,7 @@ def process_hp_dict(
         allow_duplicates: Keep duplicate records in the output list of medicinske sluzby.
 
     Returns:
-        str: Kody medicinskych sluzieb concatenated by '~'.
+        str: Kody medicinskych sluzieb concatenated by '@'.
 
     """
     hp = create_hp_from_dict(hp_dict, eval_incomplete=evaluate_incomplete_pripady)
@@ -53,7 +53,7 @@ def process_hp_dict(
         # deduplicate medicinske sluzby, keep order
         medicinske_sluzby = list(dict.fromkeys(medicinske_sluzby))
 
-    return "~".join(medicinske_sluzby)
+    return "@".join(medicinske_sluzby)
 
 
 def process_csv(

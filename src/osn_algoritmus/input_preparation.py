@@ -18,11 +18,11 @@ from osn_algoritmus.utils import (
 logger = logging.getLogger(__name__)
 
 
-def validate_id(hp_id: str, *, err_if_incorrect: bool) -> str | None:
+def validate_id(id_hp: str, *, err_if_incorrect: bool) -> str | None:
     """Validate the ID of hospitalizacny pripad.
 
     Args:
-        hp_id: Hospital case ID.
+        id_hp: Hospital case ID.
         err_if_incorrect: Flag indicating whether a missing ID is a problem.
 
     Returns:
@@ -30,7 +30,7 @@ def validate_id(hp_id: str, *, err_if_incorrect: bool) -> str | None:
         If the ID is empty and error_if_incorrect is False, returns a new ID.
 
     """
-    if hp_id == "":
+    if id_hp == "":
         msg = "Riadok nemá vyplnené ID."
 
         if err_if_incorrect:
@@ -41,15 +41,15 @@ def validate_id(hp_id: str, *, err_if_incorrect: bool) -> str | None:
         msg_with_new_id = f"{msg} Nové ID: {generated_id!r}."
         log_error_or_warning(logger, msg_with_new_id, error=err_if_incorrect)
         return generated_id
-    return hp_id
+    return id_hp
 
 
-def validate_vek(vek_str: str, hp_id: str, *, err_if_incorrect: bool) -> int | None:
+def validate_vek(vek_str: str, id_hp: str, *, err_if_incorrect: bool) -> int | None:
     """Validate vek of the hospitalizacny pripad.
 
     Args:
         vek_str: vek of hospitalizacny pripad
-        hp_id: ID of hospitalizacny pripad
+        id_hp: ID of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect vek is a problem.
 
     Returns:
@@ -57,7 +57,7 @@ def validate_vek(vek_str: str, hp_id: str, *, err_if_incorrect: bool) -> int | N
 
     """
     if not vek_str.isdigit():
-        msg = f"HP {hp_id} nemá správne vyplnený vek: {vek_str!r}."
+        msg = f"HP {id_hp} nemá správne vyplnený vek: {vek_str!r}."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
     return int(vek_str)
@@ -66,7 +66,7 @@ def validate_vek(vek_str: str, hp_id: str, *, err_if_incorrect: bool) -> int | N
 def validate_hmotnost(
     hmotnost_str: str,
     vek: int | None,
-    hp_id: str,
+    id_hp: str,
     *,
     err_if_incorrect: bool,
 ) -> float | None:
@@ -77,7 +77,7 @@ def validate_hmotnost(
     Args:
         hmotnost_str: hmotnost of hospitalizacny pripad
         vek: vek of hospitalizacny pripad
-        hp_id: ID of hospitalizacny pripad
+        id_hp: ID of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect hmotnost is a problem.
 
     Returns:
@@ -88,27 +88,25 @@ def validate_hmotnost(
         parsed_hmotnost = float(hmotnost_str)
     except ValueError:
         if vek is not None and vek == 0:
-            msg = f"HP {hp_id} nemá správne vyplnenú hmotnosť: {hmotnost_str!r}."
+            msg = f"HP {id_hp} nemá správne vyplnenú hmotnosť: {hmotnost_str!r}."
             log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
 
     if vek == 0 and parsed_hmotnost == 0.0:
-        msg = f"HP {hp_id} nemá správne vyplnenú hmotnosť: Ak je vek 0, hmotnosť nemôže byť 0."
+        msg = f"HP {id_hp} nemá správne vyplnenú hmotnosť: Ak je vek 0, hmotnosť nemôže byť 0."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
-        if err_if_incorrect:
-            return None
 
     if parsed_hmotnost == 0.0:
         return None
     return parsed_hmotnost
 
 
-def validate_upv(upv_str: str, hp_id: str, *, err_if_incorrect: bool) -> int | None:
+def validate_upv(upv_str: str, id_hp: str, *, err_if_incorrect: bool) -> int | None:
     """Validate počet hodín umelej pľúcnej ventilácie.
 
     Args:
         upv_str: Počet hodín umelej pľúcnej ventilácie of hospitalizacny pripad
-        hp_id: ID of hospitalizacny pripad
+        id_hp: ID of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect počet hodín umelej pľúcnej ventilácie is a problem.
 
     Returns:
@@ -116,18 +114,18 @@ def validate_upv(upv_str: str, hp_id: str, *, err_if_incorrect: bool) -> int | N
 
     """
     if not upv_str.isdigit():
-        msg = f"HP {hp_id} nemá správne vyplnený počet hodín umelej pľúcnej ventilácie: {upv_str!r}."
+        msg = f"HP {id_hp} nemá správne vyplnený počet hodín umelej pľúcnej ventilácie: {upv_str!r}."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
     return int(upv_str)
 
 
-def validate_druh_prijatia(druh_prijatia_str: str, hp_id: str, *, err_if_incorrect: bool) -> int | None:
+def validate_druh_prijatia(druh_prijatia_str: str, id_hp: str, *, err_if_incorrect: bool) -> int | None:
     """Validate druh prijatia of hospitalizacny pripad.
 
     Args:
         druh_prijatia_str: Druh prijatia of hospitalizacny pripad
-        hp_id: ID of hospitalizacny pripad
+        id_hp: ID of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect druh prijatia is a problem.
 
     Returns:
@@ -135,26 +133,26 @@ def validate_druh_prijatia(druh_prijatia_str: str, hp_id: str, *, err_if_incorre
 
     """
     if not druh_prijatia_str.isdigit():
-        msg = f"HP {hp_id} nemá správne vyplnený druh prijatia: {druh_prijatia_str!r}."
+        msg = f"HP {id_hp} nemá správne vyplnený druh prijatia: {druh_prijatia_str!r}."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
 
     druh_prijatia = int(druh_prijatia_str)
 
     if not (1 <= druh_prijatia <= 9):
-        msg = f"HP {hp_id} má druh prijatia mimo rozsahu 1-9: {druh_prijatia_str!r}."
+        msg = f"HP {id_hp} má druh prijatia mimo rozsahu 1-9: {druh_prijatia_str!r}."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
 
     return druh_prijatia
 
 
-def validate_vykony(vykony_str: str, hp_id: str, *, err_if_incorrect: bool) -> list[str] | None:
+def validate_vykony(vykony_str: str, id_hp: str, *, err_if_incorrect: bool) -> list[str] | None:
     """Validate vykony of the hospitalizacny pripad.
 
     Args:
         vykony_str: Vykony of hospitalizacny pripad
-        hp_id: ID of hospitalizacny pripad
+        id_hp: ID of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect vykony is a problem.
 
     Returns:
@@ -164,7 +162,7 @@ def validate_vykony(vykony_str: str, hp_id: str, *, err_if_incorrect: bool) -> l
     try:
         vykony = create_vykony_from_str(vykony_str)
     except ValueError:
-        msg = f"HP {hp_id} nemá správne vyplnené vykony: {vykony_str!r}."
+        msg = f"HP {id_hp} nemá správne vyplnené vykony: {vykony_str!r}."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
         if err_if_incorrect:
             return None
@@ -172,12 +170,12 @@ def validate_vykony(vykony_str: str, hp_id: str, *, err_if_incorrect: bool) -> l
     return vykony
 
 
-def validate_markery(markery_str: str, hp_id: str, *, err_if_incorrect: bool) -> list[Marker] | None:
+def validate_markery(markery_str: str, id_hp: str, *, err_if_incorrect: bool) -> list[Marker] | None:
     """Validate markery of the hospitalizacny pripad.
 
     Args:
         markery_str: Markery of hospitalizacny pripad
-        hp_id: ID of hospitalizacny pripad
+        id_hp: ID of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect markery is a problem.
 
     Returns:
@@ -187,7 +185,7 @@ def validate_markery(markery_str: str, hp_id: str, *, err_if_incorrect: bool) ->
     try:
         markery = create_markery_from_str(markery_str)
     except ValueError:
-        msg = f"HP {hp_id} nemá správne vyplnené markery: {markery_str!r}."
+        msg = f"HP {id_hp} nemá správne vyplnené markery: {markery_str!r}."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
         if err_if_incorrect:
             return None
@@ -195,12 +193,12 @@ def validate_markery(markery_str: str, hp_id: str, *, err_if_incorrect: bool) ->
     return markery
 
 
-def validate_diagnozy(diagnozy_str: str, hp_id: str, *, err_if_incorrect: bool) -> list[str] | None:
+def validate_diagnozy(diagnozy_str: str, id_hp: str, *, err_if_incorrect: bool) -> list[str] | None:
     """Validate diagnozy of the hospitalizacny pripad.
 
     Args:
         diagnozy_str: Diagnozy of hospitalizacny pripad
-        hp_id: ID of hospitalizacny pripad
+        id_hp: ID of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect diagnozy is a problem.
 
     Returns:
@@ -210,7 +208,7 @@ def validate_diagnozy(diagnozy_str: str, hp_id: str, *, err_if_incorrect: bool) 
     try:
         diagnozy = create_diagnozy_from_str(diagnozy_str)
     except ValueError:
-        msg = f"HP {hp_id} nemá správne vyplnené diagnozy: {diagnozy_str!r}."
+        msg = f"HP {id_hp} nemá správne vyplnené diagnozy: {diagnozy_str!r}."
         log_error_or_warning(logger, msg, error=err_if_incorrect)
         if err_if_incorrect:
             return None
@@ -229,17 +227,17 @@ def create_hp_from_dict(hp_dict: dict, *, eval_incomplete: bool) -> Hospitalizac
         Created HospitalizacnyPripad or None if validation fails.
 
     """
-    hp_id = validate_id(hp_dict["id"], err_if_incorrect=not eval_incomplete)
-    if hp_id is None:
+    id_hp = validate_id(hp_dict["id"], err_if_incorrect=not eval_incomplete)
+    if id_hp is None:
         return None
 
-    vek = validate_vek(hp_dict["vek"], hp_id, err_if_incorrect=not eval_incomplete)
-    hmotnost = validate_hmotnost(hp_dict["hmotnost"], vek, hp_id, err_if_incorrect=not eval_incomplete)
-    upv = validate_upv(hp_dict["umela_plucna_ventilacia"], hp_id, err_if_incorrect=not eval_incomplete)
-    druh_prijatia = validate_druh_prijatia(hp_dict["druh_prijatia"], hp_id, err_if_incorrect=not eval_incomplete)
-    vykony_val = validate_vykony(hp_dict["vykony"], hp_id, err_if_incorrect=not eval_incomplete)
-    markery_val = validate_markery(hp_dict["markery"], hp_id, err_if_incorrect=not eval_incomplete)
-    diagnozy_val = validate_diagnozy(hp_dict["diagnozy"], hp_id, err_if_incorrect=not eval_incomplete)
+    vek = validate_vek(hp_dict["vek"], id_hp, err_if_incorrect=not eval_incomplete)
+    hmotnost = validate_hmotnost(hp_dict["hmotnost"], vek, id_hp, err_if_incorrect=not eval_incomplete)
+    upv = validate_upv(hp_dict["umela_plucna_ventilacia"], id_hp, err_if_incorrect=not eval_incomplete)
+    druh_prijatia = validate_druh_prijatia(hp_dict["druh_prijatia"], id_hp, err_if_incorrect=not eval_incomplete)
+    vykony_val = validate_vykony(hp_dict["vykony"], id_hp, err_if_incorrect=not eval_incomplete)
+    markery_val = validate_markery(hp_dict["markery"], id_hp, err_if_incorrect=not eval_incomplete)
+    diagnozy_val = validate_diagnozy(hp_dict["diagnozy"], id_hp, err_if_incorrect=not eval_incomplete)
     drg = standardize_code(hp_dict["drg"]) if hp_dict["drg"] else None
 
     if not eval_incomplete:
@@ -260,7 +258,7 @@ def create_hp_from_dict(hp_dict: dict, *, eval_incomplete: bool) -> Hospitalizac
     diagnozy = [] if diagnozy_val is None else diagnozy_val
 
     return HospitalizacnyPripad(
-        id=hp_id,
+        id=id_hp,
         vek=vek,
         hmotnost=hmotnost,
         upv=upv,

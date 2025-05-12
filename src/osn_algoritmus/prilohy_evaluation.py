@@ -435,7 +435,7 @@ def prilohy_7_8(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[st
         List of assigned medicinske sluzby
 
     """
-    if len(hp.vykony) < 2 or hp.je_dieta is None:
+    if len(hp.vykony) < 2 or hp.vykony[0] == "" or hp.je_dieta is None:
         return []
 
     nazov_tabulky = "p7_VV_deti_hv" if hp.je_dieta else "p8_VV_dospeli_hv"
@@ -517,7 +517,7 @@ def priloha_9(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[str]
         List of assigned medicinske sluzby
 
     """
-    if not hp.vykony or not hp.diagnozy or hp.je_dieta is None:
+    if not hp.vykony or hp.vykony[0] == "" or not hp.diagnozy or hp.je_dieta is None:
         return []
 
     table_name = "p9_VD_deti" if hp.je_dieta else "p9_VD_dospeli"

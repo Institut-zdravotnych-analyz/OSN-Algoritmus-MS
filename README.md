@@ -43,8 +43,6 @@ Skript je napísaný v jazyku Python.
    ```
 2. Nainštalujte balík pomocou pip:
    ```bash
-   python -m venv venv
-   source venv/bin/activate
    pip install .
    ```
 
@@ -54,7 +52,7 @@ Program sa spustí príkazom:
 python -m osn_algoritmus [-h] [--vsetky_vykony_hlavne] [--vyhodnot_neuplne_pripady] [--ponechaj_duplicity] input_path [output_path]
 ```
 
-Vstupný súbor musí mať nižšie uvedenú štruktúru. Výstupom spracovania je kópia vstupného súboru, kde ku každému riadku je pripojený stĺpec `ms` so zoznamom nájdených medicínskych služieb oddelených znakom `~`, kde prvá medicínska služba je hlavná. V prípade, že chýbajú niektoré povinné dáta (a nie je použitý príznak `-n`), algoritmus vráti pre daný prípad kód `ERROR`.
+Vstupný súbor musí mať nižšie uvedenú štruktúru. Výstupom spracovania je kópia vstupného súboru, kde ku každému riadku je pripojený stĺpec `ms` so zoznamom nájdených medicínskych služieb oddelených znakom `@`, kde prvá medicínska služba je hlavná. V prípade, že chýbajú niektoré povinné dáta (a nie je použitý príznak `-n`), algoritmus vráti pre daný prípad kód `ERROR`.
 
 Pri spúšťaní programu je možné pridať príznaky, ktoré ovplyvňujú, ako algoritmus jednotlivé prípady vyhodnocuje.
 
@@ -77,9 +75,9 @@ Popis položiek:
 | 2  | vek                     | int            | Vek pacienta ku dňu prijatia v rokoch, musí byť vyplnený, pre deti do 1 roka sa uvádza `0`                                                                           | áno                                       |
 | 3  | hmotnost                | float          | Hmotnosť pacienta ku dňu prijatia v gramoch. Používaná len pre hospitalizačné prípady s vekom 0                                                                      | pre hospitalizačné prípady s vekom 0      |
 | 4  | umela_plucna_ventilacia | int            | Počet hodín umelej pľúcnej ventilácie                                                                                                                                | áno                                       |
-| 5  | diagnozy                | string         | Zoznam kódov diagnóz pacienta oddelený znakom `~`, ako prvá sa uvádza hlavná diagnóza. Kódy diagnóz sa uvádzajú bez bodky                                            | nie                                       |
-| 6  | vykony                  | string         | Zoznam kódov výkonov pacienta v tvare `kod_vykonu&lokalizacia&datum_vykonu` oddelený znakom `~`, ako prvý sa uvádza hlavný výkon. Kódy výkonov sa uvádzajú bez bodky | nie                                       |
-| 7  | markery                 | string         | Zoznam markerov pacienta v tvare `kod_markera&hodnota_markera` oddelený znakom `~`                                                                                   | nie                                       |
+| 5  | diagnozy                | string         | Zoznam kódov diagnóz pacienta oddelený znakom `@`, ako prvá sa uvádza hlavná diagnóza. Kódy diagnóz sa uvádzajú bez bodky                                            | nie                                       |
+| 6  | vykony                  | string         | Zoznam kódov výkonov pacienta oddelený znakom `@`, ako prvý sa uvádza hlavný výkon. Kódy výkonov sa uvádzajú bez bodky | nie                                       |
+| 7  | markery                 | string         | Zoznam markerov pacienta v tvare `kod_markera&hodnota_markera` oddelený znakom `@`                                                                                   | nie                                       |
 | 8  | drg                     | string         | DRG skupina, do ktorej bol hospitalizačný prípad zaradený                                                                                                            | nie                                       |
 | 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9. (Zodpovedá položke 36 z dátového rozhrania 274*)                                                                            | pre hospitalizačné prípady s vyplneným drg|
 

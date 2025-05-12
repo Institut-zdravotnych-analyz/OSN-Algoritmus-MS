@@ -58,12 +58,12 @@ PRIPADY = {
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8p107&Z&20230101",
+            "vykony": "8p107",
             "markery": pd.NA,
             "drg": "P",
             "druh_prijatia": 3,
             # S50-05 is applied because of priloha 12
-            "ms": "S49-05~S50-05",
+            "ms": "S49-05@S50-05",
         },
     },
     "P5_RiadenaHypotermia": {
@@ -74,12 +74,12 @@ PRIPADY = {
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8q902&Z&20230101",
+            "vykony": "8q902",
             "markery": pd.NA,
             "drg": "P",
             "druh_prijatia": 3,
             # S50-10 is applied because of priloha 12
-            "ms": "S49-06~S50-10",
+            "ms": "S49-06@S50-10",
         },
     },
     "P5_Paliativ_hlavna": {
@@ -104,7 +104,7 @@ PRIPADY = {
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX~Z515",
+            "diagnozy": "XXX@Z515",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P",
@@ -120,12 +120,12 @@ PRIPADY = {
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8r2637&Z&20230101",
+            "vykony": "8r2637",
             "markery": pd.NA,
             "drg": "P",
             "druh_prijatia": 3,
             # S50-06 is applied because of priloha 12
-            "ms": "S49-11~S50-06",
+            "ms": "S49-11@S50-06",
         },
     },
     "P5_AkutPorod": {
@@ -136,7 +136,7 @@ PRIPADY = {
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "93083&Z&20230101",
+            "vykony": "93083",
             "markery": pd.NA,
             "drg": "P",
             "druh_prijatia": 3,
@@ -166,12 +166,12 @@ PRIPADY = {
             "hmotnost": 999,
             "umela_plucna_ventilacia": 95,
             "diagnozy": pd.NA,
-            "vykony": "8p1007&Z&20230101",
+            "vykony": "8p1007",
             "markery": pd.NA,
             "drg": "P",
             "druh_prijatia": 3,
             # S50-13 is applied because of priloha 12
-            "ms": "S48-08~S50-13",
+            "ms": "S48-08@S50-13",
         },
     },
     "P5_8p1007UPV96": {
@@ -182,7 +182,7 @@ PRIPADY = {
             "hmotnost": 999,
             "umela_plucna_ventilacia": 96,
             "diagnozy": pd.NA,
-            "vykony": "8p1007&Z&20230101",
+            "vykony": "8p1007",
             "markery": pd.NA,
             "drg": "P",
             "druh_prijatia": 3,
@@ -258,12 +258,12 @@ PRIPADY = {
             "hmotnost": 999,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "12a100&Z&20230101",
+            "vykony": "12a100",
             "markery": pd.NA,
             "drg": "P03A",
             "druh_prijatia": 3,
             # S03-30 is applied because of priloha 12
-            "ms": "S49-01~S03-30",
+            "ms": "S49-01@S03-30",
         },
     },
     "P5_UPVTazke": {
@@ -273,7 +273,7 @@ PRIPADY = {
             "vek": 0,
             "hmotnost": 999,
             "umela_plucna_ventilacia": 96,
-            "diagnozy": "XXX~A010~A011",
+            "diagnozy": "XXX@A010@A011",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "P03A",
@@ -349,7 +349,7 @@ PRIPADY = {
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX~S060",
+            "diagnozy": "XXX@S060",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
@@ -370,7 +370,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             # S52-52 is applied because of priloha 14
-            "ms": "S52-01~S52-52",
+            "ms": "S52-01@S52-52",
         },
     },
     "P6_DietaBezKraniocerebralnaTrauma": {
@@ -400,7 +400,7 @@ PRIPADY = {
             "markery": "mOSN&nopol",
             "drg": "W",
             "druh_prijatia": 3,
-            "ms": "S52-64~S52-02",
+            "ms": "S52-64@S52-02",
         },
     },
     "P6_DospelyKraniocerebralnaTraumaVedlajsia": {
@@ -410,7 +410,7 @@ PRIPADY = {
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX~S060",
+            "diagnozy": "XXX@S060",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": "W",
@@ -431,7 +431,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             # S02-56 is applied because of priloha 13
-            "ms": "S02-01~S02-56",
+            "ms": "S02-01@S02-56",
         },
     },
     "P6_DospelyBezKraniocerebralnaTrauma": {
@@ -461,7 +461,7 @@ PRIPADY = {
             "markery": "mOSN&nopol",
             "drg": "W",
             "druh_prijatia": 3,
-            "ms": "S02-68~S02-02",
+            "ms": "S02-68@S02-02",
         },
     },
     "P7": {
@@ -472,7 +472,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8t130&Z&20230101~XXX&Z&20230101~34011&Z&20230101",
+            "vykony": "8t130@XXX@34011",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -487,7 +487,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8t130&Z&20230101~XXX&Z&20230101",
+            "vykony": "8t130@XXX",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -502,7 +502,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "34011&Z&20230101~8t130&Z&20230101",
+            "vykony": "34011@8t130",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -517,12 +517,12 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8m3050&Z&20230101~XXX&Z&20230101~13n094&Z&20230101",
+            "vykony": "8m3050@XXX@13n094",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             # S40-02 is applied because of priloha 13
-            "ms": "S44-21~S40-02",
+            "ms": "S44-21@S40-02",
         },
     },
     "P8_NotApplicableMissingVedlajsi": {
@@ -533,7 +533,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8m3050&Z&20230101~XXX&Z&20230101",
+            "vykony": "8m3050@XXX",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -549,7 +549,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "13n094&Z&20230101~8m3050&Z&20230101",
+            "vykony": "13n094@8m3050",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -564,11 +564,11 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "5t06f0&Z&20230101",
+            "vykony": "5t06f0",
             "markery": "mSTA&C0-CO",
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
-            "ms": "S55-01~S55-02~S55-03~S55-04~S55-05",
+            "ms": "S55-01@S55-02@S55-03@S55-04@S55-05",
         },
     },
     "P7a_NotApplicableMissingMarker": {
@@ -579,7 +579,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "5t06f0&Z&20230101",
+            "vykony": "5t06f0",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -609,11 +609,11 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "5a90211&Z&20230101",
+            "vykony": "5a90211",
             "markery": "mSTA&C0-C7",
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
-            "ms": "S12-01~S12-05~S12-21",
+            "ms": "S12-01@S12-05@S12-21",
         },
     },
     "P8a_NotApplicableMissingMarker": {
@@ -624,7 +624,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "5a90211&Z&20230101",
+            "vykony": "5a90211",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -654,12 +654,12 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": "O239",
-            "vykony": "93020&Z&20230101",
+            "vykony": "93020",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             # S11-07 is applied because of priloha 14
-            "ms": "S11-05~S11-07",
+            "ms": "S11-05@S11-07",
         },
     },
     "P9_Dieta_NotApplicableMissingVykon": {
@@ -686,7 +686,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "93020&Z&20230101",
+            "vykony": "93020",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -701,12 +701,12 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": "L032",
-            "vykony": "5t06f0&Z&20230101",
+            "vykony": "5t06f0",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             # S25-21 is applied because of priloha 15
-            "ms": "S02-04~S25-21",
+            "ms": "S02-04@S25-21",
         },
     },
     "P9_Dospely_NotApplicableMissingVykon": {
@@ -733,7 +733,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "5t06f0&Z&20230101",
+            "vykony": "5t06f0",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -753,7 +753,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             # S05-31 is applied because of priloha 15
-            "ms": "S36-08~S05-31",
+            "ms": "S36-08@S05-31",
         },
     },
     "P9a_NotApplicableMissingMarker": {
@@ -810,13 +810,13 @@ PRIPADY = {
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "A150~U821",
+            "diagnozy": "A150@U821",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             # S65-01 is applied because of priloha 14
-            "ms": "S65-31~S65-01",
+            "ms": "S65-31@S65-01",
         },
     },
     "P10_Dieta_NotApplicableDifferentVeldjsiaDiagnoza": {
@@ -826,7 +826,7 @@ PRIPADY = {
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "A150~A000",
+            "diagnozy": "A150@A000",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
@@ -842,13 +842,13 @@ PRIPADY = {
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "A150~U821",
+            "diagnozy": "A150@U821",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             # S27-12 is applied because of priloha 15
-            "ms": "S27-01~S27-12",
+            "ms": "S27-01@S27-12",
         },
     },
     "P10_Dospely_NotApplicableDifferentVedlajsiaDiagnoza": {
@@ -858,7 +858,7 @@ PRIPADY = {
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "A150~A000",
+            "diagnozy": "A150@A000",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
@@ -875,7 +875,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "163002&Z&20230101",
+            "vykony": "163002",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -890,7 +890,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "XXX&Z&20230101~163002&Z&20230101",
+            "vykony": "XXX@163002",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -905,7 +905,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "8r160&Z&20230101",
+            "vykony": "8r160",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -920,7 +920,7 @@ PRIPADY = {
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
             "diagnozy": pd.NA,
-            "vykony": "XXX&Z&20230101~8r160&Z&20230101",
+            "vykony": "XXX@8r160",
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
@@ -949,7 +949,7 @@ PRIPADY = {
             "vek": 10,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX~A000",
+            "diagnozy": "XXX@A000",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
@@ -979,7 +979,7 @@ PRIPADY = {
             "vek": 45,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "XXX~W340",
+            "diagnozy": "XXX@W340",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
@@ -994,13 +994,13 @@ PRIPADY = {
             "vek": 40,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "R402~G935~I601",
+            "diagnozy": "R402@G935@I601",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             # S37-03 is applied because of priloha 15
-            "ms": "S17-22~S37-03",
+            "ms": "S17-22@S37-03",
         },
     },
     "P16_NotApplicableMissingR402": {
@@ -1010,7 +1010,7 @@ PRIPADY = {
             "vek": 40,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "G935~I601",
+            "diagnozy": "G935@I601",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
@@ -1026,7 +1026,7 @@ PRIPADY = {
             "vek": 40,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "R402~I601",
+            "diagnozy": "R402@I601",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
@@ -1042,7 +1042,7 @@ PRIPADY = {
             "vek": 40,
             "hmotnost": 0,
             "umela_plucna_ventilacia": 0,
-            "diagnozy": "R402~G935",
+            "diagnozy": "R402@G935",
             "vykony": pd.NA,
             "markery": pd.NA,
             "drg": pd.NA,
@@ -1099,17 +1099,7 @@ INVALID_PRIPADY = {
     "Invalid_StringDruhPrijatia": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": "abc", "ms": "ERROR"}},
     "Invalid_DruhPrijatia10": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 10, "ms": "ERROR"}},
     "Invalid_DruhPrijatia0": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 0, "ms": "ERROR"}},
-    "Invalid_VykonyWrongDelimiterTilde": {
-        "flags": [],
-        "values": {**P5_PRIPAD, "vykony": "8r160&Z&20230101&8r160&Z&20230101", "ms": "ERROR"},
-    },
-    "Invalid_VykonyWrongDelimiterAmpersand": {
-        "flags": [],
-        "values": {**P5_PRIPAD, "vykony": "8r160~Z~20230101", "ms": "ERROR"},
-    },
-    "Invalid_VykonyNoLokalizacia": {"flags": [], "values": {**P5_PRIPAD, "vykony": "8r160&20230101", "ms": "ERROR"}},
-    "Invalid_VykonyNoDatum": {"flags": [], "values": {**P5_PRIPAD, "vykony": "8r160", "ms": "ERROR"}},
-    "Invalid_VykonyNoVykon": {"flags": [], "values": {**P5_PRIPAD, "vykony": "Z&20230101", "ms": "ERROR"}},
+    "Invalid_VykonyNoVedlajsiVykon": {"flags": [], "values": {**P5_PRIPAD, "vykony": "8r160@", "ms": "ERROR"}},
     "Invalid_MarkeryNoKod": {"flags": [], "values": {**P5_PRIPAD, "markery": "&nopol", "ms": "ERROR"}},
     "Invalid_MarkeryNoHodnota": {"flags": [], "values": {**P5_PRIPAD, "markery": "mOSN&", "ms": "ERROR"}},
     "Invalid_MarkeryWrongDelimiterTilde": {
@@ -1118,11 +1108,11 @@ INVALID_PRIPADY = {
     },
     "Invalid_MarkeryWrongDelimiterAmpersand": {
         "flags": [],
-        "values": {**P5_PRIPAD, "markery": "mOSN~nopol", "ms": "ERROR"},
+        "values": {**P5_PRIPAD, "markery": "mOSN@nopol", "ms": "ERROR"},
     },
     "Invalid_Diagnozy": {
         "flags": [],
-        "values": {**P5_PRIPAD, "diagnozy": "AAA~", "ms": "ERROR"},
+        "values": {**P5_PRIPAD, "diagnozy": "AAA@", "ms": "ERROR"},
     },
 }
 
@@ -1149,22 +1139,22 @@ EVALUATE_INCOMPLETE_PRIPADY_PRIPADY = {
 ALL_VYKONY_HLAVNE_PRIPADY = {
     "VVH_P7": {
         "flags": ["-v"],
-        "values": {**PRIPADY["P7"]["values"], "vykony": "XXX&Z&20230101~8t130&Z&20230101~34011&Z&20230101"},
+        "values": {**PRIPADY["P7"]["values"], "vykony": "XXX@8t130@34011"},
     },
     "VVH_P8": {
         "flags": ["-v"],
-        "values": {**PRIPADY["P8"]["values"], "vykony": "XXX&Z&20230101~8m3050&Z&20230101~13n094&Z&20230101"},
+        "values": {**PRIPADY["P8"]["values"], "vykony": "XXX@8m3050@13n094"},
     },
     "VVH_P9_Dieta": {
         "flags": ["-v"],
-        "values": {**PRIPADY["P9_Dieta"]["values"], "vykony": "XXX&Z&20230101~93020&Z&20230101"},
+        "values": {**PRIPADY["P9_Dieta"]["values"], "vykony": "XXX@93020"},
     },
     "VVH_P9_Dospely": {
         "flags": ["-v"],
-        "values": {**PRIPADY["P9_Dospely"]["values"], "vykony": "XXX&Z&20230101~5t06f0&Z&20230101"},
+        "values": {**PRIPADY["P9_Dospely"]["values"], "vykony": "XXX@5t06f0"},
     },
-    "VVH_P12": {"flags": ["-v"], "values": {**PRIPADY["P12"]["values"], "vykony": "XXX&Z&20230101~163002&Z&20230101"}},
-    "VVH_P13": {"flags": ["-v"], "values": {**PRIPADY["P13"]["values"], "vykony": "XXX&Z&20230101~8r160&Z&20230101"}},
+    "VVH_P12": {"flags": ["-v"], "values": {**PRIPADY["P12"]["values"], "vykony": "XXX@163002"}},
+    "VVH_P13": {"flags": ["-v"], "values": {**PRIPADY["P13"]["values"], "vykony": "XXX@8r160"}},
 }
 
 ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
@@ -1172,52 +1162,52 @@ ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
         "flags": ["-vd"],
         "values": {
             **PRIPADY["P7"]["values"],
-            "vykony": f"{PRIPADY['P7']['values']['vykony']}~8t130&Z&20230101",
-            "ms": "~".join([PRIPADY["P7"]["values"]["ms"]] * 2),
+            "vykony": f"{PRIPADY['P7']['values']['vykony']}@8t130",
+            "ms": "@".join([PRIPADY["P7"]["values"]["ms"]] * 2),
         },
     },
     "VVHPD_P8": {
         "flags": ["-vd"],
         "values": {
             **PRIPADY["P8"]["values"],
-            "vykony": f"{PRIPADY['P8']['values']['vykony']}~8m3050&Z&20230101",
+            "vykony": f"{PRIPADY['P8']['values']['vykony']}@8m3050",
             # We can't do ms * 2 as above because of the order of the codes
-            # (ms * 2 would be S44-21~S40-02~S44-21~S40-02)
-            "ms": "S44-21~S44-21~S40-02~S40-02",
+            # (ms * 2 would be S44-21@S40-02@S44-21@S40-02)
+            "ms": "S44-21@S44-21@S40-02@S40-02",
         },
     },
     "VVHPD_P9_Dieta": {
         "flags": ["-vd"],
         "values": {
             **PRIPADY["P9_Dieta"]["values"],
-            "vykony": f"{PRIPADY['P9_Dieta']['values']['vykony']}~93020&Z&20230101",
+            "vykony": f"{PRIPADY['P9_Dieta']['values']['vykony']}@93020",
             # We can't double the ms because S11-07 appears only once
-            "ms": "S11-05~S11-05~S11-07",
+            "ms": "S11-05@S11-05@S11-07",
         },
     },
     "VVHPD_P9_Dospely": {
         "flags": ["-vd"],
         "values": {
             **PRIPADY["P9_Dospely"]["values"],
-            "vykony": f"{PRIPADY['P9_Dospely']['values']['vykony']}~5t06f0&Z&20230101",
+            "vykony": f"{PRIPADY['P9_Dospely']['values']['vykony']}@5t06f0",
             # We can't double the ms because S25-21 appears only once
-            "ms": "S02-04~S02-04~S25-21",
+            "ms": "S02-04@S02-04@S25-21",
         },
     },
     "VVHPD_P12": {
         "flags": ["-vd"],
         "values": {
             **PRIPADY["P12"]["values"],
-            "vykony": "~".join([PRIPADY["P12"]["values"]["vykony"]] * 2),
-            "ms": "~".join([PRIPADY["P12"]["values"]["ms"]] * 2),
+            "vykony": "@".join([PRIPADY["P12"]["values"]["vykony"]] * 2),
+            "ms": "@".join([PRIPADY["P12"]["values"]["ms"]] * 2),
         },
     },
     "VVHPD_P13": {
         "flags": ["-vd"],
         "values": {
             **PRIPADY["P13"]["values"],
-            "vykony": "~".join([PRIPADY["P13"]["values"]["vykony"]] * 2),
-            "ms": "~".join([PRIPADY["P13"]["values"]["ms"]] * 2),
+            "vykony": "@".join([PRIPADY["P13"]["values"]["vykony"]] * 2),
+            "ms": "@".join([PRIPADY["P13"]["values"]["ms"]] * 2),
         },
     },
 }
@@ -1234,7 +1224,7 @@ ALL_TEST_CASES = {
 def test_single_case(test_case_data: dict, tmp_path: Path) -> None:
     """Test the main script with a single input row."""
     pripad = pd.DataFrame([test_case_data["values"]])[INPUT_COLS]
-    expected_output = pd.DataFrame([test_case_data["values"]])
+    expected_output = pd.DataFrame([test_case_data["values"]]).astype("string")
 
     input_csv_path = tmp_path / "input.csv"
     pripad.to_csv(input_csv_path, sep=";", index=False, header=False)
@@ -1253,7 +1243,7 @@ def test_single_case(test_case_data: dict, tmp_path: Path) -> None:
     )
 
     assert output_csv_path.exists()
-    output = pd.read_csv(output_csv_path, sep=";").replace({float("nan"): pd.NA})
+    output = pd.read_csv(output_csv_path, sep=";").astype("string")
 
     pd.testing.assert_frame_equal(output, expected_output)
 
@@ -1263,7 +1253,7 @@ def test_multiple_cases(tmp_path: Path) -> None:
     test_data = list(ALL_TEST_CASES.values())[:10]
     hp_rows = [test_case_data["values"] for test_case_data in test_data]
     hp_df = pd.DataFrame(hp_rows)[INPUT_COLS]
-    expected_output = pd.DataFrame(hp_rows)
+    expected_output = pd.DataFrame(hp_rows).astype("string")
 
     input_csv_path = tmp_path / "input.csv"
     hp_df.to_csv(input_csv_path, sep=";", index=False, header=False)
@@ -1281,6 +1271,6 @@ def test_multiple_cases(tmp_path: Path) -> None:
     )
 
     assert output_csv_path.exists()
-    output = pd.read_csv(output_csv_path, sep=";").replace({float("nan"): pd.NA})
+    output = pd.read_csv(output_csv_path, sep=";").astype("string")
 
     pd.testing.assert_frame_equal(output, expected_output)
