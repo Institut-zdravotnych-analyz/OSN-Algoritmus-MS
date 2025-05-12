@@ -4,6 +4,9 @@ import csv
 import logging
 from pathlib import Path
 
+from tqdm import tqdm
+from tqdm.contrib.logging import logging_redirect_tqdm
+
 from osn_algoritmus.input_preparation import create_hp_from_dict, yield_csv_rows
 from osn_algoritmus.prilohy_evaluation import prirad_ms
 from osn_algoritmus.utils import get_number_of_lines
@@ -81,21 +84,25 @@ def process_csv(
     if output_path is None:
         output_path = Path(input_path).with_stem(f"{input_path.stem}_output")
 
+    number_of_lines = get_number_of_lines(input_path)
+    logger.info(f"Počet riadkov vstupného súboru: {number_of_lines}")
+
     with output_path.open("w", encoding="utf-8", newline="") as output_file:
         writer = csv.DictWriter(output_file, fieldnames=[*INPUT_COLUMNS, "ms"], delimiter=";")
         writer.writeheader()
 
-        number_of_lines = get_number_of_lines(input_path)
+        with logging_redirect_tqdm():
+            for row in tqdm(
+                yield_csv_rows(input_path, INPUT_COLUMNS),
+                total=number_of_lines,
+                desc="Spracovanie prípadov",
+            ):
+                row["ms"] = process_hp_dict(
+                    row,
+                    all_vykony_hlavne=all_vykony_hlavne,
+                    evaluate_incomplete_pripady=evaluate_incomplete_pripady,
+                    allow_duplicates=allow_duplicates,
+                )
+                writer.writerow(row)
 
-        for i, row in enumerate(yield_csv_rows(input_path, INPUT_COLUMNS)):
-            row["ms"] = process_hp_dict(
-                row,
-                all_vykony_hlavne=all_vykony_hlavne,
-                evaluate_incomplete_pripady=evaluate_incomplete_pripady,
-                allow_duplicates=allow_duplicates,
-            )
-            writer.writerow(row)
-            if (i + 1) % 1000 == 0:
-                logger.info("Hotovo %d/%d riadkov.", i + 1, number_of_lines)
-
-    logger.info("Algoritmus dokončený. Výsledky sú v %s", output_path)
+    logger.info(f"Algoritmus dokončený. Výsledky sú v {output_path}")

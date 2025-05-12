@@ -43,7 +43,7 @@ def kriterium_nekonvencna_upv(hp: HospitalizacnyPripad) -> bool:
     """Evaluate kritérium „Nekonvenčná UPV (vysokofrekvenčná, NO ventilácia)“ for hp.
 
     Vyhláška:
-    Doplňujúce kritérium „Nekonvenčná UPV (vysokofrekvenčná, NO ventilácia)“ sa je splnené, ak mal pacient vykázaný
+    Doplňujúce kritérium „Nekonvenčná UPV (vysokofrekvenčná, NO ventilácia)“ je splnené, ak mal pacient vykázaný
     najmenej jeden z týchto výkonov:
         - 8p107 Vysokofrekvenčná ventilácia
         - 8p133 Inhalačná aplikácia oxidu dusnatého
@@ -283,7 +283,8 @@ def splna_kriterium_podla_5(kriterium: str, hp: HospitalizacnyPripad) -> bool:
     }
     if kriterium in kriteria_logic:
         return kriteria_logic[kriterium](hp)
-    return False
+    msg = f"There is no evaluation logic for the kriterium {kriterium}."
+    raise ValueError(msg)
 
 
 def priloha_5(hp: HospitalizacnyPripad) -> list[str]:
@@ -348,7 +349,9 @@ def splna_kriterium_podla_6(kriterium: str, hp: HospitalizacnyPripad) -> bool:
 
     if kriterium == "marker Pacient nespĺňa medicínske kritériá polytraumy":
         return Marker(kod="mOSN", hodnota="nopol") in hp.markery
-    return False
+
+    msg = f"There is no evaluation logic for the kriterium {kriterium}."
+    raise ValueError(msg)
 
 
 def priloha_6(hp: HospitalizacnyPripad) -> list[str]:
@@ -424,6 +427,11 @@ def prilohy_7_8(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[st
     """Assign medicinske sluzby according to priloha 7 and 8.
 
     Vyhláška:
+    Príloha 7:
+    Ak bol poistencovi poskytnutý hlavný zdravotný výkon podľa stĺpca "hlavný zdravotný výkon" a minimálne jeden výkon z
+    uvedených výkonov (VV).
+
+    Príloha 8:
     Ak bol poistencovi poskytnutý hlavný zdravotný výkon podľa stĺpca "hlavný zdravotný výkon" a minimálne jeden výkon z
     uvedených výkonov (VV).
 
@@ -461,6 +469,12 @@ def prilohy_7a_8a(hp: HospitalizacnyPripad) -> list[str]:
     """Assign medicinske sluzby according to priloha 7a and 8a.
 
     Vyhláška:
+
+    Príloha 7a:
+    Ak bol poistencovi vykázaný marker podľa stĺpca "Kód markera" s hodnotou markera podľa stĺpca "Hodnota markera" a
+    minimálne jeden výkon z uvedených výkonov (MV).
+
+    Príloha 8a:
     Ak bol poistencovi vykázaný marker podľa stĺpca "Kód markera" s hodnotou markera podľa stĺpca "Hodnota markera" a
     minimálne jeden výkon z uvedených výkonov (MV).
 
@@ -595,7 +609,12 @@ def prilohy_12_13(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[
     """Assign medicinske sluzby according to priloha 12 and 13.
 
     Vyhláška:
+    Príloha 12:
     Ak bol poistencovi vo veku 18 rokov a menej poskytnutý hlavný zdravotný výkon podľa stĺpca 'zdravotný výkon',
+    hospitalizácii sa určí medicínska služba podľa stĺpca 'medicínska služba' [V].
+
+    Príloha 13:
+    Ak bol poistencovi vo veku viac ako 18 rokov poskytnutý hlavný zdraovotný výkon podľa stĺpca 'zdravotný výkon',
     hospitalizácii sa určí medicínska služba podľa stĺpca 'medicínska služba' [V].
 
     Args:
@@ -626,7 +645,12 @@ def prilohy_14_15(hp: HospitalizacnyPripad) -> list[str]:
     """Assign medicinske sluzby according to priloha 14 and 15.
 
     Vyhláška:
+    Príloha 14:
     Ak bola poistencov vo veku 18 rokov a menej pri hospitalizácii vykázaná hlavná diagnóza podľa stĺpca
+    'hlavná diagnóza', hospitalizácii sa určí medicínska služba podľa stĺpca 'medicínska služba' [D].
+
+    Príloha 15:
+    Ak bola poistencovi vo veku viac ako 18 rokov pri hospitalizácii vykázaná hlavná diagnóza podľa stĺpca
     'hlavná diagnóza', hospitalizácii sa určí medicínska služba podľa stĺpca 'medicínska služba' [D].
 
     Args:

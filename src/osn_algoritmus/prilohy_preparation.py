@@ -7,7 +7,7 @@ from typing import Any
 
 from .utils import Marker, standardize_code, uses_marker
 
-TABLES_FOLDER = Path(str(resources.files("osn_algoritmus") / "Prilohy"))
+TABLES_FOLDER = Path(resources.files("osn_algoritmus") / "Prilohy")
 
 
 def load_all_tables() -> dict[str, list[dict[str, str]]]:
@@ -76,14 +76,14 @@ def prepare_markery(tables: dict[str, list[dict[str, Any]]]) -> None:
         tables: Dictionary containing loaded prilohy.
 
     """
-    for zoznam_riadkov in tables.values():
-        for riadok in zoznam_riadkov:
-            if riadok.get("kod_markera"):
-                riadok["marker"] = Marker(kod=riadok["kod_markera"], hodnota=riadok["hodnota_markera"])
-                del riadok["kod_markera"]
-                del riadok["hodnota_markera"]
+    for rows in tables.values():
+        for row in rows:
+            if row.get("kod_markera"):
+                row["marker"] = Marker(kod=row["kod_markera"], hodnota=row["hodnota_markera"])
+                del row["kod_markera"]
+                del row["hodnota_markera"]
             else:
-                riadok["marker"] = None
+                row["marker"] = None
 
 
 def sort_rows_by_markery(tables: dict[str, list[dict[str, Any]]]) -> None:

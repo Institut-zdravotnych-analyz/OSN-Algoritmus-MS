@@ -88,7 +88,7 @@ def validate_hmotnost(
         parsed_hmotnost = float(hmotnost_str)
     except ValueError:
         if vek is not None and vek == 0:
-            msg = f"HP {id_hp} nemá správne vyplnenú hmotnosť: {hmotnost_str!r}."
+            msg = f"HP  nemá správne vyplnenú hmotnosť: {hmotnost_str!r}."
             log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
 

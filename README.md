@@ -43,6 +43,7 @@ Skript je napísaný v jazyku Python.
    ```
 2. Nainštalujte balík pomocou pip:
    ```bash
+   python -m venv venv
    pip install .
    ```
 

@@ -29,7 +29,7 @@ def run_algoritmus_from_ref(ref: str, input_path: Path, flags: list[str] | None 
 
     """
     flags = flags or []
-    logger.info("Checking out and running version from ref: %s with flags: %s", ref, flags)
+    logger.info(f"Checking out and running version from ref: {ref} with flags: {flags}")
 
     if not CLONED_REPO_DIR.exists():
         logger.info("Cloning repo")
@@ -66,7 +66,7 @@ def run_algoritmus_from_ref(ref: str, input_path: Path, flags: list[str] | None 
         run_algo = [sys.executable, "main.py", str(input_path), *flags]
         output_path = input_path.with_stem(f"{input_path.stem}_output")
 
-    logger.info("Running algoritmus with command: %s", " ".join(run_algo))
+    logger.info(f"Running algoritmus with command: {' '.join(run_algo)}")
     subprocess.run(run_algo, cwd=CLONED_REPO_DIR, check=True)
     return output_path
 
@@ -86,7 +86,7 @@ def run_algoritmus_from_local(input_path: Path, flags: list[str] | None) -> Path
     from osn_algoritmus.utils import setup_parser
 
     flags = flags or []
-    logger.info("Running local version with flags: %s", flags)
+    logger.info(f"Running local version with flags: {flags}")
 
     flags_str = "_".join(flags)
     output_path = input_path.with_stem(f"{input_path.stem}_local_{flags_str}")
@@ -187,7 +187,7 @@ def run_and_compare(
 
     finally:
         if needs_repo_cleanup and CLONED_REPO_DIR.exists():
-            logger.info("Removing cloned repository at %s", CLONED_REPO_DIR.resolve())
+            logger.info(f"Removing cloned repository at {CLONED_REPO_DIR.resolve()}")
             shutil.rmtree(CLONED_REPO_DIR)
 
         logger.info("Cleaning up created files")
