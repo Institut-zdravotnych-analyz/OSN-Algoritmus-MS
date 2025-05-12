@@ -63,7 +63,7 @@ def kriterium_riadena_hypotermia(hp: HospitalizacnyPripad) -> bool:
 
     Vyhláška:
     Doplňujúce kritérium „Riadená hypotermia“ je splnené, ak mal pacient vykázaný najmenej jeden z týchto výkonov:
-        - 8q902 Aktívne Vyhodnocované chladenie po resuscitácii, terapeutická hypotermia
+        - 8q902 Aktívne kontrolované chladenie po resuscitácii, terapeutická hypotermia
 
     Args:
         hp: Hospitalizacny pripad
