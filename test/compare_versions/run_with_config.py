@@ -1,4 +1,4 @@
-"""Module for comparing outputs of two versions of the algoritmus."""
+"""Module for running the algoritmus with different configurations."""
 
 import dataclasses
 import logging
@@ -151,6 +151,16 @@ def compare_outputs(
         on="id",
         suffixes=(f"_{run_a_identifier}", f"_{run_b_identifier}"),
     )
+
+    def split_ms(ms: str) -> list[str]:
+        # We try both @ and ~ as delimiters, because the output format is not consistent
+        split_at_sign_result = ms.split("@")
+        if len(split_at_sign_result) == 1:
+            return ms.split("~")
+        return split_at_sign_result
+
+    merged_df[f"ms_{run_a_identifier}"] = merged_df[f"ms_{run_a_identifier}"].apply(split_ms)
+    merged_df[f"ms_{run_b_identifier}"] = merged_df[f"ms_{run_b_identifier}"].apply(split_ms)
 
     return merged_df.loc[merged_df[f"ms_{run_a_identifier}"] != merged_df[f"ms_{run_b_identifier}"]]
 
