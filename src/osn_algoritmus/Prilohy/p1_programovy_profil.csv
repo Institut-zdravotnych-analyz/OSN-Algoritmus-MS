@@ -24,26 +24,31 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 3;Neurochirurgický program;3;P;P;D;;;2024-01-01;
 3;Neurochirurgický program;2;N;N;N;N;N;2024-08-01;
 3;Neurochirurgický program;1;N;N;N;N;N;2024-08-01;
-4;Oftalmologický program;5;P;D;;;;2024-01-01;
-4;Oftalmologický program;4;P;P;D;;;2024-01-01;
-4;Oftalmologický program;3;P;P;P;D;;2024-01-01;
-4;Oftalmologický program;2;N;N;N;N;N;2024-08-01;
-4;Oftalmologický program;1;N;N;N;N;N;2024-01-01;
+4;Oftalmologický program;5;P;D;;;;2024-01-01;2025-12-31
+4;Oftalmologický program;4;P;P;D;;;2024-01-01;2025-12-31
+4;Oftalmologický program;3;P;P;P;D;;2024-01-01;2025-12-31
+4;Oftalmologický program;2;N;N;N;N;N;2024-08-01;2025-12-31
+4;Oftalmologický program;1;N;N;N;N;N;2024-01-01;2025-12-31
+4;Oftalmologický program;5;P;D;;;;2026-01-01;
+4;Oftalmologický program;4;P;P;D;;;2026-01-01;
+4;Oftalmologický program;3;P;P;P;D;;2026-01-01;
+4;Oftalmologický program;2;N;N;N;N;N;2026-01-01;
+4;Oftalmologický program;1;P;P;P;N;N;2026-01-01;
 5;Otorinolaryngologický program;5;;;;;;2024-01-01;
 5;Otorinolaryngologický program;4;P;P;D;;;2024-01-01;
 5;Otorinolaryngologický program;3;P;P;P;D;;2024-01-01;
 5;Otorinolaryngologický program;2;N;N;N;N;N;2024-08-01;
 5;Otorinolaryngologický program;1;P;P;P;N;N;2024-01-01;
-6;Program stomato-maxilo-faciálnej chirurgie;5;N;N;N;;;2024-01-01;2024-12-31
-6;Program stomato-maxilo-faciálnej chirurgie;4;P;D;D;;;2024-01-01;2024-12-31
-6;Program stomato-maxilo-faciálnej chirurgie;3;P;P;P;;;2024-01-01;2024-12-31
-6;Program stomato-maxilo-faciálnej chirurgie;2;N;N;N;N;N;2024-08-01;2024-12-31
-6;Program stomato-maxilo-faciálnej chirurgie;1;N;N;N;N;N;2024-08-01;2024-12-31
-6;Program stomato-maxilo-faciálnej chirurgie;5;P;D;D;;;2025-01-01;
-6;Program stomato-maxilo-faciálnej chirurgie;4;P;D;D;;;2025-01-01;
-6;Program stomato-maxilo-faciálnej chirurgie;3;P;P;P;;;2025-01-01;
-6;Program stomato-maxilo-faciálnej chirurgie;2;N;N;N;N;N;2025-01-01;
-6;Program stomato-maxilo-faciálnej chirurgie;1;N;N;N;N;N;2025-01-01;
+6;Program stomato-maxilo-faciálnej chirurgie;5;N;N;N;;;2024-01-01;2025-12-31
+6;Program stomato-maxilo-faciálnej chirurgie;4;P;D;D;;;2024-01-01;2025-12-31
+6;Program stomato-maxilo-faciálnej chirurgie;3;P;P;P;;;2024-01-01;2025-12-31
+6;Program stomato-maxilo-faciálnej chirurgie;2;N;N;N;N;N;2024-01-01;2025-12-31
+6;Program stomato-maxilo-faciálnej chirurgie;1;N;N;N;N;N;2024-01-01;2025-12-31
+6;Program stomato-maxilo-faciálnej chirurgie;5;P;D;D;;;2026-01-01;
+6;Program stomato-maxilo-faciálnej chirurgie;4;P;D;D;;;2026-01-01;
+6;Program stomato-maxilo-faciálnej chirurgie;3;P;P;P;;;2026-01-01;
+6;Program stomato-maxilo-faciálnej chirurgie;2;N;N;N;N;N;2026-01-01;
+6;Program stomato-maxilo-faciálnej chirurgie;1;N;N;N;N;N;2026-01-01;
 7;Program hrudníkovej chirurgie;5;P;D;;;;2024-01-01;
 7;Program hrudníkovej chirurgie;4;P;D;;;;2024-01-01;
 7;Program hrudníkovej chirurgie;3;P;D;D;;;2024-01-01;
@@ -59,11 +64,16 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 8;Program brušnej chirurgie;3;P;P;P;D;;2026-01-01;
 8;Program brušnej chirurgie;2;P;P;P;P;D;2026-01-01;
 8;Program brušnej chirurgie;1;P;P;P;P;N;2026-01-01;
-9;Urologický program;5;P;D;;;;2024-01-01;
-9;Urologický program;4;P;P;D;;;2024-01-01;
-9;Urologický program;3;P;P;P;D;;2024-01-01;
-9;Urologický program;2;P;P;P;D;;2024-01-01;
-9;Urologický program;1;P;P;P;N;N;2024-01-01;
+9;Urologický program;5;P;D;;;;2024-01-01;2025-12-31
+9;Urologický program;4;P;P;D;;;2024-01-01;2025-12-31
+9;Urologický program;3;P;P;P;D;;2024-01-01;2025-12-31
+9;Urologický program;2;P;P;P;D;N;2025-07-01;2025-12-31
+9;Urologický program;1;P;P;P;N;N;2024-01-01;2025-12-31
+9;Urologický program;5;P;D;;;;2026-01-01;
+9;Urologický program;4;P;P;D;;;2026-01-01;
+9;Urologický program;3;P;P;P;D;;2026-01-01;
+9;Urologický program;2;P;P;P;D;D;2026-01-01;
+9;Urologický program;1;P;P;P;N;N;2026-01-01;
 10;Gynekologický program;5;P;D;;;;2024-01-01;2025-12-31
 10;Gynekologický program;4;P;P;D;D;;2024-01-01;2025-12-31
 10;Gynekologický program;3;P;P;P;D;;2024-01-01;2025-12-31
@@ -94,16 +104,16 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 12;Spondylochirurgický program;3;P;P;D;D;;2026-01-01;
 12;Spondylochirurgický program;2;D;D;D;;;2026-01-01;
 12;Spondylochirurgický program;1;N;N;N;N;N;2026-01-01;
-13;Muskuloskeletálny program;5;P;;;;;2024-01-01;2025-12-31
-13;Muskuloskeletálny program;4;P;P;D;;;2024-01-01;2025-12-31
-13;Muskuloskeletálny program;3;P;P;P;D;;2024-01-01;2025-12-31
-13;Muskuloskeletálny program;2;P;P;P;P;N;2024-01-01;2025-12-31
-13;Muskuloskeletálny program;1;N;N;N;N;N;2024-01-01;2025-12-31
-13;Muskuloskeletálny program;5;P;;;;;2026-01-01;
-13;Muskuloskeletálny program;4;P;P;D;;;2026-01-01;
-13;Muskuloskeletálny program;3;P;P;P;D;;2026-01-01;
-13;Muskuloskeletálny program;2;P;P;P;P;D;2026-01-01;
-13;Muskuloskeletálny program;1;N;N;N;N;N;2026-01-01;
+13;Ortopedický program;5;P;;;;;2024-01-01;2025-12-31
+13;Ortopedický program;4;P;P;D;;;2024-01-01;2025-12-31
+13;Ortopedický program;3;P;P;P;D;;2024-01-01;2025-12-31
+13;Ortopedický program;2;P;P;P;P;N;2024-01-01;2025-12-31
+13;Ortopedický program;1;N;N;N;N;N;2024-01-01;2025-12-31
+13;Ortopedický program;5;P;;;;;2026-01-01;
+13;Ortopedický program;4;P;P;D;;;2026-01-01;
+13;Ortopedický program;3;P;P;P;D;;2026-01-01;
+13;Ortopedický program;2;P;P;P;D;D;2026-01-01;
+13;Ortopedický program;1;N;N;N;N;N;2026-01-01;
 14;Program chirurgie kože, podkožia a prsníka;5;;;;;;2024-01-01;
 14;Program chirurgie kože, podkožia a prsníka;4;;;;;;2024-01-01;
 14;Program chirurgie kože, podkožia a prsníka;3;P;P;P;D;;2024-01-01;
@@ -169,11 +179,16 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 23;Program vaskulárnych intervencií;3;P;P;P;D;;2026-01-01;
 23;Program vaskulárnych intervencií;2;N;N;N;N;N;2026-01-01;
 23;Program vaskulárnych intervencií;1;N;N;N;N;N;2026-01-01;
-24;Program nevaskulárnych intervencií;5;;;;;;2024-01-01;
-24;Program nevaskulárnych intervencií;4;N;N;N;N;N;2024-08-01;
-24;Program nevaskulárnych intervencií;3;P;P;P;D;;2024-01-01;
-24;Program nevaskulárnych intervencií;2;P;P;P;P;;2024-01-01;
-24;Program nevaskulárnych intervencií;1;N;N;N;N;N;2024-08-01;
+24;Program nevaskulárnych intervencií;5;;;;;;2024-01-01;2025-12-31
+24;Program nevaskulárnych intervencií;4;N;N;N;N;N;2024-08-01;2025-12-31
+24;Program nevaskulárnych intervencií;3;P;P;P;D;;2024-01-01;2025-12-31
+24;Program nevaskulárnych intervencií;2;P;P;P;P;N;2025-07-01;2025-12-31
+24;Program nevaskulárnych intervencií;1;N;N;N;N;N;2024-08-01;2025-12-31
+24;Program nevaskulárnych intervencií;5;;;;;;2026-01-01;
+24;Program nevaskulárnych intervencií;4;N;N;N;N;N;2026-01-01;
+24;Program nevaskulárnych intervencií;3;P;P;P;D;;2026-01-01;
+24;Program nevaskulárnych intervencií;2;P;P;P;P;D;2026-01-01;
+24;Program nevaskulárnych intervencií;1;N;N;N;N;N;2026-01-01;
 25;Program internej medicíny;5;;;;;;2024-01-01;2025-12-31
 25;Program internej medicíny;4;P;P;D;;;2024-01-01;2025-12-31
 25;Program internej medicíny;3;P;P;P;D;;2024-01-01;2025-12-31
@@ -224,11 +239,16 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 29;Program endokrinológie, diabetológie a metabolických porúch;3;P;P;P;D;;2026-01-01;
 29;Program endokrinológie, diabetológie a metabolických porúch;2;P;P;P;P;D;2026-01-01;
 29;Program endokrinológie, diabetológie a metabolických porúch;1;N;N;N;N;N;2026-01-01;
-30;Nefrologický program;5;;;;;;2024-01-01;
-30;Nefrologický program;4;P;P;D;;;2024-01-01;
-30;Nefrologický program;3;P;P;P;D;;2024-01-01;
-30;Nefrologický program;2;P;P;P;D;;2024-01-01;
-30;Nefrologický program;1;P;P;P;P;P;2024-01-01;
+30;Nefrologický program;5;;;;;;2024-01-01;2025-12-31
+30;Nefrologický program;4;P;P;D;;;2024-01-01;2025-12-31
+30;Nefrologický program;3;P;P;P;D;;2024-01-01;2025-12-31
+30;Nefrologický program;2;P;P;P;D;;2024-01-01;2025-12-31
+30;Nefrologický program;1;P;P;P;P;P;2024-01-01;2025-12-31
+30;Nefrologický program;5;;;;;;2026-01-01;
+30;Nefrologický program;4;P;P;D;;;2026-01-01;
+30;Nefrologický program;3;P;P;P;D;;2026-01-01;
+30;Nefrologický program;2;P;P;P;D;;2026-01-01;
+30;Nefrologický program;1;P;P;P;P;N;2026-01-01;
 31;Reumatologický program;5;D;D;;;;2024-01-01;
 31;Reumatologický program;4;;;;;;2024-01-01;
 31;Reumatologický program;3;P;P;P;D;;2024-01-01;
@@ -314,11 +334,16 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 39;Program spánkovej medicíny;3;D;D;D;;;2024-01-01;
 39;Program spánkovej medicíny;2;N;N;N;N;N;2024-08-01;
 39;Program spánkovej medicíny;1;;;;;;2024-01-01;
-40;Program klinickej onkológie;5;P;;;;;2024-01-01;
-40;Program klinickej onkológie;4;P;P;D;;;2024-01-01;
-40;Program klinickej onkológie;3;P;P;D;D;;2024-01-01;
-40;Program klinickej onkológie;2;P;P;D;D;;2024-01-01;
-40;Program klinickej onkológie;1;N;N;N;N;N;2024-08-01;
+40;Program klinickej onkológie;5;P;;;;;2024-01-01;2025-12-31
+40;Program klinickej onkológie;4;P;P;D;;;2024-01-01;2025-12-31
+40;Program klinickej onkológie;3;P;P;D;D;;2024-01-01;2025-12-31
+40;Program klinickej onkológie;2;P;P;D;D;N;2025-07-01;2025-12-31
+40;Program klinickej onkológie;1;N;N;N;N;N;2024-08-01;2025-12-31
+40;Program klinickej onkológie;5;P;;;;;2026-01-01;
+40;Program klinickej onkológie;4;P;P;D;;;2026-01-01;
+40;Program klinickej onkológie;3;P;P;D;D;;2026-01-01;
+40;Program klinickej onkológie;2;P;P;D;D;D;2026-01-01;
+40;Program klinickej onkológie;1;N;N;N;N;N;2026-01-01;
 41;Program radiačnej onkológie;5;;;;;;2024-01-01;
 41;Program radiačnej onkológie;4;P;D;D;;;2024-01-01;
 41;Program radiačnej onkológie;3;P;P;D;D;;2024-01-01;
@@ -399,16 +424,16 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 48;Neonatologický program;3;;;;;;2024-01-01;2025-12-31
 48;Neonatologický program;2;P;P;P;P;N;2024-01-01;2025-12-31
 48;Neonatologický program;1;;;;;;2024-01-01;2025-12-31
-48;Neonatologický program;5;;;;;;2026-01-01;
-48;Neonatologický program;4;;;;;;2026-01-01;
-48;Neonatologický program;3;;;;;;2026-01-01;
-48;Neonatologický program;2;P;P;P;P;D;2026-01-01;
-48;Neonatologický program;1;;;;;;2026-01-01;
-49;Program intenzívnej starostlivosti v neonatológii;5;;;;;;2024-01-01;
-49;Program intenzívnej starostlivosti v neonatológii;4;P;P;D;D;;2024-01-01;
-49;Program intenzívnej starostlivosti v neonatológii;3;P;P;P;D;;2024-01-01;
-49;Program intenzívnej starostlivosti v neonatológii;2;;;;;;2024-01-01;
-49;Program intenzívnej starostlivosti v neonatológii;1;;;;;;2024-01-01;
+48;Program neonatológie a intenzívnej starostlivosti v neonatológii;5;;;;;;2026-01-01;
+48;Program neonatológie a intenzívnej starostlivosti v neonatológii;4;P;P;D;D;;2026-01-01;
+48;Program neonatológie a intenzívnej starostlivosti v neonatológii;3;P;P;P;D;;2026-01-01;
+48;Program neonatológie a intenzívnej starostlivosti v neonatológii;2;P;P;P;P;D;2026-01-01;
+48;Program neonatológie a intenzívnej starostlivosti v neonatológii;1;;;;;;2026-01-01;
+49;Program intenzívnej starostlivosti v neonatológii;5;;;;;;2024-01-01;2025-12-31
+49;Program intenzívnej starostlivosti v neonatológii;4;P;P;D;D;;2024-01-01;2025-12-31
+49;Program intenzívnej starostlivosti v neonatológii;3;P;P;P;D;;2024-01-01;2025-12-31
+49;Program intenzívnej starostlivosti v neonatológii;2;;;;;;2024-01-01;2025-12-31
+49;Program intenzívnej starostlivosti v neonatológii;1;;;;;;2024-01-01;2025-12-31
 50;Program pediatrickej anesteziológie a intenzivnej medicíny;5;N;N;;;;2024-01-01;2025-12-31
 50;Program pediatrickej anesteziológie a intenzivnej medicíny;4;N;N;N;;;2024-01-01;2025-12-31
 50;Program pediatrickej anesteziológie a intenzivnej medicíny;3;N;N;N;N;;2024-01-01;2025-12-31
@@ -464,16 +489,16 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 55;Spondylochirurgický program pre deti;3;P;D;D;;;2026-01-01;
 55;Spondylochirurgický program pre deti;2;N;N;N;N;N;2026-01-01;
 55;Spondylochirurgický program pre deti;1;N;N;N;N;N;2026-01-01;
-56;Muskuloskeletálny program pre deti;5;N;N;;;;2024-01-01;2025-12-31
-56;Muskuloskeletálny program pre deti;4;N;N;N;;;2024-01-01;2025-12-31
-56;Muskuloskeletálny program pre deti;3;N;N;N;N;;2024-01-01;2025-12-31
-56;Muskuloskeletálny program pre deti;2;N;N;N;N;N;2024-01-01;2025-12-31
-56;Muskuloskeletálny program pre deti;1;N;N;N;N;N;2024-01-01;2025-12-31
-56;Muskuloskeletálny program pre deti;5;P;D;;;;2026-01-01;
-56;Muskuloskeletálny program pre deti;4;P;P;D;;;2026-01-01;
-56;Muskuloskeletálny program pre deti;3;P;P;P;D;;2026-01-01;
-56;Muskuloskeletálny program pre deti;2;P;P;P;P;D;2026-01-01;
-56;Muskuloskeletálny program pre deti;1;N;N;N;N;N;2026-01-01;
+56;Ortopedický program pre deti;5;N;N;;;;2024-01-01;2025-12-31
+56;Ortopedický program pre deti;4;N;N;N;;;2024-01-01;2025-12-31
+56;Ortopedický program pre deti;3;N;N;N;N;;2024-01-01;2025-12-31
+56;Ortopedický program pre deti;2;N;N;N;N;N;2024-01-01;2025-12-31
+56;Ortopedický program pre deti;1;N;N;N;N;N;2024-01-01;2025-12-31
+56;Ortopedický program pre deti;5;P;D;;;;2026-01-01;
+56;Ortopedický program pre deti;4;P;P;D;;;2026-01-01;
+56;Ortopedický program pre deti;3;P;P;P;D;;2026-01-01;
+56;Ortopedický program pre deti;2;P;P;P;P;D;2026-01-01;
+56;Ortopedický program pre deti;1;N;N;N;N;N;2026-01-01;
 57;Program plastickej chirurgie pre deti;5;N;N;;;;2024-01-01;2025-12-31
 57;Program plastickej chirurgie pre deti;4;N;N;N;;;2024-01-01;2025-12-31
 57;Program plastickej chirurgie pre deti;3;N;N;N;N;;2024-01-01;2025-12-31
@@ -669,11 +694,11 @@ cislo_programu;nazov_programu;uroven_programu;povinnost_programu_V;povinnost_pro
 77;Program pre rehabilitačnú starostlivosť pre deti;3;;;;;;2027-01-01;
 77;Program pre rehabilitačnú starostlivosť pre deti;2;P;P;D;D;D;2027-01-01;
 77;Program pre rehabilitačnú starostlivosť pre deti;1;D;D;D;D;D;2027-01-01;
-98;Analytický dočasný medicínsky program ;5;;;;;;2024-08-01;
-98;Analytický dočasný medicínsky program ;4;;;;;;2024-08-01;
-98;Analytický dočasný medicínsky program ;3;;;;;;2024-08-01;
-98;Analytický dočasný medicínsky program ;2;;;;;;2024-08-01;
-98;Analytický dočasný medicínsky program ;1;N;N;N;N;N;2024-08-01;
+98;Analytický dočasný medicínsky program;5;;;;;;2024-08-01;
+98;Analytický dočasný medicínsky program;4;;;;;;2024-08-01;
+98;Analytický dočasný medicínsky program;3;;;;;;2024-08-01;
+98;Analytický dočasný medicínsky program;2;;;;;;2024-08-01;
+98;Analytický dočasný medicínsky program;1;N;N;N;N;N;2024-08-01;
 99;Program pre nezaradené hospitalizačné prípady;5;;;;;;2024-08-01;
 99;Program pre nezaradené hospitalizačné prípady;4;;;;;;2024-08-01;
 99;Program pre nezaradené hospitalizačné prípady;3;;;;;;2024-08-01;

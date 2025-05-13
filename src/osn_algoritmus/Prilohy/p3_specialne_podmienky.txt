@@ -1,11 +1,15 @@
 Príloha č. 3
 k vyhláške č. 531/2023 Z. z.
-Špeciálne personálne zabezpečenie, špeciálne materiálno-technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb
-Špeciálne personálne zabezpečenie, špeciálne materiálno-technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb - všeobecne
+Špeciálne personálne zabezpečenie, špeciálne materiálno-technickvybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb
+Špeciálne personálne zabezpečenie, špeciálne materiálno-technick vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb - všeobecne
 
-Špeciálne materiálno-technické vybavenie pre nemocnicu zaradenú do siete kategorizovaných nemocníc je  
-resuscitačný vozík obsahujúci automatický externý defibrilátor, špeciálny zdravotnícky materiál a lieky pre potreby rozšírenej neodkladnej resuscitácie, ktorý je k dispozícii na rýchly prístup na každej funkčnej jednotke; za funkčnú jednotku sa považuje poschodie alebo operačný trakt, 
+
+Špeciálne materiálno-technick vybavenie pre nemocnicu zaradenú do siete kategorizovaných nemocníc je  
+resuscitačný vozík obsahujúci automatický extern defibrilátor, špeciálny zdravotnícky materiál a lieky pre potreby rozšírenej neodkladnej resuscitácie, ktorý je k dispozícii na rýchly prístup na každej funkčnej jednotke; za funkčn jednotku sa považuje poschodie alebo operačný trakt, 
 transportný ventilátor.
+
+
+
 
 Špeciálne personálne zabezpečenie, špeciálne materiálno-technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb - urgentná medicína
 
@@ -81,7 +85,7 @@ hematologického a biochemického laboratória v nemocnici v nepretržitom re
 
 C) Špeciálne materiálno-technické vybavenie a personálne zabezpečenie pre jednotlivé programy
 
-Ustanovuje sa špeciálne personálne zabezpečenie, špeciálne materiálno-technické vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb, ktoré musí nemocnica spĺňať, ak poskytuje príslušný program: 
+Ustanovuje sa špeciálne personálne zabezpečenie, špeciálne materiálno-technick vybavenie a ďalšie podmienky pre poskytovanie programov a medicínskych služieb, ktor mus nemocnica spĺňa, ak poskytuje príslušn program: 
 
 1	Program anestéziológie a intenzívnej medicíny 
 Program I. úrovne
@@ -103,7 +107,7 @@ ventilátor pre dlhý transport,
 ventilátor pre dlhodobú umelú pľúcnu ventiláciu,
 lineárna pumpa typu pacientom riadenej analgézie,
 prenosný ultrasonograf s lineárnou, konvexnou a sektorovou sondou, 
-zariadenie na mimotelovú náhradu funkcie obličiek,
+zariadenie na mimotelovú náhradu funkcie obličiek
 anestéziologický prístroj pri posteli s jednoduchým monitorovaním, 
 resuscitačné lôžko s antidekubitárnym matracom,
 pneumatická odsávačka pri lôžku.
@@ -440,7 +444,9 @@ operačný mikroskop,
 operačný USG prístroj (2D),
 intraoperačný neuromonitoring.
 
-Špeciálne materiálno-technické vybavenie je robotický systém; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026.
+Špeciálne materiálno-technické vybavenie je ; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026.
+
+
 
 Program IV. úrovne
 Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať sú
@@ -473,7 +479,7 @@ operačný USG prístroj (3D),
 intraoperačný Doppler a Flowmeter, 
 TCD prístroj,
 intraoperačný monitoring ku komplexnému elektrofyziologickému neuromonitoringu (pre operácie elokventných oblastí, cievnu neurochirurgiu, funkčnú neurochirurgiu),
-endoskopia kraniálna a spinálna.
+endoskopia kraniálna
 
 Špeciálne materiálno-technické vybavenie je robotický systém; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026.
 
@@ -488,6 +494,8 @@ dostupnosť pracoviska intervenčnej rádiológie v rámci nemocnice.
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je dostupnosť rádiologického pracoviska so špecializáciou v neurorádiológií v rámci nemocnice – CT prístroj, MR prístroj; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2025.
 
 Podmienka pre poskytovanie diagnostiky a liečby počas hospitalizácie pre poistencov vo veku 18 rokov a menej pri elektívnom výkone je kompletné zázemie neurointenzívnej starostlivosti.
+
+
 
 4	Oftalmologický program
 Program I. úrovne
@@ -609,6 +617,8 @@ kauterizácia bipolárna,
 Kleinsasserov laryngoskop,
 inštrumentárium pre endolaryngeálnu mikrochirurgiu.
 
+
+
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore otorinolaryngológia.
 
@@ -633,6 +643,8 @@ rigídny bronchoskop,
 monitoring hlavových nervov,
 USG skalpel alebo USG skalpel s elektrokoagulačnými kliešťami alebo elektrokoagulačné nožnice.
 
+
+
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore otorinolaryngológia.
 
@@ -655,7 +667,7 @@ monitoring hlavových nervov,
 USG skalpel alebo USG skalpel s elektrokoagulačnými kliešťami alebo
 elektrokoagulačné nožnice
 CT alebo MRI navigácia, 
-operačná sála s celkovou anestéziou, 
+
 optika,
 shaver,
 edoskopické nosové inštrumentárium,
@@ -664,11 +676,16 @@ kauterizácia bipolárna,
 Kleinsasserov laryngoskop,
 inštrumentárium pre endolaryngeálnu mikrochirurgiu.
 
+
+
 6	Program stomato-maxilo-faciálnej chirurgie 
 Program III. úrovne
+
+
+
 Špeciálne personálne zabezpečenie je
-lekár so špecializáciou v špecializačnom odbore maxilofaciálna chirurgia,
-zubný lekár.
+
+zubný lekár
 
 Špeciálne materiálno-technické vybavenie je
 sety na dentoalveolárnu chirurgiu, 
@@ -681,6 +698,8 @@ operačné sály na maxilofaciálne chirurgické výkony v celkovej anestézii,
 lôžková časť s možnosťou pooperačného monitoringu vitálnych funkcií.
 
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je nepretržité poskytovanie anestéziologických výkonov. 
+
+
 
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je
@@ -719,6 +738,8 @@ operačný mikroskop,
 vybavenie na robotickú chirurgiu.
 
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je nepretržité poskytovanie anestéziologických výkonov. 
+
+
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je
@@ -759,6 +780,8 @@ CT navigačný systém.
 
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je nepretržité poskytovanie anestéziologických výkonov. 
 
+
+
 7	Program hrudníkovej chirurgie
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore hrudníková chirurgia prítomný nepretržite.
@@ -783,6 +806,8 @@ dostupnosť gastroenterologického pracoviska s nepretržitou možnosťou endos
 RTG pracovisko,
 CT pracovisko.
 
+
+
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore hrudníková chirurgia prítomný nepretržite.
 
@@ -805,6 +830,8 @@ dostupnosť pneumologického pracoviska s nepretržitou možnosťou bronchoskop
 dostupnosť gastroenterologického pracoviska s nepretržitou možnosťou endoskopických výkonov,
 RTG pracovisko,
 CT pracovisko.
+
+
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore hrudníková chirurgia prítomný nepretržite.
@@ -829,6 +856,8 @@ dostupnosť gastroenterologického pracoviska s nepretržitou možnosťou endos
 RTG pracovisko,
 CT pracovisko.
 
+
+
 8	Program brušnej chirurgie
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore gastroenterologická chirurgia.
@@ -838,7 +867,11 @@ vysokoenergeticý elektrokoagulačný prístroj,
 mechanické akcesóriá,
 peroperačné RTG.
 
-Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú dostupné endoskopické služby. 
+Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
+dostupné endoskopické služby
+
+
+
 
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore gastroenterologická chirurgia.
@@ -852,7 +885,25 @@ Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 dostupné endoskopické služby do 24 hodín,
 peroperačná histológia.
 
+
+
 Program III. úrovne
+Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore gastroenterologická chirurgia.
+
+
+
+
+
+
+
+
+Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
+dostupné endoskopické služby do 24 hodín,
+peroperačná histológia v mieste výkonu.
+
+
+
+Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore gastroenterologická chirurgia.
 
 Špeciálne materiálno-technické vybavenie je
@@ -863,22 +914,10 @@ peroperačné USG,
 robotická chirurgia.
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
-dostupné endoskopické služby do 24 hodín,
-peroperačná histológia v mieste výkonu.
-
-Program IV. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore gastroenterologická chirurgia.
-
-Špeciálne materiálno-technické vybavenie je
-vysokoenergeticý elektrokoagulačný prístroj,
-mechanické akcesóriá,
-peroperačné RTG,
-peroperačné USG,
-robotická chirurgia, lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2030.
-
-Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
 nepretržitá dostupnosť endoskopických služieb, 
 peroperačná histológia v mieste výkonu.
+
+
 
 9	Urologický program
 Program I. úrovne
@@ -887,6 +926,8 @@ Program I. úrovne
 Špeciálne materiálno-technické vybavenie je
 videoreťazec (digitálna kamera, monitor) na endoskopické diagnostické zákroky,
 ultrasonografický prístroj so sektorovou, lineárnou a rektálnou sondou na biopsiu prostaty.
+
+
 
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore urológia.
@@ -914,6 +955,7 @@ kompletné laparoskopické inštrumentárium s HD videokamerou.
 Špeciálne materiálno-technické vybavenie lôžkovej časti je
 videoreťazec (digitálna kamera, monitor) na endoskopické diagnostické zákroky,
 ultrasonografický prístroj so sektorovou, lineárnou sondou a rektálnou sondou na biopsiu prostaty.
+
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore urológia.
@@ -943,17 +985,20 @@ kompletné laparoskopické inštrumentárium s HD videokamerou 3D alebo 4K zobra
 videoreťazec (digitálna kamera, monitor) na endoskopické zákroky,
 ultrasonografický prístroj so sektorovou, lineárnou sondou a rektálnou sondou na cielenú fúznu biopsiu prostaty.
 
-Špeciálne materiálno-technické vybavenie pre pooperačné izby je
-EKG prístroj s možnosťou tlače,
-odsávačky,
-prívod kyslíka pri každom lôžku,
-infúzne pumpy,
-injekčné pumpy,
-glukomer,
-štyri monitory vitálnych funkcií,
-oxymeter prenosný,
-sety na malé chirurgické výkony (na kanyláciu centrálnych žíl, tracheostómiu, drenáž dutín),
-centrálny riadiaci monitor na sledovanie vitálnych funkcií.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore urológia.
@@ -977,24 +1022,27 @@ výkonný laserový generátor na intrakorporálnu litotrypsiu uretero a nefroli
 výkonný litotryptor pre endoskopickú liečbu konkrementov v močovom trakte (pneumatický alebo kombinovaný systém sonotróda a pneumatická sonda),
 pre diagnostiku nádorov močového mechúra zobrazenie v zúženom prúde svetla (NBI) alebo fluorescenčné zobrazenie močového mechúra,
 kompletné laparoskopické inštrumentárium s HD videokamerou 3D alebo 4K zobrazením,
-extrakorporálny litotryptor na liečbu urolitiázy,
+
 multidisciplinárne robotické pracovisko pre miniinvazívnu operačnú liečbu.
 
 Špeciálne materiálno-technické vybavenie lôžkovej časti je
 videoreťazec (digitálna kamera, monitor) na endoskopické zákroky,
 ultrasonografický prístroj so sektorovou lineárnou sondou a rektálnou sondou na cielenú fúznu biopsiu prostaty.
 
-Špeciálne materiálno-technické vybavenie pre pooperačné izby je
-EKG prístroj s možnosťou tlače,
-odsávačky,
-prívod kyslíka pri každom lôžku,
-infúzne pumpy,
-injekčné pumpy,
-glukomer,
-štyri monitory vitálnych funkcií,
-oxymeter prenosný,
-sety na malé chirurgické výkony (na kanyláciu centrálnych žíl, tracheostómiu, drenáž dutín),
-centrálny riadiaci monitor na sledovanie vitálnych funkcií.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore urológia.
@@ -1032,6 +1080,8 @@ oxymeter prenosný,
 sety na malé chirurgické výkony (na kanyláciu centrálnych žíl, tracheostómiu, drenáž dutín),
 centrálny riadiaci monitor na sledovanie vitálnych funkcii.
 
+
+
 10	Gynekologický program 
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo.
@@ -1051,6 +1101,8 @@ prístroje na urodynamické vyšetrenie.
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú 
 lôžka na pozákrokové sledovanie s monitorom vitálnych funkcií,
 dostupnosť histologického vyšetrenia.
+
+
 
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo prítomný nepretržite.
@@ -1073,6 +1125,8 @@ Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 lôžka na pozákrokové sledovanie s monitorom vitálnych funkcií,
 zabezpečenie izolácie infekčnej pacientky počas pôrodu, hospitalizácie a operácie,
 dostupnosť histologického vyšetrenia.
+
+
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo prítomný nepretržite.
@@ -1108,7 +1162,23 @@ prístroje na urodynamické vyšetrenie.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) I. a Rekonštrukčná operácia vrodenej vývojovej chyby genitálu (výkony pri diagnózach Q50.0 - Q52.9) je
 lekár so špecializáciou v špecializačnom odbore urológia.
-lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore detská chirurgia.
+lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore detská chirurgia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo prítomný nepretržite.
@@ -1137,7 +1207,7 @@ ultrazvukové prístroj v rámci zariadenia,
 magnetická rezonancia alebo na základe zmluvného vzťahu,
 hybridná sála s mobilným C-ramenom na angiografiu.
 
-Špeciálne materiálno-technické vybavenie je operačná sála s robotickou chirurgiou; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026.
+Špeciálne materiálno-technické vybavenie je operačná sála s robotickou chirurgiou; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 202.
 
 Špeciálne materiálno-technické vybavenie pre poskytovanie urogynekologických medicínskych služieb Základné operácie pri poklese panvového dna I, Základné operácie pri inkontinencii, Základné operácie pri poklese panvového dna II, Komplexné operácie pri inkontinencii, Komplexné operácie pri inkontinencii II a Riešenie pooperačných komplikácií je
 cystoskop,
@@ -1161,6 +1231,8 @@ Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 lôžka na pozákrokové sledovanie s monitorom vitálnych funkcií,
 zabezpečenie izolácie infekčnej pacientky pri pôrode, hospitalizácii alebo operácii,
 dostupnosť histologického vyšetrenia.
+
+
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo prítomný nepretržite.
@@ -1215,6 +1287,8 @@ lôžka na pozákrokové sledovanie s monitorom vitálnych funkcií,
 zabezpečenie izolácie infekčnej pacientky pri pôrode, hospitalizácii alebo operácii,
 dostupnosť histologického vyšetrenia.
 
+
+
 11	Pôrodnícky program
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo.
@@ -1255,7 +1329,6 @@ resuscitačné lôžko na ošetrenie novorodenca – mobilné na danú pôrodnú
 miesto na základné ošetrenie novorodenca po pôrode alebo zabezpečenie prvého ošetrenie novorodenca na matke a podpora bondingu,
 polohovateľné pôrodné lôžko, žinenka, fit-lopta alebo pôrodná stolička,
 CTG – napojené na centrálny monitor pôrodných asistentiek,
-telemetria.
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 samostatné pôrodné izby so sociálnym zariadením alebo čakacia izba so sociálnym zariadením a k tomu prislúchajúci pôrodný box, aby bola zabezpečená intimita, súkromie a partner pri pôrode na podporu konceptu Family friendly hospital,
@@ -1306,7 +1379,7 @@ resuscitačné lôžko na ošetrenie novorodenca – mobilné na danú pôrodnú
 miesto na základné ošetrenie novorodenca po pôrode alebo zabezpečenie prvého ošetrenia novorodenca na matke a podpora bondingu,
 polohovateľné pôrodné lôžko, žinenka, fit-lopta alebo pôrodná stolička,
 CTG – napojené na centrálny monitor pôrodných asistentiek,
-telemetria.
+
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 samostatné pôrodné izby so sociálnym zariadením alebo čakacia izba so sociálnym zariadením a k tomu prislúchajúci pôrodný box, aby bola zabezpečená intimita, súkromie a partner pri pôrode na podporu konceptu Family friendly hospital,
@@ -1365,7 +1438,7 @@ resuscitačné lôžko na ošetrenie novorodenca – mobilné na danú pôrodnú
 miesto na základné ošetrenie novorodenca po pôrode alebo zabezpečiť prvé ošetrenie novorodenca na matke a podpora bondingu,
 polohovateľné pôrodné lôžko, žinenka, fit-lopta alebo pôrodná stolička,
 CTG – napojené na centrálny monitor pôrodných asistentiek,
-telemetria.
+
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 dve plne vybavené pôrodné izby pri počte pôrodov menej ako 1 000 ročne,
@@ -1424,7 +1497,7 @@ resuscitačné lôžko na ošetrenie novorodenca – mobilné na danú pôrodnú
 miesto na základné ošetrenie novorodenca po pôrode alebo zabezpečiť prvé ošetrenie novorodenca na matke a podpora bondingu,
 polohovateľné pôrodné lôžko, žinenka, fit-lopta alebo pôrodná stolička,
 CTG – napojené na centrálny monitor pôrodných asistentiek,
-telemetria.
+
 
 Špeciálne materiálno-technické vybavenie pre poskytovanie medicínskych služieb Intrauterinná terapia plodu a Intrauterinná operácia plodu je
 priamy alebo zahnutý fetoskop,
@@ -1503,6 +1576,8 @@ meranie rozloženia tlaku v sede a na lôžku,
 funkčná proprioceptívna stimulácia.
 
 Indikačné kritériá pre hospitalizáciu spinálneho pacienta, ktorý je z akútneho lôžka po operácii, ochorení a stabilizácii stavu preložený od druhého týždňa od výskytu úrazu preložený na spinálnu jednotku na dobu najmenej desať týždňov a následne je preložený na spinálnu rehabilitačnú jednotku, kde je dĺžka hospitalizácie indikovaná u paraplegikov najmenej päť mesiacov a u tetraplegikov najmenej šesť mesiacov. Opakovaná ústavná zdravotná starostlivosť na spinálnej rehabilitačnej jednotke je indikovaná prvé dva roky po úraze, ochorení alebo operácií v dĺžke ošetrovacej doby najmenej šesť týždňov, potom každé dva roky v dĺžke ošetrovacej doby najmenej päť týždňov. 
+
+
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore neurochirurgia alebo lekár so špecializáciou v špecializačnom odbore úrazová chirurgia a lekár so špecializáciou v špecializačnom ortopédia.
@@ -1616,6 +1691,7 @@ tubusové retraktory.
 C-rameno, 
 3D/navigácia; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2025.
 
+
 Program IV. úrovne
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Radikálna chirurgická liečba nádorov chrbtice - C0-C7, Radikálna chirurgická liečba nádorov chrbtice T1-L5, Radikálna chirurgická liečba nádorov chrbtice S1-Co je lekár so špecializáciou v špecializačnom odbore neurochirurgia alebo lekár so špecializáciou v špecializačnom odbore ortopédia.
 
@@ -1626,6 +1702,8 @@ Chirurgická liečba úrazov chrbtice s neurologickým deficitom T1-T11,
 Chirurgická liečba úrazov chrbtice s neurologickým deficitom T12-L2, 
 Chirurgická liečba úrazov chrbtice s neurologickým deficitom L1-L5, 
 Chirurgická liečba úrazov chrbtice s neurologickým deficitom S-Co.
+
+
 
 Špeciálne materiálno-technické vybavenie pre medicínsku službu Chirurgická liečba degeneratívnych deformít v dospelom veku je
 C-rameno, 
@@ -1752,9 +1830,11 @@ tubusové retraktory.
 C-rameno, 
 3D/navigácia; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2025.
 
-13	Muskuloskeletálny program
+13	 program
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore ortopédia.
+
+
 
 Špeciálne materiálno-technické vybavenie s lehotou na splnenie podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona 1. januára 2026 je
 vybavenie pre výkony jednodňovej zdravotnej starostlivosti vrátane vybavenia pre artroskopické výkony, ak sa poskytujú artroskopické výkony,
@@ -1769,15 +1849,18 @@ možnosťou okamžitej resuscitácie.
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore ortopédia.
 
+
+
 Špeciálne materiálno-technické vybavenie s lehotou na splnenie podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona 1. januára 2026 je
 operačná sála spĺňajúca požiadavky vysoko aseptickej operačnej sály vhodnej pre kostné operácie,
 mobilné skiaskopické zariadenie – C-rameno,
 vybavenie na artroskopicky asistovanú operatívu,
-RTG transparentný operačný stôl s rôznym stupňom polohovania a traumatologickými extenčnými nadstavbami pri ošetrovaní úrazov muskulo-skeletálneho systému,
+RTG transparentný operačný stôl s rôznym stupňom polohovania a traumatologickými extenčnými nadstavbami pri ošetrovaní úrazov  systému,
 polohovateľné lôžka s antidekubitárnymi matracmi (30% elektrické).
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore ortopédia.
+
 
 Špeciálne materiálno-technické vybavenie s lehotou na splnenie podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona 1. januára 2026 je
 dve operačné sály spĺňajúce požiadavky vysoko aseptickej operačnej sály vhodnej pre kostné operácie,
@@ -1794,6 +1877,8 @@ Program plastickej chirurgie,
 Program brušnej chirurgie.
 
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore ortopédia.
+
+
 
 Špeciálne materiálno-technické vybavenie s lehotou na splnenie podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona 1. januára 2026 je
 jednotka intenzívnej starostlivosti,
@@ -1816,6 +1901,8 @@ Traumatologický program.
 
 Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici lekára so špecializáciou v špecializačnom odbore anestéziológia a intenzívna medicína.
 
+
+
 Špeciálne materiálno-technické vybavenie s lehotou na splnenie podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona 1. januára 2026 je
 jednotka intenzívnej starostlivosti,
 štyri operačné sály s vybavením pre vysoko aseptické operačné výkony, s vybavením jedno mobilné skiaskopické zariadenie - C-rameno,
@@ -1832,7 +1919,9 @@ polohovateľné lôžka s antidekubitárnymi matracmi (50 % elektrické).
 14	Program chirurgie kože, podkožia a prsníka 
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore v rámci chirurgických odborov alebo lekár so špecializáciou v špecializačnom odbore otorinolaryngológia alebo lekár so špecializáciou v špecializačnom v odbore gynekológia a pôrodníctvo.
- 
+
+
+
 Špeciálne materiálno-technické vybavenie je 
 operačná sála, 
 turniket. 
@@ -1841,6 +1930,8 @@ Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore v rámci chirurgických odborov.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Laloková plastika a Operačné výkony na tvári je lekár so špecializáciou v špecializačnom odbore chirurgia alebo lekár so špecializáciou v špecializačnom odbore plastická chirurgia alebo lekár so špecializáciou v špecializačnom odbore otorinolaryngológia alebo lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo alebo lekár so špecializáciou v špecializačnom odbore ortopédia alebo lekár so špecializáciou v špecializačnom odbore úrazová chirurgia.
+
+
 
 Špeciálne materiálno-technické vybavenie je 
 operačná sála, 
@@ -1865,6 +1956,8 @@ plastická chirurgia.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Radikálne lymfadenektómie a Regionálne lymfadenektómie je lekár so špecializáciou v špecializačnom odbore v rámci chirurgických odborov alebo alebo lekár so špecializáciou v špecializačnom odbore otorinolaryngológia alebo lekár so špecializáciou v špecializačnom odbore urológia alebo lekár so špecializáciou v špecializačnom odbore gynekológia a pôrodníctvo.
 
+
+
 Špeciálne materiálno-technické vybavenie je 
 operačná sála,
 turniket,
@@ -1887,12 +1980,16 @@ CT.
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
 
+
+
 Špeciálne materiálno-technické vybavenie je
 operačná sála podľa platných hygienických štandardov,
 turniket.
 
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+
+
 
 Špeciálne materiálno-technické vybavenie je
 operačná sála podľa platných hygienických štandardov,
@@ -1901,6 +1998,8 @@ RTG prístroj na pracovisku.
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia. 
+
+
 
 Špeciálne materiálno-technické vybavenie je
 operačná sála podľa platných hygienických štandardov,
@@ -1911,6 +2010,8 @@ intermediálne lôžko.
 
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+
+
 
 Špeciálne materiálno-technické vybavenie je
 operačná sála podľa platných hygienických štandardov,
@@ -1923,6 +2024,8 @@ lôžko jednotky intenzívnej starostlivosti.
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+
+
 
 Špeciálne materiálno-technické vybavenie je
 operačná sála podľa platných hygienických štandardov,
@@ -2020,19 +2123,21 @@ Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je popá
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore neurológia. 
 
+
+
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 odber orgánov od mŕtveho darcu v zdravotníckom zariadení nižšom ako IV. úrovne je možný iba tímom z transplantačného centra zdravotníckeho zariadenia IV. úrovne,
 anesteziologicko-intenzivistické lôžka s UPV,
-medicínska služba Identifikácia mŕtveho darcu orgánov je poskytovaná v nepretržitom režime.
+medicínsk služb Identifikácia mŕtveho darcu orgánov v nepretržitom režime.
 
 Program IV. úrovne
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 odber orgánov od mŕtveho darcu v zdravotníckom zariadení nižšom ako IV. úrovne je možný iba tímom z transplantačného centra zdravotníckeho zariadenia IV. úrovne, 
-transplantačný program V. úrovne môže byť poskytovaný aj v spolupráci s nemocnicou IV. úrovne (rozdelenie povinných medicínskych služieb medzi nemocnicami), ak každá nemocnica spĺňa všetky podmienky pre poskytované medicínske služby,
-zabezpečenie komplexného transplantačného programu, ktorý zahŕňa manažment mŕtvych darcov orgánov a živých darcov obličiek, odber obličiek od mŕtvych aj živých darcov, transplantácie obličiek od mŕtvych aj živých darcov a diagnostiku a liečbu komplikácií po transplantácii obličiek od mŕtvych aj živých darcov,
-medicínska služba Identifikácia mŕtveho darcu orgánov je poskytovaná v nepretržitom režime.
 
-Iné programy alebo medicínske služby, ktoré sa musia byť v nemocnici súčasne poskytované naposkytovanie medicínskej služby Transplantácia obličky sú
+zabezpečenie komplexného transplantačného programu, ktorý zahŕňa manažment mŕtvych darcov orgánov a živých darcov obličiek, odber obličiek od mŕtvych aj živých darcov, transplantácie obličiek od mŕtvych aj živých darcov a diagnostiku a liečbu komplikácií po transplantácii obličiek od mŕtvych aj živých darcov,
+medicín služb Identifikácia mŕtveho darcu orgánov v nepretržitom režime.
+
+Iné programy alebo medicínske služby, ktor sa musia byť v nemocnici súčasne poskytované naposkytovanie medicínskej služby Transplantácia obličky sú
 Nefrologický program IV. úrovne, 
 Urologický program IV. úrovne,
 Program brušnej chirurgie IV. úrovne.
@@ -2041,6 +2146,8 @@ Program brušnej chirurgie IV. úrovne.
 chirurgia alebo urológia,
 anestéziológia a intenzívna medicína, 
 nefrológia.
+
+
 
 Špeciálne materiálno-technické vybavenie pre poskytovanie medicínskej služby Transplantácia obličky je pracovisko brušnej chirurgie a urológie s vybavením
 výrobník ľadovej drte,	
@@ -2062,9 +2169,10 @@ dostupnosť histopatologického vyšetrenia a elektrónovej mikroskopie v nemoc
 dostupnosť špeciálnej imunologickej diagnostiky (typizácia histokompatibilných antigénov, lymfocytotoxická krížová skúška, krížová skúška prietokovou cytometriou) v nemocnici alebo na základe zmluvného vzťahu,
 dostupnosť monitoringu imunosupresie v rámci nemocnice. 
 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Transplantácia pečene sú 
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Transplantácia pečene sú 
 Medicínska služba Transplantácia pečene z Program pre orgánové transplantácie pre deti v jednej nemocnici,
-Program brušnej chirurgie IV. úrovne.
+Program brušnej chirurgie IV. úrovne
+
 
  Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia pečene je lekár so špecializáciou v špecializačnom odbore
 chirurgia,
@@ -2075,7 +2183,7 @@ hepatológia.
 výrobník ľadovej drte, 
 transportný box pre transport odobratej pečene,
 chladiaci box na uskladnenie perfúznych roztokov,
-dostupnosť prístroja na pulzatilnú prístrojovú perfúziu pečene - machine perfusion na základe zmluvného vzťahu,
+dostupnosť prístroja na pulzatilnú prístrojovú perfúziu pečene - machine perfusion 
 špeciálne brušné rozvierače pre transplantáciu pečene,
 prístroj alebo systém na ultrazvukovú abláciu tkanív (CUSA - Cavitron ultrasound surgical aspirator),
 Doppler Duplexný ultrasonografický prístroj na intraoperačnú ultrasonografiu.
@@ -2092,23 +2200,25 @@ mikrobiologické vyšetrenie (vrátane diagnostiky oportúnnych patogénov) v n
 dostupnosť histopatologického vyšetrenia a elektrónovej mikroskopie v nemocnici alebo na základe zmluvného vzťahu, 
 dostupnosť špeciálnej imunologickej diagnostiky (typizácia histkompatibilných antigénov, lymfocytotoxická krížová skúška, krížová skúška prietokovou cytometriou) v nemocnici alebo na základe zmluvného vzťahu, 
 dostupnosť monitoringu imunosupresie v nemocnici,
-dostupnosť molekulárno-biologickej diagnostiky alebo na základe zmluvného vzťahu,
+dostupnosť molekulárno-biologickej diagnostiky na základe zmluvného vzťahu,
 Fibroscan – tranzientná elastografia pečene,
 kontinuálna dostupnosť setov založených na metodike polymerázovej reťazovej reakcie na stanovenie deoxyribonukleovej kyseliny vírusu hepatitídy B, C, E, cytomegalovírusu a vírusu Epstein-Barrovej a stanovenie hladiny faktorov zrážanlivosti,
 špeciálne laboratórne pomôcky – mikropipety Hamiltonove, dávkovacie automatické pipety. 
 prístroj na rýchlu sérologickú diagnostiku.
 
 Program V. úrovne
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Transplantácia pankreasu sú
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Transplantácia pankreasu sú
 Medicínska služba Transplantácia obličky,
 Nefrologický program IV. úrovne.
 Program endokrinológie, diabetológie a metabolických porúch IV. úrovne,
-Urologický program IV. úrovne. 
+IV. úrovne. 
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia pankreasu je lekár so špecializáciou v špecializačnom odbore
 chirurgia, 
 anestéziológia a intenzívna medicína,
 diabetológia, poruchy látkovej premeny a výživy.
+
+
 
 Špeciálne materiálno-technické vybavenie pre poskytovanie medicínskej služby Transplantácia pankreasu je pracovisko brušnej chirurgie s vybavením
 výrobník ľadovej drte, 
@@ -2132,7 +2242,7 @@ dostupnosť molekulárno-biologickej diagnostiky v nemocnici alebo na základe 
 dostupnosť špeciálnej imunologickej diagnostiky (typizácia histokompatibilných antigénov, lymfocytotoxická krížová skúška, krížová skúška prietokovou cytometriou) v nemocnici alebo na základe zmluvného vzťahu,
 prístroj na rýchlu sérologickú diagnostiku.
 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Transplantácia čreva sú Program brušnej chirurgie IV. úrovne.
+Iné programy alebo medicínske služby, któ sa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Transplantácia čreva sú Program brušnej chirurgie IV. úrovne.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia čreva je lekár so špecializáciou v špecializačnom odbore
 chirurgia, 
@@ -2160,7 +2270,7 @@ dostupnosť molekulárno-biologickej diagnostiky v nemocnici,
 dostupnosť špeciálnej imunologickej diagnostiky (typizácia histokompatibilných antigénov, lymfocytotoxická krížová skúška, krížová skúška prietokovou cytometriou) v nemocnici alebo na základe zmluvného vzťahu,
 prístroj na rýchlu sérologickú diagnostiku.
 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Transplantácia srdca sú Kardiochirurgický program V. úrovne.
+Iné programy alebo medicínske služby, ktorsa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Transplantácia srdca sú Kardiochirurgický program V. úrovne.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia srdca je lekár so špecializáciou v špecializačnom odbore
 kardiochirurgia, 
@@ -2189,7 +2299,7 @@ dostupnosť monitoringu imunosupresie v nemocnici alebo na základe zmluvného 
 dostupnosť molekulárno-biologickej diagnostiky v nemocnici alebo na základe zmluvného vzťahu,
 prístroj na rýchlu sérologickú diagnostiku.
 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Transplantácia pľúc sú Program hrudníkovej chirurgie IV. úrovne.
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Transplantácia pľúc sú Program hrudníkovej chirurgie IV. úrovne.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia pľúc je lekár so špecializáciou v špecializačnom odbore
 hrudníková chirurgia, 
@@ -2378,7 +2488,7 @@ poskytovanie Program intervenčnej kardiológie III. úrovne v nepretržitej pr
 poskytovanie medicínskej služby pPKI pri infarkte v nepretržitom režime.
 
 Program IV. úrovne 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať sú Kardiochirurgický program IV. úrovne v rámci pracoviska.
+Iné programy alebo medicínske služby, ktoŕ sa musia v nemocnici súčasne poskytovat sú Kardiochirurgický program IV. úrovne v rámci pracoviska.
 
 Špeciálne personálne zabezpečenie je 
 lekár so špecializáciou v špecializačnom odbore kardiológia, 
@@ -2448,7 +2558,7 @@ anesteziologicko - intenzivistické lôžka s umelou pľúcnou ventiláciou.
 
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie pre poskytovanie medicínskej služby Implantácia, výmena alebo korekcia defibrilátora je pracovisko elektrofyziológie a katétrových ablácií v zdravotníckom zariadení.
 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Intervenčné výkony - elektrofyziológia a katétrové ablácie sú Program intervenčnej kardiológie v zdravotníckom zariadení.
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Intervenčné výkony - elektrofyziológia a katétrové ablácie sú Program intervenčnej kardiológie v zdravotníckom zariadení.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Intervenčné výkony - elektrofyziológia a katétrové ablácie pre jednu zákrokovú sálu je
 lekár so špecializáciou v špecializačnom odbore kardiológia,
@@ -2474,8 +2584,8 @@ anesteziologicko - intenzivistické lôžka s umelou pľúcnou ventiláciou.
 
 22	Program intervenčnej neurorádiológie
 Program III. úrovne
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať sú 
-Program pre rehabilitačnú starostlivosť,
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova 
+
 Program neurológie II. úrovne.
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Intervenčná neurorádiológia I je lekár so špecializáciou v špecializačnom odbore
@@ -2518,8 +2628,8 @@ Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie pre posky
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie pre poskytovanie medicínskej služby Intervenčná neurorádiológia II je lôžkový neurochirurgický úsek, táto podmienka podľa § 44 ods. 2 písm. d) zákona sa uplatňuje od 1. januára 2028.
 
 Program IV. úrovne
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať sú
-Program pre rehabilitačnú starostlivosť,
+Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytova sú
+,
 Program neurológie II. úrovne,
 Neurochirurgický program.
 
@@ -2569,7 +2679,7 @@ dva ultrazvukové prístroje na cievne vyšetrenia.
 
 Špeciálne materiálno-technické vybavenie pre poskytovanie medicínskej služby Vaskulárne intervencie II je jeden prístroj magnetickej rezonancie o sile magnetického poľa 1,5 T na pracovisku; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026.
 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Aortálne intervencie sú Program cievnej chirurgie alebo Kardiochirurgický program. 
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Aortálne intervencie sú Program cievnej chirurgie alebo Kardiochirurgický program. 
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Aortálne intervencie je 
 lekár s certifikátom v certifikovanej pracovnej činnosti intervenčná rádiológia alebo lekár s certifikátom v certifikovanej pracovnej činnosti intervenčná angiológia prítomný nepretržite,
@@ -2602,7 +2712,7 @@ dva ultrazvukové prístroje na cievne vyšetrenia.
 Špeciálne materiálno-technické vybavenie pre poskytovanie medicínskej služby Hybridné intervenčné výkony na periférnych tepnách je jeden prístroj magnetickej rezonancie o sile magnetického poľa 1,5 T na pracovisku; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026.
 
 Program IV. úrovne
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Hybridné a komplexné aortálne intervenčné výkony sú
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova pre poskytovanie medicínskej služby Hybridné a komplexné aortálne intervenčné výkony sú
 Program cievnej chirurgie IV. úrovne,
 Kardiochirurgický program IV. úrovne.
 
@@ -2656,11 +2766,12 @@ lôžkový úsek v chirurgickom alebo internistickom odbore.
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Nevaskulárna intervenčná rádiológia III. je lekár so špecializáciou v špecializačnom odbore
 rádiológia alebo lekár s certifikátom v certifikovanej pracovnej činnosti intervenčná rádiológia prítomný nepretržite,
 chirurgia, 
-klinická onkológia.
+.
 
-Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Nevaskulárna intervenčná rádiológia III. je dostupnosť konziliárnej služby v nemocnici, a to lekár so špecializáciou v špecializačnom odbore
+Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Nevaskulárna intervenčná rádiológia III. je dostupnosť konziliárnej služby, a to lekár so špecializáciou v špecializačnom odbore
 radiačná onkológia, 
-patologická anatómia.
+patologická anatómia
+.
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie pre poskytovanie medicínskej služby Nevaskulárna intervenčná rádiológia III. je
 spolupráca multidisciplinárneho tímu v nemocnici,
@@ -2720,7 +2831,7 @@ Program II. úrovne
 vnútorné lekárstvo,
 v rámci internistických odborov.
 
-Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici lekára so špecializáciou v špecializačnom odbore klinická farmakológia alebo zmluvne zabezpečená.
+
 
 Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici lekára so špecializáciou v špecializačnom odbore geriatria; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2025.
 
@@ -3011,14 +3122,14 @@ Program III. úrovne
 lekár so špecializáciou v špecializačnom odbore pneumológia a ftizeológia,
 lekár so špecializáciou v špecializačnom odbore klinická onkológia.
 
-Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici, a tolekár so špecializáciou v špecializačnom odbore
+Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici, atolekár so špecializáciou v špecializačnom odbore
 kardiológia, 
 klinická imunológia a alergológia, 
 infektológia, 
 gastroenterológia, 
 klinická onkológia, 
 patologická anatómia, 
-hrudníková chirurgia, 
+
 reumatológia, 
 fyziatria, balneológia a liečebná rehabilitácia, 
 otorinolaryngológia, 
@@ -3148,31 +3259,42 @@ endoskopická veža,
 akcesóriá na hornú a dolnú endoskopiu.
 
 Program II. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
-vnútorné lekárstvo podľa osobitného predpisu2,
-gastroenterológia alebo  hepatológia, 
+Špeciálne personálne zabezpečenie je 
 
-Špeciálne personálne zabezpečenie pre poskytovanie služby odstránenie cudzieho telesa z GITu a akútne krvácanie z hroného GITu je nepretržitá dostupnosť lekára so špecializáciou v špecializačnom odbore gastroenterológia alebo lekár so špecializáciou v špecializačnom odbore chirurgia s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná ezofagogastroduodenoskopia.
 
-Špeciálne materiálno-technické vybavenie pre úsek hepatológie je USG prístroj strednej triedy.
+
+
+
+
+
+
+Špeciálne echnické vybavenie pre úsek hepatológie je USG prístroj strednej triedy
 
 Špeciálne materiálno-technické vybavenie pre úsek gastroenterológie je 
 jedna endoskopická veža,
-dva prístroje na hornú a dolnú endoskopiu,
-dve koagulačné jednotky, 
+na hornú a dolnú endoskopiu,
+koagulačn jednotk, 
 akcesóriá na zastavenie krvácania (ihly, klipy, prášok, koagulačné sondy), 
 akcesóriá na ligáciu varixov pažeráka, akcesóriá na vytiahnutie cudzieho telesa a zavedenie sondy, 
 bužie a balóniky na dilatáciu pažeráka, 
 slučky a endoloop na polypektómie.
 
 Program III. úrovne 
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
-vnútorné lekárstvo podľa osobitného predpisu2,
-gastroenterológia.
 
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore hepatológia; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026.
 
-Špeciálne personálne zabezpečenie pre poskytovanie služby odstránenie cudzieho telesa z GITu a akútne krvácanie z hroného GITu je nepretržitá dostupnosť lekára so špecializáciou v špecializačnom odbore gastroenterológia alebo lekár so špecializáciou v špecializačnom odbore chirurgia s certifikátom v certifikovanej pracovnej činnosti diagnostická a intervenčná ezofagogastroduodenoskopia.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Špeciálne materiálno-technické vybavenie pre úsek hepatológie je
 USG prístroj high-end triedy,
@@ -3185,7 +3307,7 @@ ERCP,
 RTG C-rameno, 
 posuvný operačný stôl, 
 radiálna aj lineárna endoskopická ultrasonografia,
-dve endoskopické operačné sály, 
+dve endoskopické sály, 
 vybavenie na enteroskopiu (enteroskop. Kapsulová endoskopia), pH metria, manometria,
 vybavenie na pokročilé endoskopické metódy - POEM, ESD, endoskopické resekcie celej hrúbky,
 možnosť zavádzania stentov a dilatácie do GIT (RTG, posuvné lôžko, prístroje na dilatáciu v GIT), rádiofrekvenčná ablácia v GIT,
@@ -3200,9 +3322,14 @@ vybavenie na dilatáciu stenóz v tráviacom a biliárnom trakte,
 akcesóriá na ESD, POEM, endoskopické resekcie celej hrúbky.
 
 Program IV. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
-gastroenterológia prítomný nepretržite,
-hepatológia.
+Špeciálne personálne zabezpečenie je 
+
+
+
+
+
+
+
 
 Špeciálne materiálno-technické vybavenie pre úsek hepatológie je
 USG prístroj high-end triedy, elastografia pečene, kontrastná USG,
@@ -3236,9 +3363,13 @@ vybavenie na dilatáciu stenóz v tráviacom a biliárnom trakte,
 akcesóriá na ESD, POEM, endoskopické resekcie celej hrúbky.
 
 Program V. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
-gastroenterológia prítomný nepretržite,
-hepatológia.
+Špeciálne personálne zabezpečenie je 
+
+
+
+
+
+
 
 Špeciálne materiálno-technické vybavenie pre úsek hepatológiu je
 USG prístroj high-end triedy, elastografia pečene, kontrastná USG,
@@ -3484,7 +3615,7 @@ kardiológia,
 nefrológia,
 dermatovenerológia,
 angiológia, 
-diabetológia, poruchy látkovej premeny a výživy, 
+
 otorinolaryngológia, 
 oftalmológia.
 
@@ -3514,9 +3645,10 @@ vnútorné lekárstvo,
 nefrológia, 
 dermatovenerológia,
 pneumológia a ftizeológia, 
-diabetológia, poruchy látkovej premeny a výživy, 
+
 otorinolaryngológia, 
-oftalmológia.
+oftalmológia
+
 
 Špeciálne materiálno-technické vybavenie je
 operačná sála pre reumo-ortopedické operačné zákroky, 
@@ -3526,7 +3658,7 @@ laboratórium na analýzu synoviálnej tekutiny,
 prietoková cytometria,
 mikroskop (bežný, imunoflorescenčný, polarizačný),
 USG prístroj na abdominálnu sonografiu, vyšetrenie štítnej žľazy, slinných žliaz, ciev, pleurálneho výpotku, 
-USG prístroj na muskuloskeletálnu sonografiu periférnych kĺbov a mäkkých tkanív, 
+USG prístroj na  sonografiu periférnych kĺbov a mäkkých tkanív, 
 denzitometer,
 kapilaroskop,
 EKG prístroj, 
@@ -3569,7 +3701,7 @@ gastroenterológia.
 Špeciálne materiálno-technické vybavenie je dostupnosť PET-CT.
 
 Špeciálne materiálno-technické vybavenie pre štandardné lôžkové oddelenie je
-tri lôžka na jednu izbu,
+,
 jedna jednolôžková izba, 
 jedna dvojlôžková izba,
 tretina lôžok je vybavená centrálnym rozvodom medicínskeho kyslíka,
@@ -3675,7 +3807,9 @@ centrálny monitorovací systém vitálnych funkcií,
 šesť - parametrové monitory vitálnych funkcií,
 TV monitorovací systém na kontinuálne sledovanie pacientov,
 iradiované transfúzne lieky – nepretržitá dostupnosť,
-dostupnosť RTG a USG prístrojov pri lôžku pacienta.
+dostupnosť RTG a USG prístrojov pri lôžku pacienta
+
+
 
 Špeciálne materiálno-technické vybavenie pre pracovisko zamerané na liečbu hematoonkologických ochorení je jednotka intenzívnej hematologickej starostlivosti; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2030. 
 
@@ -3776,10 +3910,11 @@ Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore infektológia; táto podmienka podľa § 44 ods. 2 písm. d) zákona sa uplatňuje od 1. januára 2027.
 
 Špeciálne materiálno-technické vybavenie je
-resuscitačný set,
-HFNO.
 
-Špeciálne materiálno-technické vybavenie je izby so samostatným sociálnym zariadením; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2027.
+HFNO
+
+
+Špeciálne materiálno-technické vybavenie  izbyso samostatným sociálnym zariadením; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2027.
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore infektológia alebo lekár so špecializáciou v špecializačnom odbore vnútorné lekárstvo; táto podmienka podľa § 44 ods. 2 písm. d) zákona sa uplatňuje do 31. decembra 2024.
@@ -3787,15 +3922,44 @@ Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore infektológia; táto podmienka podľa § 44 ods. 2 písm. d) zákona sa uplatňuje od 1. januára 2025.
 
 Špeciálne materiálno-technické vybavenie je
-resuscitačný set,
-HFNO,
 
-Špeciálne materiálno-technické vybavenie sú jednolôžkové alebo dvojlôžkové izby so samostatným sociálnym zariadením; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1.januára 2026.
+HFNO
+
+
+
+Špeciálne materiálno-technické vybavenie sú jednolôžkové alebo dvojlôžkové izbyso samostatným sociálnym zariadením; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1.januára 2026.
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je personál pre starostlivosť o pacienta s vysoko nebezpečnou nákazou.
 
 Špeciálne materiálno-technické vybavenie je vybavenie pre starostlivosť o pacienta s vysoko nebezpečnou nákazou.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 34	Dermatovenerologický program 
 Program III. úrovne
@@ -3826,14 +3990,17 @@ digitálny dermatoskop,
 prístroje na vyšetrenie fyzikálnych vlastností kože (evaporimeter, korneometer),
 prístroj na Dopplerovské USG vyšetrenie ciev,
 testovacia súprava na fototesty
-laserový prístroj ablačný,
-laserový prístroj farbivový,
-prístroj na ošetrenie intenzívnym pulzným svetlom (IPL),
+
+
+
 prístroj na podtlakovú liečbu rán (VAC terapiu),
-prístroj na ošetrenie rádiofrekvenciou,
-prístroj na dermabráziu,
-digitálny dermatoskop s celotelovým skenerom,
-USG prístroj so sondou (40 – 100 MHz) na vyšetrenie kožných lézií.
+
+
+
+
+
+
+
 
 35 	Program klinickej imunológie a alergológie 
 Program II. úrovne 
@@ -3851,7 +4018,7 @@ zobrazovacích vyšetrení – RTG, CT, USG,
 technického zabezpečenia pre podávanie substitučnej liečby – infúzne pumpy pre intravenózne alebo subkutánne podávanie, monitoring pacientov počas substitúcie. 
 
 Program IV. úrovne 
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Vysoko komplexné ochorenia imunitného systému – transplantácia kmeňových buniek je súčasné poskytovanie medicínskej služby Autológna transplantácia krvotvotvorných buniek z Programu hematológie a transfúziológie.
+Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Vysoko komplexné ochorenia imunitného systému – transplantácia kmeňových buniek je súčasné poskytovanie medicínskej služby transplantácia krvotvotvorných buniek z Programu hematológie a transfúziológie.
 
 Špeciálne personálne zabezpečenie je lekár so špecializácou v špecializačnom odbore klinická imunológia a alergológia.
 
@@ -3876,7 +4043,7 @@ anestéziológia a intenzívna medicína,
 oftalmológia, 
 psychiatria, 
 rádiológia, 
-maxilofaciálna chirurgia, 
+
 zubného lekára.
 
 Špeciálne materiálno-technické vybavenie je 
@@ -3896,7 +4063,7 @@ centrum pre vrodené poruchy imunity.
 
 Špeciálne materiálno-technické vybavenie pre diagnózu ťažkej kombinovanej imunodeficiencie (skupina D81) ako aj iných závažných vrodených porúch imunity indikovanej na transplantáciu krvotvorných buniek je dostupnosť transplantačnej jednotky pre poruchy krvotvorby. 
 
-36	Program pre pracovné lekárstvo a toxikológiu
+36	Program prárstvo a toxikológiu
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore pracovné lekárstvo a toxikológia.
 
@@ -3919,7 +4086,7 @@ pneumológia a ftizeológia.
 neurochirurgia.
 
 Špeciálne materiálno-technické vybavenie dostupné na pracovisku je
-ultrasonograf,
+ltrasonograf,
 fotopletyzmograf,
 audiometer,
 audiometrická komora,
@@ -3936,6 +4103,8 @@ nebulizátory.
 magnetická rezonancia,
 počítačová tomogragia,
 RTG prístroj.
+
+
 
 37	Neurologický program 
 Program II. úrovne
@@ -4028,7 +4197,8 @@ zákroková miestnosť,
 centrálna signalizácia pacient - personál, 
 kamerový systém, 
 zabezpečenie IKT (e-health),
-seklúzna miestnosť s príslušným vybavením.
+seklúzna miestnosť s príslušným vybavením
+
 
 Špeciálne materiálno-technické vybavenie úseku klinickej psychológie je
 vyšetrovacie alebo relaxačné lôžko alebo relaxačné́ kreslo,
@@ -4063,7 +4233,7 @@ zákroková miestnosť.
 centrálna signalizácia pacient - personál, 
 kamerový systém, 
 zabezpečenie IKT (e-health),
-seklúzna miestnosť s príslušným vybavením.
+seklúzna miestnosť s príslušným vybavením
 
 Špeciálne materiálno-technické vybavenie úseku klinickej psychológie je
 vyšetrovacie alebo relaxačné lôžko alebo relaxačné́ kreslo,
@@ -4117,7 +4287,7 @@ lekára so špecializáciou v špecializačnom odbore chirurgia.
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je medicínsky konsenzus multidisciplinárneho tímu v zložení lekárov so špecializáciou v špecializačnom odbore klinická onkológia, lekárov so špecializáciou v špecializačnom odbore rádiológia a lekárov so špecializáciou v špecializačnom odbore chirurgia, 
 
 Program III. úrovne
-Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať sú
+Iné programy alebo medicínske služby, ktor sa musia v nemocnici súčasne poskytova sú
 Program paliatívnej medicíny II. úrovne,
 Program radiačnej onkológie.
 
@@ -4170,23 +4340,27 @@ poskytovanie konziliárnych vyšetrení pre pracoviská poskytujúce II., III. 
 
 41	Program radiačnej onkológie
 Program III. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore radiačná onkológia.
+Špeciálne personálne zabezpečenie je 
+lekár so špecializáciou v špecializačnom odbore radiačná onkológia
+
 
 Špeciálne materiálno-technické vybavenie je
-dva kompatibilné lineárne urýchľovače alebo jeden kompatibilný lineárny urýchľovač v ktorom je zmluvne zabezpečená kontinuita liečby s iným pracoviskom alebo jeden kompatibilný lineárny urýchľovač so servisom v režime 95% up time,
-plánovací systém,
+dva
+plánovac systém,
 CT simulátor,
 dozimetria.
 
 Program IV. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore radiačná onkológia.
+Špeciálne personálne zabezpečenie je 
+lekár so špecializáciou v špecializačnom odbore radiačná onkológia
+
 
 Špeciálne materiálno-technické vybavenie je
-dva kompatibilné lineárne urýchľovače,
+
 CT simulátor,
 plánovacie systémy,
 dozimetria,
-jeden prístroj pre brachyterapiu.
+prístroj pre brachyterapiu.
 
 42	Program nukleárnej medicíny
 Program IV. úrovne
@@ -4216,6 +4390,8 @@ gamaspektrometer na analýzu rádioaktívne skontaminovaných biologických vzor
 osobné ochranné prostriedky pre pracovníkov so zdrojmi ionizujúceho žiarenia (ochranné olovené zástery, chrániče štátnej žľazy, ochranné okuliare a štíty).
 
 Podmienka pre poskytnutie diagnostiky a liečby pre poistencov vo veku 18 rokov a menej počas hospitalizácie je, že pracovisko má zmluvnú dohodu s detským anestéziologickým oddelením pre prípad liečby detského pacienta.
+
+
 
 43	Program paliatívnej medicíny 
 Program II. úrovne
@@ -4248,6 +4424,8 @@ Program II. úrovne
  gynekológia a pôrodníctvo,
 radiológia.
 
+
+
 Špeciálne materiálno-technické vybavenie je
 vysokoenergeticý elektrokoagulačný prístroj,
 mechanické akcesóriá.
@@ -4262,6 +4440,8 @@ klinická onkológia,
 urológia, 
 gynekológia a pôrodníctvo, 
 radiológia.
+
+
 
 Špeciálne materiálno-technické vybavenie je
 vysokoenergeticý elektrokoagulačný prístroj,
@@ -4319,6 +4499,8 @@ Program IV. úrovne
  urológia, 
 gynekológia a pôrodníctvo.
 
+
+
 Špeciálne materiálno-technické vybavenie je
 vysokoenergetický elektrokoagulačný prístroj,
 mechanické akcesóriá,
@@ -4346,11 +4528,11 @@ lekára so špecializáciou v špecializačnom odbore neurológia.
 
 Špeciálne materiálno-technické vybavenie je
 USG prístroj,
-neurostimulátor,
+
 neinvazívny transkutánny elektroterapeutický prístroj,
 banky,
 oxymeter,
-dvojkomorová manžeta s manometrami,
+,
 EKG monitor.
 
 Program IV. úrovne
@@ -4358,11 +4540,13 @@ Program IV. úrovne
 
 Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici, a tolekár so špecializáciou v špecializačnom odbore
  fyziatria, balneológia a liečebná rehabilitácia, 
-neurológia.
+eurológia
+
+
 
 Špeciálne materiálno-technické vybavenie je
 USG prístroj,
-neurostimulátor,
+Neurostimulátor,
 neinvazívny transkutánny elektroterapeutický prístroj,
 banky,
 oxymeter,
@@ -4669,6 +4853,7 @@ IV/II – paliatívna liečba, menej ako 24,
 gestačný vek 35+ pre medicínske služby Novorodenec, hmotnosť pri prijatí 1500-1999 g bez signifikantného OP výkonu, bez UPV > 95 hodín, bez ťažkých problémov a Novorodenec, hmotnosť pri prijatí 2000-2499 g bez signifikantného OP výkonu, bez UPV > 95 hodín, bez ťažkých problémov a Novorodenec, hmotnosť pri prijatí od 2500 g bez signifikantného OP výkonu, bez UPV > 95 hodín, bez ťažkých problémov,
 V situáciách, keď riziká transportu novorodenca na vyššiu úroveň pracoviska prevažujú nad očakávanými benefitmi, je možné po konzultácii s vyšším pracoviskom poskytnúť starostlivosť o novorodenca aj na nižšej úrovni, ako je zaradenie medicínsky služieb. 
 
+
 49	Program intenzívnej starostlivosti v neonatológii 
 Program III. úrovne (Jednotka resuscitačnej starostlivosti o novorodencov - JRSN)
 Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať sú Pôrodnícky program III. úrovne.
@@ -4702,7 +4887,7 @@ tri CPAP na päť lôžok,
 dva prístroje na liečbu vysokoprietokovým kyslíkom na päť lôžok,
 dva NIPPV na päť lôžok,
 dva konvenčné ventilátory na päť lôžok,
-jedna vysokofrekvenčná ventilácia – HFO (aj ako súčasť konvenčného ventilátora) na pracovisko,
+
 jedna NAVA na pracovisko,
 jeden prístroj na rozšírený skríning sluchu na 15 lôžok,
 jedna odsávačka materského mlieka na dve lôžka,
@@ -4896,6 +5081,8 @@ dostupnosť mikrobiologického laboratória v nemocnici alebo na základe zmluv
 dostupnosť biochemického laboratória v nemocnici alebo na základe zmluvného vzťahu,
 dostupnosť hematologického laboratória v nemocnici alebo na základe zmluvného vzťahu,
 dostupnosť krvnej banky v nemocnici alebo na základe zmluvného vzťahu.
+
+
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
@@ -5493,19 +5680,20 @@ optika.
 54	Program stomato-maxilo-faciálnej chirurgie pre deti 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je
-lekár so špecializáciou v špecializačnom odbore pediatria,
+
 zubný lekár.
 
 Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby lekára so špecializáciou v špecializačnom odbore maxilofaciálna chirurgia v nemocnici.
 
 Špeciálne materiálno-technické vybavenie je
-sety na dentoalveolárnu chirurgiu, 
-sety na dentálnu implantológiu,
-sety a inštrumentárium na traumatológiu,
-rigidný endoskop,
-RTG OPG (ortopantomogram) s CBCT (cone beam computed tomography), 
+
+
+
+
+
 operačné sály na dentoalveolárne chirurgické výkony v lokálnej anestézii,
-operačné sály na maxilofaciálne chirurgické výkony v celkovej anestézii.
+operačné sály na maxilofaciálne chirurgické výkony v celkovej anestézii
+
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 možnosť hospitalizovať pacienta na pediatrických lôžkach, lôžkach otorinolaryngologie, detskej chirurgie a lôžkach pediatrickej anestéziológie a intenzívnej medicíny s možnosťou pooperačného monitoringu vitálnych funkcií,
@@ -5514,36 +5702,37 @@ nepretržité poskytovanie anestéziologických výkonov.
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je
 zubný lekár,
-lekár so špecializáciou v špecializačnom odbore pediatria.
+lekár so špecializáciou v špecializačnom odbore pediatria
+.
 
-Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici lekára so špecializáciou v špecializačnom odbore maxilofaciálna chirurgia .
 
-Špeciálne materiálno-technické vybavenie je
-sety na dentoalveolárnu chirurgiu, 
-sety na dentálnu implantológiu,
-sety a inštrumentárium na traumatológiu,
-rigidný endoskop,
-RTG OPG (ortopantomogram) s CBCT (cone beam computed tomography), 
-operačné sály na dentoalveolárne chirurgické výkony v lokálnej anestézii,
-operačné sály na maxilofaciálne chirurgické výkony v celkovej anestézii,
-lôžková časť s možnosťou pooperačného monitoringu vitálnych funkcií,
-lupové okuliare,
-flexibilný endoskop a artroskop s vežou,
- endoskopická súprava na mobilnom stojane,
-sialoskop,
-artroskop,
-sinusoskop,
-bronchoskop,
-video-larygoskop alebo laryngoskop je bazálny pre ARO,
-defibrilátor,
-osteosyntetické sety (platnicky, skrutky a inštrumentárium – stredná tretina, mandibula a rekonštrukčné systémy) pr 1,5, 2.0, 2.4 mm, 
-kompletné súpravy inštrumentária pre MFCH,
-súpravy inštrumentária pre plastickú chirurgiu,
-súpravy inštrumentária pre DACH,
-súpravy inštrumentária pre dentálnu implantológiu,
-súpravy inštrumentária pre zubné lekárstvo,
-súpravy inštrumentária pre mikrochirurgické výkony,
-tele RTG lebky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Špeciálne materiálno-technické vybavenie s lehotou na splnenie podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona 1. januára 2026 je 
 operačný mikroskop,
@@ -5552,7 +5741,7 @@ vybavenie na robotickú chirurgiu.
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 možnosť hospitalizovať pacienta na pediatrických lôžkach, lôžkach otorinolaryngologie, detskej chirurgie a lôžkach pediatrickej anestéziológie a intenzívnej medicíny s možnosťou pooperačného monitoringu vitálnych funkcií,
 nepretržité poskytovanie anestéziologických výkonov,
-medicínska služba Rázštepy je vykonávaná len pre pacientov od 3 rokov. 
+od 3 rokov. 
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je
@@ -5562,32 +5751,32 @@ lekár so špecializáciou v špecializačnom odbore pre pediatrická anestézi
 
 Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici lekára so špecializáciou v špecializačnom odbore maxilofaciálna chirurgia.
 
-Špeciálne materiálno-technické vybavenie je
-sety na dentoalveolárnu chirurgiu, 
-sety na dentálnu implantológiu,
-sety a inštrumentárium na traumatológiu,
-rigidný endoskop,
-RTG OPG (ortopantomogram) s CBCT (cone beam computed tomography), 
-operačné sály na dentoalveolárne chirurgické výkony v lokálnej anestézii,
-operačné sály na maxilofaciálne chirurgické výkony v celkovej anestézii,
-lôžková časť s možnosťou pooperačného monitoringu vitálnych funkcií,
-lupové okuliare,
-flexibilný endoskop a artroskop s vežou,
-endoskopická súprava na mobilnom stojane, 
-sialoskop,
-artroskop,
-sinusoskop,
-bronchoskop,
-video-larygoskop alebo laryngoskop je bazálny pre ARO,
-defibrilátor,
-osteosyntetické sety (platnicky, skrutky a inštrumentárium – stredná tretina, mandibula a rekonštrukčné systémy) pr 1,5, 2.0, 2.4 mm, biodegradovateľný osteosytetický materiál,
-kompletné súpravy inštrumentária pre MFCH,
-súpravy inštrumentária pre plastickú chirurgiu,
-súpravy inštrumentária pre DACH,
-súpravy inštrumentária pre dentálnu implantológiu,
-súpravy inštrumentária pre zubné lekárstvo,
-súpravy inštrumentária pre mikrochirurgické výkony,
-tele RTG lebky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Špeciálne materiálno-technické vybavenie s lehotou na splnenie podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona 1. januára 2026 je 
 operačný mikroskop,
@@ -5597,9 +5786,9 @@ CT navigačný systém.
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 možnosť hospitalizovať pacienta na pediatrických lôžkach, lôžkach otorinolaryngologie, detskej chirurgie a lôžkach pediatrickej anestéziológie a intenzívnej medicíny s možnosťou pooperačného monitoringu vitálnych funkcií,
 nepretržité poskytovanie anestéziologických výkonov,
-medicínska služba Rázštepy je vykonávaná len pre pacientov od 3 rokov. 
+medicínsk služb Rázštepy
 
-55	Spondylochirurgický program pre deti 
+55	 program pre deti 
 Program III. úrovne 
 Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať sú Neurochirurgický program.
 
@@ -5860,7 +6049,7 @@ tubusové retraktory.
 C-rameno, 
 3D/navigácia; lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2025.
 
-56	Muskuloskeletálny program pre deti 
+56	 program pre deti 
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore ortopédia.
 
@@ -5875,7 +6064,7 @@ Program II. úrovne
 operačná sála spĺňajúca požiadavky vysokoaseptickej operačnej sály vhodnej pre kostné operácie,
 mobilné skiaskopické zariadenie – C-rameno,
 vybavenie na artroskopicky asistovanú operatívu,
-RTG transparentný operačný stôl s rôznym stupňom polohovania a traumatologickými extenčnými nadstavbami pri ošetrovaní úrazov muskulo-skeletálneho systému,
+RTG transparentný operačný stôl s rôznym stupňom polohovania a traumatologickými extenčnými nadstavbami pri ošetrovaní úrazov systému,
 polohovateľné lôžka s antidekubitárnymi matracmi (30% elektrické).
 
 Program III. úrovne
@@ -5921,38 +6110,42 @@ operačný mikroskop.
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
 
-Špeciálne materiálno-technické vybavenie je
-operačná sála podľa platných hygienických štandardov,
-turniket.
+
+
+
 
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
 
-Špeciálne materiálno-technické vybavenie je
-operačná sála podľa platných hygienických štandardov,
-turniket,
-RTG prístroj na pracovisku.
+
+
+
+
 
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je operačná sála dostupná päť dní v týždni v celom rozsahu pracovnej doby,
 
 Program III. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+Špeciálne personálne zabezpečenie je 
+lekár so špecializáciou v špecializačnom odbore plastická chirurgia
+
 
 Špeciálne materiálno-technické vybavenie je
-operačná sála podľa platných hygienických štandardov,
-turniket,
-RTG prístroj na pracovisku,
+
+
+
 USG prístroj (Doppler).
 
 Podmienka pre poskytnutie diagnostiky a liečby počas hospitalizácie je intermediálne lôžko.
 
 Program IV. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+Špeciálne personálne zabezpečenie je 
+lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+
 
 Špeciálne materiálno-technické vybavenie je
-operačná sála podľa platných hygienických štandardov,
-turniket,
-RTG prístroj na pracovisku,
+
+
+
 USG prístroj (Doppler),
 operačný mikroskop.
 
@@ -5961,12 +6154,14 @@ dostupnosť lôžka jednotky intenzívnej starostlivosti v zariadení,
 dve intermediálne lôžka,
 
 Program V. úrovne
-Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+Špeciálne personálne zabezpečenie je 
+lekár so špecializáciou v špecializačnom odbore plastická chirurgia.
+
 
 Špeciálne materiálno-technické vybavenie je
-operačná sála podľa platných hygienických štandardov,
-turniket,
-RTG prístroj na pracovisku,
+
+
+
 USG prístroj (Doppler),
 operačný mikroskop.
 
@@ -5981,14 +6176,19 @@ Program II. úrovne
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 odber orgánov od mŕtveho darcu v zdravotníckom zariadení nižšom ako IV. úrovne je možný iba tímom z transplantačného centra zdravotníckeho zariadenia IV. úrovne, 
 anesteziologicko-intenzivistické lôžka s UPV,
-medicínska služba Identifikácia mŕtveho darcu orgánov je poskytovaná v nepretržitom režime.
+medicíns služb Identifikácia mŕtveho darcu orgánov v nepretržitom režime.
 
 Program IV. úrovne
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 odber orgánov od mŕtveho darcu v zdravotníckom zariadení nižšom ako IV. úrovne je možný iba tímom z transplantačného centra zdravotníckeho zariadenia IV. úrovne, 
 anesteziologicko-intenzivistické lôžka s UPV,
-medicínska služba Identifikácia mŕtveho darcu orgánov je poskytovaná v nepretržitom režime,
+medicínsk služb Identifikácia mŕtveho darcu orgánov v nepretržitom režime,
 zabezpečenie komplexného transplantačného programu, ktorý zahŕňa manažment mŕtvych darcov orgánov a živých darcov obličiek, odber obličiek od mŕtvych aj živých darcov, transplantácie obličiek od mŕtvych aj živých darcov a diagnostiku a liečbu komplikácií po transplantácii obličiek od mŕtvych aj živých darcov.
+
+
+
+
+
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia obličky je lekár so špecializáciou v špecializačnom odbore
 chirurgia alebo detská chirurgia alebo urológia alebo pediatrická urológia,
@@ -6019,8 +6219,13 @@ Program V. úrovne
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 odber orgánov od mŕtveho darcu v zdravotníckom zariadení nižšom ako IV. úrovne je možný iba tímom z transplantačného centra zdravotníckeho zariadenia IV. úrovne, 
 anesteziologicko-intenzivistické lôžka s UPV,
-medicínska služba Identifikácia mŕtveho darcu orgánov je poskytovaná v nepretržitom režime,
+medicínsk služb Identifikácia mŕtveho darcu orgánovv nepretržitom režime,
 zabezpečenie komplexného transplantačného programu, ktorý zahŕňa manažment mŕtvych darcov orgánov a živých darcov obličiek, odber obličiek od mŕtvych aj živých darcov, transplantácie obličiek od mŕtvych aj živých darcov a diagnostiku a liečbu komplikácií po transplantácii obličiek od mŕtvych aj živých darcov.
+
+
+
+
+
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia obličky je lekár so špecializáciou v špecializačnom odbore
 chirurgia alebo detská chirurgia alebo urológia alebo pediatrická urológia,
@@ -6049,6 +6254,8 @@ dostupnosť monitoringu imunosupresie v rámci nemocnice.
 
 Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súčasne poskytovať pre poskytovanie medicínskej služby Transplantácia pečene sú 
 Súčasne poskytovať medicínsku službu Transplantácia pečene z Programu pre orgánové transplanácie v jednej nemocnici.
+
+
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia pečene je lekár so špecializáciou v špecializačnom odbore
 chirurgia alebo detská chirurgia, 
@@ -6084,6 +6291,12 @@ prístroj na rýchlu sérologickú diagnostiku.
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie pre poskytovanie medicínskej služby Transplantácia pečene sú pracovisko detskej anesteziologie a intenzívnej medicíny v nemocnici alebo na základe zmluvného vzťahu.
 
+
+
+
+
+
+
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia pankreasu je lekár so špecializáciou v špecializačnom odbore
 chirurgia alebo detská chirurgia,
 anestéziológia a intenzívna medicína alebo pediatrická anestéziológia,
@@ -6111,7 +6324,10 @@ dostupnosť molekulárno-biologickej diagnostiky v nemocnici alebo na základe 
 dostupnosť špeciálnej imunologickej diagnostiky (typizácia histokompatibilných antigénov, lymfocytotoxická krížová skúška, krížová skúška prietokovou cytometriou) v nemocnici alebo na základe zmluvného vzťahu,
 prístroj na rýchlu sérologickú diagnostiku.
 
-Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú Transplantačné centrum pre transplantáciu pankreasu musí byť spojené s centrom pre transplantáciu obličky. Musí spĺňať špeciálne materiálno-technické vybavenie a špeciálne personálne zabezpečenie pre transplantáciu pankreasu podľa tohto predpisu. 
+Podmienk pre poskytnutie diagnostiky a liečby počas hospitalizácie  
+
+
+
 
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia čreva je lekár so špecializáciou v špecializačnom odbore
 chirurgia alebo detská chirurgia,
@@ -6144,7 +6360,7 @@ Iné programy alebo medicínske služby, ktoré sa musia v nemocnici súč
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia srdca je lekár so špecializáciou v špecializačnom odbore
 kardiochirurgia, 
 pediatrická kardiológia, 
-pediatrická anestéziológia a pediatrická kardiológia,
+pediatrická anestéziológia,
 kardiológia.
 
 Špeciálne materiálno-technické vybavenie pre poskytovanie medicínskej služby Transplantácia srdca je kardiochirurgické pracovisko s vybavením
@@ -6169,9 +6385,11 @@ dostupnosť monitoringu imunosupresie v nemocnici,
 dostupnosť molekulárno-biologickej diagnostiky v nemocnici alebo na základe zmluvného vzťahu,
 prístroj na rýchlu sérologickú diagnostiku.
 
+
+
 Špeciálne personálne zabezpečenie pre poskytovanie medicínskej služby Transplantácia pľúc je lekár so špecializáciou v špecializačnom odbore
 hrudníková chirurgia, 
-pneumológia a ftizeológia, 
+pneumológia aftizeológia, 
 chirurgia, 
 anestéziológia a intenzívna medicína,
 pediatrická pneumológia a ftizeológia.
@@ -6202,11 +6420,11 @@ prístroj na rýchlu sérologickú diagnostiku.
 Program I. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore urológia.
 
-Špeciálne personálne zabezpečenie je dostupnosť konziliárnej služby v nemocnici lekára so špecializáciou v špecializačnom odbore pediatrická anestéziológia.
+
 
 Špeciálne materiálno-technické vybavenie je
 videoreťazec (digitálna kamera, monitor) na endoskopické diagnostické zákroky,
-USG prístroj so sektorovou, lineárnou a rektálnou sondou na biopsiu prostaty.
+USG prístroj so sektorovou, lineárnou a rektálnou sondou.
 
 Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore urológia.
@@ -6231,7 +6449,7 @@ kompletné laparoskopické inštrumentárium s HD videokamerou.
 
 Špeciálne materiálno-technické vybavenie lôžkovej časti je
 videoreťazec (digitálna kamera, monitor) na endoskopické diagnostické zákroky,
-USG prístroj so sektorovou, lineárnou sondou a rektálnou sondou na biopsiu prostaty.
+USG prístroj so sektorovou, lineárnou sondou a rektálnou sondou.
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore urológia.
@@ -6250,29 +6468,30 @@ optický uretrotom,
 štyrir flexibilné cystoskopy,
 monopolárny zdroj elektroresekčného prúdu pre endoskopické a otvorené operácie,
 bipolárny zdroj elektroresekčného prúdu pre endoskopické a otvorené operácie,
-USG prístroj s rektálnou a multifrekvenčnou abdominálnou sondou s bioptickými násadcami, lineárna sonda, so softwerovým vybavením na fúznu cielenú biopsiu prostaty a intrakorporálnu peroperačnú sondu,
+USG prístroj s rektálnou a multifrekvenčnou abdominálnou sondou s bioptickými násadcami, lineárna sonda, so softwerovým vybavením na intrakorporálnu peroperačnú sondu,
 bioptická pištoľ,
 RTG C-rameno na skiaskopicko – skiagrafické zobrazenie,
 pre endoskopickú liečbu konkrementov v močovom mechúri výkonný litotryptor (pneumatický alebo kombinovaný systém sonotróda a pneumatická sonda),
-pre diagnostiku nádorov močového mechúra zobrazenie v zúženom prúde svetla (NBI) alebo fluorescenčné zobrazenie močového mechúra,
+
 kompletné laparoskopické inštrumentárium s HD videokamerou 3D alebo 4K zobrazením.
 
 Špeciálne materiálno-technické vybavenie lôžkovej časti je
 videoreťazec (digitálna kamera, monitor) na endoskopické zákroky,
-USG prístroj so sektorovou, lineárnou sondou a rektálnou sondou na cielenú fúznu biopsiu prostaty.
+USG prístroj so sektorovou, lineárnou sondou a rektálnou sondou.
 
-Špeciálne materiálno-technické vybavenie pre lôžkový úsek určený na pooperačnú starostlivosť je
-EKG prístroj s možnosťou tlače,
-odsávačky,
-prívod kyslíka pri každom lôžku,
-infúzne pumpy,
-injekčné pumpy,
-glukomer,
-štyri monitory vitálnych funkcii,
-oxymeter prenosný,
-sety na malé chirurgické výkony (na kanyláciu centrálnych žíl, tracheostómiu, drenáž dutín),
-intenzvne lôžka,
-centrálny riadiaci monitor na sledovanie vitálnych funkcii.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Program IV. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore pediatrická urológia.
@@ -6300,20 +6519,21 @@ multidisciplinárne robotické pracovisko pre miniinvazívnu operačnú liečbu.
 
 Materiálno-technické vybavenie lôžkovej časti je
 videoreťazec (digitálna kamera, monitor) na endoskopické zákroky,
-USG prístroj so sektorovou lineárnou sondou a rektálnou sondou na cielenú fúznu biopsiu prostaty.
+USG prístroj so sektorovou lineárnou sondou a rektálnou sondou
 
-Špeciálne materiálno-technické vybavenie pre lôžkový úsek určený na pooperačnú starostlivosť je
-EKG prístroj s možnosťou tlače,
-odsávačky,
-prívod kyslíka pri každom lôžku,
-infúzne pumpy,
-injekčné pumpy,
-glukomer,
-štyri monitory vitálnych funkcii,
-oxymeter prenosný,
-sety na malé chirurgické výkony (na kanyláciu centrálnych žíl, tracheostómiu, drenáž dutín),
-intenzívne lôžka,
-centrálny riadiaci monitor na sledovanie vitálnych funkcii.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore pediatrická urológia.
@@ -6342,17 +6562,18 @@ kompletné pediatrické laparoskopické inštrumentárium s HD videokamerou 3D a
 video reťazec (digitálna kamera, monitor) na endoskopické zákroky,
 dva USG prístroje so sektorovou, lineárnou sondou.
 
-Špeciálne materiálno-technické vybavenie pre lôžkový úsek určený na pooperačnú starostlivosť je
-odsávačky,
-prívod kyslíka pri každom lôžku,
-infúzne pumpy,
-injekčné pumpy,
-glukomer,
-štyri monitory vitálnych funkcii,
-oxymeter prenosný,
-sety na malé chirurgické výkony (na kanyláciu centrálnych žíl, tracheostómiu, drenáž dutín),
-intenzívne lôžka,
-centrálny riadiaci monitor na sledovanie vitálnych funkcii.
+
+
+
+
+
+
+
+
+
+
+
+
 
 60	Gynekologický program pre deti 
 Program I. úrovne
@@ -6491,14 +6712,17 @@ digitálny dermatoskop,
 prístroje na vyšetrenie fyzikálnych vlastností kože (evaporimeter, korneometer),
 prístroj na Dopplerovské USG vyšetrenie ciev,
 testovacia súprava na fototesty,
-laserový prístroj ablačný,
-laserový prístroj farbivový,
-prístroj na ošetrenie intenzívnym pulzným svetlom (IPL),
+
+
+
 prístroj na podtlakovú liečbu rán (VAC terapiu),
-prístroj na ošetrenie rádiofrekvenciou,
-prístroj na dermabráziu,
-digitálny dermatoskop s celotelovým skenerom,
-USG prístroj so sondou (40 – 100 MHz) na vyšetrenie kožných lézií.
+
+
+
+
+
+
+
 
 62	Program detskej oftalmológie
 Program I. úrovne
@@ -6898,7 +7122,7 @@ bedside monitor ketolátok v krvi,
 prístroj na nepretržité meranie krvného tlaku, 
 lôžko s meraním hmotnosti,
 vybavenie na endokrinné testovanie,
-softvér na hodnotenie.
+
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 biochemické laboratórium,
@@ -6938,7 +7162,7 @@ bedside monitor ketolátok v krvi,
 prístroj na nepretržité meranie krvného tlaku,
 lôžko s meraním hmotnosti,
 vybavenie na endokrinné testovanie,
-softvér na hodnotenie.
+
 
 Podmienky pre poskytnutie diagnostiky a liečby počas hospitalizácie sú
 biochemické laboratórium,
@@ -7130,10 +7354,11 @@ Program II. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore infektológia; táto podmienka podľa § 44 ods. 2 písm. d) zákona sa uplatňuje od 1. januára 2027.
 
 Špeciálne materiálno-technické vybavenie je
-resuscitačný set,
-HFNO.
 
-Špeciálne materiálno-technické vybavenie sú jednolôžkové alebo dvojlôžkové izby so samostatným sociálnym zariadením, lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2027. 
+HFNO
+
+
+Špeciálne materiálno-technické vybavenie sú izbyso samostatným sociálnym zariadením, lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2027. 
 
 Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore infektológia alebo lekár so špecializáciou v špecializačnom odbore vnútorné lekárstvo; táto podmienka podľa § 44 ods. 2 písm. d) zákona sa uplatňuje do 31. decembra 2024.
@@ -7141,10 +7366,12 @@ Program III. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore infektológia; táto podmienka podľa § 44 ods. 2 písm. d) zákona sa uplatňuje od 1. januára 2025.
 
 Špeciálne materiálno-technické vybavenie je
-resuscitačný set,
-HFNO.
 
-Špeciálne materiálno-technické vybavenie je 1-2 lôžkové izby so samostatným sociálnym zariadením, lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026. 
+HFNO
+
+
+
+Špeciálne materiálno-technické vybavenie  lôžkové izbysamostatným sociálnym zariadením, lehota na splnenie tejto podmienky kategorizácie ústavnej starostlivosti podľa § 44 ods. 2 písm. d) zákona je 1. januára 2026. 
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je personál pre starostlivosť o pacienta s vysoko nebezpečnou nákazou.
@@ -7203,6 +7430,8 @@ aplikácia alergénovej imunoterapie, vrátane jedu blanokrídleho hmyzu,
 aplikácia celej škály biologickej liečby používanej v odbore,
 liečba ťažkej astmy,
 liečba primárnej imunodeficiencie.
+
+
 
 Program V. úrovne
 Špeciálne personálne zabezpečenie je lekár so špecializáciou v špecializačnom odbore
@@ -7396,7 +7625,7 @@ vestovací prístroj.
 
 77	Program pre rehabilitačnú starostlivosť pre deti
 Indikačné kritéria pre hospitalizáciu a liečbu
-Rehabilitačná ústavná zdravotná starostlivosť detí je indikovaná vtedy, keď zdravotný stav pacienta vyžaduje liečbu ústavnou zdravotnou starostlivosťou prostriedkami odboru fyziatria, balneológia a liečebná rehabilitácia. Pacient je indikovaný na hospitalizáciu ak po stanovení základnej diagnózy došlo k stabilizácii jeho zdravotného stavu, ale pretrvávajú zdravotné komplikácie alebo funkčná dizabilita, ktoré je možné ovplyvniť prostriedkami odboru fyziatria, balneológia a liečebná rehabilitácia. Jedná sa o pacientov s ochoreniami rôznych orgánových systémov rôznej etiológie s neurologickými následkami a s následkami na pohybovom aparáte. Ide prevažne o pacientov s vrodenými a získanými ochoreniami centrálneho a periférneho systému, vrodenými a získanými ochoreniami muskuloskeletálneho systému, a pacientov s následkami na pohybovom aparáte po úrazoch.
+Rehabilitačná ústavná zdravotná starostlivosť detí je indikovaná vtedy, keď zdravotný stav pacienta vyžaduje liečbu ústavnou zdravotnou starostlivosťou prostriedkami odboru fyziatria, balneológia a liečebná rehabilitácia. Pacient je indikovaný na hospitalizáciu ak po stanovení základnej diagnózy došlo k stabilizácii jeho zdravotného stavu, ale pretrvávajú zdravotné komplikácie alebo funkčná dizabilita, ktoré je možné ovplyvniť prostriedkami odboru fyziatria, balneológia a liečebná rehabilitácia. Jedná sa o pacientov s ochoreniami rôznych orgánových systémov rôznej etiológie s neurologickými následkami a s následkami na pohybovom aparáte. Ide prevažne o pacientov s vrodenými a získanými ochoreniami centrálneho a periférneho systému, vrodenými a získanými ochoreniami  systému, a pacientov s následkami na pohybovom aparáte po úrazoch.
 Rehabilitačná starostlivosť sa poskytuje
 na akútnom rehabilitačnom lôžku,
 na následnom rehabilitačnom lôžku.
