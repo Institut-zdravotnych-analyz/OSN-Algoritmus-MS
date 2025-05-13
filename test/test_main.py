@@ -989,7 +989,7 @@ PRIPADY = {
             "markery": pd.NA,
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
-            # S37-03 is applied because of priloha 15
+            # S73-28 is applied because of priloha 14
             "ms": "S58-14@S73-28",
         },
     },
