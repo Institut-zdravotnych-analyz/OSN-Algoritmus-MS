@@ -7,17 +7,7 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-INPUT_COLS = [
-    "id",
-    "vek",
-    "hmotnost",
-    "umela_plucna_ventilacia",
-    "diagnozy",
-    "vykony",
-    "markery",
-    "drg",
-    "druh_prijatia",
-]
+from osn_algoritmus.utils import CSV_DELIMITER, INPUT_COLUMNS
 
 PRIPADY = {
     "P5_UnapplicableDRG": {
@@ -987,7 +977,23 @@ PRIPADY = {
             "ms": "S99-99",
         },
     },
-    "P16": {
+    "P16_Dieta": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "R402@G935@I601",
+            "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": pd.NA,
+            "druh_prijatia": pd.NA,
+            # S37-03 is applied because of priloha 15
+            "ms": "S58-14@S73-28",
+        },
+    },
+    "P16_Dospely": {
         "flags": [],
         "values": {
             "id": "X",
@@ -1003,7 +1009,7 @@ PRIPADY = {
             "ms": "S17-22@S37-03",
         },
     },
-    "P16_NotApplicableMissingR402": {
+    "P16_DospelyNotApplicableMissingR402": {
         "flags": [],
         "values": {
             "id": "X",
@@ -1019,7 +1025,7 @@ PRIPADY = {
             "ms": "S37-03",
         },
     },
-    "P16_NotApplicableMissingG935": {
+    "P16_DospelyNotApplicableMissingG935": {
         "flags": [],
         "values": {
             "id": "X",
@@ -1035,7 +1041,7 @@ PRIPADY = {
             "ms": "S37-03",
         },
     },
-    "P16_NotApplicableMissingI601": {
+    "P16_DospelyNotApplicableMissingI601": {
         "flags": [],
         "values": {
             "id": "X",
@@ -1223,11 +1229,11 @@ ALL_TEST_CASES = {
 @pytest.mark.parametrize("test_case_data", ALL_TEST_CASES.values(), ids=ALL_TEST_CASES.keys())
 def test_single_case(test_case_data: dict, tmp_path: Path) -> None:
     """Test the main script with a single input row."""
-    pripad = pd.DataFrame([test_case_data["values"]])[INPUT_COLS]
+    pripad = pd.DataFrame([test_case_data["values"]])[INPUT_COLUMNS]
     expected_output = pd.DataFrame([test_case_data["values"]]).astype("string")
 
     input_csv_path = tmp_path / "input.csv"
-    pripad.to_csv(input_csv_path, sep=";", index=False, header=False)
+    pripad.to_csv(input_csv_path, sep=CSV_DELIMITER, index=False)
 
     output_csv_path = tmp_path / "output.csv"
     subprocess.run(
@@ -1243,7 +1249,7 @@ def test_single_case(test_case_data: dict, tmp_path: Path) -> None:
     )
 
     assert output_csv_path.exists()
-    output = pd.read_csv(output_csv_path, sep=";").astype("string")
+    output = pd.read_csv(output_csv_path, sep=CSV_DELIMITER).astype("string")
 
     pd.testing.assert_frame_equal(output, expected_output)
 
@@ -1252,11 +1258,11 @@ def test_multiple_cases(tmp_path: Path) -> None:
     """Test the main script with multiple input rows."""
     test_data = list(ALL_TEST_CASES.values())[:10]
     hp_rows = [test_case_data["values"] for test_case_data in test_data]
-    hp_df = pd.DataFrame(hp_rows)[INPUT_COLS]
+    hp_df = pd.DataFrame(hp_rows)[INPUT_COLUMNS]
     expected_output = pd.DataFrame(hp_rows).astype("string")
 
     input_csv_path = tmp_path / "input.csv"
-    hp_df.to_csv(input_csv_path, sep=";", index=False, header=False)
+    hp_df.to_csv(input_csv_path, sep=CSV_DELIMITER, index=False)
 
     output_csv_path = tmp_path / "output.csv"
     subprocess.run(
@@ -1271,6 +1277,33 @@ def test_multiple_cases(tmp_path: Path) -> None:
     )
 
     assert output_csv_path.exists()
-    output = pd.read_csv(output_csv_path, sep=";").astype("string")
+    output = pd.read_csv(output_csv_path, sep=CSV_DELIMITER).astype("string")
 
     pd.testing.assert_frame_equal(output, expected_output)
+
+
+def test_incorrect_columns(tmp_path: Path) -> None:
+    """Test the main script with incorrect input columns."""
+    pripad_df = pd.DataFrame([P5_PRIPAD]).rename(columns={"id": "ID"})
+
+    input_csv_path = tmp_path / "input_incorrect_cols.csv"
+    pripad_df.to_csv(input_csv_path, sep=CSV_DELIMITER, index=False)
+
+    output_csv_path = tmp_path / "output.csv"
+
+    process = subprocess.run(
+        [
+            sys.executable,
+            "-m",
+            "osn_algoritmus",
+            str(input_csv_path),
+            str(output_csv_path),
+        ],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+
+    assert process.returncode == 1
+    assert "Nespravné hlavičky vstupného súboru" in process.stderr
+    assert not output_csv_path.exists()

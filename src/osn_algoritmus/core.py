@@ -7,23 +7,12 @@ from pathlib import Path
 from tqdm import tqdm
 from tqdm.contrib.logging import logging_redirect_tqdm
 
-from osn_algoritmus.input_preparation import create_hp_from_dict, yield_csv_rows
+from osn_algoritmus.input_preparation import check_csv_columns, create_hp_from_dict, yield_csv_rows
 from osn_algoritmus.prilohy_evaluation import prirad_ms
-from osn_algoritmus.utils import get_number_of_lines
+from osn_algoritmus.utils import CSV_DELIMITER, INPUT_COLUMNS, get_number_of_lines
 
 logger = logging.getLogger(__name__)
 
-INPUT_COLUMNS = [
-    "id",
-    "vek",
-    "hmotnost",
-    "umela_plucna_ventilacia",
-    "diagnozy",
-    "vykony",
-    "markery",
-    "drg",
-    "druh_prijatia",
-]
 
 def process_hp_dict(
     hp_dict: dict,
@@ -81,22 +70,24 @@ def process_csv(
 
     """
     logger.info("Spustenie algoritmu.")
+
+    found_incorrect_columns = check_csv_columns(input_path, INPUT_COLUMNS)
+    if found_incorrect_columns:
+        msg = f"Nespravné hlavičky vstupného súboru. Očakávané: {INPUT_COLUMNS}. Nájdené: {found_incorrect_columns}."
+        raise ValueError(msg)
+
+    number_of_rows = get_number_of_lines(input_path) - 1
+    logger.info(f"Počet riadkov vstupného súboru: {number_of_rows}")
+
     if output_path is None:
         output_path = Path(input_path).with_stem(f"{input_path.stem}_output")
 
-    number_of_lines = get_number_of_lines(input_path)
-    logger.info(f"Počet riadkov vstupného súboru: {number_of_lines}")
-
     with output_path.open("w", encoding="utf-8", newline="") as output_file:
-        writer = csv.DictWriter(output_file, fieldnames=[*INPUT_COLUMNS, "ms"], delimiter=";")
+        writer = csv.DictWriter(output_file, fieldnames=[*INPUT_COLUMNS, "ms"], delimiter=CSV_DELIMITER)
         writer.writeheader()
 
         with logging_redirect_tqdm():
-            for row in tqdm(
-                yield_csv_rows(input_path, INPUT_COLUMNS),
-                total=number_of_lines,
-                desc="Spracovanie prípadov",
-            ):
+            for row in tqdm(yield_csv_rows(input_path), total=number_of_rows, desc="Spracovanie prípadov"):
                 row["ms"] = process_hp_dict(
                     row,
                     all_vykony_hlavne=all_vykony_hlavne,

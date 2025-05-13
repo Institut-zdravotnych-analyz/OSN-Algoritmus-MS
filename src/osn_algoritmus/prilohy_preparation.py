@@ -2,12 +2,11 @@
 
 import csv
 from importlib import resources
-from pathlib import Path
 from typing import Any
 
 from .utils import Marker, standardize_code, uses_marker
 
-TABLES_FOLDER = Path(resources.files("osn_algoritmus") / "Prilohy")
+TABLES_FOLDER = resources.files("osn_algoritmus").joinpath("Prilohy")
 
 
 def load_all_tables() -> dict[str, list[dict[str, str]]]:
@@ -20,11 +19,12 @@ def load_all_tables() -> dict[str, list[dict[str, str]]]:
     """
     tables = {}
 
-    for path in TABLES_FOLDER.glob("*.csv"):
-        with path.open(encoding="utf-8") as file:
-            table_name = path.stem
-            csv_reader = csv.DictReader(file, delimiter=";")
-            tables[table_name] = list(csv_reader)
+    for item in TABLES_FOLDER.iterdir():
+        if item.is_file() and item.name.endswith(".csv"):
+            table_name = item.name.removesuffix(".csv")
+            with item.open(encoding="utf-8") as file:
+                csv_reader = csv.DictReader(file, delimiter=";")
+                tables[table_name] = list(csv_reader)
 
     return tables
 

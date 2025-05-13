@@ -8,6 +8,7 @@ from pathlib import Path
 
 from osn_algoritmus.models import HospitalizacnyPripad, Marker
 from osn_algoritmus.utils import (
+    CSV_DELIMITER,
     create_diagnozy_from_str,
     create_markery_from_str,
     create_vykony_from_str,
@@ -88,7 +89,7 @@ def validate_hmotnost(
         parsed_hmotnost = float(hmotnost_str)
     except ValueError:
         if vek is not None and vek == 0:
-            msg = f"HP  nemá správne vyplnenú hmotnosť: {hmotnost_str!r}."
+            msg = f"HP {id_hp} nemá správne vyplnenú hmotnosť: {hmotnost_str!r}."
             log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
 
@@ -270,17 +271,35 @@ def create_hp_from_dict(hp_dict: dict, *, eval_incomplete: bool) -> Hospitalizac
     )
 
 
-def yield_csv_rows(csv_path: Path, fieldnames: list[str]) -> Generator[dict, None, None]:
+def check_csv_columns(csv_path: Path, expected_columns: list[str]) -> list[str]:
+    """Check if the csv file has the expected columns.
+
+    Args:
+        csv_path: Path to the csv file containing hospitalizacne pripady.
+        expected_columns: List of expected columns.
+
+    Returns:
+        An empty list if the csv file has the expected columns, otherwise a list of found columns.
+
+    """
+    with csv_path.open("r", encoding="utf-8") as input_file:
+        reader = csv.DictReader(input_file, delimiter=CSV_DELIMITER)
+        fieldnames = list(reader.fieldnames) if reader.fieldnames is not None else []
+        if fieldnames == expected_columns:
+            return []
+        return fieldnames
+
+
+def yield_csv_rows(csv_path: Path) -> Generator[dict, None, None]:
     """Yield rows from the input csv file without header with predefined fieldnames.
 
     Args:
         csv_path: Path to the csv file containing hospitalizacne pripady.
-        fieldnames: List of fieldnames to use for the rows.
 
     Yields:
         row from the input csv
 
     """
     with csv_path.open("r", encoding="utf-8") as input_file:
-        reader = csv.DictReader(input_file, fieldnames=fieldnames, delimiter=";", strict=True)
+        reader = csv.DictReader(input_file, delimiter=CSV_DELIMITER, strict=True)
         yield from reader

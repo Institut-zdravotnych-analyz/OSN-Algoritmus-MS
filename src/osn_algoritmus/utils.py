@@ -9,6 +9,20 @@ from osn_algoritmus.models import Marker
 
 logger = logging.getLogger(__name__)
 
+CSV_DELIMITER = "|"
+
+INPUT_COLUMNS = [
+    "id",
+    "vek",
+    "hmotnost",
+    "umela_plucna_ventilacia",
+    "diagnozy",
+    "vykony",
+    "markery",
+    "drg",
+    "druh_prijatia",
+]
+
 
 def log_error_or_warning(logger: logging.Logger, message: str, *, error: bool) -> None:
     """Log an error or warning message."""

@@ -682,16 +682,17 @@ def priloha_16(hp: HospitalizacnyPripad) -> list[str]:
         List of assigned medicinske sluzby
 
     """
-    if not hp.diagnozy:
+    if not hp.diagnozy or hp.je_dieta is None:
         return []
 
-    kod_ms = "S17-22"
+    kod_ms_dospeli = "S17-22"
+    kod_ms_deti = "S58-14"
     table_names = ["p16_koma", "p16_opuch_mozgu", "p16_vybrane_ochorenia"]
 
     for table_name in table_names:
         if not any(line["kod_diagnozy"] in hp.diagnozy for line in tables[table_name]):
             return []
-    return [kod_ms]
+    return [kod_ms_deti] if hp.je_dieta else [kod_ms_dospeli]
 
 
 def priloha_17(hp: HospitalizacnyPripad) -> list[str]:

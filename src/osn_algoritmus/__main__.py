@@ -1,6 +1,7 @@
 """Run the algoritmus."""
 
 import logging
+import sys
 
 from .core import process_csv
 from .utils import setup_parser
@@ -33,10 +34,17 @@ if args.ponechaj_duplicity:
         " duplicitné záznamy.",
     )
 
-process_csv(
-    args.input_path,
-    args.output_path,
-    all_vykony_hlavne=args.vsetky_vykony_hlavne,
-    evaluate_incomplete_pripady=args.vyhodnot_neuplne_pripady,
-    allow_duplicates=args.ponechaj_duplicity,
-)
+try:
+    process_csv(
+        args.input_path,
+        args.output_path,
+        all_vykony_hlavne=args.vsetky_vykony_hlavne,
+        evaluate_incomplete_pripady=args.vyhodnot_neuplne_pripady,
+        allow_duplicates=args.ponechaj_duplicity,
+    )
+except ValueError as e:
+    logger.error(e)  # noqa: TRY400, we don't want to display the traceback to the end user
+    sys.exit(1)
+except Exception:
+    logger.exception("Chyba pri spracovaní súboru")
+    sys.exit(1)

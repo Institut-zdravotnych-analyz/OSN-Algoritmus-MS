@@ -44,6 +44,7 @@ Skript je napísaný v jazyku Python.
 2. Nainštalujte balík pomocou pip:
    ```bash
    python -m venv venv
+   source venv/bin/activate
    pip install .
    ```
 
@@ -64,9 +65,7 @@ Pri spúšťaní programu je možné pridať príznaky, ktoré ovplyvňujú, ako
 `--ponechaj_duplicity`, `-d`: spôsobí, že vo výstupnom zozname medicínskych služieb zostanú ponechané aj duplicitné záznamy.
 
 ### Popis vstupného súboru
-Vstupný súbor musí byť vo formáte csv, kde každý riadok reprezentuje jeden hospitalizačný prípad. Oddeľovačom je bodkodčiarka `;`.
-
-Algoritmus predpokladá, že vstupný súbor je bez hlavičky, je nutné zachovať správne poradie.
+Vstupný súbor musí byť vo formáte csv, kde každý riadok reprezentuje jeden hospitalizačný prípad. Oddeľovačom je pipe: `|`.
 
 Popis položiek:
 
@@ -83,7 +82,7 @@ Popis položiek:
 | 9  | druh_prijatia           | int            | Druh prijatia do ÚZZ, číslo medzi 1 a 9. (Zodpovedá položke 36 z dátového rozhrania 274*)                                                                            | pre hospitalizačné prípady s vyplneným drg|
 
 
-Príklad vstupného súboru je v [`test/data/example_data_10.csv`](test/data/example_data_10.csv)
+Príklad vstupného súboru je v [`test/data/example_data_10_v2025_2.csv`](test/data/example_data_10_v2025_2.csv)
 
 ## Development
 
