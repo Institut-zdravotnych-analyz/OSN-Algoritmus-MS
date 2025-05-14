@@ -1245,6 +1245,7 @@ EVALUATE_INCOMPLETE_PRIPADY_PRIPADY = {
 }
 
 ALL_VYKONY_HLAVNE_PRIPADY = {
+    # Check that if we make the original hlavny vykon vedlajsi, the algorithm assigns the same ms and uroven
     "VVH_P7": {
         "flags": ["-v"],
         "values": {**PRIPADY["P7"]["values"], "vykony": "XXX@8t130@34011"},
