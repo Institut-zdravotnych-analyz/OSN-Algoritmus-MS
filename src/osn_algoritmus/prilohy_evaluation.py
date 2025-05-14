@@ -3,10 +3,13 @@
 Main functions are named priloha_x or prilohy_x_y. These functions always return a list of assigned medicinske sluzby.
 """
 
+import logging
 from collections.abc import Callable
 
 from osn_algoritmus.models import HospitalizacnyPripad, Marker
 from osn_algoritmus.prilohy_preparation import get_urovne, prepare_tables
+
+logger = logging.getLogger(__name__)
 
 tables = prepare_tables()
 urovne = get_urovne(tables["p2_zoznam_ms"])
@@ -750,12 +753,22 @@ def prirad_urovne_ms(hp: HospitalizacnyPripad, priradene_ms: list[str]) -> list[
 
     Args:
         hp: Hospitalizacny pripad
-        priradene_ms: List of assigned medicinske sluzby to hp
+        priradene_ms: Assigned medicinske sluzby to hp
 
     Returns:
-        List of urovne medicinskej sluzby
+        Urovne medicinskej sluzby
 
     """
     if hp.age_category is None:
         return [None] * len(priradene_ms)
-    return [urovne[ms][hp.age_category] for ms in priradene_ms]
+
+    urovne_ms = []
+    for ms in priradene_ms:
+        uroven = urovne[ms].get(hp.age_category)
+        if uroven is None and hp.age_category is not None:
+            logger.warning(
+                f"HP {hp.id} má priradenú medicínsku službu {ms}, pre ktorú nie je definovaná úroveň pre daný vek:"
+                f" {hp.vek}",
+            )
+        urovne_ms.append(uroven)
+    return urovne_ms

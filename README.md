@@ -11,6 +11,7 @@ V prípade, že identifikujete chyby v rámci kódu, prosím zaznamenajte ich na
 - **v2025.2** (*1.7.2025*): 
    - Implementácia novelizácie vyhlášky 531/2023 účinnej od 1.7.2025
    - Pridané vstupné stĺpce `markery` a `druh_prijatia`
+   - Pridaný výstupný stĺpec `urovne_ms`
    - Výroba balíčka `osn_algoritmus`
    - Nový spôsob spúšťania
    - Pridaný voliteľný parameter na špecifikáciu výstupného súboru
@@ -54,8 +55,6 @@ Program sa spustí príkazom:
 python -m osn_algoritmus [-h] [--vsetky_vykony_hlavne] [--vyhodnot_neuplne_pripady] [--ponechaj_duplicity] input_path [output_path]
 ```
 
-Vstupný súbor musí mať nižšie uvedenú štruktúru. Výstupom spracovania je kópia vstupného súboru, kde ku každému riadku je pripojený stĺpec `ms` so zoznamom nájdených medicínskych služieb oddelených znakom `@`, kde prvá medicínska služba je hlavná. V prípade, že chýbajú niektoré povinné dáta (a nie je použitý príznak `-n`), algoritmus vráti pre daný prípad kód `ERROR`.
-
 Pri spúšťaní programu je možné pridať príznaky, ktoré ovplyvňujú, ako algoritmus jednotlivé prípady vyhodnocuje.
 
 `--vsetky_vykony_hlavne`, `-v` spôsobí, že algoritmus bude predpokladať, že ktorýkoľvek z vykázaných výkonov môže byť hlavný.
@@ -65,6 +64,7 @@ Pri spúšťaní programu je možné pridať príznaky, ktoré ovplyvňujú, ako
 `--ponechaj_duplicity`, `-d`: spôsobí, že vo výstupnom zozname medicínskych služieb zostanú ponechané aj duplicitné záznamy.
 
 ### Popis vstupného súboru
+
 Vstupný súbor musí byť vo formáte csv, kde každý riadok reprezentuje jeden hospitalizačný prípad. Oddeľovačom je pipe: `|`.
 
 Popis položiek:
@@ -83,6 +83,14 @@ Popis položiek:
 
 
 Príklad vstupného súboru je v [`test/data/example_data_10_v2025_2.csv`](test/data/example_data_10_v2025_2.csv)
+
+### Výstup
+
+Výstupom spracovania je kópia vstupného súboru s dvoma novými stĺpcami:
+- `ms`: zoznam nájdených medicínskych služieb pre daný prípad, kde prvá medicínska služba je hlavná. Zoznam je oddelený znakom `@`.
+- `urovne_ms`: zoznam úrovní priradených medicínskych služieb v rovnakom poradí ako v stĺpci `ms`. Zoznam je oddelený znakom `@`.
+
+V prípade, že chýbajú niektoré povinné dáta (a nie je použitý príznak `-n`), algoritmus vráti pre daný prípad kód `ERROR` v obidvoch stĺpcoch.
 
 ## Development
 
