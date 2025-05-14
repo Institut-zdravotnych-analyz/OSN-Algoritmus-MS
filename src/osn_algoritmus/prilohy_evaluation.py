@@ -6,10 +6,10 @@ Main functions are named priloha_x or prilohy_x_y. These functions always return
 from collections.abc import Callable
 
 from osn_algoritmus.models import HospitalizacnyPripad, Marker
-from osn_algoritmus.prilohy_preparation import prepare_tables
+from osn_algoritmus.prilohy_preparation import get_urovne, prepare_tables
 
 tables = prepare_tables()
-
+urovne = get_urovne(tables["p2_zoznam_ms"])
 
 def s_viacerymi_tazkymi_problemami(hp: HospitalizacnyPripad) -> bool:
     """Evaluate globálna funkcia "Viaceré ťažké problémy u novorodencov" v klasifikačnom systéme for hp.
@@ -743,3 +743,19 @@ def prirad_ms(hp: HospitalizacnyPripad, *, all_vykony_hlavne: bool) -> list[str]
     ]
 
     return sluzby or ["S99-99"]
+
+
+def prirad_urovne_ms(hp: HospitalizacnyPripad, priradene_ms: list[str]) -> list[int | None]:
+    """Assign urovne medicinskej sluzby to the given list of medicinske sluzby for the given hp.
+
+    Args:
+        hp: Hospitalizacny pripad
+        priradene_ms: List of assigned medicinske sluzby to hp
+
+    Returns:
+        List of urovne medicinskej sluzby
+
+    """
+    if hp.age_category is None:
+        return [None] * len(priradene_ms)
+    return [urovne[ms][hp.age_category] for ms in priradene_ms]

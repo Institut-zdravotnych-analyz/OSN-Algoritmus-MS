@@ -106,3 +106,28 @@ def prepare_tables() -> dict[str, list[dict[str, Any]]]:
     sort_rows_by_markery(tables)
 
     return tables
+
+
+def get_urovne(p2_table: list[dict[str, str]]) -> dict[str, dict[str, int | None]]:
+    """Parse urovne medicinskej sluzby from p2 table.
+
+    Args:
+        p2_table: Dictionary containing loaded prilohy.
+
+    """
+
+    def int_or_none(value: str) -> int | None:
+        if value == "":
+            return None
+        return int(value)
+
+    return {
+        row["kod_ms"]: {
+            "deti_0": int_or_none(row["uroven_ms_deti_0"]),
+            "deti_1": int_or_none(row["uroven_ms_deti_1"]),
+            "deti_7": int_or_none(row["uroven_ms_deti_7"]),
+            "deti_16": int_or_none(row["uroven_ms_deti_16"]),
+            "dospeli": int_or_none(row["uroven_ms_dospeli"]),
+        }
+        for row in p2_table
+    }

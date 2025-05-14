@@ -23,6 +23,7 @@ PRIPADY = {
             "drg": "X",
             "druh_prijatia": 3,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P5_NoDoplnujuceKriterium": {
@@ -38,6 +39,7 @@ PRIPADY = {
             "drg": "P61B",
             "druh_prijatia": 3,
             "ms": "S49-03",
+            "urovne_ms": "4",
         },
     },
     "P5_NekonvUPV": {
@@ -54,6 +56,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S50-05 is applied because of priloha 12
             "ms": "S49-05@S50-05",
+            "urovne_ms": "4@4",
         },
     },
     "P5_RiadenaHypotermia": {
@@ -70,6 +73,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S50-10 is applied because of priloha 12
             "ms": "S49-06@S50-10",
+            "urovne_ms": "4@4",
         },
     },
     "P5_Paliativ_hlavna": {
@@ -85,6 +89,7 @@ PRIPADY = {
             "drg": "P",
             "druh_prijatia": 3,
             "ms": "S48-05",
+            "urovne_ms": "2",
         },
     },
     "P5_Paliativ_vedlajsia": {
@@ -100,6 +105,7 @@ PRIPADY = {
             "drg": "P",
             "druh_prijatia": 3,
             "ms": "S48-05",
+            "urovne_ms": "2",
         },
     },
     "P5_VymennaTransf": {
@@ -116,6 +122,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S50-06 is applied because of priloha 12
             "ms": "S49-11@S50-06",
+            "urovne_ms": "3@4",
         },
     },
     "P5_AkutPorod": {
@@ -131,6 +138,7 @@ PRIPADY = {
             "drg": "P",
             "druh_prijatia": 3,
             "ms": "S48-06",
+            "urovne_ms": "2",
         },
     },
     "P5_NemoznostTransportu": {
@@ -146,6 +154,7 @@ PRIPADY = {
             "drg": "P",
             "druh_prijatia": 3,
             "ms": "S48-07",
+            "urovne_ms": "2",
         },
     },
     "P5_8p1007UPVMenejNez96": {
@@ -162,6 +171,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S50-13 is applied because of priloha 12
             "ms": "S48-08@S50-13",
+            "urovne_ms": "2@3",
         },
     },
     "P5_8p1007UPV96": {
@@ -178,6 +188,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S50-13 is applied because of priloha 12
             "ms": "S50-13",
+            "urovne_ms": "3",
         },
     },
     "P5_PodViabNizkaVaha": {
@@ -193,6 +204,7 @@ PRIPADY = {
             "drg": "P",
             "druh_prijatia": 3,
             "ms": "S49-07",
+            "urovne_ms": "4",
         },
     },
     "P5_PodViabNizkyGestVek1": {
@@ -208,6 +220,7 @@ PRIPADY = {
             "drg": "P",
             "druh_prijatia": 3,
             "ms": "S49-07",
+            "urovne_ms": "4",
         },
     },
     "P5_PodViabNizkyGestVek45": {
@@ -223,6 +236,7 @@ PRIPADY = {
             "drg": "P",
             "druh_prijatia": 3,
             "ms": "S49-07",
+            "urovne_ms": "4",
         },
     },
     "P5_PodViabNizkyGestVek47": {
@@ -238,6 +252,7 @@ PRIPADY = {
             "drg": "P61B",
             "druh_prijatia": 3,
             "ms": "S49-03",
+            "urovne_ms": "4",
         },
     },
     "P5_SigOP": {
@@ -254,6 +269,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S03-30 is applied because of priloha 12
             "ms": "S49-01@S03-30",
+            "urovne_ms": "4@4",
         },
     },
     "P5_UPVTazke": {
@@ -269,6 +285,7 @@ PRIPADY = {
             "drg": "P03A",
             "druh_prijatia": 3,
             "ms": "S49-02",
+            "urovne_ms": "4",
         },
     },
     "P5_BezUPVTazke": {
@@ -284,6 +301,7 @@ PRIPADY = {
             "drg": "P03A",
             "druh_prijatia": 3,
             "ms": "S49-08",
+            "urovne_ms": "3",
         },
     },
     "P5_NotApplicableDruhPrijatia2": {
@@ -299,6 +317,7 @@ PRIPADY = {
             "drg": "P03A",
             "druh_prijatia": 2,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P5_NotApplicableDruhPrijatia7": {
@@ -314,6 +333,7 @@ PRIPADY = {
             "drg": "P03A",
             "druh_prijatia": 7,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P6_UnapplicableDRG": {
@@ -330,6 +350,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S52-52 is applied because of priloha 14
             "ms": "S52-52",
+            "urovne_ms": "2",
         },
     },
     "P6_DietaKraniocerebralnaTraumaVedlajsia": {
@@ -345,6 +366,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             "ms": "S52-01",
+            "urovne_ms": "3",
         },
     },
     "P6_DietaKraniocerebralnaTraumaHlavna": {
@@ -361,6 +383,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S52-52 is applied because of priloha 14
             "ms": "S52-01@S52-52",
+            "urovne_ms": "3@2",
         },
     },
     "P6_DietaBezKraniocerebralnaTrauma": {
@@ -376,6 +399,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             "ms": "S52-02",
+            "urovne_ms": "3",
         },
     },
     "P6_DietaMarkerNesplnaKriteriaPolytraumy": {
@@ -391,6 +415,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             "ms": "S52-64@S52-02",
+            "urovne_ms": "2@3",
         },
     },
     "P6_DospelyKraniocerebralnaTraumaVedlajsia": {
@@ -406,6 +431,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             "ms": "S02-01",
+            "urovne_ms": "4",
         },
     },
     "P6_DospelyKraniocerebralnaTraumaHlavna": {
@@ -422,6 +448,7 @@ PRIPADY = {
             "druh_prijatia": 3,
             # S02-56 is applied because of priloha 13
             "ms": "S02-01@S02-56",
+            "urovne_ms": "4@2",
         },
     },
     "P6_DospelyBezKraniocerebralnaTrauma": {
@@ -437,6 +464,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             "ms": "S02-02",
+            "urovne_ms": "3",
         },
     },
     "P6_DospelyMarkerNesplnaKriteriaPolytraumy": {
@@ -452,6 +480,7 @@ PRIPADY = {
             "drg": "W",
             "druh_prijatia": 3,
             "ms": "S02-68@S02-02",
+            "urovne_ms": "2@3",
         },
     },
     "P7": {
@@ -467,6 +496,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S63-42",
+            "urovne_ms": "3",
         },
     },
     "P7_NotApplicableMissingVedlajsi": {
@@ -482,6 +512,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P7_NotApplicableReversed": {
@@ -497,6 +528,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P8": {
@@ -513,6 +545,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S40-02 is applied because of priloha 13
             "ms": "S44-21@S40-02",
+            "urovne_ms": "3@5",
         },
     },
     "P8_NotApplicableMissingVedlajsi": {
@@ -529,6 +562,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S40-02 is applied because of priloha 13
             "ms": "S40-02",
+            "urovne_ms": "5",
         },
     },
     "P8_NotApplicableReversed": {
@@ -544,6 +578,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P7a": {
@@ -559,6 +594,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S55-01@S55-02@S55-03@S55-04@S55-05",
+            "urovne_ms": "3@3@3@3@3",
         },
     },
     "P7a_NotApplicableMissingMarker": {
@@ -574,6 +610,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P7a_NotApplicableMissingVykon": {
@@ -589,6 +626,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P8a": {
@@ -604,6 +642,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S12-01@S12-05@S12-21",
+            "urovne_ms": "4@3@3",
         },
     },
     "P8a_NotApplicableMissingMarker": {
@@ -619,6 +658,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P8a_NotApplicableMissingVykon": {
@@ -634,6 +674,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P9_Dieta": {
@@ -650,6 +691,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S11-07 is applied because of priloha 14
             "ms": "S11-05@S11-07",
+            "urovne_ms": "3@2",
         },
     },
     "P9_Dieta_NotApplicableMissingVykon": {
@@ -666,6 +708,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S11-07 is applied because of priloha 14
             "ms": "S11-07",
+            "urovne_ms": "2",
         },
     },
     "P9_Dieta_NotApplicableMissingDiagnoza": {
@@ -681,6 +724,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P9_Dospely": {
@@ -697,6 +741,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S25-21 is applied because of priloha 15
             "ms": "S02-04@S25-21",
+            "urovne_ms": "3@2",
         },
     },
     "P9_Dospely_NotApplicableMissingVykon": {
@@ -713,6 +758,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S25-21 is applied because of priloha 15
             "ms": "S25-21",
+            "urovne_ms": "2",
         },
     },
     "P9_Dospely_NotApplicableMissingDiagnoza": {
@@ -728,6 +774,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P9a": {
@@ -744,6 +791,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S05-31 is applied because of priloha 15
             "ms": "S36-08@S05-31",
+            "urovne_ms": "4@1",
         },
     },
     "P9a_NotApplicableMissingMarker": {
@@ -760,6 +808,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S05-31 is applied because of priloha 15
             "ms": "S05-31",
+            "urovne_ms": "1",
         },
     },
     "P9a_NotApplicableMissingDiagnoza": {
@@ -775,6 +824,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P9a_NotApplicableDieta": {
@@ -791,6 +841,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S53-30 is applied because of priloha 14
             "ms": "S53-30",
+            "urovne_ms": "3",
         },
     },
     "P10_Dieta": {
@@ -807,6 +858,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S65-01 is applied because of priloha 14
             "ms": "S65-31@S65-01",
+            "urovne_ms": "5@5",
         },
     },
     "P10_Dieta_NotApplicableDifferentVeldjsiaDiagnoza": {
@@ -823,6 +875,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S65-01 is applied because of priloha 14
             "ms": "S65-01",
+            "urovne_ms": "5",
         },
     },
     "P10_Dospely": {
@@ -839,6 +892,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S27-12 is applied because of priloha 15
             "ms": "S27-01@S27-12",
+            "urovne_ms": "5@3",
         },
     },
     "P10_Dospely_NotApplicableDifferentVedlajsiaDiagnoza": {
@@ -855,6 +909,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S27-12 is applied because of priloha 15
             "ms": "S27-12",
+            "urovne_ms": "3",
         },
     },
     "P12": {
@@ -870,6 +925,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S58-08",
+            "urovne_ms": "5",
         },
     },
     "P12_NotApplicableVedlajsiVykon": {
@@ -885,6 +941,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P13": {
@@ -900,6 +957,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S01-01",
+            "urovne_ms": "4",
         },
     },
     "P13_NotApplicableVedlajsiVykon": {
@@ -915,6 +973,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P14": {
@@ -930,6 +989,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S63-23",
+            "urovne_ms": "2",
         },
     },
     "P14_NotApplicableVedlajsiaDiagnoza": {
@@ -945,6 +1005,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P15": {
@@ -960,6 +1021,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S01-10",
+            "urovne_ms": "3",
         },
     },
     "P15_NotApplicableVedlajsiaDiagnoza": {
@@ -975,6 +1037,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
     "P16_Dieta": {
@@ -991,6 +1054,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S73-28 is applied because of priloha 14
             "ms": "S58-14@S73-28",
+            "urovne_ms": "2@2",
         },
     },
     "P16_Dospely": {
@@ -1007,6 +1071,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S37-03 is applied because of priloha 15
             "ms": "S17-22@S37-03",
+            "urovne_ms": "2@2",
         },
     },
     "P16_DospelyNotApplicableMissingR402": {
@@ -1023,6 +1088,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S37-03 is applied because of priloha 15
             "ms": "S37-03",
+            "urovne_ms": "2",
         },
     },
     "P16_DospelyNotApplicableMissingG935": {
@@ -1039,6 +1105,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S37-03 is applied because of priloha 15
             "ms": "S37-03",
+            "urovne_ms": "2",
         },
     },
     "P16_DospelyNotApplicableMissingI601": {
@@ -1055,6 +1122,7 @@ PRIPADY = {
             "druh_prijatia": pd.NA,
             # S37-03 is applied because of priloha 15
             "ms": "S37-03",
+            "urovne_ms": "2",
         },
     },
     "P17": {
@@ -1070,6 +1138,7 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S98-01",
+            "urovne_ms": "1",
         },
     },
     "NEZARADENY_PRIPAD": {
@@ -1085,54 +1154,87 @@ PRIPADY = {
             "drg": pd.NA,
             "druh_prijatia": pd.NA,
             "ms": "S99-99",
+            "urovne_ms": "1",
         },
     },
 }
 
 P5_PRIPAD = PRIPADY["P5_NoDoplnujuceKriterium"]["values"]
 INVALID_PRIPADY = {
-    "Invalid_NoID": {"flags": [], "values": {**P5_PRIPAD, "id": pd.NA, "ms": "ERROR"}},
-    "Invalid_NoVek": {"flags": [], "values": {**P5_PRIPAD, "vek": pd.NA, "ms": "ERROR"}},
-    "Invalid_FloatVek": {"flags": [], "values": {**P5_PRIPAD, "vek": 10.5, "ms": "ERROR"}},
-    "Invalid_NegativeVek": {"flags": [], "values": {**P5_PRIPAD, "vek": -1, "ms": "ERROR"}},
-    "Invalid_StringVek": {"flags": [], "values": {**P5_PRIPAD, "vek": "abc", "ms": "ERROR"}},
-    "Invalid_ZeroHmotnostNovorodenec": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": 0, "ms": "ERROR"}},
-    "Invalid_NoHmotnostNovorodenec": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": pd.NA, "ms": "ERROR"}},
-    "Invalid_StringHmotnost": {"flags": [], "values": {**P5_PRIPAD, "hmotnost": "abc", "ms": "ERROR"}},
-    "Invalid_NegativeUPV": {"flags": [], "values": {**P5_PRIPAD, "umela_plucna_ventilacia": -1, "ms": "ERROR"}},
-    "Invalid_StringUPV": {"flags": [], "values": {**P5_PRIPAD, "umela_plucna_ventilacia": "abc", "ms": "ERROR"}},
-    "Invalid_NoDruhPrijatia": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": pd.NA, "ms": "ERROR"}},
-    "Invalid_StringDruhPrijatia": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": "abc", "ms": "ERROR"}},
-    "Invalid_DruhPrijatia10": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 10, "ms": "ERROR"}},
-    "Invalid_DruhPrijatia0": {"flags": [], "values": {**P5_PRIPAD, "druh_prijatia": 0, "ms": "ERROR"}},
-    "Invalid_VykonyNoVedlajsiVykon": {"flags": [], "values": {**P5_PRIPAD, "vykony": "8r160@", "ms": "ERROR"}},
-    "Invalid_MarkeryNoKod": {"flags": [], "values": {**P5_PRIPAD, "markery": "&nopol", "ms": "ERROR"}},
-    "Invalid_MarkeryNoHodnota": {"flags": [], "values": {**P5_PRIPAD, "markery": "mOSN&", "ms": "ERROR"}},
+    "Invalid_NoID": {"flags": [], "values": {**P5_PRIPAD, "id": pd.NA, "ms": "ERROR", "urovne_ms": "ERROR"}},
+    "Invalid_NoVek": {"flags": [], "values": {**P5_PRIPAD, "vek": pd.NA, "ms": "ERROR", "urovne_ms": "ERROR"}},
+    "Invalid_FloatVek": {"flags": [], "values": {**P5_PRIPAD, "vek": 10.5, "ms": "ERROR", "urovne_ms": "ERROR"}},
+    "Invalid_NegativeVek": {"flags": [], "values": {**P5_PRIPAD, "vek": -1, "ms": "ERROR", "urovne_ms": "ERROR"}},
+    "Invalid_StringVek": {"flags": [], "values": {**P5_PRIPAD, "vek": "abc", "ms": "ERROR", "urovne_ms": "ERROR"}},
+    "Invalid_ZeroHmotnostNovorodenec": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "hmotnost": 0, "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_NoHmotnostNovorodenec": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "hmotnost": pd.NA, "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_StringHmotnost": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "hmotnost": "abc", "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_NegativeUPV": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "umela_plucna_ventilacia": -1, "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_StringUPV": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "umela_plucna_ventilacia": "abc", "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_NoDruhPrijatia": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "druh_prijatia": pd.NA, "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_StringDruhPrijatia": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "druh_prijatia": "abc", "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_DruhPrijatia10": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "druh_prijatia": 10, "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_DruhPrijatia0": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "druh_prijatia": 0, "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_VykonyNoVedlajsiVykon": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "vykony": "8r160@", "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_MarkeryNoKod": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "markery": "&nopol", "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
+    "Invalid_MarkeryNoHodnota": {
+        "flags": [],
+        "values": {**P5_PRIPAD, "markery": "mOSN&", "ms": "ERROR", "urovne_ms": "ERROR"},
+    },
     "Invalid_MarkeryWrongDelimiterTilde": {
         "flags": [],
-        "values": {**P5_PRIPAD, "markery": "mOSN&nopol&mGVK&3", "ms": "ERROR"},
+        "values": {**P5_PRIPAD, "markery": "mOSN&nopol&mGVK&3", "ms": "ERROR", "urovne_ms": "ERROR"},
     },
     "Invalid_MarkeryWrongDelimiterAmpersand": {
         "flags": [],
-        "values": {**P5_PRIPAD, "markery": "mOSN@nopol", "ms": "ERROR"},
+        "values": {**P5_PRIPAD, "markery": "mOSN@nopol", "ms": "ERROR", "urovne_ms": "ERROR"},
     },
     "Invalid_Diagnozy": {
         "flags": [],
-        "values": {**P5_PRIPAD, "diagnozy": "AAA@", "ms": "ERROR"},
+        "values": {**P5_PRIPAD, "diagnozy": "AAA@", "ms": "ERROR", "urovne_ms": "ERROR"},
     },
 }
 
 P17_PRIPAD = PRIPADY["P17"]["values"]
 EVALUATE_INCOMPLETE_PRIPADY_PRIPADY = {
-    "VNP_NoID": {"flags": ["-n"], "values": {**P17_PRIPAD, "id": pd.NA}},
-    "VNP_NoVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": pd.NA}},
-    "VNP_FloatVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": 10.5}},
-    "VNP_NegativeVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": -1}},
-    "VNP_LargeVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": 150}},
-    "VNP_StringVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": "abc"}},
-    "VNP_FloatHmotnost": {"flags": ["-n"], "values": {**P17_PRIPAD, "hmotnost": 999.9}},
-    "VNP_TooLowHmotnost": {"flags": ["-n"], "values": {**P17_PRIPAD, "hmotnost": 99}},
-    "VNP_TooHighHmotnost": {"flags": ["-n"], "values": {**P17_PRIPAD, "hmotnost": 20001}},
+    "VNP_NoID": {"flags": ["-n"], "values": {**P17_PRIPAD, "id": pd.NA, "urovne_ms": "1"}},
+    "VNP_NoVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": pd.NA, "urovne_ms": pd.NA}},
+    "VNP_FloatVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": 10.5, "urovne_ms": pd.NA}},
+    "VNP_NegativeVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": -1, "urovne_ms": pd.NA}},
+    "VNP_StringVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": "abc", "urovne_ms": pd.NA}},
     "VNP_ZeroHmotnostNovorodenec": {"flags": ["-n"], "values": {**P5_PRIPAD, "hmotnost": 0}},
     "VNP_NoHmotnostNovorodenec": {"flags": ["-n"], "values": {**P5_PRIPAD, "hmotnost": pd.NA}},
     "VNP_StringHmotnost": {"flags": ["-n"], "values": {**P17_PRIPAD, "hmotnost": "abc"}},
@@ -1170,6 +1272,7 @@ ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
             **PRIPADY["P7"]["values"],
             "vykony": f"{PRIPADY['P7']['values']['vykony']}@8t130",
             "ms": "@".join([PRIPADY["P7"]["values"]["ms"]] * 2),
+            "urovne_ms": "@".join([PRIPADY["P7"]["values"]["urovne_ms"]] * 2),
         },
     },
     "VVHPD_P8": {
@@ -1180,6 +1283,7 @@ ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
             # We can't do ms * 2 as above because of the order of the codes
             # (ms * 2 would be S44-21@S40-02@S44-21@S40-02)
             "ms": "S44-21@S44-21@S40-02@S40-02",
+            "urovne_ms": "3@3@5@5",
         },
     },
     "VVHPD_P9_Dieta": {
@@ -1189,6 +1293,7 @@ ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
             "vykony": f"{PRIPADY['P9_Dieta']['values']['vykony']}@93020",
             # We can't double the ms because S11-07 appears only once
             "ms": "S11-05@S11-05@S11-07",
+            "urovne_ms": "3@3@2",
         },
     },
     "VVHPD_P9_Dospely": {
@@ -1198,6 +1303,7 @@ ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
             "vykony": f"{PRIPADY['P9_Dospely']['values']['vykony']}@5t06f0",
             # We can't double the ms because S25-21 appears only once
             "ms": "S02-04@S02-04@S25-21",
+            "urovne_ms": "3@3@2",
         },
     },
     "VVHPD_P12": {
@@ -1206,6 +1312,7 @@ ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
             **PRIPADY["P12"]["values"],
             "vykony": "@".join([PRIPADY["P12"]["values"]["vykony"]] * 2),
             "ms": "@".join([PRIPADY["P12"]["values"]["ms"]] * 2),
+            "urovne_ms": "@".join([PRIPADY["P12"]["values"]["urovne_ms"]] * 2),
         },
     },
     "VVHPD_P13": {
@@ -1214,11 +1321,95 @@ ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY = {
             **PRIPADY["P13"]["values"],
             "vykony": "@".join([PRIPADY["P13"]["values"]["vykony"]] * 2),
             "ms": "@".join([PRIPADY["P13"]["values"]["ms"]] * 2),
+            "urovne_ms": "@".join([PRIPADY["P13"]["values"]["urovne_ms"]] * 2),
+        },
+    },
+}
+
+P2_UROVEN_MS_PRIPAD = {
+    "id": "X",
+    "vek": pd.NA,
+    "hmotnost": 1500,
+    "umela_plucna_ventilacia": 0,
+    "diagnozy": pd.NA,
+    "vykony": "5v295",
+    "markery": pd.NA,
+    "drg": pd.NA,
+    "druh_prijatia": pd.NA,
+    "ms": "S51-74",
+    "urovne_ms": pd.NA,
+}
+
+PRIPADY_P2_UROVEN_MS = {
+    "P2_Vek0": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 0,
+            "urovne_ms": "4",
+        },
+    },
+    "P2_Vek1": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 1,
+            "urovne_ms": "3",
+        },
+    },
+    "P2_Vek6": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 6,
+            "urovne_ms": "3",
+        },
+    },
+    "P2_Vek7": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 7,
+            "urovne_ms": "2",
+        },
+    },
+    "P2_Vek15": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 15,
+            "urovne_ms": "2",
+        },
+    },
+    "P2_Vek16": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 16,
+            "urovne_ms": "1",
+        },
+    },
+    "P2_Vek18": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 18,
+            "urovne_ms": "1",
+        },
+    },
+    "P2_Vek19": {
+        "flags": [],
+        "values": {
+            **P2_UROVEN_MS_PRIPAD,
+            "vek": 19,
+            "ms": "S14-21",
+            "urovne_ms": "1",
         },
     },
 }
 ALL_TEST_CASES = {
     **PRIPADY,
+    **PRIPADY_P2_UROVEN_MS,
     **INVALID_PRIPADY,
     **EVALUATE_INCOMPLETE_PRIPADY_PRIPADY,
     **ALL_VYKONY_HLAVNE_PRIPADY,
