@@ -146,8 +146,14 @@ def compare_outputs(
         DataFrame containing only the rows where the outputs differ
 
     """
+    columns_to_compare = ["ms"]
+    has_urovne_ms = False
+    if "urovne_ms" in df_a.columns and "urovne_ms" in df_b.columns:
+        has_urovne_ms = True
+        columns_to_compare.append("urovne_ms")
+
     merged_df = df_a.merge(
-        df_b[["id", "ms"]],
+        df_b[["id", *columns_to_compare]],
         on="id",
         suffixes=(f"_{run_a_identifier}", f"_{run_b_identifier}"),
     )
@@ -162,7 +168,16 @@ def compare_outputs(
     merged_df[f"ms_{run_a_identifier}"] = merged_df[f"ms_{run_a_identifier}"].apply(split_ms)
     merged_df[f"ms_{run_b_identifier}"] = merged_df[f"ms_{run_b_identifier}"].apply(split_ms)
 
-    return merged_df.loc[merged_df[f"ms_{run_a_identifier}"] != merged_df[f"ms_{run_b_identifier}"]]
+    ms_diff_mask = merged_df[f"ms_{run_a_identifier}"] != merged_df[f"ms_{run_b_identifier}"]
+
+    if has_urovne_ms:
+        merged_df[f"urovne_ms_{run_a_identifier}"] = merged_df[f"urovne_ms_{run_a_identifier}"].str.split("@")
+        merged_df[f"urovne_ms_{run_b_identifier}"] = merged_df[f"urovne_ms_{run_b_identifier}"].str.split("@")
+
+        urovne_ms_diff_mask = merged_df[f"urovne_ms_{run_a_identifier}"] != merged_df[f"urovne_ms_{run_b_identifier}"]
+        return merged_df.loc[ms_diff_mask | urovne_ms_diff_mask]
+
+    return merged_df.loc[ms_diff_mask]
 
 
 def run_algoritmus(run_cfg: RunConfig) -> Path:
