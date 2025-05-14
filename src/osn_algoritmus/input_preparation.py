@@ -73,7 +73,7 @@ def validate_hmotnost(
 ) -> float | None:
     """Validate hmotnost of the hospitalizacny pripad.
 
-    Hmotnost must be non-zero if age is 0.
+    Hmotnost must be non-zero if vek is 0.
 
     Args:
         hmotnost_str: hmotnost of hospitalizacny pripad

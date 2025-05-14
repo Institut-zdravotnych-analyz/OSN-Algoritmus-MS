@@ -34,8 +34,8 @@ class HospitalizacnyPripad(NamedTuple):
         return self.vek <= 18
 
     @property
-    def age_category(self) -> str | None:
-        """Returns the age category of the hp."""
+    def vek_category(self) -> str | None:
+        """Returns the vek category of the hp."""
         if self.vek is None:
             return None
         if self.vek >= 19:
