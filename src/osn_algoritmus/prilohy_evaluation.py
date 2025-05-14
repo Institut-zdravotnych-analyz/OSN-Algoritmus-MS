@@ -765,7 +765,7 @@ def prirad_urovne_ms(hp: HospitalizacnyPripad, priradene_ms: list[str]) -> list[
     urovne_ms = []
     for ms in priradene_ms:
         uroven = urovne[ms].get(hp.vek_category)
-        if uroven is None and hp.vek_category is not None:
+        if uroven is None:
             logger.warning(
                 f"HP {hp.id} má priradenú medicínsku službu {ms}, pre ktorú nie je definovaná úroveň pre daný vek:"
                 f" {hp.vek}",
