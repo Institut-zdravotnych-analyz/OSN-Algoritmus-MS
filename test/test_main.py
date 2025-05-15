@@ -1250,6 +1250,25 @@ ALL_VYKONY_HLAVNE_PRIPADY = {
         "flags": ["-v"],
         "values": {**PRIPADY["P7"]["values"], "vykony": "XXX@8t130@34011"},
     },
+    # Check that we deduplicate the ms correctly, e.g. remove only urovne_ms for duplicated ms
+    "VVH_DuplicatedVykony": {
+        "flags": ["-v"],
+        "values": {
+            "id": "X",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": pd.NA,
+            "vykony": "8t130@8t130@5a50h61@34011",
+            "markery": pd.NA,
+            "drg": pd.NA,
+            "druh_prijatia": pd.NA,
+            # 8t130 is duplicated, so S63-42 would be twice here without deduplication
+            "ms": "S63-42@S03-65",
+            # 3@3 is twice here, since each corresponds to deduplicated medicinske sluzby
+            "urovne_ms": "3@3",
+        },
+    },
     "VVH_P8": {
         "flags": ["-v"],
         "values": {**PRIPADY["P8"]["values"], "vykony": "XXX@8m3050@13n094"},
@@ -1408,6 +1427,7 @@ PRIPADY_P2_UROVEN_MS = {
         },
     },
 }
+
 ALL_TEST_CASES = {
     **PRIPADY,
     **PRIPADY_P2_UROVEN_MS,

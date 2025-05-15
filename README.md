@@ -8,8 +8,9 @@
 V prípade, že identifikujete chyby v rámci kódu, prosím zaznamenajte ich na GitHub cez Issues, navrhnite priamo cez Pull Request zmenu, alebo nám napíšte email na sietnemocnic@health.gov.sk.
 
 ## Changelog
-- **v2025.2** (*1.7.2025*): 
+- **2025-07** (*1.7.2025*): 
    - Implementácia novelizácie vyhlášky 531/2023 účinnej od 1.7.2025
+   - Zmena systému verzovania na `<ROK>-<MESIAC>` vydania implementovanej vyhlášky
    - Pridané vstupné stĺpce `markery` a `druh_prijatia`
    - Pridaný výstupný stĺpec `urovne_ms`
    - Výroba balíčka `osn_algoritmus`

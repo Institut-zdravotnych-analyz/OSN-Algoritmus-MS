@@ -44,8 +44,17 @@ def process_hp_dict(
     urovne_ms = prirad_urovne_ms(hp, medicinske_sluzby)
 
     if not allow_duplicates:
-        # deduplicate medicinske sluzby, keep order
-        medicinske_sluzby = list(dict.fromkeys(medicinske_sluzby))
+        # deduplicate medicinske sluzby and corresponding urovne, keep order
+        seen_ms = set()
+        deduplicated_ms = []
+        deduplicated_urovne = []
+        for ms, uroven in zip(medicinske_sluzby, urovne_ms, strict=True):
+            if ms not in seen_ms:
+                seen_ms.add(ms)
+                deduplicated_ms.append(ms)
+                deduplicated_urovne.append(uroven)
+        medicinske_sluzby = deduplicated_ms
+        urovne_ms = deduplicated_urovne
 
     ms_str = "@".join(medicinske_sluzby)
     urovne_ms_str = "@".join(str(uroven or "<NA>") for uroven in urovne_ms)

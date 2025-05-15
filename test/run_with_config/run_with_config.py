@@ -129,34 +129,60 @@ def run_algoritmus_from_local(run_cfg: RunConfig) -> Path:
 
 
 def compare_outputs(
-    df_a: pd.DataFrame,
-    df_b: pd.DataFrame,
-    run_a_identifier: str,
-    run_b_identifier: str,
+    output_a: pd.DataFrame,
+    output_b: pd.DataFrame,
+    run_a_id: str,
+    run_b_id: str,
 ) -> pd.DataFrame:
     """Compare outputs from two different runs of the algoritmus.
 
     Args:
-        df_a: DataFrame from run A
-        df_b: DataFrame from run B
-        run_a_identifier: Identifier for run A
-        run_b_identifier: Identifier for run B
+        output_a: Output from run A
+        output_b: Output from run B
+        run_a_id: Identifier for run A
+        run_b_id: Identifier for run B
 
     Returns:
         DataFrame containing only the rows where the outputs differ
 
     """
     columns_to_compare = ["ms"]
-    has_urovne_ms = False
-    if "urovne_ms" in df_a.columns and "urovne_ms" in df_b.columns:
-        has_urovne_ms = True
+    if both_urovne_ms := "urovne_ms" in output_a.columns and "urovne_ms" in output_b.columns:
         columns_to_compare.append("urovne_ms")
 
-    merged_df = df_a.merge(
-        df_b[["id", *columns_to_compare]],
+    merged_outputs = output_a.merge(
+        output_b[["id", *columns_to_compare]],
         on="id",
-        suffixes=(f"_{run_a_identifier}", f"_{run_b_identifier}"),
+        suffixes=(f"_{run_a_id}", f"_{run_b_id}"),
     )
+
+    diff_mask = merged_outputs[f"ms_{run_a_id}"] != merged_outputs[f"ms_{run_b_id}"]
+    if both_urovne_ms:
+        diff_mask |= merged_outputs[f"urovne_ms_{run_a_id}"] != merged_outputs[f"urovne_ms_{run_b_id}"]
+
+    return merged_outputs.loc[diff_mask]
+
+
+def run_algoritmus(run_cfg: RunConfig) -> Path:
+    """Run algoritmus based on the configuration."""
+    if run_cfg.source == "local":
+        return run_algoritmus_from_local(run_cfg)
+    return run_algoritmus_from_ref(run_cfg)
+
+
+def load_algoritmus_output(output_path: Path | str, csv_delimiter: str) -> pd.DataFrame:
+    """Load the algoritmus output.
+
+    Args:
+        output_path: The path to the algoritmus output.
+        csv_delimiter: The delimiter of the algoritmus output.
+
+    Returns:
+        The algoritmus output with the ms and urovne_ms columns as lists.
+
+    """
+    # Because we want to be able to compare <NA> values in urovne_ms, we treat them as regular values
+    output = pd.read_csv(output_path, sep=csv_delimiter, na_values=[], dtype={"urovne_ms": str})
 
     def split_ms(ms: str) -> list[str]:
         # We try both @ and ~ as delimiters, because the output format is not consistent
@@ -165,26 +191,12 @@ def compare_outputs(
             return ms.split("~")
         return split_at_sign_result
 
-    merged_df[f"ms_{run_a_identifier}"] = merged_df[f"ms_{run_a_identifier}"].apply(split_ms)
-    merged_df[f"ms_{run_b_identifier}"] = merged_df[f"ms_{run_b_identifier}"].apply(split_ms)
+    output["ms"] = output["ms"].apply(split_ms)
 
-    ms_diff_mask = merged_df[f"ms_{run_a_identifier}"] != merged_df[f"ms_{run_b_identifier}"]
+    if "urovne_ms" in output.columns:
+        output["urovne_ms"] = output["urovne_ms"].str.split("@")
+    return output
 
-    if has_urovne_ms:
-        merged_df[f"urovne_ms_{run_a_identifier}"] = merged_df[f"urovne_ms_{run_a_identifier}"].str.split("@")
-        merged_df[f"urovne_ms_{run_b_identifier}"] = merged_df[f"urovne_ms_{run_b_identifier}"].str.split("@")
-
-        urovne_ms_diff_mask = merged_df[f"urovne_ms_{run_a_identifier}"] != merged_df[f"urovne_ms_{run_b_identifier}"]
-        return merged_df.loc[ms_diff_mask | urovne_ms_diff_mask]
-
-    return merged_df.loc[ms_diff_mask]
-
-
-def run_algoritmus(run_cfg: RunConfig) -> Path:
-    """Run algoritmus based on the configuration."""
-    if run_cfg.source == "local":
-        return run_algoritmus_from_local(run_cfg)
-    return run_algoritmus_from_ref(run_cfg)
 
 
 def run_and_compare(
@@ -213,11 +225,11 @@ def run_and_compare(
     created_files = set()
     try:
         output_a_path = run_algoritmus(run_a_cfg)
-        df_a = pd.read_csv(output_a_path, sep=run_a_cfg.csv_delimiter)
+        df_a = load_algoritmus_output(output_a_path, run_a_cfg.csv_delimiter)
         created_files.add(output_a_path)
 
         output_b_path = run_algoritmus(run_b_cfg)
-        df_b = pd.read_csv(output_b_path, sep=run_b_cfg.csv_delimiter)
+        df_b = load_algoritmus_output(output_b_path, run_b_cfg.csv_delimiter)
         created_files.add(output_b_path)
 
         differences = compare_outputs(df_a, df_b, run_a_cfg.identifier, run_b_cfg.identifier)
