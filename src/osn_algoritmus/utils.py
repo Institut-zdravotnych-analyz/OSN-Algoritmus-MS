@@ -179,12 +179,5 @@ def get_number_of_lines(file_path: Path) -> int:
 
 def deduplicate_ms(medicinske_sluzby: list[str], urovne_ms: list[int | None]) -> tuple[list[str], list[int | None]]:
     """Deduplicate medicinske sluzby and corresponding urovne, keeping order."""
-    seen_ms = set()
-    deduplicated_ms = []
-    deduplicated_urovne = []
-    for ms, uroven in zip(medicinske_sluzby, urovne_ms, strict=True):
-        if ms not in seen_ms:
-            seen_ms.add(ms)
-            deduplicated_ms.append(ms)
-            deduplicated_urovne.append(uroven)
-    return deduplicated_ms, deduplicated_urovne
+    unique_pairs = dict(zip(medicinske_sluzby, urovne_ms, strict=True))
+    return list(unique_pairs.keys()), list(unique_pairs.values())
