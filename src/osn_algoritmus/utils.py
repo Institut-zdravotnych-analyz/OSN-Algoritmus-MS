@@ -176,3 +176,15 @@ def get_number_of_lines(file_path: Path) -> int:
     """Get the number of lines in a file."""
     with file_path.open("r") as f:
         return sum(1 for _ in f)
+
+def deduplicate_ms(medicinske_sluzby: list[str], urovne_ms: list[int | None]) -> tuple[list[str], list[int | None]]:
+    """Deduplicate medicinske sluzby and corresponding urovne, keeping order."""
+    seen_ms = set()
+    deduplicated_ms = []
+    deduplicated_urovne = []
+    for ms, uroven in zip(medicinske_sluzby, urovne_ms, strict=True):
+        if ms not in seen_ms:
+            seen_ms.add(ms)
+            deduplicated_ms.append(ms)
+            deduplicated_urovne.append(uroven)
+    return deduplicated_ms, deduplicated_urovne

@@ -9,7 +9,7 @@ from tqdm.contrib.logging import logging_redirect_tqdm
 
 from osn_algoritmus.input_preparation import check_csv_columns, create_hp_from_dict, yield_csv_rows
 from osn_algoritmus.prilohy_evaluation import prirad_ms, prirad_urovne_ms
-from osn_algoritmus.utils import CSV_DELIMITER, INPUT_COLUMNS, get_number_of_lines
+from osn_algoritmus.utils import CSV_DELIMITER, INPUT_COLUMNS, deduplicate_ms, get_number_of_lines
 
 logger = logging.getLogger(__name__)
 
@@ -44,17 +44,7 @@ def process_hp_dict(
     urovne_ms = prirad_urovne_ms(hp, medicinske_sluzby)
 
     if not allow_duplicates:
-        # deduplicate medicinske sluzby and corresponding urovne, keep order
-        seen_ms = set()
-        deduplicated_ms = []
-        deduplicated_urovne = []
-        for ms, uroven in zip(medicinske_sluzby, urovne_ms, strict=True):
-            if ms not in seen_ms:
-                seen_ms.add(ms)
-                deduplicated_ms.append(ms)
-                deduplicated_urovne.append(uroven)
-        medicinske_sluzby = deduplicated_ms
-        urovne_ms = deduplicated_urovne
+        medicinske_sluzby, urovne_ms = deduplicate_ms(medicinske_sluzby, urovne_ms)
 
     ms_str = "@".join(medicinske_sluzby)
     urovne_ms_str = "@".join(str(uroven or "<NA>") for uroven in urovne_ms)
