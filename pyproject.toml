@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "osn_algoritmus"
-version = "v2025.2"
+version = "2025-07"
 description = "Informatívny algoritmus na zaraďovanie hospitalizačných prípadov k medicínskym službám podľa kategorizačnej vyhlášky"
 readme = "README.md"
 requires-python = ">=3.11"
