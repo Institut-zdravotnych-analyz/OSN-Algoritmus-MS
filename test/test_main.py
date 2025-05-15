@@ -1230,7 +1230,7 @@ INVALID_PRIPADY = {
 
 P17_PRIPAD = PRIPADY["P17"]["values"]
 EVALUATE_INCOMPLETE_PRIPADY_PRIPADY = {
-    "VNP_NoID": {"flags": ["-n"], "values": {**P17_PRIPAD, "id": pd.NA, "urovne_ms": "1"}},
+    "VNP_NoID": {"flags": ["-n"], "values": {**P17_PRIPAD, "id": pd.NA}},
     "VNP_NoVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": pd.NA, "urovne_ms": pd.NA}},
     "VNP_FloatVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": 10.5, "urovne_ms": pd.NA}},
     "VNP_NegativeVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": -1, "urovne_ms": pd.NA}},
