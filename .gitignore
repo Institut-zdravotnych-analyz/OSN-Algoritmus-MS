@@ -1,3 +1,6 @@
 __pycache__/
 *_output.csv
 .vscode
+.DS_Store
+uv.lock
+venv/
