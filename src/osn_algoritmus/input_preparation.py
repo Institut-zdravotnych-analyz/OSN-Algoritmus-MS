@@ -121,12 +121,19 @@ def validate_upv(upv_str: str, id_hp: str, *, err_if_incorrect: bool) -> int | N
     return int(upv_str)
 
 
-def validate_druh_prijatia(druh_prijatia_str: str, id_hp: str, *, err_if_incorrect: bool) -> int | None:
+def validate_druh_prijatia(
+    druh_prijatia_str: str,
+    id_hp: str,
+    drg: str | None,
+    *,
+    err_if_incorrect: bool,
+) -> int | None:
     """Validate druh prijatia of hospitalizacny pripad.
 
     Args:
         druh_prijatia_str: Druh prijatia of hospitalizacny pripad
         id_hp: ID of hospitalizacny pripad
+        drg: DRG group of hospitalizacny pripad
         err_if_incorrect: Flag indicating whether an incorrect druh prijatia is a problem.
 
     Returns:
@@ -134,8 +141,9 @@ def validate_druh_prijatia(druh_prijatia_str: str, id_hp: str, *, err_if_incorre
 
     """
     if not druh_prijatia_str.isdigit():
-        msg = f"HP {id_hp} nemá správne vyplnený druh prijatia: {druh_prijatia_str!r}."
-        log_error_or_warning(logger, msg, error=err_if_incorrect)
+        if drg is not None:
+            msg = f"HP {id_hp} nemá správne vyplnený druh prijatia: {druh_prijatia_str!r}."
+            log_error_or_warning(logger, msg, error=err_if_incorrect)
         return None
 
     druh_prijatia = int(druh_prijatia_str)
@@ -235,11 +243,11 @@ def create_hp_from_dict(hp_dict: dict, *, eval_incomplete: bool) -> Hospitalizac
     vek = validate_vek(hp_dict["vek"], id_hp, err_if_incorrect=not eval_incomplete)
     hmotnost = validate_hmotnost(hp_dict["hmotnost"], vek, id_hp, err_if_incorrect=not eval_incomplete)
     upv = validate_upv(hp_dict["umela_plucna_ventilacia"], id_hp, err_if_incorrect=not eval_incomplete)
-    druh_prijatia = validate_druh_prijatia(hp_dict["druh_prijatia"], id_hp, err_if_incorrect=not eval_incomplete)
+    drg = standardize_code(hp_dict["drg"]) if hp_dict["drg"] else None
+    druh_prijatia = validate_druh_prijatia(hp_dict["druh_prijatia"], id_hp, drg, err_if_incorrect=not eval_incomplete)
     vykony_val = validate_vykony(hp_dict["vykony"], id_hp, err_if_incorrect=not eval_incomplete)
     markery_val = validate_markery(hp_dict["markery"], id_hp, err_if_incorrect=not eval_incomplete)
     diagnozy_val = validate_diagnozy(hp_dict["diagnozy"], id_hp, err_if_incorrect=not eval_incomplete)
-    drg = standardize_code(hp_dict["drg"]) if hp_dict["drg"] else None
 
     if not eval_incomplete:
         validation_failed = (

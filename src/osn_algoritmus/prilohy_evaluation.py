@@ -14,6 +14,7 @@ logger = logging.getLogger(__name__)
 tables = prepare_tables()
 urovne = get_urovne(tables["p2_zoznam_ms"])
 
+
 def s_viacerymi_tazkymi_problemami(hp: HospitalizacnyPripad) -> bool:
     """Evaluate globálna funkcia "Viaceré ťažké problémy u novorodencov" v klasifikačnom systéme for hp.
 
@@ -766,7 +767,7 @@ def prirad_urovne_ms(hp: HospitalizacnyPripad, priradene_ms: list[str]) -> list[
     for ms in priradene_ms:
         uroven = urovne[ms].get(hp.vek_category)
         if uroven is None:
-            logger.warning(
+            logger.debug(
                 f"HP {hp.id} má priradenú medicínsku službu {ms}, pre ktorú nie je definovaná úroveň pre daný vek:"
                 f" {hp.vek}",
             )
