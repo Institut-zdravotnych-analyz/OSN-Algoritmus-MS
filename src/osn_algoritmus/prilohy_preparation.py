@@ -130,4 +130,5 @@ def get_urovne(p2_table: list[dict[str, str]]) -> dict[str, dict[str, int | None
             "dospeli": int_or_none(row["uroven_ms_dospeli"]),
         }
         for row in p2_table
+        if row["zdielana_ms"] == "False"
     }
