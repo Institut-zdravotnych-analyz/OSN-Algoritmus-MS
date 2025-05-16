@@ -9,7 +9,13 @@ from tqdm.contrib.logging import logging_redirect_tqdm
 
 from osn_algoritmus.input_preparation import check_csv_columns, create_hp_from_dict, yield_csv_rows
 from osn_algoritmus.prilohy_evaluation import prirad_ms, prirad_urovne_ms
-from osn_algoritmus.utils import CSV_DELIMITER, INPUT_COLUMNS, deduplicate_ms, get_number_of_lines
+from osn_algoritmus.utils import (
+    CSV_DELIMITER,
+    INPUT_COLUMNS,
+    deduplicate_ms,
+    get_number_of_lines,
+    remove_ms_with_undefined_uroven,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -46,8 +52,10 @@ def process_hp_dict(
     if not allow_duplicates:
         medicinske_sluzby, urovne_ms = deduplicate_ms(medicinske_sluzby, urovne_ms)
 
-    ms_str = "@".join(medicinske_sluzby)
-    urovne_ms_str = "@".join(str(uroven or "<NA>") for uroven in urovne_ms)
+    valid_ms, valid_urovne_ms = remove_ms_with_undefined_uroven(medicinske_sluzby, urovne_ms)
+
+    ms_str = "@".join(valid_ms)
+    urovne_ms_str = "@".join(str(uroven) for uroven in valid_urovne_ms)
 
     return ms_str, urovne_ms_str
 

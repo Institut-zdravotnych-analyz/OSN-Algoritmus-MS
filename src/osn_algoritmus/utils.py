@@ -172,12 +172,32 @@ def setup_parser(
         )
     return parser
 
+
 def get_number_of_lines(file_path: Path) -> int:
     """Get the number of lines in a file."""
     with file_path.open("r") as f:
         return sum(1 for _ in f)
 
+
 def deduplicate_ms(medicinske_sluzby: list[str], urovne_ms: list[int | None]) -> tuple[list[str], list[int | None]]:
     """Deduplicate medicinske sluzby and corresponding urovne, keeping order."""
     unique_pairs = dict(zip(medicinske_sluzby, urovne_ms, strict=True))
     return list(unique_pairs.keys()), list(unique_pairs.values())
+
+
+def remove_ms_with_undefined_uroven(
+    medicinske_sluzby: list[str],
+    urovne_ms: list[int | None],
+) -> tuple[list[str], list[int]]:
+    """Remove medicinske sluzby where uroven is None."""
+    valid_ms = []
+    valid_urovne = []
+    for ms, uroven in zip(medicinske_sluzby, urovne_ms, strict=True):
+        if uroven is not None:
+            valid_ms.append(ms)
+            valid_urovne.append(uroven)
+
+    if not valid_ms:
+        return ["S99-99"], [1]
+
+    return valid_ms, valid_urovne

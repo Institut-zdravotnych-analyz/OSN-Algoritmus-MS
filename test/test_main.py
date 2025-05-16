@@ -1231,10 +1231,6 @@ INVALID_PRIPADY = {
 P17_PRIPAD = PRIPADY["P17"]["values"]
 EVALUATE_INCOMPLETE_PRIPADY_PRIPADY = {
     "VNP_NoID": {"flags": ["-n"], "values": {**P17_PRIPAD, "id": pd.NA}},
-    "VNP_NoVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": pd.NA, "urovne_ms": pd.NA}},
-    "VNP_FloatVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": 10.5, "urovne_ms": pd.NA}},
-    "VNP_NegativeVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": -1, "urovne_ms": pd.NA}},
-    "VNP_StringVek": {"flags": ["-n"], "values": {**P17_PRIPAD, "vek": "abc", "urovne_ms": pd.NA}},
     "VNP_ZeroHmotnostNovorodenec": {"flags": ["-n"], "values": {**P5_PRIPAD, "hmotnost": 0}},
     "VNP_NoHmotnostNovorodenec": {"flags": ["-n"], "values": {**P5_PRIPAD, "hmotnost": pd.NA}},
     "VNP_StringHmotnost": {"flags": ["-n"], "values": {**P17_PRIPAD, "hmotnost": "abc"}},
@@ -1428,6 +1424,26 @@ PRIPADY_P2_UROVEN_MS = {
     },
 }
 
+UNDEFINED_UROVEN_MS_PRIPADY = {
+    # Based on priloha 12, the vykon 330113 is assigned to S68-23, which has undefined uroven for vek 7
+    "UNDEFINED_UROVEN_MS_P12": {
+        "flags": [],
+        "values": {
+            "id": "X",
+            "vek": 7,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": pd.NA,
+            "vykony": "330113",
+            "markery": pd.NA,
+            "drg": pd.NA,
+            "druh_prijatia": pd.NA,
+            "ms": "S99-99",
+            "urovne_ms": "1",
+        },
+    },
+}
+
 ALL_TEST_CASES = {
     **PRIPADY,
     **PRIPADY_P2_UROVEN_MS,
@@ -1435,6 +1451,7 @@ ALL_TEST_CASES = {
     **EVALUATE_INCOMPLETE_PRIPADY_PRIPADY,
     **ALL_VYKONY_HLAVNE_PRIPADY,
     **ALL_VYKONY_HLAVNE_ALLOW_DUPLICATES_PRIPADY,
+    **UNDEFINED_UROVEN_MS_PRIPADY,
 }
 
 
