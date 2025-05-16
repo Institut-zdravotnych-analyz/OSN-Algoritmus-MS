@@ -1237,7 +1237,22 @@ EVALUATE_INCOMPLETE_PRIPADY_PRIPADY = {
     "VNP_NegativeUPV": {"flags": ["-n"], "values": {**P17_PRIPAD, "umela_plucna_ventilacia": -1}},
     "VNP_LargeUPV": {"flags": ["-n"], "values": {**P17_PRIPAD, "umela_plucna_ventilacia": 10001}},
     "VNP_StringUPV": {"flags": ["-n"], "values": {**P17_PRIPAD, "umela_plucna_ventilacia": "abc"}},
-    "VNP_EmptyDiagnozy": {"flags": ["-n"], "values": {**P17_PRIPAD, "diagnozy": pd.NA}},
+    "VNP_DruhPrijatia": {
+        "flags": ["-n"],
+        "values": {
+            "id": "X",
+            "vek": 10,
+            "hmotnost": 0,
+            "umela_plucna_ventilacia": 0,
+            "diagnozy": "XXX@S060",
+            "vykony": pd.NA,
+            "markery": pd.NA,
+            "drg": "W",
+            "druh_prijatia": pd.NA,
+            "ms": "S52-01",
+            "urovne_ms": "3",
+        },
+    },
 }
 
 ALL_VYKONY_HLAVNE_PRIPADY = {
